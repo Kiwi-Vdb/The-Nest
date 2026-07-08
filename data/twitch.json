@@ -1,0 +1,16 @@
+{
+  "status": "offline",
+  "viewers": 0,
+  "currentGame": "BAR Lobby",
+  "currentPrediction": "No active prediction",
+  "clips": [
+    {
+      "title": "Latest clip will appear here",
+      "url": "#"
+    },
+    {
+      "title": "Community clip placeholder",
+      "url": "#"
+    }
+  ]
+}

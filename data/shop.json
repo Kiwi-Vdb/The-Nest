@@ -1,0 +1,22 @@
+{
+  "currency": "Shinies",
+  "items": [
+    {
+      "name": "Cosmetic Unlock",
+      "price": 250,
+      "type": "Reward"
+    },
+    {
+      "name": "Sound Trigger",
+      "price": 500,
+      "type": "Stream"
+    },
+    {
+      "name": "Profile Badge",
+      "price": 750,
+      "type": "Profile"
+    }
+  ],
+  "buyShiniesUrl": "#",
+  "donateUrl": "#"
+}

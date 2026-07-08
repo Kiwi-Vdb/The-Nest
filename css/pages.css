@@ -1,0 +1,64 @@
+/* Page-specific composition */
+
+.welcome-panel {
+  min-height: 560px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.welcome-panel .hero-scene {
+  margin-bottom: 24px;
+}
+
+.hub-card {
+  min-height: 380px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.hub-card .panel-title {
+  font-size: clamp(1.5rem, 2.3vw, 2.5rem);
+}
+
+.data-list {
+  display: grid;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.data-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  border-top: 1px solid rgba(184,135,70,.16);
+  padding-top: 12px;
+  color: var(--muted);
+}
+
+.data-row strong { color: var(--cream); }
+
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.shop-item {
+  border: 1px solid rgba(184,135,70,.2);
+  border-radius: 14px;
+  background: rgba(15,13,11,.52);
+  padding: 16px;
+}
+
+.shop-item strong {
+  display: block;
+  color: var(--cream);
+  margin-bottom: 8px;
+}
+
+.shop-price {
+  color: var(--bronze-soft);
+}
