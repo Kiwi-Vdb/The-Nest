@@ -12,9 +12,38 @@
 
     <!-- The artwork contains all visible labels and decorative buttons.
          These three anchors are invisible click zones only. -->
-    <a class="hotspot hotspot-watch" href="twitch.html" aria-label="Watch on Twitch"></a>
-    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Join Discord"></a>
-    <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub"></a>
+    <a class="hotspot hotspot-watch" href="twitch.html" aria-label="Watch on Twitch" data-label="WATCH"></a>
+    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Join Discord" data-label="DISCORD"></a>
+    <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub" data-label="ENTER HUB"></a>
+
+    <div class="dev-mode-panel" aria-hidden="true">
+      <strong>Developer Mode</strong>
+      <span>F8 = toggle hotspot outlines</span>
+      <span>Edit <code>css/welcome.css</code> → .hotspot-watch / .hotspot-discord / .hotspot-hub</span>
+    </div>
   </main>
+
+  <script>
+    (() => {
+      const params = new URLSearchParams(window.location.search);
+      const stored = localStorage.getItem('nestDevMode') === 'true';
+      const fromUrl = params.get('debug');
+      const enabled = fromUrl === 'true' || (fromUrl !== 'false' && stored);
+
+      function setDevMode(value) {
+        document.body.classList.toggle('dev-mode', value);
+        localStorage.setItem('nestDevMode', String(value));
+      }
+
+      setDevMode(enabled);
+
+      window.addEventListener('keydown', (event) => {
+        if (event.key === 'F8') {
+          event.preventDefault();
+          setDevMode(!document.body.classList.contains('dev-mode'));
+        }
+      });
+    })();
+  </script>
 </body>
 </html>

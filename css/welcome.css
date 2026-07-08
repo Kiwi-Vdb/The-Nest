@@ -108,3 +108,73 @@ body {
     width: 100vw;
   }
 }
+
+
+/* ------------------------------------------------------------------
+   Developer Mode
+   ------------------------------------------------------------------
+   Press F8 while viewing the page locally to show/hide hotspot boxes.
+   You can also open index.html with ?debug=true to force it on.
+
+   Move hotspots by adjusting these existing values above:
+   .hotspot-watch    { left / top / width / height }
+   .hotspot-discord  { left / top / width / height }
+   .hotspot-hub      { left / top / width / height }
+------------------------------------------------------------------ */
+
+.dev-mode-panel {
+  position: absolute;
+  left: 1.4%;
+  top: 1.4%;
+  z-index: 20;
+  display: none;
+  max-width: 460px;
+  padding: 10px 12px;
+  border: 1px solid rgba(210, 161, 95, .72);
+  border-radius: 10px;
+  background: rgba(5, 4, 3, .82);
+  color: #f4e4c4;
+  font: 12px/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  box-shadow: 0 0 18px rgba(141, 85, 255, .28);
+  pointer-events: none;
+}
+
+.dev-mode-panel strong,
+.dev-mode-panel span {
+  display: block;
+}
+
+.dev-mode-panel code {
+  color: #d2a15f;
+}
+
+body.dev-mode .dev-mode-panel {
+  display: block;
+}
+
+body.dev-mode .hotspot {
+  z-index: 15;
+  background: rgba(141, 85, 255, .18);
+  border: 2px dashed rgba(210, 161, 95, .95);
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, .7),
+    0 0 22px rgba(141, 85, 255, .5),
+    inset 0 0 18px rgba(210, 161, 95, .14);
+}
+
+body.dev-mode .hotspot::before {
+  content: attr(data-label);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 4px 8px;
+  border: 1px solid rgba(210, 161, 95, .85);
+  border-radius: 999px;
+  background: rgba(5, 4, 3, .82);
+  color: #f4e4c4;
+  font: 700 11px/1 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: .08em;
+  white-space: nowrap;
+  pointer-events: none;
+}
