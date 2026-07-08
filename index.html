@@ -10,69 +10,11 @@
   <main class="welcome-page" aria-label="The Nest welcome page">
     <img class="welcome-bg" src="./assets/backgrounds/welcome-bg.png" alt="The Nest welcome interface">
 
-    <!-- Center welcome panel -->
-    <section class="welcome-copy">
-      <p class="eyebrow">Welcome to</p>
-      <h1>The Nest</h1>
-      <p class="tagline">You've found your way home.</p>
-      <p class="intro">
-        The Nest is where our community gathers after every adventure.
-        Take a seat, relax, catch up with friends, and step inside when you're ready.
-      </p>
-    </section>
-
-    <!-- Left Twitch panel -->
-    <section class="twitch-card">
-      <p class="panel-label">Twitch Status</p>
-      <div class="icon-mark twitch-mark">◧</div>
-      <h2>KiwiBirbTV</h2>
-      <p class="live-line"><span></span> is LIVE</p>
-
-      <div class="stat-row">
-        <strong>1,256</strong>
-        <small>Viewers</small>
-      </div>
-
-      <p class="stream-title">Shiny Hunting<br>Adventures &amp;<br>Community Night!</p>
-
-      <a class="plate-button" href="twitch.html">Watch Stream <b>›</b></a>
-    </section>
-
-    <!-- Right Discord panel -->
-    <section class="discord-card">
-      <p class="panel-label">Discord</p>
-      <div class="icon-mark discord-mark">☁</div>
-      <h2>Join the flock.</h2>
-      <p>Share screenshots.</p>
-      <p>Chat.</p>
-      <p>Vote.</p>
-      <p>Celebrate together.</p>
-
-      <a class="plate-button" href="discord.html">Join Discord <b>›</b></a>
-    </section>
-
-    <!-- Bottom left flavour panel -->
-    <section class="home-note">
-      <p>This is your home.</p>
-      <p>Your adventures.</p>
-      <p>Your community.</p>
-      <p>Your Nest.</p>
-    </section>
-
-    <!-- Bottom center Enter HUB -->
-    <section class="enter-hub">
-      <p>Step deeper into The Nest</p>
-      <a class="hub-button" href="hub.html">Enter the HUB <b>›</b></a>
-    </section>
-
-    <!-- Bottom right mini nav -->
-    <nav class="quick-links" aria-label="Quick links">
-      <a href="hub.html">Adventures</a>
-      <a href="twitch.html">Predictions</a>
-      <a href="community.html">Factions</a>
-      <a href="community.html">Leaderboards</a>
-      <a href="shop.html">Shop</a>
-    </nav>
+    <!-- The artwork contains all visible labels and decorative buttons.
+         These three anchors are invisible click zones only. -->
+    <a class="hotspot hotspot-watch" href="twitch.html" aria-label="Watch on Twitch"></a>
+    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Join Discord"></a>
+    <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub"></a>
   </main>
 </body>
 </html>
