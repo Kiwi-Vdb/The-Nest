@@ -1,0 +1,362 @@
+:root {
+  --cream: #efe2ca;
+  --muted: #b7a487;
+  --bronze: #d2a15f;
+  --purple: #8d55ff;
+  --green: #48d45d;
+  --shadow: rgba(0, 0, 0, .72);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: #050403;
+  color: var(--cream);
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.welcome-page {
+  position: relative;
+  width: min(100vw, 177.78vh);
+  aspect-ratio: 16 / 9;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #050403;
+}
+
+.welcome-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  user-select: none;
+  pointer-events: none;
+}
+
+/* Shared text treatment */
+h1,
+h2,
+.eyebrow,
+.panel-label,
+.hub-button,
+.plate-button {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: .08em;
+  font-weight: 500;
+}
+
+p {
+  margin: 0;
+  line-height: 1.45;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Center text sits over the empty central background plate */
+.welcome-copy {
+  position: absolute;
+  left: 33.6%;
+  top: 18.4%;
+  width: 33%;
+  text-align: center;
+  text-shadow: 0 3px 12px var(--shadow);
+}
+
+.welcome-copy .eyebrow {
+  text-transform: uppercase;
+  color: var(--bronze);
+  font-size: clamp(.55rem, 1vw, 1rem);
+  letter-spacing: .28em;
+  margin-bottom: .45em;
+}
+
+.welcome-copy h1 {
+  text-transform: uppercase;
+  font-size: clamp(2rem, 4.15vw, 4.7rem);
+  line-height: .95;
+  margin: 0 0 .36em;
+}
+
+.welcome-copy .tagline {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(.9rem, 1.35vw, 1.55rem);
+  color: var(--cream);
+  margin-bottom: .95em;
+}
+
+.welcome-copy .intro {
+  color: rgba(239, 226, 202, .86);
+  font-size: clamp(.64rem, .92vw, 1.05rem);
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+/* Left panel */
+.twitch-card {
+  position: absolute;
+  left: 5.9%;
+  top: 16.4%;
+  width: 13.7%;
+  height: 49.5%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2.2%;
+  text-shadow: 0 3px 9px var(--shadow);
+}
+
+.panel-label {
+  color: var(--bronze);
+  text-transform: uppercase;
+  font-size: clamp(.5rem, .78vw, .86rem);
+  letter-spacing: .18em;
+}
+
+.icon-mark {
+  margin-top: 11%;
+  display: grid;
+  place-items: center;
+  width: clamp(42px, 5vw, 82px);
+  height: clamp(42px, 5vw, 82px);
+  color: var(--purple);
+  font-size: clamp(1.7rem, 3.3vw, 3.8rem);
+  filter: drop-shadow(0 0 8px rgba(141, 85, 255, .65));
+}
+
+.twitch-card h2 {
+  margin: 8% 0 4%;
+  font-size: clamp(.95rem, 1.42vw, 1.65rem);
+}
+
+.live-line {
+  color: var(--green);
+  font-size: clamp(.58rem, .9vw, 1rem);
+}
+
+.live-line span {
+  display: inline-block;
+  width: .68em;
+  height: .68em;
+  border-radius: 50%;
+  background: var(--green);
+  box-shadow: 0 0 10px rgba(72, 212, 93, .75);
+  margin-right: .35em;
+}
+
+.stat-row {
+  margin-top: 14%;
+  display: grid;
+  gap: .1em;
+  color: var(--cream);
+}
+
+.stat-row strong {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(.92rem, 1.35vw, 1.55rem);
+  font-weight: 500;
+}
+
+.stat-row small,
+.stream-title {
+  color: var(--muted);
+  font-size: clamp(.55rem, .82vw, .95rem);
+}
+
+.stream-title {
+  margin-top: 11%;
+}
+
+/* Right panel */
+.discord-card {
+  position: absolute;
+  right: 6.5%;
+  top: 16.4%;
+  width: 13.3%;
+  height: 49.5%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 2.2%;
+  text-shadow: 0 3px 9px var(--shadow);
+}
+
+.discord-card .icon-mark {
+  color: #819bff;
+}
+
+.discord-card h2 {
+  margin: 14% 0 12%;
+  font-size: clamp(.9rem, 1.32vw, 1.5rem);
+}
+
+.discord-card p:not(.panel-label) {
+  color: var(--muted);
+  font-size: clamp(.55rem, .78vw, .9rem);
+  margin-bottom: 8%;
+}
+
+/* Buttons */
+.plate-button {
+  margin-top: auto;
+  margin-bottom: 13%;
+  width: 78%;
+  min-height: 8%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .8em;
+  color: var(--cream);
+  text-transform: uppercase;
+  font-size: clamp(.48rem, .68vw, .8rem);
+  letter-spacing: .12em;
+  border: 1px solid rgba(210, 161, 95, .45);
+  background: rgba(8, 7, 6, .5);
+  box-shadow: 0 8px 18px rgba(0,0,0,.35);
+}
+
+.plate-button:hover,
+.hub-button:hover {
+  border-color: rgba(210, 161, 95, .85);
+  color: #fff4df;
+}
+
+/* Bottom panels */
+.home-note {
+  position: absolute;
+  left: 13.5%;
+  bottom: 15.8%;
+  width: 14.5%;
+  color: var(--muted);
+  font-size: clamp(.56rem, .83vw, .95rem);
+  text-shadow: 0 3px 9px var(--shadow);
+}
+
+.home-note p {
+  margin-bottom: .5em;
+}
+
+.enter-hub {
+  position: absolute;
+  left: 36.4%;
+  bottom: 11.5%;
+  width: 26.8%;
+  text-align: center;
+  text-shadow: 0 3px 9px var(--shadow);
+}
+
+.enter-hub p {
+  color: var(--bronze);
+  text-transform: uppercase;
+  letter-spacing: .22em;
+  font-size: clamp(.48rem, .72vw, .82rem);
+  margin-bottom: 4.8%;
+}
+
+.hub-button {
+  min-height: clamp(42px, 5.3vw, 82px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .9em;
+  color: var(--cream);
+  text-transform: uppercase;
+  font-size: clamp(.8rem, 1.45vw, 1.75rem);
+  letter-spacing: .14em;
+  border: 1px solid rgba(210, 161, 95, .48);
+  background: rgba(10, 8, 6, .48);
+}
+
+.quick-links {
+  position: absolute;
+  right: 6.9%;
+  bottom: 15.6%;
+  width: 28%;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 2.4%;
+  text-align: center;
+}
+
+.quick-links a {
+  color: var(--bronze);
+  font-size: clamp(.42rem, .58vw, .72rem);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  padding-top: 46%;
+  position: relative;
+}
+
+.quick-links a::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  translate: -50% 0;
+  width: clamp(26px, 3.2vw, 52px);
+  height: clamp(26px, 3.2vw, 52px);
+  border: 1px solid rgba(210, 161, 95, .42);
+  border-radius: 10px;
+  background: rgba(8,7,6,.3);
+}
+
+/* Mobile fallback: keep the image visible and stack text below it */
+@media (max-width: 800px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .welcome-page {
+    width: 100%;
+    height: auto;
+    aspect-ratio: auto;
+    padding-bottom: 2rem;
+  }
+
+  .welcome-bg {
+    position: relative;
+    display: block;
+    aspect-ratio: 16 / 9;
+    height: auto;
+  }
+
+  .welcome-copy,
+  .twitch-card,
+  .discord-card,
+  .home-note,
+  .enter-hub,
+  .quick-links {
+    position: static;
+    width: calc(100% - 2rem);
+    margin: 1rem auto 0;
+    height: auto;
+    padding: 1rem;
+    background: rgba(8,7,6,.82);
+    border: 1px solid rgba(210,161,95,.25);
+    border-radius: 14px;
+  }
+
+  .quick-links {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .plate-button,
+  .hub-button {
+    margin: 1rem auto 0;
+    min-height: 44px;
+  }
+}
