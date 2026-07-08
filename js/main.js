@@ -1,27 +1,25 @@
 async function loadJson(path, fallback = {}) {
   try {
-    const response = await fetch(path, { cache: "no-store" });
-    if (!response.ok) throw new Error(`Failed to load ${path}`);
-    return await response.json();
-  } catch (error) {
-    console.warn(error);
+    const res = await fetch(path, { cache: "no-store" });
+    if (!res.ok) throw new Error(path);
+    return await res.json();
+  } catch (err) {
+    console.warn("Using fallback data for", path);
     return fallback;
   }
 }
 
-function setText(selector, value) {
+function setText(selector, text) {
   const el = document.querySelector(selector);
-  if (el) el.textContent = value;
+  if (el) el.textContent = text;
 }
 
-function activeNav() {
+document.addEventListener("DOMContentLoaded", () => {
   const current = location.pathname.split("/").pop() || "index.html";
-  document.querySelectorAll(".nav a").forEach(a => {
-    const href = a.getAttribute("href");
+  document.querySelectorAll("[data-nav]").forEach(link => {
+    const href = link.getAttribute("href");
     if (href === current || (current === "" && href === "index.html")) {
-      a.classList.add("active");
+      link.classList.add("active");
     }
   });
-}
-
-document.addEventListener("DOMContentLoaded", activeNav);
+});

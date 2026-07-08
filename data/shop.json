@@ -1,22 +1,25 @@
 {
-  "currency": "Shinies",
+  "shinies": 12540,
   "items": [
     {
-      "name": "Cosmetic Unlock",
-      "price": 250,
-      "type": "Reward"
+      "name": "Kiwi Hoodie",
+      "type": "Cosmetic",
+      "price": 5000
     },
     {
-      "name": "Sound Trigger",
-      "price": 500,
-      "type": "Stream"
+      "name": "Nestling Emote",
+      "type": "Emote",
+      "price": 2500
     },
     {
-      "name": "Profile Badge",
-      "price": 750,
-      "type": "Profile"
+      "name": "Golden Nest",
+      "type": "Badge",
+      "price": 10000
+    },
+    {
+      "name": "Shiny Satchel",
+      "type": "Profile",
+      "price": 3500
     }
-  ],
-  "buyShiniesUrl": "#",
-  "donateUrl": "#"
+  ]
 }

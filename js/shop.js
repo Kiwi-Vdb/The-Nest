@@ -1,13 +1,16 @@
 document.addEventListener("DOMContentLoaded", async () => {
-  const shop = await loadJson("./data/shop.json", { items: [] });
+  const data = await loadJson("./data/shop.json", {items: []});
+  setText("[data-shinies]", data.shinies ?? 0);
+
   const grid = document.querySelector("[data-shop-items]");
   if (!grid) return;
 
-  grid.innerHTML = shop.items.map(item => `
-    <article class="shop-item">
+  grid.innerHTML = data.items.map(item => `
+    <article class="tile">
+      <div class="tile-thumb"></div>
       <strong>${item.name}</strong>
-      <span>${item.type}</span>
-      <p class="shop-price">${item.price} ${shop.currency || "Shinies"}</p>
+      <p>${item.type}</p>
+      <p>${item.price} Shinies</p>
     </article>
   `).join("");
 });

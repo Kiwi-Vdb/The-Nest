@@ -1,44 +1,40 @@
 # The Nest Website
 
-A clean standalone website build for the Kiwi Birb / BAR companion project.
+Clean standalone build for The Nest.
+
+## What this version is
+
+This is the first proper structure pass:
+- reusable rail system
+- embedded Weave
+- Keystone-style panels
+- separate pages
+- JSON data folder ready for the Stream Assistant later
 
 ## Pages
 
-- `index.html` - Welcome page
-- `hub.html` - Main HUB
-- `twitch.html` - Twitch page
-- `discord.html` - Discord page
-- `community.html` - Community page
-- `events.html` - Events page
-- `shop.html` - Nest Shop
+- index.html
+- hub.html
+- twitch.html
+- discord.html
+- community.html
+- events.html
+- shop.html
 
-## Data
+## How to run locally
 
-The website reads placeholder JSON from the `/data` folder.
-
-Later, the Kiwi Birb Stream Assistant can update these files:
-
-- `data/twitch.json`
-- `data/community.json`
-- `data/shop.json`
-- profile/unlock/event data files added later
-
-## Local preview
-
-Open `index.html` in a browser.
-
-For JSON loading to work reliably, run a local server from this folder:
+Open `index.html`, or for best results run:
 
 ```bash
 python -m http.server 8000
 ```
 
-Then visit:
+Then open:
 
 ```text
 http://localhost:8000
 ```
 
-## GitHub Pages
+## How to upload
 
-This folder can become its own GitHub Pages repository later.
+Copy the contents of this folder into your GitHub repository, commit, and push.

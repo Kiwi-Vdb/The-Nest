@@ -1,22 +1,28 @@
 document.addEventListener("DOMContentLoaded", async () => {
-  const twitch = await loadJson("./data/twitch.json", {});
-  const status = twitch.status || "offline";
+  const data = await loadJson("./data/twitch.json", {});
+  const status = data.status === "live" ? "LIVE NOW" : "OFFLINE";
 
-  setText("[data-twitch-status]", status === "live" ? "LIVE NOW" : "OFFLINE");
-  setText("[data-viewers]", twitch.viewers ?? 0);
-  setText("[data-current-game]", twitch.currentGame || "BAR Lobby");
-  setText("[data-current-prediction]", twitch.currentPrediction || "No active prediction");
+  setText("[data-live-status]", status);
+  setText("[data-viewers]", data.viewers ?? 0);
+  setText("[data-game]", data.currentGame || "BAR Lobby");
 
-  const dot = document.querySelector("[data-status-dot]");
-  if (dot && status !== "live") dot.classList.add("offline");
+  const dot = document.querySelector("[data-live-dot]");
+  if (dot && data.status !== "live") dot.classList.add("offline");
+
+  const pred = data.currentPrediction || {};
+  setText("[data-prediction]", pred.question || "No current prediction");
+  setText("[data-pred-yes]", `${pred.yes ?? 0}%`);
+  setText("[data-pred-no]", `${pred.no ?? 0}%`);
+  setText("[data-prize]", `${pred.prize ?? 0} Shinies`);
 
   const clips = document.querySelector("[data-clips]");
-  if (clips && Array.isArray(twitch.clips)) {
-    clips.innerHTML = twitch.clips.map(clip => `
-      <a class="data-row" href="${clip.url || "#"}">
-        <strong>${clip.title || "Untitled clip"}</strong>
-        <span>View</span>
-      </a>
+  if (clips && Array.isArray(data.clips)) {
+    clips.innerHTML = data.clips.map(clip => `
+      <article class="tile">
+        <div class="tile-thumb"></div>
+        <strong>${clip.title}</strong>
+        <p>${clip.time}</p>
+      </article>
     `).join("");
   }
 });

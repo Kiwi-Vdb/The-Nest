@@ -1,70 +1,89 @@
 <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Discord | The Nest</title>
-      <link rel="stylesheet" href="./css/ndl.css">
-      <link rel="stylesheet" href="./css/pages.css">
-    </head>
-    <body>
-      <div class="nest-shell">
-        <span class="weave-line top-weave"></span>
-        <span class="weave-line bottom-weave"></span>
-        <header class="site-header">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discord | The Nest</title>
+  <link rel="stylesheet" href="./css/ndl.css">
+</head>
+<body>
+<div class="page">
+  <div class="nest-frame">
+    <div class="rail-border"></div>
+    <div class="weave top"></div>
+    <div class="weave bottom"></div>
+    <div class="weave left"></div>
+    <div class="weave right"></div>
+
+    <div class="cover-plate plate-top-1"></div>
+    <div class="cover-plate plate-top-2"></div>
+    <div class="cover-plate plate-bottom-1"></div>
+    <div class="cover-plate plate-left-1"></div>
+    <div class="cover-plate plate-right-1"></div>
+
+    <div class="nest-emblem">✦</div>
+<header class="site-header">
   <a class="brand" href="index.html">
-    <span class="brand-mark">✦</span>
+    <span class="brand-badge">✦</span>
     <span>
-      <span class="brand-title">The Nest</span><br>
+      <span class="brand-title">The Nest</span>
       <span class="brand-subtitle">Kiwi Birb Companion</span>
     </span>
   </a>
 
   <nav class="nav" aria-label="Main navigation">
-    <a href="hub.html">HUB</a>
-    <a href="twitch.html">Twitch</a>
-    <a href="discord.html">Discord</a>
-    <a href="community.html">Community</a>
-    <a href="events.html">Events</a>
-    <a href="shop.html">Nest Shop</a>
+    <a data-nav href="hub.html">HUB</a>
+    <a data-nav href="twitch.html">Twitch</a>
+    <a data-nav href="discord.html">Discord</a>
+    <a data-nav href="community.html">Community</a>
+    <a data-nav href="events.html">Events</a>
+    <a data-nav href="shop.html">Nest Shop</a>
   </nav>
 </header>
-        <main class="main">
+<main class="main">
 
-<section class="grid page-grid">
+<section class="grid page-layout">
+  <article class="panel span-12">
+    <div class="panel-inner">
+      <div class="room-scene scene-dirt"></div>
+      <p class="kicker" style="margin-top:22px;">Discord Room</p>
+      <h1 class="page-title">Discord</h1>
+      <p>A dirt wall room with a London-style Discord call box as the doorway into the community.</p>
+    </div>
+  </article>
+
   <article class="panel span-4">
-    <div class="panel-content">
-      <p class="kicker">Discord</p>
-      <h1 class="panel-title">Join Panel</h1>
-      <div class="burrow-wall"></div>
-      <p>A London-style call box in the burrow wall will become the visual anchor here.</p>
-      <a class="btn" href="#">Join Discord</a>
+    <div class="panel-inner">
+      <h2 class="panel-title">Join Panel</h2>
+      <p>Join our Discord server and become part of the flock.</p>
+      <a class="btn" href="#">Join Discord →</a>
     </div>
   </article>
 
   <article class="panel span-5">
-    <div class="panel-content">
+    <div class="panel-inner">
       <h2 class="panel-title">Live General Chat</h2>
-      <div class="data-list">
-        <div class="data-row"><strong>Coming soon</strong><span>Discord preview</span></div>
-        <div class="data-row"><strong>Bot sync</strong><span>Later phase</span></div>
-      </div>
+      <div class="data-row"><strong>LunaSkye</strong><span>Just got home 💜</span></div>
+      <div class="data-row"><strong>ShinyHunter92</strong><span>Hunt night tonight!</span></div>
+      <div class="data-row"><strong>KiwiBot</strong><span>Remember to be kind.</span></div>
     </div>
   </article>
 
   <article class="panel span-3">
-    <div class="panel-content">
+    <div class="panel-inner">
       <h2 class="panel-title">Most Recent Meme</h2>
-      <div class="burrow-wall"></div>
-      <p>Latest meme preview will appear here.</p>
+      <div class="tile-thumb"></div>
+      <p>Latest meme preview.</p>
     </div>
   </article>
 </section>
 
-        </main>
-        <p class="footer-note">The Nest is still under construction. More rooms are opening soon.</p>
-      </div>
-      <script src="./js/main.js"></script>
+<p class="bottom-note">Stronger together. Louder together. See you in Discord.</p>
 
-    </body>
-    </html>
+</main>
+</div>
+</div>
+<script src="./js/main.js"></script>
+
+</body>
+</html>

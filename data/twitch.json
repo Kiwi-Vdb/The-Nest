@@ -1,16 +1,33 @@
 {
-  "status": "offline",
-  "viewers": 0,
+  "status": "live",
+  "viewers": 1256,
   "currentGame": "BAR Lobby",
-  "currentPrediction": "No active prediction",
+  "currentPrediction": {
+    "question": "Will we get a Shiny before the stream ends?",
+    "yes": 62,
+    "no": 38,
+    "prize": 5000
+  },
   "clips": [
     {
-      "title": "Latest clip will appear here",
-      "url": "#"
+      "title": "Insane Shiny Luck!",
+      "time": "0:29"
     },
     {
-      "title": "Community clip placeholder",
-      "url": "#"
+      "title": "Absolute Chaos in BAR",
+      "time": "0:45"
+    },
+    {
+      "title": "Banshee Spawn!",
+      "time": "0:31"
+    },
+    {
+      "title": "Clutch Revive!",
+      "time": "0:38"
+    },
+    {
+      "title": "That EMP Though...",
+      "time": "0:28"
     }
   ]
 }
