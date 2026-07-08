@@ -5,45 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Welcome | The Nest</title>
   <link rel="stylesheet" href="./css/welcome.css">
+  <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
   <main class="welcome-page" aria-label="The Nest welcome page">
     <img class="welcome-bg" src="./assets/backgrounds/welcome-bg.png" alt="The Nest welcome interface">
 
-    <!-- The artwork contains all visible labels and decorative buttons.
-         These three anchors are invisible click zones only. -->
-    <a class="hotspot hotspot-watch" href="twitch.html" aria-label="Watch on Twitch" data-label="WATCH"></a>
-    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Join Discord" data-label="DISCORD"></a>
-    <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub" data-label="ENTER HUB"></a>
-
-    <div class="dev-mode-panel" aria-hidden="true">
-      <strong>Developer Mode</strong>
-      <span>F8 = toggle hotspot outlines</span>
-      <span>Edit <code>css/welcome.css</code> → .hotspot-watch / .hotspot-discord / .hotspot-hub</span>
-    </div>
+    <!-- Invisible click zones over the artwork buttons. Press F8 to align them in Developer Mode. -->
+    <a class="hotspot hotspot-watch" href="twitch.html" aria-label="Watch on Twitch" data-dev-label="WATCH"></a>
+    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Join Discord" data-dev-label="DISCORD"></a>
+    <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub" data-dev-label="ENTER HUB"></a>
   </main>
 
-  <script>
-    (() => {
-      const params = new URLSearchParams(window.location.search);
-      const stored = localStorage.getItem('nestDevMode') === 'true';
-      const fromUrl = params.get('debug');
-      const enabled = fromUrl === 'true' || (fromUrl !== 'false' && stored);
-
-      function setDevMode(value) {
-        document.body.classList.toggle('dev-mode', value);
-        localStorage.setItem('nestDevMode', String(value));
-      }
-
-      setDevMode(enabled);
-
-      window.addEventListener('keydown', (event) => {
-        if (event.key === 'F8') {
-          event.preventDefault();
-          setDevMode(!document.body.classList.contains('dev-mode'));
-        }
-      });
-    })();
-  </script>
+  <script src="./js/dev-mode.js"></script>
 </body>
 </html>

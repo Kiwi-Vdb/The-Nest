@@ -1,0 +1,238 @@
+/* The Nest Developer Overlay
+   Toggle with F8. This file is safe to keep in production: it is invisible until Dev Mode is enabled. */
+
+.nest-dev-grid,
+.nest-dev-panel,
+.dev-resize-handle,
+.nest-dev-coords {
+  display: none;
+}
+
+body.nest-dev-on {
+  --dev-purple: rgba(141, 85, 255, .9);
+  --dev-purple-soft: rgba(141, 85, 255, .18);
+  --dev-bronze: rgba(210, 161, 95, .95);
+  --dev-blue: rgba(82, 168, 255, .9);
+  --dev-green: rgba(79, 255, 170, .9);
+}
+
+body.nest-dev-on .hotspot {
+  outline: 2px solid var(--dev-purple);
+  background: rgba(141, 85, 255, .12);
+  box-shadow: 0 0 18px rgba(141, 85, 255, .35), inset 0 0 18px rgba(210, 161, 95, .13);
+  z-index: 25;
+}
+
+body.nest-dev-on .hotspot::before {
+  content: attr(data-dev-label);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 4px 9px;
+  border: 1px solid rgba(210, 161, 95, .55);
+  border-radius: 999px;
+  background: rgba(5, 4, 8, .82);
+  color: #f4dcad;
+  font: 700 11px/1.1 system-ui, -apple-system, Segoe UI, sans-serif;
+  letter-spacing: .08em;
+  white-space: nowrap;
+  pointer-events: none;
+  text-shadow: 0 0 8px rgba(141, 85, 255, .8);
+}
+
+body.nest-dev-on .hotspot:hover,
+body.nest-dev-on .hotspot.is-selected {
+  outline-color: var(--dev-bronze);
+  background: rgba(210, 161, 95, .16);
+  box-shadow: 0 0 24px rgba(210, 161, 95, .42), inset 0 0 20px rgba(141, 85, 255, .18);
+}
+
+body.nest-dev-on .hotspot.is-dragging {
+  cursor: grabbing;
+}
+
+body.nest-dev-on .dev-resize-handle {
+  display: block;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  border: 2px solid #f4dcad;
+  border-radius: 50%;
+  background: #120c1d;
+  box-shadow: 0 0 10px rgba(141, 85, 255, .85);
+  z-index: 30;
+}
+
+body.nest-dev-on .dev-resize-handle[data-corner="nw"] { left: -7px; top: -7px; cursor: nwse-resize; }
+body.nest-dev-on .dev-resize-handle[data-corner="ne"] { right: -7px; top: -7px; cursor: nesw-resize; }
+body.nest-dev-on .dev-resize-handle[data-corner="sw"] { left: -7px; bottom: -7px; cursor: nesw-resize; }
+body.nest-dev-on .dev-resize-handle[data-corner="se"] { right: -7px; bottom: -7px; cursor: nwse-resize; }
+
+.nest-dev-grid {
+  position: absolute;
+  inset: 0;
+  z-index: 20;
+  pointer-events: none;
+  background-image:
+    linear-gradient(to right, rgba(210, 161, 95, .14) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(210, 161, 95, .14) 1px, transparent 1px),
+    linear-gradient(to right, rgba(141, 85, 255, .18) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(141, 85, 255, .18) 1px, transparent 1px);
+  background-size: 2.5% 2.5%, 2.5% 2.5%, 10% 10%, 10% 10%;
+}
+
+body.nest-dev-on.show-grid .nest-dev-grid { display: block; }
+
+.nest-dev-coords {
+  position: fixed;
+  left: 14px;
+  bottom: 14px;
+  z-index: 9999;
+  padding: 8px 11px;
+  border: 1px solid rgba(210, 161, 95, .5);
+  border-radius: 10px;
+  background: rgba(5, 4, 8, .86);
+  color: #f4dcad;
+  font: 12px/1.35 Consolas, Monaco, monospace;
+  pointer-events: none;
+  box-shadow: 0 0 18px rgba(0,0,0,.45);
+}
+body.nest-dev-on.show-coords .nest-dev-coords { display: block; }
+
+.nest-dev-panel {
+  position: fixed;
+  right: 14px;
+  top: 14px;
+  z-index: 10000;
+  width: min(370px, calc(100vw - 28px));
+  max-height: calc(100vh - 28px);
+  overflow: auto;
+  padding: 14px;
+  border: 1px solid rgba(210, 161, 95, .45);
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(18, 14, 28, .96), rgba(5, 4, 8, .96));
+  color: #f4dcad;
+  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+  box-shadow: 0 15px 40px rgba(0,0,0,.55), 0 0 24px rgba(141, 85, 255, .25);
+  backdrop-filter: blur(10px);
+}
+body.nest-dev-on .nest-dev-panel { display: block; }
+
+.nest-dev-title {
+  margin-bottom: 10px;
+  color: #fff3cf;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  font-size: 13px;
+}
+
+.nest-dev-small {
+  color: rgba(244, 220, 173, .72);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
+.nest-dev-section {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(210, 161, 95, .18);
+}
+
+.nest-dev-panel button,
+.nest-dev-panel input,
+.nest-dev-panel select,
+.nest-dev-panel textarea {
+  font: inherit;
+}
+
+.nest-dev-panel button {
+  border: 1px solid rgba(210, 161, 95, .48);
+  border-radius: 10px;
+  background: rgba(141, 85, 255, .14);
+  color: #f4dcad;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.nest-dev-panel button:hover {
+  background: rgba(210, 161, 95, .18);
+  box-shadow: 0 0 12px rgba(141, 85, 255, .28);
+}
+
+.nest-dev-panel button.is-active {
+  background: rgba(210, 161, 95, .26);
+  border-color: rgba(244, 220, 173, .75);
+}
+
+.nest-dev-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.nest-dev-row.three {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.nest-dev-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.nest-dev-field label {
+  display: block;
+  margin-bottom: 4px;
+  color: rgba(244, 220, 173, .72);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+
+.nest-dev-field input {
+  width: 100%;
+  padding: 7px 8px;
+  border: 1px solid rgba(210, 161, 95, .36);
+  border-radius: 9px;
+  background: rgba(0, 0, 0, .25);
+  color: #fff3cf;
+}
+
+.nest-dev-readout,
+.nest-dev-output {
+  margin-top: 8px;
+  padding: 10px;
+  min-height: 42px;
+  border: 1px solid rgba(210, 161, 95, .24);
+  border-radius: 10px;
+  background: rgba(0, 0, 0, .24);
+  color: #f4dcad;
+  font: 12px/1.35 Consolas, Monaco, monospace;
+  white-space: pre-wrap;
+}
+
+.nest-dev-output {
+  max-height: 160px;
+  overflow: auto;
+}
+
+.nest-dev-toast {
+  position: fixed;
+  left: 50%;
+  top: 16px;
+  transform: translateX(-50%);
+  z-index: 10001;
+  display: none;
+  padding: 9px 14px;
+  border: 1px solid rgba(210, 161, 95, .55);
+  border-radius: 999px;
+  background: rgba(5, 4, 8, .9);
+  color: #fff3cf;
+  font: 700 12px/1 system-ui, -apple-system, Segoe UI, sans-serif;
+  box-shadow: 0 0 20px rgba(141, 85, 255, .35);
+}
+body.nest-dev-on .nest-dev-toast.show { display: block; }
