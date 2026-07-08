@@ -4,12 +4,10 @@
   --bronze: #d2a15f;
   --purple: #8d55ff;
   --green: #48d45d;
-  --shadow: rgba(0, 0, 0, .72);
+  --shadow: rgba(0, 0, 0, .78);
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 html,
 body {
@@ -20,9 +18,7 @@ body {
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
-body {
-  overflow-x: hidden;
-}
+body { overflow-x: hidden; }
 
 .welcome-page {
   position: relative;
@@ -43,7 +39,6 @@ body {
   pointer-events: none;
 }
 
-/* Shared text treatment */
 h1,
 h2,
 .eyebrow,
@@ -55,96 +50,98 @@ h2,
   font-weight: 500;
 }
 
-p {
-  margin: 0;
-  line-height: 1.45;
-}
+p { margin: 0; line-height: 1.42; }
+a { color: inherit; text-decoration: none; }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-/* Center text sits over the empty central background plate */
 .welcome-copy {
   position: absolute;
-  left: 33.6%;
-  top: 18.4%;
-  width: 33%;
+  left: 29.8%;
+  top: 14.7%;
+  width: 40.4%;
   text-align: center;
-  text-shadow: 0 3px 12px var(--shadow);
+  text-shadow: 0 4px 14px var(--shadow), 0 0 22px rgba(0,0,0,.65);
 }
 
 .welcome-copy .eyebrow {
   text-transform: uppercase;
   color: var(--bronze);
-  font-size: clamp(.55rem, 1vw, 1rem);
-  letter-spacing: .28em;
-  margin-bottom: .45em;
+  font-size: clamp(.55rem, .88vw, .95rem);
+  letter-spacing: .3em;
+  margin-bottom: .35em;
 }
 
 .welcome-copy h1 {
   text-transform: uppercase;
-  font-size: clamp(2rem, 4.15vw, 4.7rem);
+  font-size: clamp(2rem, 3.7vw, 4.35rem);
   line-height: .95;
-  margin: 0 0 .36em;
+  margin: 0 0 .32em;
 }
 
 .welcome-copy .tagline {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(.9rem, 1.35vw, 1.55rem);
-  color: var(--cream);
-  margin-bottom: .95em;
+  font-size: clamp(.85rem, 1.18vw, 1.45rem);
+  margin-bottom: .75em;
 }
 
 .welcome-copy .intro {
-  color: rgba(239, 226, 202, .86);
-  font-size: clamp(.64rem, .92vw, 1.05rem);
   max-width: 520px;
   margin: 0 auto;
+  color: rgba(239, 226, 202, .84);
+  font-size: clamp(.58rem, .8vw, .95rem);
 }
 
-/* Left panel */
-.twitch-card {
+.twitch-card,
+.discord-card {
   position: absolute;
-  left: 5.9%;
-  top: 16.4%;
-  width: 13.7%;
-  height: 49.5%;
-  text-align: center;
+  top: 10.2%;
+  height: 57.6%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 2.2%;
-  text-shadow: 0 3px 9px var(--shadow);
+  text-align: center;
+  padding-top: 2.65%;
+  text-shadow: 0 3px 10px var(--shadow);
+}
+
+.twitch-card {
+  left: 5.25%;
+  width: 14.8%;
+}
+
+.discord-card {
+  right: 5.25%;
+  width: 14.8%;
 }
 
 .panel-label {
   color: var(--bronze);
   text-transform: uppercase;
-  font-size: clamp(.5rem, .78vw, .86rem);
+  font-size: clamp(.48rem, .66vw, .78rem);
   letter-spacing: .18em;
 }
 
 .icon-mark {
-  margin-top: 11%;
+  margin-top: 10%;
   display: grid;
   place-items: center;
-  width: clamp(42px, 5vw, 82px);
-  height: clamp(42px, 5vw, 82px);
+  width: clamp(40px, 4.4vw, 74px);
+  height: clamp(40px, 4.4vw, 74px);
   color: var(--purple);
-  font-size: clamp(1.7rem, 3.3vw, 3.8rem);
+  font-size: clamp(1.55rem, 2.75vw, 3.25rem);
   filter: drop-shadow(0 0 8px rgba(141, 85, 255, .65));
 }
 
-.twitch-card h2 {
-  margin: 8% 0 4%;
-  font-size: clamp(.95rem, 1.42vw, 1.65rem);
+.discord-card .icon-mark { color: #819bff; }
+
+.twitch-card h2,
+.discord-card h2 {
+  margin: 7% 0 4%;
+  font-size: clamp(.86rem, 1.18vw, 1.42rem);
 }
 
 .live-line {
   color: var(--green);
-  font-size: clamp(.58rem, .9vw, 1rem);
+  font-size: clamp(.54rem, .74vw, .88rem);
 }
 
 .live-line span {
@@ -158,63 +155,32 @@ a {
 }
 
 .stat-row {
-  margin-top: 14%;
+  margin-top: 12%;
   display: grid;
   gap: .1em;
-  color: var(--cream);
 }
 
 .stat-row strong {
   font-family: Georgia, "Times New Roman", serif;
-  font-size: clamp(.92rem, 1.35vw, 1.55rem);
+  font-size: clamp(.9rem, 1.17vw, 1.42rem);
   font-weight: 500;
 }
 
 .stat-row small,
-.stream-title {
-  color: var(--muted);
-  font-size: clamp(.55rem, .82vw, .95rem);
-}
-
-.stream-title {
-  margin-top: 11%;
-}
-
-/* Right panel */
-.discord-card {
-  position: absolute;
-  right: 6.5%;
-  top: 16.4%;
-  width: 13.3%;
-  height: 49.5%;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 2.2%;
-  text-shadow: 0 3px 9px var(--shadow);
-}
-
-.discord-card .icon-mark {
-  color: #819bff;
-}
-
-.discord-card h2 {
-  margin: 14% 0 12%;
-  font-size: clamp(.9rem, 1.32vw, 1.5rem);
-}
-
+.stream-title,
 .discord-card p:not(.panel-label) {
   color: var(--muted);
-  font-size: clamp(.55rem, .78vw, .9rem);
-  margin-bottom: 8%;
+  font-size: clamp(.52rem, .7vw, .86rem);
 }
 
-/* Buttons */
+.stream-title { margin-top: 10%; }
+.discord-card h2 { margin-top: 12%; margin-bottom: 10%; }
+.discord-card p:not(.panel-label) { margin-bottom: 7%; }
+
 .plate-button {
   margin-top: auto;
-  margin-bottom: 13%;
-  width: 78%;
+  margin-bottom: 12%;
+  width: 76%;
   min-height: 8%;
   display: flex;
   align-items: center;
@@ -222,10 +188,10 @@ a {
   gap: .8em;
   color: var(--cream);
   text-transform: uppercase;
-  font-size: clamp(.48rem, .68vw, .8rem);
+  font-size: clamp(.44rem, .58vw, .72rem);
   letter-spacing: .12em;
   border: 1px solid rgba(210, 161, 95, .45);
-  background: rgba(8, 7, 6, .5);
+  background: rgba(8, 7, 6, .48);
   box-shadow: 0 8px 18px rgba(0,0,0,.35);
 }
 
@@ -235,70 +201,67 @@ a {
   color: #fff4df;
 }
 
-/* Bottom panels */
 .home-note {
   position: absolute;
-  left: 13.5%;
-  bottom: 15.8%;
-  width: 14.5%;
+  left: 8.3%;
+  bottom: 10.8%;
+  width: 20.4%;
   color: var(--muted);
-  font-size: clamp(.56rem, .83vw, .95rem);
+  font-size: clamp(.56rem, .76vw, .9rem);
   text-shadow: 0 3px 9px var(--shadow);
 }
 
-.home-note p {
-  margin-bottom: .5em;
-}
+.home-note p { margin-bottom: .44em; }
 
 .enter-hub {
   position: absolute;
-  left: 36.4%;
-  bottom: 11.5%;
-  width: 26.8%;
+  left: 36.45%;
+  bottom: 7.85%;
+  width: 27.1%;
   text-align: center;
-  text-shadow: 0 3px 9px var(--shadow);
+  text-shadow: 0 3px 10px var(--shadow);
 }
 
 .enter-hub p {
   color: var(--bronze);
   text-transform: uppercase;
   letter-spacing: .22em;
-  font-size: clamp(.48rem, .72vw, .82rem);
-  margin-bottom: 4.8%;
+  font-size: clamp(.43rem, .59vw, .72rem);
+  margin-bottom: 3.3%;
 }
 
 .hub-button {
-  min-height: clamp(42px, 5.3vw, 82px);
+  min-height: clamp(38px, 4.55vw, 72px);
   display: flex;
   align-items: center;
   justify-content: center;
   gap: .9em;
   color: var(--cream);
   text-transform: uppercase;
-  font-size: clamp(.8rem, 1.45vw, 1.75rem);
+  font-size: clamp(.72rem, 1.18vw, 1.45rem);
   letter-spacing: .14em;
   border: 1px solid rgba(210, 161, 95, .48);
-  background: rgba(10, 8, 6, .48);
+  background: rgba(10, 8, 6, .45);
 }
 
 .quick-links {
   position: absolute;
-  right: 6.9%;
-  bottom: 15.6%;
-  width: 28%;
+  right: 8.1%;
+  bottom: 10.9%;
+  width: 24.7%;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 2.4%;
+  gap: 2.2%;
   text-align: center;
 }
 
 .quick-links a {
-  color: var(--bronze);
-  font-size: clamp(.42rem, .58vw, .72rem);
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  padding-top: 46%;
   position: relative;
+  color: var(--bronze);
+  font-size: clamp(.4rem, .52vw, .66rem);
+  text-transform: uppercase;
+  letter-spacing: .07em;
+  padding-top: 42%;
 }
 
 .quick-links a::before {
@@ -307,19 +270,14 @@ a {
   left: 50%;
   top: 0;
   translate: -50% 0;
-  width: clamp(26px, 3.2vw, 52px);
-  height: clamp(26px, 3.2vw, 52px);
+  width: clamp(24px, 2.7vw, 48px);
+  height: clamp(24px, 2.7vw, 48px);
   border: 1px solid rgba(210, 161, 95, .42);
-  border-radius: 10px;
+  border-radius: 9px;
   background: rgba(8,7,6,.3);
 }
 
-/* Mobile fallback: keep the image visible and stack text below it */
 @media (max-width: 800px) {
-  body {
-    overflow-x: hidden;
-  }
-
   .welcome-page {
     width: 100%;
     height: auto;
@@ -350,13 +308,7 @@ a {
     border-radius: 14px;
   }
 
-  .quick-links {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
+  .quick-links { grid-template-columns: repeat(2, 1fr); }
   .plate-button,
-  .hub-button {
-    margin: 1rem auto 0;
-    min-height: 44px;
-  }
+  .hub-button { margin: 1rem auto 0; min-height: 44px; }
 }
