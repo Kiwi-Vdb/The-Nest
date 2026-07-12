@@ -236,15 +236,21 @@ function renderAccount() {
 }
 
 function renderItems(items) {
-  const grid = document.querySelector("#shop-items");
-  if (!grid) return;
-  const cards = [...items.slice(0, 4)];
-  while (cards.length < 4) cards.push(null);
-  grid.innerHTML = cards.map((item) => item ? productCardHtml(item) : `
-    <article class="shop-card"><div class="shop-card-empty">New item<br>coming soon</div></article>
-  `).join("");
-  grid.querySelectorAll("[data-buy-product]").forEach((button) => {
-    button.addEventListener("click", () => openPurchase(button.dataset.buyProduct));
+  const slots = Array.from(document.querySelectorAll("[data-featured-slot]"))
+    .sort((a, b) => Number(a.dataset.featuredSlot || 0) - Number(b.dataset.featuredSlot || 0));
+  if (!slots.length) return;
+
+  const cards = [...items.slice(0, slots.length)];
+  while (cards.length < slots.length) cards.push(null);
+
+  slots.forEach((slot, index) => {
+    const item = cards[index];
+    slot.innerHTML = item ? productCardHtml(item) : `
+      <article class="shop-card"><div class="shop-card-empty">New item<br>coming soon</div></article>
+    `;
+    slot.querySelector("[data-buy-product]")?.addEventListener("click", (event) => {
+      openPurchase(event.currentTarget.dataset.buyProduct);
+    });
   });
 }
 

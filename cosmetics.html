@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cosmetics Catalogue | The Nest Shop</title>
+  <link rel="stylesheet" href="./css/shop-catalogue.css">
+</head>
+<body class="catalogue-body">
+  <main class="catalogue-page" data-catalog-kind="cosmetic" aria-label="The Nest cosmetics catalogue">
+    <div class="catalogue-shell">
+      <header class="catalogue-header">
+        <a class="catalogue-back" href="shop.html">← Back to The Nest Shop</a>
+        <div class="catalogue-title-wrap">
+          <div class="catalogue-kicker">The Nest Shop</div>
+          <h1 class="catalogue-title">Cosmetics</h1>
+          <p class="catalogue-subtitle">Browse every purchasable Stream Avatar cosmetic.</p>
+        </div>
+        <div class="catalogue-account" aria-label="Shop account">
+          <div id="catalogue-account-name" class="catalogue-account-name">Not signed in</div>
+          <div id="catalogue-balance" class="catalogue-balance">— Shinies</div>
+          <button id="catalogue-account-button" class="catalogue-login" type="button">Sign in with Twitch</button>
+          <div id="catalogue-service" class="catalogue-service">Connecting…</div>
+        </div>
+      </header>
+
+      <nav class="catalogue-tabs" aria-label="Shop catalogue pages">
+        <a class="catalogue-tab is-active" href="cosmetics.html" aria-current="page">Cosmetics</a>
+        <a class="catalogue-tab" href="text-effects.html">Text Effects</a>
+      </nav>
+
+      <div id="catalogue-filters" class="catalogue-filters" aria-label="Filter cosmetics by rarity"></div>
+      <div id="catalogue-status" class="catalogue-status" role="status" aria-live="polite"></div>
+      <div id="catalogue-content"></div>
+    </div>
+
+    <div id="catalogue-modal" class="catalogue-modal" hidden aria-hidden="true">
+      <div class="catalogue-modal-backdrop" data-catalogue-close></div>
+      <section class="catalogue-modal-card" role="dialog" aria-modal="true" aria-labelledby="catalogue-modal-title">
+        <button class="catalogue-modal-close" type="button" data-catalogue-close aria-label="Close purchase window">×</button>
+        <div id="catalogue-modal-icon" class="catalogue-modal-icon">✦</div>
+        <div id="catalogue-modal-rarity" class="catalogue-modal-rarity"></div>
+        <h2 id="catalogue-modal-title">Confirm purchase</h2>
+        <p id="catalogue-modal-description"></p>
+        <div class="catalogue-modal-summary">
+          <div><span>Current balance</span><strong id="catalogue-modal-balance">—</strong></div>
+          <div><span>Item price</span><strong id="catalogue-modal-price">—</strong></div>
+          <div><span>Balance after</span><strong id="catalogue-modal-after">—</strong></div>
+        </div>
+        <div id="catalogue-modal-error" class="catalogue-modal-error" role="status"></div>
+        <div class="catalogue-modal-actions">
+          <button type="button" class="catalogue-modal-secondary" data-catalogue-close>Cancel</button>
+          <button type="button" id="catalogue-confirm-buy" class="catalogue-modal-primary">Buy</button>
+        </div>
+      </section>
+    </div>
+
+    <div id="catalogue-toast" class="catalogue-toast" role="status" aria-live="polite"></div>
+  </main>
+
+  <script src="./js/main.js"></script>
+  <script src="./js/shop-catalogue.js"></script>
+</body>
+</html>
