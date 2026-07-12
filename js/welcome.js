@@ -25,8 +25,10 @@ function renderStreamStatus(data) {
 
 async function loadStreamStatus() {
   try {
-    const response = await fetch("./data/stream-status.json", { cache: "no-store" });
-    if (!response.ok) throw new Error("stream-status.json not found");
+    const response = await fetch(`./data/twitch.json?v=${Date.now()}`, {
+      cache: "no-store"
+    });
+    if (!response.ok) throw new Error("twitch.json not found");
 
     const data = await response.json();
     renderStreamStatus({ ...fallbackStreamStatus, ...data });
