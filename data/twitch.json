@@ -12,11 +12,11 @@
     "mapName": "Moonshine Run v1.0.1",
     "mapFileName": "moonshine_run_v1.0.1",
     "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 12,
+    "spectators": 11,
     "gameTime": 1624,
-    "updatedAt": "2026-07-12T19:27:01Z"
+    "updatedAt": "2026-07-12T19:27:49Z"
   },
   "live": false,
   "viewers": 0,
