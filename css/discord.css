@@ -470,3 +470,99 @@ body { overflow-x: hidden; }
   font: 1.6rem/1 Georgia, serif;
   cursor: pointer;
 }
+
+/* === THE NEST F8 LAYOUT OVERRIDES: DISCORD START ===
+   Paste this entire block at the VERY BOTTOM of css/discord.css.
+   These rules override position, size, and supported content-scale variables; they do not remove backgrounds,
+   borders, animation, typography, hover effects, or other existing styling.
+   On the next export, replace only the previous block between these markers. */
+
+/* F8: NAV HUB | editor ID: nav-hub */
+.nav-hub {
+  left: 4.84%;
+  top: 31.05%;
+  width: 12.61%;
+  height: 5.94%;
+}
+
+/* F8: NAV TWITCH | editor ID: nav-twitch */
+.nav-twitch {
+  left: 4.84%;
+  top: 38.14%;
+  width: 12.61%;
+  height: 5.47%;
+}
+
+/* F8: NAV DISCORD | editor ID: nav-discord */
+.nav-discord {
+  left: 4.75%;
+  top: 45.22%;
+  width: 12.66%;
+  height: 5.47%;
+}
+
+/* F8: NAV COMMUNITY | editor ID: nav-community */
+.nav-community {
+  left: 4.75%;
+  top: 52.47%;
+  width: 12.66%;
+  height: 5.39%;
+}
+
+/* F8: NAV EVENTS | editor ID: nav-events */
+.nav-events {
+  left: 4.75%;
+  top: 59.39%;
+  width: 12.75%;
+  height: 5.54%;
+}
+
+/* F8: NAV SHOP | editor ID: nav-shop */
+.nav-shop {
+  left: 4.75%;
+  top: 66.64%;
+  width: 12.74%;
+  height: 5.55%;
+}
+
+/* F8: JOIN DISCORD BUTTON | editor ID: join-discord-button */
+.join-discord-hotspot {
+  left: 23.15%;
+  top: 27.95%;
+  width: 16.65%;
+  height: 6.75%;
+}
+
+/* F8: MEMBERS ONLINE PANEL | editor ID: members-online-panel */
+.members-online-panel {
+  left: 20.52%;
+  top: 49.74%;
+  width: 22.32%;
+  height: 41.45%;
+}
+
+/* F8: LIVE GENERAL CHAT PANEL | editor ID: live-general-chat-panel */
+.live-chat-panel {
+  left: 44.29%;
+  top: 50.68%;
+  width: 23.48%;
+  height: 41.45%;
+}
+
+/* F8: LATEST MEME PANEL | editor ID: latest-meme-panel */
+.latest-meme-panel {
+  left: 69.64%;
+  top: 50.84%;
+  width: 25.15%;
+  height: 41.45%;
+}
+
+/* F8: NEST SYNC STATUS | editor ID: discord-nest-sync */
+.nest-sync-card {
+  left: 8.59%;
+  top: 85.46%;
+  width: 6.83%;
+  height: 6.54%;
+}
+
+/* === THE NEST F8 LAYOUT OVERRIDES: DISCORD END === */
