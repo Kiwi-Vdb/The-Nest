@@ -1,0 +1,13 @@
+{
+  "type": "twitch_followers",
+  "status": "waiting",
+  "label": "Road to 1,000 Followers",
+  "current": 0,
+  "target": 1000,
+  "suffix": "followers",
+  "remaining": 1000,
+  "percentage": 0,
+  "completed": false,
+  "twitchUrl": "https://www.twitch.tv/itsVDB",
+  "updatedAt": 0
+}
