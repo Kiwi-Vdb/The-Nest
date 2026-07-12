@@ -1,13 +1,39 @@
 {
-  "leaderboards": [],
-  "stats": {
-    "members": 0,
-    "shiniesEarned": 0,
-    "unlocks": 0
-  },
-  "spotlight": {
-    "name": "Coming soon",
-    "text": "Member spotlight will appear here."
-  },
-  "calendar": []
+  "highlights": [
+    {
+      "icon": "✦",
+      "title": "Rising Star",
+      "copy": "ShinyHunter42 earned 5,000 Shinies this week!"
+    },
+    {
+      "icon": "●",
+      "title": "Top Chatter",
+      "copy": "NestlingNinja sent 1,245 messages!"
+    },
+    {
+      "icon": "♥",
+      "title": "Loyal Friend",
+      "copy": "BirbBuddy has been part of the flock for 8 months!"
+    }
+  ],
+  "leaderboard": [
+    { "name": "ShinyHunter42", "score": 12540 },
+    { "name": "NestlingNinja", "score": 9870 },
+    { "name": "BirbCollector", "score": 7210 },
+    { "name": "ChaosCrusader", "score": 6005 },
+    { "name": "PixieDust", "score": 5420 }
+  ],
+  "activity": [
+    { "who": "ArtisanFox", "text": "unlocked “Golden Nest” title", "time": "2h ago" },
+    { "who": "ChaosCrusader", "text": "crafted a new emote", "time": "3h ago" },
+    { "who": "ShinyHunter42", "text": "reached level 25", "time": "5h ago" },
+    { "who": "PixieDust", "text": "joined The Nest", "time": "6h ago" }
+  ],
+  "goal": {
+    "label": "Help the flock reach our goal!",
+    "current": 7850,
+    "target": 10000,
+    "suffix": "Shinies",
+    "timeLeft": "2 days left"
+  }
 }

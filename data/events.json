@@ -1,0 +1,45 @@
+{
+  "upcoming": [
+    {
+      "date": "FRI",
+      "title": "Community Games Night",
+      "meta": "8:00 PM · Party games",
+      "prize": "+500 Shinies"
+    },
+    {
+      "date": "SAT",
+      "title": "Prediction Night",
+      "meta": "Viewer picks and chaos",
+      "prize": "+750 Shinies"
+    },
+    {
+      "date": "SUN",
+      "title": "Special Raid Train",
+      "meta": "Bring the flock together",
+      "prize": "+1,000 Shinies"
+    }
+  ],
+  "current": {
+    "status": "Active Soon",
+    "title": "No event running right now",
+    "description": "The next flock event will appear here when it is ready.",
+    "prize": "Check back soon ✦"
+  },
+  "calendar": [
+    {
+      "date": "08",
+      "title": "Shiny Hunt Night",
+      "meta": "Monster Hunter · 7:30 PM"
+    },
+    {
+      "date": "10",
+      "title": "Community Vote",
+      "meta": "Choose next event theme"
+    },
+    {
+      "date": "12",
+      "title": "Giveaway Evening",
+      "meta": "Rewards and Shinies"
+    }
+  ]
+}

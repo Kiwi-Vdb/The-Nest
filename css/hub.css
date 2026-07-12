@@ -1,0 +1,204 @@
+:root {
+  --bronze: #d2a15f;
+  --purple: #8d55ff;
+  --green: #86d75d;
+}
+
+* { box-sizing: border-box; }
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background: #050403;
+}
+
+body { overflow-x: hidden; }
+
+.hub-page {
+  position: relative;
+  width: min(100vw, 150vh);
+  aspect-ratio: 3 / 2;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #050403;
+}
+
+.hub-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  user-select: none;
+  pointer-events: none;
+}
+
+.hotspot {
+  position: absolute;
+  display: block;
+  background: transparent;
+  border: 0;
+  border-radius: 14px;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  z-index: 4;
+}
+
+.hotspot::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 180ms ease, box-shadow 180ms ease, background 180ms ease;
+  pointer-events: none;
+}
+
+.hotspot:hover::after,
+.hotspot:focus-visible::after {
+  opacity: 1;
+  background: rgba(141, 85, 255, .08);
+  box-shadow:
+    0 0 18px rgba(141, 85, 255, .56),
+    inset 0 0 16px rgba(210, 161, 95, .24);
+}
+
+.hotspot:focus-visible::after {
+  outline: 1px solid rgba(210, 161, 95, .72);
+  outline-offset: 2px;
+}
+
+/* Current estimated positions. Use F8 Developer Mode to fine tune these. */
+/* The Nest Welcome Page hotspot positions.
+   Paste these rules into css/welcome.css, replacing the existing hotspot position rules. */
+
+.hotspot-twitch {
+  left: 5.56%;
+  top: 74.62%;
+  width: 12.95%;
+  height: 4.63%;
+}
+
+.hotspot-discord {
+  left: 23.77%;
+  top: 74.70%;
+  width: 13.06%;
+  height: 4.70%;
+}
+
+.hotspot-community {
+  left: 42.48%;
+  top: 74.70%;
+  width: 13.90%;
+  height: 4.39%;
+}
+
+.hotspot-events {
+  left: 62.34%;
+  top: 74.70%;
+  width: 12.59%;
+  height: 4.55%;
+}
+
+.hotspot-shop {
+  left: 80.40%;
+  top: 74.54%;
+  width: 12.95%;
+  height: 4.70%;
+}
+
+.hotspot-my-nest {
+  left: 79.94%;
+  top: 89.21%;
+  width: 15.36%;
+  height: 6.75%;
+}
+
+.nest-sync-card {
+  position: absolute;
+  left: 5.05%;
+  top: 89.7%;
+  width: 11.8%;
+  min-height: 5.35%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: .12vw;
+  z-index: 3;
+  pointer-events: none;
+  font-family: Georgia, "Times New Roman", serif;
+  text-shadow: 0 0 10px rgba(0, 0, 0, .9);
+}
+
+.sync-title {
+  color: rgba(231, 211, 177, .95);
+  font-size: clamp(.48rem, .94vw, 1.05rem);
+  line-height: 1;
+}
+
+.sync-status {
+  font-size: clamp(.42rem, .72vw, .84rem);
+  line-height: 1;
+}
+
+.sync-status.is-connected {
+  color: var(--green);
+  text-shadow:
+    0 0 8px rgba(134, 215, 93, .45),
+    0 0 10px rgba(0, 0, 0, .9);
+}
+
+.sync-status.is-disconnected {
+  color: rgba(218, 210, 195, .62);
+}
+
+.sync-updated {
+  color: rgba(218, 210, 195, .62);
+  font-size: clamp(.34rem, .56vw, .68rem);
+  line-height: 1;
+}
+
+.kiwi-reaction {
+  position: absolute;
+  left: 63.2%;
+  top: 16.5%;
+  width: 20%;
+  height: 25%;
+  z-index: 2;
+  pointer-events: none;
+  border-radius: 50%;
+  opacity: 0;
+  transition: opacity 180ms ease, filter 180ms ease;
+  filter: drop-shadow(0 0 18px rgba(141, 85, 255, .18));
+}
+
+.kiwi-reaction::after {
+  content: attr(data-message);
+  position: absolute;
+  right: 0;
+  top: -8%;
+  max-width: 12rem;
+  padding: .42rem .58rem;
+  border: 1px solid rgba(210, 161, 95, .34);
+  border-radius: 12px;
+  background: rgba(8, 6, 4, .72);
+  color: rgba(231, 211, 177, .9);
+  font: 600 clamp(.42rem, .7vw, .78rem)/1.25 Georgia, "Times New Roman", serif;
+  letter-spacing: .04em;
+  text-align: center;
+  box-shadow: 0 0 16px rgba(141, 85, 255, .16);
+  backdrop-filter: blur(3px);
+}
+
+body.kiwi-reacting .kiwi-reaction {
+  opacity: 1;
+}
+
+@media (max-width: 800px) {
+  .hub-page {
+    width: 100vw;
+  }
+}

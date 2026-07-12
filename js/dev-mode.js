@@ -1,10 +1,9 @@
 (() => {
-  const page = document.querySelector('.welcome-page');
-  const hotspots = Array.from(document.querySelectorAll('.hotspot'));
-  if (!page || !hotspots.length) return;
+  const page = document.querySelector('.nest-art-page, .welcome-page, .community-page, .hub-page, .shop-page');
+  if (!page) return;
 
   const STORAGE_KEY = `nest-dev-layout:${location.pathname}`;
-  const SNAP_STEP = 0.10; // percentage units
+  const SNAP_STEP = 0.10;
   const MIN_SIZE = 1;
 
   let devOn = false;
@@ -13,26 +12,68 @@
   let snap = false;
   let history = [];
   let historyIndex = -1;
-  let defaults = new Map();
+  const defaults = new Map();
 
-  setupHandles();
+  let targets = getTargets();
+  if (!targets.length) return;
+
+  setupTargets();
   createGrid();
   const ui = createPanel();
   const coords = createCoords();
   const toast = createToast();
 
-  hotspots.forEach(h => defaults.set(h, getBox(h)));
+  targets.forEach(t => defaults.set(t, getBox(t)));
   loadBrowserLayout(false);
   pushHistory();
 
-  function setupHandles() {
-    hotspots.forEach(h => {
-      h.dataset.devId = getId(h);
-      ['nw', 'ne', 'sw', 'se'].forEach(corner => {
-        const handle = document.createElement('span');
-        handle.className = 'dev-resize-handle';
-        handle.dataset.corner = corner;
-        h.appendChild(handle);
+  function getTargets() {
+    const found = Array.from(page.querySelectorAll('.hotspot, .dev-editable, [data-dev-id]'));
+    return found.filter(el => !el.closest('.nest-dev-panel') && el !== page);
+  }
+
+  function setupTargets() {
+    targets.forEach(el => {
+      el.classList.add('nest-dev-target');
+      if (!el.dataset.devId) el.dataset.devId = inferId(el);
+      if (!el.dataset.devLabel) el.dataset.devLabel = labelFromId(el.dataset.devId);
+      if (getComputedStyle(el).position === 'static') el.style.position = 'absolute';
+
+      if (!el.querySelector(':scope > .dev-resize-handle')) {
+        ['nw', 'ne', 'sw', 'se'].forEach(corner => {
+          const handle = document.createElement('span');
+          handle.className = 'dev-resize-handle';
+          handle.dataset.corner = corner;
+          handle.setAttribute('aria-hidden', 'true');
+          el.appendChild(handle);
+        });
+      }
+
+      el.addEventListener('click', e => {
+        if (!devOn) return;
+        e.preventDefault();
+        e.stopPropagation();
+        select(el);
+      });
+
+      el.addEventListener('pointerdown', e => {
+        if (!devOn) return;
+        if (e.button !== 0) return;
+        e.preventDefault();
+        e.stopPropagation();
+        select(el);
+        const r = pageRect();
+        drag = {
+          el,
+          corner: e.target?.dataset?.corner || null,
+          startX: e.clientX,
+          startY: e.clientY,
+          startBox: getBox(el),
+          pageW: r.width,
+          pageH: r.height
+        };
+        el.classList.add('is-dragging');
+        el.setPointerCapture?.(e.pointerId);
       });
     });
   }
@@ -62,8 +103,8 @@
     const panel = document.createElement('aside');
     panel.className = 'nest-dev-panel';
     panel.innerHTML = `
-      <div class="nest-dev-title">The Nest Dev Editor</div>
-      <div class="nest-dev-small">F8 toggles this editor. Drag a hotspot to move it. Drag a corner dot to resize it. Changes are percentage-based, so they scale with the artwork.</div>
+      <div class="nest-dev-title">The Nest UI Editor</div>
+      <div class="nest-dev-small">F8 toggles this editor. Click any outlined item, then drag to move or drag a corner dot to resize. The readout now shows both the editor ID and the exact CSS selector.</div>
 
       <div class="nest-dev-section">
         <div class="nest-dev-row three">
@@ -74,7 +115,7 @@
       </div>
 
       <div class="nest-dev-section">
-        <div class="nest-dev-readout" data-readout>No hotspot selected.</div>
+        <div class="nest-dev-readout" data-readout>No item selected.</div>
         <div class="nest-dev-fields">
           <div class="nest-dev-field"><label>Left %</label><input data-field="left" type="number" step="0.01"></div>
           <div class="nest-dev-field"><label>Top %</label><input data-field="top" type="number" step="0.01"></div>
@@ -82,7 +123,7 @@
           <div class="nest-dev-field"><label>Height %</label><input data-field="height" type="number" step="0.01"></div>
         </div>
         <div class="nest-dev-row">
-          <button type="button" data-action="copy-selected">Copy Selected CSS</button>
+          <button type="button" data-action="copy-selected">Copy Selected Override</button>
           <button type="button" data-action="reset-selected">Reset Selected</button>
         </div>
       </div>
@@ -104,7 +145,7 @@
           <button type="button" data-action="undo">Undo</button>
           <button type="button" data-action="redo">Redo</button>
         </div>
-        <div class="nest-dev-output" data-output>Permanent save: click Copy All CSS, then paste the generated hotspot rules into css/welcome.css.</div>
+        <div class="nest-dev-output" data-output>Permanent save: click Copy All CSS and paste the generated override block at the very bottom of this page's CSS file. Replace only an older F8 override block; do not replace the original styled rules.</div>
       </div>
 
       <div class="nest-dev-section nest-dev-small">
@@ -117,6 +158,7 @@
     panel.querySelectorAll('[data-field]').forEach(input => {
       input.addEventListener('change', applyInputFields);
       input.addEventListener('input', applyInputFields);
+      input.addEventListener('blur', () => { if (selected) pushHistory(); });
     });
 
     return {
@@ -140,20 +182,93 @@
     }
   }
 
-  function getId(el) {
-    const byClass = Array.from(el.classList).find(c => c.startsWith('hotspot-'));
-    return byClass ? byClass.replace('hotspot-', '') : el.dataset.devLabel || 'hotspot';
+  function usableClasses(el) {
+    const generic = new Set([
+      'hotspot', 'nav-hotspot', 'dev-editable', 'nest-dev-target',
+      'is-selected', 'is-dragging', 'is-current'
+    ]);
+
+    return Array.from(el.classList).filter(c => !generic.has(c) && !c.startsWith('dev-'));
   }
 
+  function bestClass(el) {
+    const classes = usableClasses(el);
+    const priority = [
+      c => c.startsWith('nav-') && c !== 'nav-hotspot',
+      c => c.includes('hotspot') && c !== 'hotspot',
+      c => c.startsWith(`${pageName()}-`),
+      c => c.includes('panel'),
+      c => c.includes('card'),
+      c => c.includes('goal'),
+      c => c.includes('sync'),
+      c => c.includes('items'),
+      c => c.includes('balance'),
+      c => c.includes('daily'),
+      c => c.includes('seller')
+    ];
+
+    for (const test of priority) {
+      const match = classes.find(test);
+      if (match) return match;
+    }
+    return classes[0] || null;
+  }
+
+  function slugFromText(text) {
+    return String(text || '')
+      .trim()
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+  }
+
+  function inferId(el) {
+    if (el.id) return el.id;
+    if (el.dataset.devId) return el.dataset.devId;
+
+    const cls = bestClass(el);
+    if (cls) return cls;
+
+    const label = slugFromText(el.dataset.devLabel || el.getAttribute('aria-label') || el.textContent);
+    return label || `dev-item-${targets.indexOf(el) + 1}`;
+  }
+
+  function getId(el) { return el.dataset.devId || inferId(el); }
+  function labelFromId(id) { return String(id).replace(/[-_]/g, ' ').toUpperCase(); }
+
   function selectorFor(el) {
-    const cls = Array.from(el.classList).find(c => c.startsWith('hotspot-'));
-    return cls ? `.${cls}` : `.hotspot[data-dev-id="${getId(el)}"]`;
+    if (el.dataset.devSelector) return el.dataset.devSelector;
+    if (el.id) return `#${el.id}`;
+
+    const cls = bestClass(el);
+    if (cls) return `.${cls}`;
+
+    if (el.dataset.devId) return `[data-dev-id="${el.dataset.devId}"]`;
+    return `[data-dev-id="${getId(el)}"]`;
   }
 
   function pageRect() { return page.getBoundingClientRect(); }
 
   function getBox(el) {
     const r = pageRect();
+    const style = getComputedStyle(el);
+    const leftPx = parseFloat(style.left);
+    const topPx = parseFloat(style.top);
+    const widthPx = parseFloat(style.width);
+    const heightPx = parseFloat(style.height);
+
+    // Use the element's actual CSS layout values rather than getBoundingClientRect().
+    // This deliberately ignores hover transforms such as translateY(), which used
+    // to make the editor readout disagree with the values in the CSS file.
+    if ([leftPx, topPx, widthPx, heightPx].every(Number.isFinite)) {
+      return {
+        left: (leftPx / r.width) * 100,
+        top: (topPx / r.height) * 100,
+        width: (widthPx / r.width) * 100,
+        height: (heightPx / r.height) * 100
+      };
+    }
+
     const er = el.getBoundingClientRect();
     return {
       left: ((er.left - r.left) / r.width) * 100,
@@ -180,6 +295,7 @@
       width: Number(box.width),
       height: Number(box.height)
     };
+    Object.keys(b).forEach(k => { if (!Number.isFinite(b[k])) b[k] = 0; });
     if (snap) {
       b.left = snapVal(b.left);
       b.top = snapVal(b.top);
@@ -197,26 +313,41 @@
   function snapVal(v) { return Math.round(v / SNAP_STEP) * SNAP_STEP; }
 
   function select(el) {
-    hotspots.forEach(h => h.classList.remove('is-selected'));
+    targets.forEach(t => t.classList.remove('is-selected'));
     selected = el;
     selected.classList.add('is-selected');
     updatePanel();
   }
 
   function clearSelected() {
-    hotspots.forEach(h => h.classList.remove('is-selected', 'is-dragging'));
+    targets.forEach(t => t.classList.remove('is-selected', 'is-dragging'));
     selected = null;
     updatePanel();
   }
 
   function updatePanel() {
     if (!selected) {
-      ui.readout.textContent = 'No hotspot selected.';
+      ui.readout.textContent = 'No item selected.';
       Object.values(ui.fields).forEach(f => f.value = '');
       return;
     }
     const b = getBox(selected);
-    ui.readout.textContent = `${selected.dataset.devLabel || getId(selected)}\nleft: ${b.left.toFixed(2)}%\ntop: ${b.top.toFixed(2)}%\nwidth: ${b.width.toFixed(2)}%\nheight: ${b.height.toFixed(2)}%`;
+    const label = selected.dataset.devLabel || labelFromId(getId(selected));
+    const selector = selectorFor(selected);
+    const classes = Array.from(selected.classList)
+      .filter(name => !name.startsWith('nest-dev-') && !name.startsWith('dev-') && !['is-selected', 'is-dragging'].includes(name))
+      .map(name => `.${name}`)
+      .join(' ');
+    ui.readout.textContent = `Name: ${label}
+Editor ID: ${getId(selected)}
+CSS selector: ${selector}
+HTML classes: ${classes || '(none)'}
+Values: CSS layout (visual transforms ignored)
+
+left: ${b.left.toFixed(2)}%
+top: ${b.top.toFixed(2)}%
+width: ${b.width.toFixed(2)}%
+height: ${b.height.toFixed(2)}%`;
     ui.fields.left.value = b.left.toFixed(2);
     ui.fields.top.value = b.top.toFixed(2);
     ui.fields.width.value = b.width.toFixed(2);
@@ -233,41 +364,6 @@
     });
   }
 
-  function commitInputs() {
-    if (selected) pushHistory();
-  }
-  Object.values(ui.fields).forEach(input => input.addEventListener('blur', commitInputs));
-
-  hotspots.forEach(el => {
-    el.addEventListener('click', e => {
-      if (!devOn) return;
-      e.preventDefault();
-      e.stopPropagation();
-      select(el);
-    });
-
-    el.addEventListener('pointerdown', e => {
-      if (!devOn) return;
-      e.preventDefault();
-      e.stopPropagation();
-      select(el);
-
-      const r = pageRect();
-      const corner = e.target?.dataset?.corner || null;
-      drag = {
-        el,
-        corner,
-        startX: e.clientX,
-        startY: e.clientY,
-        startBox: getBox(el),
-        pageW: r.width,
-        pageH: r.height
-      };
-      el.classList.add('is-dragging');
-      el.setPointerCapture?.(e.pointerId);
-    });
-  });
-
   window.addEventListener('pointermove', e => {
     updateCoords(e);
     if (!devOn || !drag) return;
@@ -282,50 +378,33 @@
     } else {
       if (drag.corner.includes('e')) b.width += dx;
       if (drag.corner.includes('s')) b.height += dy;
-      if (drag.corner.includes('w')) {
-        b.left += dx;
-        b.width -= dx;
-      }
-      if (drag.corner.includes('n')) {
-        b.top += dy;
-        b.height -= dy;
-      }
+      if (drag.corner.includes('w')) { b.left += dx; b.width -= dx; }
+      if (drag.corner.includes('n')) { b.top += dy; b.height -= dy; }
     }
     setBox(drag.el, b);
   });
 
   window.addEventListener('pointerup', () => {
-    if (drag) {
-      drag.el.classList.remove('is-dragging');
-      drag = null;
-      pushHistory();
-      updatePanel();
-    }
+    if (!drag) return;
+    drag.el.classList.remove('is-dragging');
+    drag = null;
+    pushHistory();
+    updatePanel();
   });
 
   document.addEventListener('keydown', e => {
-    if (e.key === 'F8') {
-      e.preventDefault();
-      setDev(!devOn);
-      return;
-    }
+    if (e.key === 'F8') { e.preventDefault(); setDev(!devOn); return; }
     if (!devOn) return;
     if (e.key === 'Escape') { setDev(false); return; }
 
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 's') {
-      e.preventDefault();
-      saveBrowserLayout();
-      return;
+      e.preventDefault(); saveBrowserLayout(); return;
     }
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'c' && selected) {
-      e.preventDefault();
-      copy(cssFor(selected), 'Selected CSS copied');
-      return;
+      e.preventDefault(); copy(selectedCss(selected), 'Selected override copied'); return;
     }
     if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'z') {
-      e.preventDefault();
-      if (e.shiftKey) redo(); else undo();
-      return;
+      e.preventDefault(); e.shiftKey ? redo() : undo(); return;
     }
 
     if (selected && ['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'].includes(e.key)) {
@@ -366,28 +445,32 @@
       btn.classList.toggle('is-active', snap);
       showToast(snap ? 'Snap On' : 'Snap Off');
     }
-    if (action === 'copy-selected') selected ? copy(cssFor(selected), 'Selected CSS copied') : showToast('Select a hotspot first');
+    if (action === 'copy-selected') selected ? copy(selectedCss(selected), 'Selected override copied') : showToast('Select an item first');
     if (action === 'reset-selected') resetSelected();
     if (action === 'save-browser') saveBrowserLayout();
     if (action === 'load-browser') loadBrowserLayout(true);
     if (action === 'clear-browser') clearBrowserLayout();
-    if (action === 'copy-all') copy(allCss(), 'All hotspot CSS copied');
-    if (action === 'download-css') download('welcome-hotspots-css-patch.css', allCss());
-    if (action === 'download-json') download('welcome-hotspot-layout.json', JSON.stringify(getLayout(), null, 2));
+    if (action === 'copy-all') copy(allCss(), 'All CSS copied');
+    if (action === 'download-css') download(`${pageName()}-f8-layout-overrides.css`, allCss());
+    if (action === 'download-json') download(`${pageName()}-dev-layout.json`, JSON.stringify(getLayout(), null, 2));
     if (action === 'undo') undo();
     if (action === 'redo') redo();
   }
 
+  function pageName() {
+    return (location.pathname.split('/').pop() || 'index').replace(/\.html$/i, '') || 'index';
+  }
+
   function getLayout() {
     const layout = {};
-    hotspots.forEach(h => layout[getId(h)] = roundBox(getBox(h)));
+    targets.forEach(t => layout[getId(t)] = roundBox(getBox(t)));
     return layout;
   }
 
   function applyLayout(layout) {
-    hotspots.forEach(h => {
-      const b = layout[getId(h)];
-      if (b) setBox(h, b);
+    targets.forEach(t => {
+      const b = layout[getId(t)];
+      if (b) setBox(t, b);
     });
     updatePanel();
   }
@@ -403,25 +486,45 @@
 
   function cssFor(el) {
     const b = roundBox(getBox(el));
-    return `${selectorFor(el)} {\n  left: ${b.left.toFixed(2)}%;\n  top: ${b.top.toFixed(2)}%;\n  width: ${b.width.toFixed(2)}%;\n  height: ${b.height.toFixed(2)}%;\n}`;
+    const label = el.dataset.devLabel || labelFromId(getId(el));
+    return `/* F8: ${label} | editor ID: ${getId(el)} */
+${selectorFor(el)} {
+  left: ${b.left.toFixed(2)}%;
+  top: ${b.top.toFixed(2)}%;
+  width: ${b.width.toFixed(2)}%;
+  height: ${b.height.toFixed(2)}%;
+}`;
+  }
+
+  function selectedCss(el) {
+    return `/* Paste this rule at the VERY BOTTOM of css/${pageName()}.css.
+   Do not replace the original selector block; this overrides position and size only. */
+
+${cssFor(el)}`;
   }
 
   function allCss() {
-    return `/* The Nest Welcome Page hotspot positions.\n   Paste these rules into css/welcome.css, replacing the existing hotspot position rules. */\n\n${hotspots.map(cssFor).join('\n\n')}`;
+    const pageId = pageName().toUpperCase();
+    return `/* === THE NEST F8 LAYOUT OVERRIDES: ${pageId} START ===
+   Paste this entire block at the VERY BOTTOM of css/${pageName()}.css.
+   These rules override only position and size; they do not remove backgrounds,
+   borders, animation, typography, hover effects, or other existing styling.
+   On the next export, replace only the previous block between these markers. */
+
+${targets.map(cssFor).join('\n\n')}
+
+/* === THE NEST F8 LAYOUT OVERRIDES: ${pageId} END === */`;
   }
 
   function saveBrowserLayout() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(getLayout()));
-    showOutput('Browser layout saved. This survives refreshes on this computer only. For a permanent project save, use Copy All CSS and paste it into css/welcome.css.');
+    showOutput('Browser layout saved. This survives refreshes on this computer only. For a permanent project save, use Copy All CSS and paste the override block at the bottom of the matching page CSS file. Never replace the original styled selector block.');
     showToast('Browser Layout Saved');
   }
 
   function loadBrowserLayout(showMessage) {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) {
-      if (showMessage) showToast('No Browser Layout Found');
-      return;
-    }
+    if (!raw) { if (showMessage) showToast('No Browser Layout Found'); return; }
     try {
       applyLayout(JSON.parse(raw));
       pushHistory();
@@ -438,7 +541,7 @@
   }
 
   function resetSelected() {
-    if (!selected) { showToast('Select a hotspot first'); return; }
+    if (!selected) { showToast('Select an item first'); return; }
     setBox(selected, defaults.get(selected), true);
     showToast('Selected Reset');
   }
@@ -449,10 +552,7 @@
     history = history.slice(0, historyIndex + 1);
     history.push(snapshot);
     historyIndex = history.length - 1;
-    if (history.length > 80) {
-      history.shift();
-      historyIndex--;
-    }
+    if (history.length > 80) { history.shift(); historyIndex--; }
   }
 
   function undo() {
@@ -494,9 +594,7 @@
     showToast('Downloaded');
   }
 
-  function showOutput(text) {
-    ui.output.textContent = text;
-  }
+  function showOutput(text) { ui.output.textContent = text; }
 
   let toastTimer = null;
   function showToast(message) {

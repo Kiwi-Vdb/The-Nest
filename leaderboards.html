@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shinies Leaderboard | The Nest</title>
+  <link rel="stylesheet" href="./css/leaderboards.css">
+  <link rel="stylesheet" href="./css/dev-mode.css">
+</head>
+<body>
+  <main class="leaderboards-page nest-art-page" aria-label="The Nest Shinies leaderboard">
+    <img class="leaderboards-bg" src="./assets/backgrounds/community-bg.png?v=community-final-20260708" alt="The Nest Community room">
+
+    <nav aria-label="Leaderboard page navigation">
+      <a class="hotspot nav-hotspot nav-hub" href="hub.html" aria-label="Open Hub" data-dev-label="NAV HUB"></a>
+      <a class="hotspot nav-hotspot nav-twitch" href="twitch.html" aria-label="Open Twitch page" data-dev-label="NAV TWITCH"></a>
+      <a class="hotspot nav-hotspot nav-discord" href="discord.html" aria-label="Open Discord page" data-dev-label="NAV DISCORD"></a>
+      <a class="hotspot nav-hotspot nav-community" href="community.html" aria-label="Return to Community" data-dev-label="NAV COMMUNITY"></a>
+      <a class="hotspot nav-hotspot nav-events" href="events.html" aria-label="Open Events" data-dev-label="NAV EVENTS"></a>
+      <a class="hotspot nav-hotspot nav-shop" href="shop.html" aria-label="Open The Nest Shop" data-dev-label="NAV SHOP"></a>
+    </nav>
+
+    <section class="leaderboard-shell dev-editable" data-dev-id="leaderboard-shell" data-dev-label="SHINIES LEADERBOARD" data-dev-selector=".leaderboard-shell">
+      <header class="leaderboard-header">
+        <div>
+          <p class="leaderboard-kicker">The Nest Community</p>
+          <h1>Shinies Leaderboard</h1>
+          <p class="leaderboard-subtitle">Current Shiny balances from Kiwi Birb, ranked from highest to lowest.</p>
+        </div>
+        <a class="back-community" href="community.html">‹ Back to Community</a>
+      </header>
+
+      <div class="leaderboard-summary" aria-label="Leaderboard summary">
+        <div><span>Viewers ranked</span><strong id="leaderboard-total-viewers">0</strong></div>
+        <div><span>Shinies held</span><strong id="leaderboard-total-shinies">0 ✦</strong></div>
+        <div><span>Last update</span><strong id="leaderboard-updated">Waiting for sync</strong></div>
+      </div>
+
+      <div class="leaderboard-table-wrap" id="leaderboard-scroll-region" tabindex="0" aria-label="Shinies rankings">
+        <table class="leaderboard-table">
+          <thead>
+            <tr>
+              <th scope="col">Rank</th>
+              <th scope="col">Viewer</th>
+              <th scope="col">Total Shinies</th>
+            </tr>
+          </thead>
+          <tbody id="leaderboard-body"></tbody>
+        </table>
+        <div id="leaderboard-empty" class="full-leaderboard-empty" hidden>
+          <strong>Waiting for Kiwi Birb</strong>
+          <span>The leaderboard will appear after the next successful Nest Sync.</span>
+        </div>
+      </div>
+
+      <footer class="leaderboard-pager" aria-label="Leaderboard pagination">
+        <button id="leaderboard-prev" type="button">‹ Previous 100</button>
+        <span id="leaderboard-page-label">Page 1 of 1</span>
+        <button id="leaderboard-next" type="button">Next 100 ›</button>
+      </footer>
+    </section>
+
+    <section class="nest-sync-card" aria-label="Nest Sync status">
+      <div id="nest-sync-status" class="sync-status is-connected">Connected</div>
+      <div id="nest-sync-updated" class="sync-updated">Last updated just now</div>
+    </section>
+  </main>
+
+  <script src="./js/leaderboards.js"></script>
+  <script src="./js/dev-mode.js"></script>
+</body>
+</html>

@@ -4,68 +4,52 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Community | The Nest</title>
-  <link rel="stylesheet" href="./css/ndl.css">
+  <link rel="stylesheet" href="./css/community.css">
+  <link rel="stylesheet" href="./css/community-highlights.css">
+  <link rel="stylesheet" href="./css/community-leaderboard.css">
+  <link rel="stylesheet" href="./css/community-activity.css">
+  <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
-<div class="page">
-  <div class="nest-frame">
-    <div class="rail-border"></div>
-    <div class="weave top"></div>
-    <div class="weave bottom"></div>
-    <div class="weave left"></div>
-    <div class="weave right"></div>
+  <main class="community-page nest-art-page" aria-label="The Nest Community page">
+    <img class="community-bg" src="./assets/backgrounds/community-bg.png?v=community-final-20260708" alt="The Nest Community interface">
 
-    <div class="cover-plate plate-top-1"></div>
-    <div class="cover-plate plate-top-2"></div>
-    <div class="cover-plate plate-bottom-1"></div>
-    <div class="cover-plate plate-left-1"></div>
-    <div class="cover-plate plate-right-1"></div>
+    <nav aria-label="Community page navigation">
+      <a class="hotspot nav-hotspot nav-hub" href="hub.html" aria-label="Open Hub" data-dev-label="NAV HUB"></a>
+      <a class="hotspot nav-hotspot nav-twitch" href="twitch.html" aria-label="Open Twitch page" data-dev-label="NAV TWITCH"></a>
+      <a class="hotspot nav-hotspot nav-discord" href="discord.html" aria-label="Open Discord page" data-dev-label="NAV DISCORD"></a>
+      <a class="hotspot nav-hotspot nav-community is-current" href="community.html" aria-label="Community current page" data-dev-label="NAV COMMUNITY"></a>
+      <a class="hotspot nav-hotspot nav-events" href="events.html" aria-label="Open Events" data-dev-label="NAV EVENTS"></a>
+      <a class="hotspot nav-hotspot nav-shop" href="shop.html" aria-label="Open The Nest Shop" data-dev-label="NAV SHOP"></a>
+    </nav>
 
-    <div class="nest-emblem">✦</div>
-<header class="site-header">
-  <a class="brand" href="index.html">
-    <span class="brand-badge">✦</span>
-    <span>
-      <span class="brand-title">The Nest</span>
-      <span class="brand-subtitle">Kiwi Birb Companion</span>
-    </span>
-  </a>
+    <section class="community-panel highlights-panel" aria-label="Community highlights">
+      <div id="community-highlights" class="community-list highlights-list"></div>
+    </section>
 
-  <nav class="nav" aria-label="Main navigation">
-    <a data-nav href="hub.html">HUB</a>
-    <a data-nav href="twitch.html">Twitch</a>
-    <a data-nav href="discord.html">Discord</a>
-    <a data-nav href="community.html">Community</a>
-    <a data-nav href="events.html">Events</a>
-    <a data-nav href="shop.html">Nest Shop</a>
-  </nav>
-</header>
-<main class="main">
+    <section class="community-panel leaderboard-panel" aria-label="Top Shiny earners">
+      <div id="community-leaderboard" class="leaderboard-list"></div>
+      <a class="panel-cta leaderboard-cta" href="leaderboards.html">View Leaderboard <span>›</span></a>
+    </section>
 
-<section class="grid page-layout">
-  <article class="panel span-12">
-    <div class="panel-inner">
-      <div class="room-scene scene-window"></div>
-      <p class="kicker" style="margin-top:22px;">Community Room</p>
-      <h1 class="page-title">Community</h1>
-      <p>Profiles, leaderboards, creations and everything from our amazing flock.</p>
-    </div>
-  </article>
+    <section class="community-panel activity-panel" aria-label="Recent activity">
+      <div id="community-activity" class="activity-list" aria-live="polite"></div>
+      <a class="panel-cta activity-cta" href="events.html">View All Activity <span>›</span></a>
+    </section>
 
-  <article class="panel span-4"><div class="panel-inner"><h2 class="panel-title">Personal Nest</h2><p>Your profile room and unlocks.</p><a class="btn" href="#">View My Nest →</a></div></article>
-  <article class="panel span-4"><div class="panel-inner"><h2 class="panel-title">Leaderboards</h2><div class="data-row"><span>1. KiwiBirbTV</span><strong>125,680</strong></div><div class="data-row"><span>2. ShinyHunter92</span><strong>98,420</strong></div></div></article>
-  <article class="panel span-4"><div class="panel-inner"><h2 class="panel-title">Community Creations</h2><div class="tile-thumb"></div><p>Fan art, screenshots and clips.</p></div></article>
-  <article class="panel span-4"><div class="panel-inner"><h2 class="panel-title">Member Spotlight</h2><p>Highlight a member of the flock.</p></div></article>
-  <article class="panel span-4"><div class="panel-inner"><h2 class="panel-title">Community Calendar</h2><div class="data-row"><span>Community Night</span><strong>Friday</strong></div><div class="data-row"><span>Boss Battle</span><strong>Sunday</strong></div></div></article>
-  <article class="panel span-4"><div class="panel-inner"><h2 class="panel-title">Community Stats</h2><div class="data-row"><span>Members</span><strong>1,256</strong></div><div class="data-row"><span>Predictions Made</span><strong>28,450</strong></div></div></article>
-</section>
+    <section class="community-panel goal-panel" aria-label="Community goal">
+      <div class="goal-copy" id="community-goal-copy"></div>
+      <div class="goal-bar" aria-hidden="true"><span id="community-goal-bar"></span></div>
+      <div class="goal-meta" id="community-goal-meta"></div>
+    </section>
 
-<p class="bottom-note">Different birds. One flock. Stronger together.</p>
+    <section class="nest-sync-card" aria-label="Nest Sync status">
+      <div id="nest-sync-status" class="sync-status is-connected">Connected</div>
+      <div id="nest-sync-updated" class="sync-updated">Last updated just now</div>
+    </section>
+  </main>
 
-</main>
-</div>
-</div>
-<script src="./js/main.js"></script>
-
+  <script src="./js/community.js"></script>
+  <script src="./js/dev-mode.js"></script>
 </body>
 </html>

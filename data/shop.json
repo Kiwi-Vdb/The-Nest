@@ -4,22 +4,51 @@
     {
       "name": "Kiwi Hoodie",
       "type": "Cosmetic",
-      "price": 5000
+      "rarity": "Legendary",
+      "price": 5000,
+      "icon": "☘"
     },
     {
       "name": "Nestling Emote",
       "type": "Emote",
-      "price": 2500
+      "rarity": "Epic",
+      "price": 2500,
+      "icon": "🐥"
     },
     {
       "name": "Golden Nest",
       "type": "Badge",
-      "price": 10000
+      "rarity": "Legendary",
+      "price": 10000,
+      "icon": "🥚"
     },
     {
       "name": "Shiny Satchel",
       "type": "Profile",
-      "price": 3500
+      "rarity": "Epic",
+      "price": 3500,
+      "icon": "🎒"
+    }
+  ],
+  "dailySpecial": {
+    "name": "Shiny Boost (1hr)",
+    "rarity": "Rare",
+    "price": 1250,
+    "oldPrice": 2000,
+    "timer": "23h 45m left"
+  },
+  "topSellers": [
+    {
+      "name": "Kiwi Hoodie",
+      "price": 5000
+    },
+    {
+      "name": "Golden Nest",
+      "price": 10000
+    },
+    {
+      "name": "Nestling Emote",
+      "price": 2500
     }
   ]
 }

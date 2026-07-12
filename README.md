@@ -38,3 +38,37 @@ http://localhost:8000
 ## How to upload
 
 Copy the contents of this folder into your GitHub repository, commit, and push.
+
+## Kiwi Birb prediction connection
+
+Keep this `The Nest` folder beside the `Kiwi Birb` folder. Kiwi Birb v3.4.3 and later writes the current public prediction state to:
+
+```text
+data/prediction.json
+```
+
+The Twitch page refreshes that file every 15 seconds. Kiwi Birb's Nest Sync commits and pushes it automatically after prediction changes.
+
+## Kiwi Birb recent clips connection
+
+Kiwi Birb v3.4.4 and later refreshes the five newest public Twitch clips in:
+
+```text
+data/twitch.json
+```
+
+Each clip window on `twitch.html` is a separate F8-editable element. Clicking a populated card opens a larger Twitch clip player; the card also shows the clip title, duration, and view count.
+
+## Twitch Current Game (BAR)
+
+Kiwi Birb v3.5.0 writes the current Beyond All Reason lobby into the `game`
+object in `data/twitch.json`. The Twitch page supports these states:
+
+- `in_lobby`
+- `in_game`
+- `not_in_lobby`
+- `unavailable`
+
+Map previews are cached automatically under `assets/maps/`; no manual map image
+collection is required. The entire Current Game card remains one movable and
+resizable F8 element using the selector `.current-game-card`.

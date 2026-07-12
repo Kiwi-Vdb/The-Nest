@@ -4,105 +4,32 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>HUB | The Nest</title>
-  <link rel="stylesheet" href="./css/ndl.css">
+  <link rel="stylesheet" href="./css/hub.css">
+  <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
-<div class="page">
-  <div class="nest-frame">
-    <div class="rail-border"></div>
-    <div class="weave top"></div>
-    <div class="weave bottom"></div>
-    <div class="weave left"></div>
-    <div class="weave right"></div>
+  <main class="hub-page nest-art-page" aria-label="The Nest HUB page">
+    <img class="hub-bg" src="./assets/backgrounds/hub-bg.png" alt="The Nest HUB interface">
 
-    <div class="cover-plate plate-top-1"></div>
-    <div class="cover-plate plate-top-2"></div>
-    <div class="cover-plate plate-bottom-1"></div>
-    <div class="cover-plate plate-left-1"></div>
-    <div class="cover-plate plate-right-1"></div>
+    <!-- Live Nest Sync text overlay. The background contains the panel artwork; this gives us data-ready text for later. -->
+    <section class="nest-sync-card" aria-label="Nest Sync status">
+      <div class="sync-title">Nest Sync</div>
+      <div id="nest-sync-status" class="sync-status is-connected">Connected</div>
+      <div id="nest-sync-updated" class="sync-updated">Last updated just now</div>
+    </section>
 
-    <div class="nest-emblem">✦</div>
-<header class="site-header">
-  <a class="brand" href="index.html">
-    <span class="brand-badge">✦</span>
-    <span>
-      <span class="brand-title">The Nest</span>
-      <span class="brand-subtitle">Kiwi Birb Companion</span>
-    </span>
-  </a>
+    <div class="kiwi-reaction" aria-hidden="true"></div>
 
-  <nav class="nav" aria-label="Main navigation">
-    <a data-nav href="hub.html">HUB</a>
-    <a data-nav href="twitch.html">Twitch</a>
-    <a data-nav href="discord.html">Discord</a>
-    <a data-nav href="community.html">Community</a>
-    <a data-nav href="events.html">Events</a>
-    <a data-nav href="shop.html">Nest Shop</a>
-  </nav>
-</header>
-<main class="main">
+    <!-- Invisible click zones over the artwork buttons. Press F8 to align them in Developer Mode. -->
+    <a class="hotspot hotspot-twitch" href="twitch.html" aria-label="Open Twitch page" data-dev-label="TWITCH" data-kiwi-reaction="Watching the stream room."></a>
+    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Open Discord page" data-dev-label="DISCORD" data-kiwi-reaction="Join the flock."></a>
+    <a class="hotspot hotspot-community" href="community.html" aria-label="Open Community" data-dev-label="COMMUNITY" data-kiwi-reaction="The flock is home."></a>
+    <a class="hotspot hotspot-events" href="events.html" aria-label="Open Events" data-dev-label="EVENTS" data-kiwi-reaction="Something is coming up."></a>
+    <a class="hotspot hotspot-shop" href="shop.html" aria-label="Open The Nest Shop" data-dev-label="SHOP" data-kiwi-reaction="Shinies accepted here."></a>
+    <a class="hotspot hotspot-my-nest" href="index.html" aria-label="Open My Nest" data-dev-label="MY NEST" data-kiwi-reaction="Your home in The Nest."></a>
+  </main>
 
-<section class="grid page-layout">
-  <article class="panel span-12">
-    <div class="panel-inner">
-      <div class="room-scene scene-dirt"></div>
-      <p class="kicker" style="margin-top:22px;">Central Burrow</p>
-      <h1 class="page-title">The HUB</h1>
-      <p>Everything happening in The Nest. Your community. Your home.</p>
-    </div>
-  </article>
-
-  <article class="panel span-3">
-    <div class="panel-inner">
-      <p class="kicker">Live Room</p>
-      <h2 class="panel-title">Twitch</h2>
-      <p>Live stream status, clips, predictions and current BAR game.</p>
-      <a class="btn" href="twitch.html">Enter Twitch →</a>
-    </div>
-  </article>
-
-  <article class="panel span-3">
-    <div class="panel-inner">
-      <p class="kicker">Comms Room</p>
-      <h2 class="panel-title">Discord</h2>
-      <p>Join the flock, chat and connect with the community.</p>
-      <a class="btn" href="discord.html">Enter Discord →</a>
-    </div>
-  </article>
-
-  <article class="panel span-3">
-    <div class="panel-inner">
-      <p class="kicker">The Flock</p>
-      <h2 class="panel-title">Community</h2>
-      <p>Personal nests, leaderboards, creations and stats.</p>
-      <a class="btn" href="community.html">Enter Community →</a>
-    </div>
-  </article>
-
-  <article class="panel span-3">
-    <div class="panel-inner">
-      <p class="kicker">Gatherings</p>
-      <h2 class="panel-title">Events</h2>
-      <p>Upcoming events, current event and signups.</p>
-      <a class="btn" href="events.html">Enter Events →</a>
-    </div>
-  </article>
-
-  <article class="panel span-12">
-    <div class="panel-inner">
-      <h2 class="panel-title">The Nest Shop</h2>
-      <p>Spend Shinies, unlock cosmetics, support the flock and make The Nest yours.</p>
-      <a class="btn" href="shop.html">Enter Shop →</a>
-    </div>
-  </article>
-</section>
-
-<p class="bottom-note">You're not just a viewer. You're family. Thank you for being part of The Nest.</p>
-
-</main>
-</div>
-</div>
-<script src="./js/main.js"></script>
-
+  <script src="./js/hub.js"></script>
+  <script src="./js/dev-mode.js"></script>
 </body>
 </html>

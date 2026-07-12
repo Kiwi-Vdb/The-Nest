@@ -11,12 +11,19 @@
   <main class="welcome-page" aria-label="The Nest welcome page">
     <img class="welcome-bg" src="./assets/backgrounds/welcome-bg.png" alt="The Nest welcome interface">
 
+    <!-- Live text overlay. Values currently come from data/stream-status.json, with a safe offline fallback. -->
+    <section class="stream-status-card" aria-label="Twitch stream status">
+      <div id="stream-status" class="stream-status is-offline">● OFFLINE</div>
+      <div id="viewer-count" class="viewer-count">0 Viewers</div>
+    </section>
+
     <!-- Invisible click zones over the artwork buttons. Press F8 to align them in Developer Mode. -->
-    <a class="hotspot hotspot-watch" href="twitch.html" aria-label="Watch on Twitch" data-dev-label="WATCH"></a>
-    <a class="hotspot hotspot-discord" href="discord.html" aria-label="Join Discord" data-dev-label="DISCORD"></a>
+    <a class="hotspot hotspot-watch" href="https://www.twitch.tv/itsvdb" target="_blank" rel="noopener noreferrer" aria-label="Watch ItsVdb on Twitch" data-dev-label="WATCH"></a>
+    <a class="hotspot hotspot-discord" href="https://discord.gg/KGE8Q6GW6a" target="_blank" rel="noopener noreferrer" aria-label="Join The Nest Discord" data-dev-label="DISCORD"></a>
     <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub" data-dev-label="ENTER HUB"></a>
   </main>
 
+  <script src="./js/welcome.js"></script>
   <script src="./js/dev-mode.js"></script>
 </body>
 </html>

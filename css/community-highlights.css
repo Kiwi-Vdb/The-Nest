@@ -1,0 +1,40 @@
+/* Daily Community Highlights additions.
+   Kept separate from community.css so F8/manual position overrides remain untouched. */
+.highlight-item > div:last-child {
+  min-width: 0;
+}
+
+.highlight-title {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.highlight-copy {
+  display: -webkit-box;
+  overflow: hidden;
+  line-clamp: 3;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.highlights-empty {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4%;
+  padding: 0 9%;
+  text-align: center;
+  color: var(--muted);
+  font-size: clamp(.42rem, .75vw, .82rem);
+  line-height: 1.35;
+}
+
+.highlights-empty strong {
+  color: var(--purple-bright);
+  font-size: clamp(.52rem, .95vw, 1rem);
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}

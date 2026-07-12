@@ -4,98 +4,193 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Twitch | The Nest</title>
-  <link rel="stylesheet" href="./css/ndl.css">
+  <link rel="stylesheet" href="./css/twitch.css">
+  <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
-<div class="page">
-  <div class="nest-frame">
-    <div class="rail-border"></div>
-    <div class="weave top"></div>
-    <div class="weave bottom"></div>
-    <div class="weave left"></div>
-    <div class="weave right"></div>
+  <main class="twitch-page nest-art-page" aria-label="Twitch page">
+    <img class="twitch-bg" src="./assets/backgrounds/twitch-bg.png?v=twitch-approved-20260708" alt="The Nest Twitch room interface">
 
-    <div class="cover-plate plate-top-1"></div>
-    <div class="cover-plate plate-top-2"></div>
-    <div class="cover-plate plate-bottom-1"></div>
-    <div class="cover-plate plate-left-1"></div>
-    <div class="cover-plate plate-right-1"></div>
+    <nav aria-label="Twitch page navigation">
+      <a class="hotspot nav-hotspot nav-hub" href="hub.html" aria-label="Open Hub" data-dev-id="nav-hub" data-dev-label="NAV HUB" data-dev-selector=".nav-hub"></a>
+      <a class="hotspot nav-hotspot nav-twitch is-current" href="twitch.html" aria-label="Twitch current page" data-dev-id="nav-twitch" data-dev-label="NAV TWITCH" data-dev-selector=".nav-twitch"></a>
+      <a class="hotspot nav-hotspot nav-discord" href="discord.html" aria-label="Open Discord page" data-dev-id="nav-discord" data-dev-label="NAV DISCORD" data-dev-selector=".nav-discord"></a>
+      <a class="hotspot nav-hotspot nav-community" href="community.html" aria-label="Open Community" data-dev-id="nav-community" data-dev-label="NAV COMMUNITY" data-dev-selector=".nav-community"></a>
+      <a class="hotspot nav-hotspot nav-events" href="events.html" aria-label="Open Events" data-dev-id="nav-events" data-dev-label="NAV EVENTS" data-dev-selector=".nav-events"></a>
+      <a class="hotspot nav-hotspot nav-shop" href="shop.html" aria-label="Open The Nest Shop" data-dev-id="nav-shop" data-dev-label="NAV SHOP" data-dev-selector=".nav-shop"></a>
+    </nav>
 
-    <div class="nest-emblem">✦</div>
-<header class="site-header">
-  <a class="brand" href="index.html">
-    <span class="brand-badge">✦</span>
-    <span>
-      <span class="brand-title">The Nest</span>
-      <span class="brand-subtitle">Kiwi Birb Companion</span>
-    </span>
-  </a>
+    <section class="stream-monitor dev-editable is-offline" data-dev-id="stream-monitor" data-dev-label="STREAM MONITOR" data-dev-selector=".stream-monitor" aria-label="Twitch stream monitor">
+      <div class="stream-monitor-screen">
+        <iframe
+          id="stream-player"
+          class="stream-player"
+          title="Live Twitch stream"
+          width="533"
+          height="300"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+          loading="eager"
+          tabindex="-1"
+          aria-hidden="true">
+        </iframe>
+        <div id="stream-offline" class="stream-offline" role="status" aria-live="polite">
+          <span>Offline</span>
+        </div>
+        <div class="stream-monitor-glass" aria-hidden="true"></div>
+      </div>
+      <a id="stream-monitor-link" class="stream-monitor-link" href="https://www.twitch.tv/itsvdb" target="_blank" rel="noopener noreferrer" aria-label="Open the live stream on Twitch"></a>
+    </section>
 
-  <nav class="nav" aria-label="Main navigation">
-    <a data-nav href="hub.html">HUB</a>
-    <a data-nav href="twitch.html">Twitch</a>
-    <a data-nav href="discord.html">Discord</a>
-    <a data-nav href="community.html">Community</a>
-    <a data-nav href="events.html">Events</a>
-    <a data-nav href="shop.html">Nest Shop</a>
-  </nav>
-</header>
-<main class="main">
+    <a class="hotspot watch-hotspot" href="https://www.twitch.tv/itsvdb" target="_blank" rel="noopener noreferrer" aria-label="Watch Twitch stream" data-dev-id="watch-button" data-dev-label="WATCH STREAM BUTTON" data-dev-selector=".watch-hotspot"></a>
+    <a class="hotspot clips-hotspot" href="https://www.twitch.tv/itsvdb/clips" target="_blank" rel="noopener noreferrer" aria-label="View all Twitch clips" data-dev-id="clips-button" data-dev-label="VIEW ALL CLIPS BUTTON" data-dev-selector=".clips-hotspot"></a>
 
-<section class="grid page-layout">
-  <article class="panel span-12">
-    <div class="panel-inner">
-      <div class="room-scene scene-dirt"></div>
-      <p class="kicker" style="margin-top:22px;">Twitch Room</p>
-      <h1 class="page-title">Twitch</h1>
-      <p>Live stream status, recent clips and everything live.</p>
-    </div>
-  </article>
+    <section class="live-status-card dev-editable is-offline" data-dev-id="live-status-card" data-dev-label="LIVE STATUS CARD" data-dev-selector=".live-status-card" aria-label="Twitch stream status">
+      <div class="live-main" role="status" aria-live="polite">
+        <span class="live-dot is-offline" id="live-dot" aria-hidden="true"></span>
+        <span id="live-status-text">OFFLINE</span>
+      </div>
 
-  <article class="panel span-4">
-    <div class="panel-inner">
-      <p class="kicker">Live Status</p>
-      <h2 class="panel-title status"><span class="status-dot" data-live-dot></span><span data-live-status>Loading...</span></h2>
-      <p>Streaming to The Nest. Join the flock and say hi in chat.</p>
-      <div class="data-row"><span>Viewers</span><strong data-viewers>0</strong></div>
-      <a class="btn" href="#">Watch Now →</a>
-    </div>
-  </article>
+      <div class="stream-title-block">
+        <span class="stream-title-label">Stream title</span>
+        <h2 id="stream-title">No stream currently live</h2>
+      </div>
 
-  <article class="panel span-4">
-    <div class="panel-inner">
-      <p class="kicker">Current Game</p>
-      <h2 class="panel-title" data-game>BAR Lobby</h2>
-      <p>Hanging out in the lobby, getting ready for the next raid.</p>
-      <a class="btn" href="#">About BAR →</a>
-    </div>
-  </article>
+      <div class="stream-meta">
+        <span id="channel-name" class="stream-channel">@itsvdb</span>
+        <span id="viewer-count" class="viewer-count">0 viewers</span>
+      </div>
+    </section>
 
-  <article class="panel span-4">
-    <div class="panel-inner">
-      <p class="kicker">Current Prediction</p>
-      <h2 class="panel-title" data-prediction>Loading...</h2>
-      <div class="data-row"><span>Yes</span><strong data-pred-yes>0%</strong></div>
-      <div class="data-row"><span>No</span><strong data-pred-no>0%</strong></div>
-      <div class="data-row"><span>Prize</span><strong data-prize>0 Shinies</strong></div>
-      <a class="btn" href="#">View Predictions →</a>
-    </div>
-  </article>
+    <section class="current-game-card dev-editable is-not-in-lobby" data-dev-id="current-game-card" data-dev-label="CURRENT GAME CARD" data-dev-selector=".current-game-card" aria-label="Current Beyond All Reason lobby">
+      <div class="game-map-frame">
+        <img id="game-map-image" class="game-map-image" alt="" loading="eager" hidden>
+        <div id="game-map-placeholder" class="game-map-placeholder" aria-hidden="true">
+          <span>BAR</span>
+        </div>
+        <span id="game-status" class="game-status" role="status" aria-live="polite">NOT IN LOBBY</span>
+      </div>
 
-  <article class="panel span-12">
-    <div class="panel-inner">
-      <p class="kicker">Recent Clips</p>
-      <div class="clip-grid" data-clips></div>
-    </div>
-  </article>
-</section>
+      <div class="game-copy">
+        <span class="game-eyebrow">Current BAR lobby</span>
+        <h2 id="game-lobby-name">Not in a BAR lobby</h2>
+        <p id="game-map-name" class="game-map-name">Waiting for the next match</p>
+        <div class="game-meta" aria-label="Lobby details">
+          <span id="game-mode" class="game-meta-chip">—</span>
+          <span id="game-player-count" class="game-meta-chip">0 players</span>
+        </div>
+        <p id="game-spectators" class="game-spectators" hidden></p>
+      </div>
+    </section>
 
-<p class="bottom-note">Thank you for being here. You make The Nest what it is.</p>
+    <section class="prediction-card dev-editable is-inactive" data-dev-id="prediction-card" data-dev-label="PREDICTION CARD" data-dev-selector=".prediction-card" aria-label="Current prediction">
+      <div class="prediction-timer" id="prediction-timer" role="status" aria-live="polite">No prediction</div>
+      <h2 id="prediction-question">No prediction open</h2>
+      <div id="prediction-options" class="prediction-options" aria-label="Prediction answers"></div>
+      <div class="prediction-prize" id="prediction-prize">Waiting for the next prediction</div>
+    </section>
 
-</main>
-</div>
-</div>
-<script src="./js/main.js"></script>
-<script src="./js/twitch.js"></script>
+    <section class="clip-windows" aria-label="Five most recent Twitch clips">
+      <button class="clip-window clip-window-1 dev-editable is-empty" type="button" data-clip-index="0" data-dev-id="clip-window-1" data-dev-label="CLIP 1 - NEWEST" data-dev-selector=".clip-window-1" aria-label="Newest Twitch clip is not available yet">
+        <span class="clip-thumb">
+          <img class="clip-image" alt="" loading="lazy">
+          <span class="clip-placeholder">Waiting for clip</span>
+          <span class="clip-play" aria-hidden="true"></span>
+          <span class="clip-duration">0:00</span>
+        </span>
+        <span class="clip-copy">
+          <strong class="clip-title">Newest clip</strong>
+          <span class="clip-views">0 views</span>
+        </span>
+      </button>
+
+      <button class="clip-window clip-window-2 dev-editable is-empty" type="button" data-clip-index="1" data-dev-id="clip-window-2" data-dev-label="CLIP 2" data-dev-selector=".clip-window-2" aria-label="Second newest Twitch clip is not available yet">
+        <span class="clip-thumb">
+          <img class="clip-image" alt="" loading="lazy">
+          <span class="clip-placeholder">Waiting for clip</span>
+          <span class="clip-play" aria-hidden="true"></span>
+          <span class="clip-duration">0:00</span>
+        </span>
+        <span class="clip-copy">
+          <strong class="clip-title">Second newest</strong>
+          <span class="clip-views">0 views</span>
+        </span>
+      </button>
+
+      <button class="clip-window clip-window-3 dev-editable is-empty" type="button" data-clip-index="2" data-dev-id="clip-window-3" data-dev-label="CLIP 3" data-dev-selector=".clip-window-3" aria-label="Third newest Twitch clip is not available yet">
+        <span class="clip-thumb">
+          <img class="clip-image" alt="" loading="lazy">
+          <span class="clip-placeholder">Waiting for clip</span>
+          <span class="clip-play" aria-hidden="true"></span>
+          <span class="clip-duration">0:00</span>
+        </span>
+        <span class="clip-copy">
+          <strong class="clip-title">Third newest</strong>
+          <span class="clip-views">0 views</span>
+        </span>
+      </button>
+
+      <button class="clip-window clip-window-4 dev-editable is-empty" type="button" data-clip-index="3" data-dev-id="clip-window-4" data-dev-label="CLIP 4" data-dev-selector=".clip-window-4" aria-label="Fourth newest Twitch clip is not available yet">
+        <span class="clip-thumb">
+          <img class="clip-image" alt="" loading="lazy">
+          <span class="clip-placeholder">Waiting for clip</span>
+          <span class="clip-play" aria-hidden="true"></span>
+          <span class="clip-duration">0:00</span>
+        </span>
+        <span class="clip-copy">
+          <strong class="clip-title">Fourth newest</strong>
+          <span class="clip-views">0 views</span>
+        </span>
+      </button>
+
+      <button class="clip-window clip-window-5 dev-editable is-empty" type="button" data-clip-index="4" data-dev-id="clip-window-5" data-dev-label="CLIP 5" data-dev-selector=".clip-window-5" aria-label="Fifth newest Twitch clip is not available yet">
+        <span class="clip-thumb">
+          <img class="clip-image" alt="" loading="lazy">
+          <span class="clip-placeholder">Waiting for clip</span>
+          <span class="clip-play" aria-hidden="true"></span>
+          <span class="clip-duration">0:00</span>
+        </span>
+        <span class="clip-copy">
+          <strong class="clip-title">Fifth newest</strong>
+          <span class="clip-views">0 views</span>
+        </span>
+      </button>
+    </section>
+
+    <section class="nest-sync-card dev-editable" data-dev-id="nest-sync" data-dev-label="NEST SYNC" data-dev-selector=".nest-sync-card" aria-label="Nest Sync status">
+      <div id="nest-sync-status" class="sync-status is-connected">Connected</div>
+      <div id="nest-sync-updated" class="sync-updated">Last updated just now</div>
+    </section>
+  </main>
+
+  <div id="clip-modal" class="clip-modal" hidden aria-hidden="true">
+    <button class="clip-modal-backdrop" type="button" data-clip-close aria-label="Close clip player"></button>
+    <section class="clip-modal-dialog" role="dialog" aria-modal="true" aria-labelledby="clip-modal-title">
+      <button id="clip-modal-close" class="clip-modal-close" type="button" data-clip-close aria-label="Close clip player">×</button>
+      <div class="clip-player-shell">
+        <iframe
+          id="clip-player"
+          class="clip-player"
+          title="Twitch clip player"
+          width="800"
+          height="450"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+          loading="eager">
+        </iframe>
+      </div>
+      <div class="clip-modal-meta">
+        <div>
+          <h2 id="clip-modal-title">Twitch clip</h2>
+          <p id="clip-modal-views">0 views</p>
+        </div>
+        <a id="clip-modal-link" href="https://www.twitch.tv/itsvdb/clips" target="_blank" rel="noopener noreferrer">Open on Twitch</a>
+      </div>
+    </section>
+  </div>
+
+  <script src="./js/main.js"></script>
+  <script src="./js/twitch.js"></script>
+  <script src="./js/dev-mode.js"></script>
 </body>
 </html>

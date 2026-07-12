@@ -33,6 +33,52 @@ body { overflow-x: hidden; }
   pointer-events: none;
 }
 
+.stream-status-card {
+  position: absolute;
+  left: 7.9%;
+  top: 35.8%;
+  width: 13.8%;
+  min-height: 6%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .28vw;
+  text-align: center;
+  pointer-events: none;
+  z-index: 3;
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.stream-status {
+  font-size: clamp(.58rem, .92vw, 1.05rem);
+  font-weight: 700;
+  line-height: 1;
+  text-shadow: 0 0 12px rgba(0, 0, 0, .82);
+}
+
+.stream-status.is-live {
+  color: #7dff9b;
+  text-shadow:
+    0 0 10px rgba(125, 255, 155, .58),
+    0 0 18px rgba(141, 85, 255, .22),
+    0 0 12px rgba(0, 0, 0, .82);
+}
+
+.stream-status.is-offline {
+  color: rgba(218, 210, 195, .68);
+  text-shadow: 0 0 10px rgba(0, 0, 0, .9);
+}
+
+.viewer-count {
+  color: rgba(229, 206, 170, .88);
+  font-size: clamp(.48rem, .72vw, .86rem);
+  line-height: 1;
+  text-shadow: 0 0 10px rgba(0, 0, 0, .9);
+}
+
 .hotspot {
   position: absolute;
   display: block;
@@ -69,28 +115,25 @@ body { overflow-x: hidden; }
 }
 
 /* Current estimated positions. Use F8 Developer Mode to fine tune these. */
-/* The Nest Welcome Page hotspot positions.
-   Paste these rules into css/welcome.css, replacing the existing hotspot position rules. */
-
 .hotspot-watch {
   left: 6.24%;
-  top: 58.40%;
-  width: 11.60%;
+  top: 58.24%;
+  width: 11.46%;
   height: 5.56%;
 }
 
 .hotspot-discord {
-  left: 81.56%;
-  top: 58.17%;
-  width: 12.41%;
-  height: 5.72%;
+  left: 81.57%;
+  top: 57.85%;
+  width: 12.45%;
+  height: 6.35%;
 }
 
 .hotspot-hub {
-  left: 40.21%;
-  top: 82.59%;
-  width: 16.00%;
-  height: 3.98%;
+  left: 29.94%;
+  top: 76.53%;
+  width: 30.52%;
+  height: 15.78%;
 }
 
 @media (max-width: 800px) {

@@ -16,14 +16,25 @@ body.nest-dev-on {
   --dev-green: rgba(79, 255, 170, .9);
 }
 
-body.nest-dev-on .hotspot {
+body.nest-dev-on .nest-dev-target {
   outline: 2px solid var(--dev-purple);
   background: rgba(141, 85, 255, .12);
   box-shadow: 0 0 18px rgba(141, 85, 255, .35), inset 0 0 18px rgba(210, 161, 95, .13);
   z-index: 25;
 }
 
-body.nest-dev-on .hotspot::before {
+
+body.nest-dev-on .dev-editable,
+body.nest-dev-on .community-panel,
+body.nest-dev-on .nest-sync-card {
+  pointer-events: auto !important;
+}
+
+body.nest-dev-on .nest-dev-target *:not(.dev-resize-handle) {
+  pointer-events: none;
+}
+
+body.nest-dev-on .nest-dev-target::before {
   content: attr(data-dev-label);
   position: absolute;
   left: 50%;
@@ -41,14 +52,14 @@ body.nest-dev-on .hotspot::before {
   text-shadow: 0 0 8px rgba(141, 85, 255, .8);
 }
 
-body.nest-dev-on .hotspot:hover,
-body.nest-dev-on .hotspot.is-selected {
+body.nest-dev-on .nest-dev-target:hover,
+body.nest-dev-on .nest-dev-target.is-selected {
   outline-color: var(--dev-bronze);
   background: rgba(210, 161, 95, .16);
   box-shadow: 0 0 24px rgba(210, 161, 95, .42), inset 0 0 20px rgba(141, 85, 255, .18);
 }
 
-body.nest-dev-on .hotspot.is-dragging {
+body.nest-dev-on .nest-dev-target.is-dragging {
   cursor: grabbing;
 }
 
