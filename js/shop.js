@@ -367,7 +367,12 @@ function productAvailability(item) {
   if (!item) return { code: "missing", label: "Unavailable", disabled: true };
   if (!shopConfigured()) return { code: "preview", label: "Preview", disabled: true };
   if (owns(item)) return { code: "owned", label: "Owned", disabled: true };
-  if (Number(item.remainingStock) === 0 || Number(item.stock) === 0) {
+  const hasRemainingStock = item.remainingStock !== null && item.remainingStock !== undefined;
+  const hasStockLimit = item.stock !== null && item.stock !== undefined;
+  const soldOut = hasRemainingStock
+    ? Number(item.remainingStock) <= 0
+    : hasStockLimit && Number(item.stock) <= 0;
+  if (soldOut) {
     return { code: "soldout", label: "Sold out", disabled: true };
   }
   if (!shopState.user) return { code: "login", label: "Sign in to buy", disabled: false };
