@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1783884033,
+  "generatedAt": 1783884093,
   "active": true,
-  "status": "open",
+  "status": "closed",
   "id": 1783884033,
   "question": "tester",
   "prize": 100,
   "totalPicks": 0,
   "startedAt": 1783884033,
-  "closedAt": null,
+  "closedAt": 1783884093,
   "options": [
     {
       "label": "yes",
