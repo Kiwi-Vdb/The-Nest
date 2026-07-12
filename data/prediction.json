@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "generatedAt": 1783856274,
   "active": false,
   "status": "inactive",
@@ -9,4 +10,27 @@
   "startedAt": null,
   "closedAt": null,
   "options": []
+=======
+  "generatedAt": 1783851629,
+  "active": true,
+  "status": "closed",
+  "id": 1783851624,
+  "question": "test test",
+  "prize": 100,
+  "totalPicks": 0,
+  "startedAt": 1783851624,
+  "closedAt": 1783851629,
+  "options": [
+    {
+      "label": "yes",
+      "votes": 0,
+      "percent": 0
+    },
+    {
+      "label": "no",
+      "votes": 0,
+      "percent": 0
+    }
+  ]
+>>>>>>> 31b688d6e53e7be03af1c7dc033dd3942d4976dc
 }
