@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 602,
-    "updatedAt": "2026-07-12T19:42:15Z"
+    "spectators": 12,
+    "gameTime": 689,
+    "updatedAt": "2026-07-12T19:43:44Z"
   },
   "live": true,
-  "viewers": 0,
+  "viewers": 2,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783856941,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-12T19:41:32Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783885319
+  "statusUpdatedAt": 1783885407
 }
