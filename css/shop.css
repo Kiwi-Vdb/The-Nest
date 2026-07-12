@@ -313,7 +313,7 @@ body { overflow-x: hidden; }
 
 /* === THE NEST F8 LAYOUT OVERRIDES: SHOP START ===
    Paste this entire block at the VERY BOTTOM of css/shop.css.
-   These rules override only position and size; they do not remove backgrounds,
+   These rules override position, size, and supported content-scale variables; they do not remove backgrounds,
    borders, animation, typography, hover effects, or other existing styling.
    On the next export, replace only the previous block between these markers. */
 
@@ -361,8 +361,8 @@ body { overflow-x: hidden; }
 .nav-shop {
   left: 0.00%;
   top: 0.00%;
-  width: 0.00%;
-  height: 0.00%;
+  width: 1.00%;
+  height: 1.00%;
 }
 
 /* F8: SHOP ACCOUNT & BALANCE | editor ID: shop-balance */
@@ -375,34 +375,34 @@ body { overflow-x: hidden; }
 
 /* F8: FEATURED PRODUCT 1 | editor ID: featured-product-1 */
 .featured-product-1 {
-  left: 23.40%;
-  top: 48.37%;
-  width: 11.11%;
-  height: 11.90%;
+  left: 21.30%;
+  top: 48.92%;
+  width: 15.30%;
+  height: 16.22%;
 }
 
 /* F8: FEATURED PRODUCT 2 | editor ID: featured-product-2 */
 .featured-product-2 {
-  left: 23.73%;
-  top: 67.65%;
-  width: 10.73%;
-  height: 11.67%;
+  left: 21.47%;
+  top: 68.98%;
+  width: 15.19%;
+  height: 17.10%;
 }
 
 /* F8: FEATURED PRODUCT 3 | editor ID: featured-product-3 */
 .featured-product-3 {
-  left: 42.29%;
+  left: 39.93%;
   top: 48.59%;
-  width: 10.63%;
-  height: 12.46%;
+  width: 16.35%;
+  height: 15.61%;
 }
 
 /* F8: FEATURED PRODUCT 4 | editor ID: featured-product-4 */
 .featured-product-4 {
-  left: 42.57%;
-  top: 68.50%;
-  width: 10.01%;
-  height: 13.32%;
+  left: 39.74%;
+  top: 68.34%;
+  width: 17.04%;
+  height: 18.04%;
 }
 
 /* F8: VIEW ALL COSMETICS BUTTON | editor ID: shop-cosmetics-button */
@@ -425,8 +425,9 @@ body { overflow-x: hidden; }
 .shop-daily {
   left: 58.45%;
   top: 48.43%;
-  width: 16.20%;
-  height: 35.22%;
+  width: 16.88%;
+  height: 35.69%;
+  --shop-panel-scale: 1.28;
 }
 
 /* F8: TOP SELLERS | editor ID: shop-sellers */
@@ -435,6 +436,7 @@ body { overflow-x: hidden; }
   top: 47.76%;
   width: 16.93%;
   height: 36.65%;
+  --shop-panel-scale: 1.28;
 }
 
 /* F8: NEST SYNC | editor ID: nest-sync */
