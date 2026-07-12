@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Discord | The Nest</title>
-  <link rel="stylesheet" href="./css/discord.css">
+  <link rel="stylesheet" href="./css/discord.css?v=discord-live-v366">
   <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
@@ -80,7 +80,21 @@
     </section>
   </main>
 
-  <script src="./js/discord.js"></script>
+  <div id="discord-meme-modal" class="discord-meme-modal" hidden role="dialog" aria-modal="true" aria-labelledby="discord-meme-modal-caption">
+    <div class="discord-meme-dialog">
+      <button id="discord-meme-modal-close" class="discord-meme-modal-close" type="button" aria-label="Close meme preview">×</button>
+      <img id="discord-meme-modal-image" class="discord-meme-modal-image" alt="">
+      <div class="discord-meme-modal-details">
+        <div>
+          <div id="discord-meme-modal-caption" class="discord-meme-modal-caption">Latest meme</div>
+          <div id="discord-meme-modal-author" class="discord-meme-modal-author"></div>
+        </div>
+        <a id="discord-meme-modal-link" class="discord-meme-modal-link" href="#" target="_blank" rel="noopener noreferrer">OPEN IN DISCORD</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="./js/discord.js?v=discord-live-v366"></script>
   <script src="./js/dev-mode.js"></script>
 </body>
 </html>

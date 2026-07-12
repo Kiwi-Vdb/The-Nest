@@ -351,3 +351,122 @@ body { overflow-x: hidden; }
 @media (max-width: 800px) {
   .discord-page { width: 100vw; }
 }
+
+/* Live Discord feed additions (v3.6.6) */
+.members-total-count {
+  color: var(--discord-muted);
+  font-size: clamp(.38rem, .68vw, .78rem);
+  line-height: 1.15;
+}
+
+.latest-meme-media {
+  appearance: none;
+  width: 100%;
+  padding: 0;
+  color: inherit;
+  cursor: zoom-in;
+}
+
+.latest-meme-expand {
+  position: absolute;
+  right: 3%;
+  bottom: 3%;
+  padding: .35em .7em;
+  border: 1px solid rgba(169, 128, 255, .48);
+  border-radius: 999px;
+  background: rgba(9, 7, 12, .82);
+  color: var(--discord-purple-bright);
+  font-size: clamp(.26rem, .48vw, .56rem);
+  letter-spacing: .12em;
+  opacity: 0;
+  transition: opacity 160ms ease, box-shadow 160ms ease;
+}
+
+.latest-meme-media:hover .latest-meme-expand,
+.latest-meme-media:focus-visible .latest-meme-expand {
+  opacity: 1;
+  box-shadow: 0 0 12px rgba(140, 92, 255, .38);
+}
+
+.discord-modal-open { overflow: hidden; }
+
+.discord-meme-modal[hidden] { display: none; }
+
+.discord-meme-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: grid;
+  place-items: center;
+  padding: 3vw;
+  background: rgba(0, 0, 0, .86);
+  backdrop-filter: blur(8px);
+}
+
+.discord-meme-dialog {
+  position: relative;
+  width: min(92vw, 1100px);
+  max-height: 92vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid rgba(210, 161, 95, .55);
+  border-radius: 14px;
+  background: #0b0910;
+  box-shadow: 0 0 50px rgba(140, 92, 255, .28);
+}
+
+.discord-meme-modal-image {
+  width: 100%;
+  min-height: 0;
+  max-height: 78vh;
+  object-fit: contain;
+  background: #050505;
+}
+
+.discord-meme-modal-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.2rem;
+  border-top: 1px solid rgba(210, 161, 95, .22);
+}
+
+.discord-meme-modal-caption {
+  color: var(--discord-cream);
+  font-size: 1rem;
+}
+
+.discord-meme-modal-author {
+  margin-top: .25rem;
+  color: var(--discord-muted);
+  font-size: .78rem;
+}
+
+.discord-meme-modal-link {
+  flex: 0 0 auto;
+  padding: .65rem 1rem;
+  border: 1px solid rgba(140, 92, 255, .52);
+  border-radius: 8px;
+  background: rgba(58, 29, 91, .72);
+  color: var(--discord-purple-bright);
+  font-size: .72rem;
+  letter-spacing: .08em;
+  text-decoration: none;
+}
+
+.discord-meme-modal-close {
+  position: absolute;
+  top: .7rem;
+  right: .7rem;
+  z-index: 2;
+  width: 2.3rem;
+  height: 2.3rem;
+  border: 1px solid rgba(210, 161, 95, .48);
+  border-radius: 50%;
+  background: rgba(0, 0, 0, .76);
+  color: var(--discord-cream);
+  font: 1.6rem/1 Georgia, serif;
+  cursor: pointer;
+}
