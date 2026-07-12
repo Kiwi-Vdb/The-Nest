@@ -1,12 +1,23 @@
 {
-  "generatedAt": 1783849458,
-  "active": false,
-  "status": "inactive",
-  "id": null,
-  "question": "No prediction open",
-  "prize": 0,
+  "generatedAt": 1783851624,
+  "active": true,
+  "status": "open",
+  "id": 1783851624,
+  "question": "test test",
+  "prize": 100,
   "totalPicks": 0,
-  "startedAt": null,
+  "startedAt": 1783851624,
   "closedAt": null,
-  "options": []
+  "options": [
+    {
+      "label": "yes",
+      "votes": 0,
+      "percent": 0
+    },
+    {
+      "label": "no",
+      "votes": 0,
+      "percent": 0
+    }
+  ]
 }
