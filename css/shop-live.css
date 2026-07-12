@@ -1,0 +1,448 @@
+/*
+ * The Nest live Shop layer.
+ * Kept separate so F8 position overrides in shop.css remain safe.
+ */
+.shop-balance,
+.shop-daily,
+.shop-sellers { pointer-events: auto; }
+
+.shop-account {
+  min-height: 1.2em;
+  margin-top: 4%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .38em;
+  color: rgba(231, 211, 177, .76);
+  font-size: clamp(.31rem, .56vw, .66rem);
+  line-height: 1.15;
+}
+
+.shop-account-name {
+  max-width: 8.5em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.shop-account button,
+.shop-card-buy,
+.daily-special-buy,
+.shop-primary-button,
+.shop-secondary-button {
+  border: 1px solid rgba(160, 108, 255, .55);
+  background: rgba(43, 19, 72, .78);
+  color: #f5e8cc;
+  font: inherit;
+  cursor: pointer;
+  box-shadow: inset 0 0 12px rgba(141, 85, 255, .14), 0 0 10px rgba(0, 0, 0, .55);
+  transition: border-color .18s ease, box-shadow .18s ease, opacity .18s ease, transform .18s ease;
+}
+
+.shop-account button {
+  padding: .26em .58em;
+  border-radius: .45em;
+  white-space: nowrap;
+}
+
+.shop-account button:hover,
+.shop-card-buy:hover:not(:disabled),
+.daily-special-buy:hover:not(:disabled),
+.shop-primary-button:hover:not(:disabled) {
+  border-color: rgba(181, 139, 255, .98);
+  box-shadow: 0 0 14px rgba(141, 85, 255, .46), inset 0 0 12px rgba(141, 85, 255, .18);
+  transform: translateY(-1px);
+}
+
+.shop-service-status {
+  min-height: 1em;
+  margin-top: 3%;
+  display: flex;
+  align-items: center;
+  gap: .38em;
+  color: rgba(218, 210, 195, .60);
+  font-size: clamp(.27rem, .48vw, .57rem);
+  line-height: 1;
+}
+
+.shop-service-status::before {
+  content: "";
+  width: .55em;
+  height: .55em;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: rgba(218, 210, 195, .5);
+  box-shadow: 0 0 6px rgba(218, 210, 195, .25);
+}
+
+.shop-service-status.is-online { color: rgba(166, 238, 130, .78); }
+.shop-service-status.is-online::before {
+  background: #86d75d;
+  box-shadow: 0 0 8px rgba(134, 215, 93, .62);
+}
+.shop-service-status.is-error { color: rgba(255, 171, 171, .82); }
+.shop-service-status.is-error::before {
+  background: #e66f6f;
+  box-shadow: 0 0 8px rgba(230, 111, 111, .55);
+}
+
+.shop-card {
+  position: relative;
+  pointer-events: auto;
+  border-radius: 4%;
+  transition: transform .18s ease, background .18s ease, box-shadow .18s ease;
+}
+
+.shop-card:hover {
+  background: linear-gradient(180deg, rgba(141, 85, 255, .055), transparent 62%);
+  box-shadow: inset 0 0 18px rgba(141, 85, 255, .04);
+}
+
+.shop-card-image,
+.shop-card-icon {
+  width: 56%;
+  aspect-ratio: 1;
+  object-fit: contain;
+  border: 1px solid rgba(141, 85, 255, .34);
+  border-radius: 16%;
+  background: radial-gradient(circle at 50% 40%, rgba(86, 38, 135, .34), rgba(22, 11, 30, .18) 72%);
+  box-shadow: inset 0 0 18px rgba(141, 85, 255, .14), 0 0 18px rgba(141, 85, 255, .10);
+}
+
+.shop-card-image { padding: 4%; }
+
+.shop-card-icon {
+  display: grid;
+  place-items: center;
+  font-size: clamp(1.2rem, 3vw, 3.2rem);
+}
+
+.shop-card[data-rarity="common"] .shop-card-icon,
+.shop-card[data-rarity="common"] .shop-card-image { border-color: rgba(186, 191, 199, .38); }
+.shop-card[data-rarity="rare"] .shop-card-icon,
+.shop-card[data-rarity="rare"] .shop-card-image { border-color: rgba(93, 159, 255, .52); box-shadow: inset 0 0 18px rgba(74, 134, 255, .14), 0 0 16px rgba(74, 134, 255, .12); }
+.shop-card[data-rarity="legendary"] .shop-card-icon,
+.shop-card[data-rarity="legendary"] .shop-card-image { border-color: rgba(205, 130, 255, .58); box-shadow: inset 0 0 18px rgba(169, 80, 255, .17), 0 0 18px rgba(169, 80, 255, .16); }
+
+.shop-card-details {
+  min-height: 29%;
+  width: 100%;
+}
+
+.shop-card-name {
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.shop-card-meta {
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  gap: .34em;
+  color: var(--muted);
+  font-size: clamp(.29rem, .52vw, .60rem);
+  line-height: 1.1;
+}
+
+.shop-card-meta span + span::before {
+  content: "•";
+  margin-right: .34em;
+  color: rgba(210, 161, 95, .62);
+}
+
+.shop-card-rarity { text-transform: capitalize; }
+.shop-card[data-rarity="common"] .shop-card-rarity { color: rgba(211, 215, 221, .74); }
+.shop-card[data-rarity="rare"] .shop-card-rarity { color: #7db4ff; }
+.shop-card[data-rarity="legendary"] .shop-card-rarity { color: #c27cff; }
+
+.shop-card-price-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: .35em;
+  min-height: 1.35em;
+}
+
+.shop-card-old-price {
+  color: var(--muted);
+  font-size: 55%;
+  text-decoration: line-through;
+}
+
+.shop-card-buy {
+  width: 82%;
+  min-height: 13%;
+  margin-top: 5%;
+  padding: .28em .35em;
+  border-radius: .5em;
+  font-size: clamp(.31rem, .57vw, .66rem);
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.shop-card-buy:disabled,
+.daily-special-buy:disabled,
+.shop-primary-button:disabled {
+  opacity: .48;
+  cursor: default;
+  transform: none;
+}
+
+.shop-card.is-owned::after,
+.shop-card.is-sold-out::after {
+  position: absolute;
+  top: 4%;
+  right: 4%;
+  padding: .25em .45em;
+  border-radius: .35em;
+  font-size: clamp(.26rem, .46vw, .54rem);
+  letter-spacing: .08em;
+}
+
+.shop-card.is-owned::after {
+  content: "OWNED";
+  border: 1px solid rgba(134, 215, 93, .45);
+  background: rgba(10, 28, 12, .86);
+  color: #a6ee82;
+}
+
+.shop-card.is-sold-out::after {
+  content: "SOLD OUT";
+  border: 1px solid rgba(255, 135, 135, .42);
+  background: rgba(42, 11, 11, .88);
+  color: #ffb0b0;
+}
+
+.shop-card-empty {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  color: var(--muted);
+  font-size: clamp(.4rem, .7vw, .78rem);
+  text-align: center;
+}
+
+.daily-special {
+  display: grid;
+  align-content: start;
+  gap: 4%;
+}
+
+.daily-special-timer {
+  display: flex;
+  align-items: center;
+  gap: .35em;
+}
+
+.daily-special-timer::before {
+  content: "✦";
+  color: var(--purple-bright);
+  font-size: .8em;
+}
+
+.daily-special-name {
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.daily-special-meta {
+  color: var(--muted);
+  font-size: clamp(.31rem, .57vw, .65rem);
+  text-transform: capitalize;
+}
+
+.daily-special-buy {
+  width: 100%;
+  padding: .38em .5em;
+  border-radius: .45em;
+  font-size: clamp(.29rem, .52vw, .61rem);
+  text-transform: uppercase;
+  letter-spacing: .07em;
+}
+
+.seller-list { gap: 7%; }
+
+.seller-row {
+  position: relative;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  row-gap: 1%;
+}
+
+.seller-rank {
+  color: var(--bronze-soft);
+  font-weight: 700;
+}
+
+.seller-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.seller-sold {
+  grid-column: 2 / 4;
+  color: var(--muted);
+  font-size: 78%;
+}
+
+.shop-modal[hidden] { display: none; }
+
+.shop-modal {
+  position: absolute;
+  inset: 0;
+  z-index: 80;
+  display: grid;
+  place-items: center;
+  pointer-events: auto;
+}
+
+.shop-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, .74);
+  backdrop-filter: blur(3px);
+}
+
+.shop-modal-card {
+  position: relative;
+  z-index: 1;
+  width: min(38%, 540px);
+  min-width: 290px;
+  padding: 2.15% 2.45%;
+  border: 1px solid rgba(210, 161, 95, .58);
+  border-radius: 1rem;
+  background: linear-gradient(160deg, rgba(33, 18, 43, .985), rgba(11, 8, 14, .985));
+  color: #f5e8cc;
+  text-align: center;
+  box-shadow: 0 0 42px rgba(141, 85, 255, .28), inset 0 0 28px rgba(141, 85, 255, .08);
+}
+
+.shop-modal-card h2 {
+  margin: .22em 0 .25em;
+  color: var(--bronze-soft);
+  font-size: clamp(1rem, 1.8vw, 1.7rem);
+}
+
+.shop-modal-card p {
+  margin: 0 auto .9em;
+  max-width: 34em;
+  color: rgba(231, 211, 177, .75);
+  font-size: clamp(.72rem, 1vw, 1rem);
+  line-height: 1.45;
+}
+
+.shop-modal-icon {
+  font-size: clamp(2rem, 4vw, 4rem);
+  color: var(--purple-bright);
+  text-shadow: 0 0 20px rgba(141, 85, 255, .55);
+}
+
+.shop-modal-rarity {
+  margin-top: -.2em;
+  color: var(--purple-bright);
+  font-size: clamp(.55rem, .8vw, .8rem);
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.shop-modal-close {
+  position: absolute;
+  right: .7em;
+  top: .45em;
+  border: 0;
+  background: transparent;
+  color: rgba(245, 232, 204, .72);
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+.shop-modal-summary {
+  width: min(100%, 25em);
+  margin: .2em auto 0;
+  padding: .7em .9em;
+  display: grid;
+  gap: .34em;
+  border: 1px solid rgba(160, 108, 255, .20);
+  border-radius: .65em;
+  background: rgba(0, 0, 0, .18);
+  text-align: left;
+}
+
+.shop-modal-summary div {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  color: rgba(231, 211, 177, .68);
+  font-size: clamp(.65rem, .9vw, .9rem);
+}
+
+.shop-modal-summary strong { color: var(--purple-bright); font-weight: 400; }
+.shop-modal-summary div:last-child strong { color: #a6ee82; }
+.shop-modal-summary div:last-child strong.is-negative { color: #ffaaaa; }
+
+.shop-modal-notice {
+  margin-top: .75em;
+  color: rgba(218, 210, 195, .58);
+  font-size: clamp(.55rem, .75vw, .76rem);
+  line-height: 1.35;
+}
+
+.shop-modal-error {
+  min-height: 1.2em;
+  margin-top: .7em;
+  color: #ff9e9e;
+  font-size: clamp(.65rem, .9vw, .9rem);
+}
+
+.shop-modal-actions {
+  display: flex;
+  justify-content: center;
+  gap: .7em;
+  margin-top: .85em;
+}
+
+.shop-primary-button,
+.shop-secondary-button {
+  min-width: 7em;
+  padding: .6em 1em;
+  border-radius: .55em;
+}
+
+.shop-secondary-button {
+  border-color: rgba(231, 211, 177, .28);
+  background: rgba(255, 255, 255, .04);
+}
+
+.shop-toast {
+  position: absolute;
+  left: 50%;
+  bottom: 4%;
+  z-index: 90;
+  max-width: min(72%, 680px);
+  transform: translate(-50%, 1rem);
+  padding: .65em 1em;
+  border: 1px solid rgba(160, 108, 255, .5);
+  border-radius: .6em;
+  background: rgba(13, 9, 18, .96);
+  color: #f5e8cc;
+  font-size: clamp(.65rem, .9vw, .95rem);
+  text-align: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .2s ease, transform .2s ease;
+}
+
+.shop-toast.is-visible { opacity: 1; transform: translate(-50%, 0); }
+.shop-toast.is-error { border-color: rgba(255, 120, 120, .6); color: #ffc2c2; }
+
+@media (max-width: 800px) {
+  .shop-modal-card { width: 78%; padding: 5%; }
+  .shop-card-buy { font-size: clamp(.28rem, 1.1vw, .58rem); }
+}

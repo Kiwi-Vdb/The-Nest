@@ -6,11 +6,14 @@
       { icon: '♥', title: 'Loyal Friend', copy: 'Community highlights will appear here.' }
     ],
     goal: {
-      label: 'Help the flock reach our goal!',
+      type: 'twitch_followers',
+      status: 'waiting',
+      label: 'Road to 1,000 Followers',
       current: 0,
-      target: 10000,
-      suffix: 'Shinies',
-      timeLeft: ''
+      target: 1000,
+      suffix: 'followers',
+      remaining: 1000,
+      completed: false
     }
   };
 
@@ -45,18 +48,19 @@
   init();
 
   async function init() {
-    const [community, highlights, leaderboard, activity, sync] = await Promise.all([
+    const [community, highlights, leaderboard, activity, goal, sync] = await Promise.all([
       loadJson('./data/community.json', fallbackCommunity),
       loadJson('./data/highlights.json', fallbackHighlights),
       loadJson('./data/leaderboard.json', fallbackLeaderboard),
       loadJson('./data/activity.json', fallbackActivity),
+      loadJson('./data/community-goal.json', fallbackCommunity.goal),
       loadJson('./data/nest-sync.json', fallbackSync)
     ]);
 
     renderHighlights(highlights.highlights || community.highlights || fallbackCommunity.highlights);
     renderLeaderboard(leaderboard.entries || []);
     renderActivity(activity.activities || []);
-    renderGoal(community.goal || fallbackCommunity.goal);
+    renderGoal(goal || community.goal || fallbackCommunity.goal);
     renderSync(sync);
 
     // GitHub Pages is static, so periodically re-read public snapshots.
@@ -67,14 +71,16 @@
 
   async function refreshCommunityData() {
     const cacheBust = Date.now();
-    const [highlights, leaderboard, activity] = await Promise.all([
+    const [highlights, leaderboard, activity, goal] = await Promise.all([
       loadJson(`./data/highlights.json?cache=${cacheBust}`, fallbackHighlights),
       loadJson(`./data/leaderboard.json?cache=${cacheBust}`, fallbackLeaderboard),
-      loadJson(`./data/activity.json?cache=${cacheBust}`, fallbackActivity)
+      loadJson(`./data/activity.json?cache=${cacheBust}`, fallbackActivity),
+      loadJson(`./data/community-goal.json?cache=${cacheBust}`, fallbackCommunity.goal)
     ]);
     renderHighlights(highlights.highlights || fallbackCommunity.highlights);
     renderLeaderboard(leaderboard.entries || []);
     renderActivity(activity.activities || []);
+    renderGoal(goal || fallbackCommunity.goal);
   }
 
   async function loadJson(path, fallback) {
@@ -175,13 +181,22 @@
     const meta = document.getElementById('community-goal-meta');
     if (!copy || !bar || !meta) return;
 
-    const current = Number(goal.current || 0);
+    const current = Math.max(0, Number(goal.current || 0));
     const target = Math.max(Number(goal.target || 1), 1);
-    const percentage = Math.min(100, Math.max(0, (current / target) * 100));
+    const percentage = Math.min(100, Math.max(0, Number(goal.percentage ?? ((current / target) * 100))));
+    const remaining = Math.max(0, Number(goal.remaining ?? (target - current)));
+    const completed = goal.completed === true || current >= target;
+    const suffix = goal.suffix || 'followers';
 
-    copy.textContent = goal.label || 'Help the flock reach our goal!';
+    copy.textContent = goal.label || 'Road to 1,000 Followers';
     bar.style.width = `${percentage}%`;
-    meta.innerHTML = `<span>${formatNumber(current)} / ${formatNumber(target)} ${escapeHtml(goal.suffix || '')}</span><span>${escapeHtml(goal.timeLeft || '')}</span>`;
+    bar.parentElement?.classList.toggle('is-complete', completed);
+
+    const progressCopy = `${formatNumber(current)} / ${formatNumber(target)} ${escapeHtml(suffix)}`;
+    const remainingCopy = completed
+      ? 'Goal reached! ✦'
+      : `${formatNumber(remaining)} to go`;
+    meta.innerHTML = `<span>${progressCopy}</span><span>${remainingCopy}</span>`;
   }
 
   function renderSync(sync) {

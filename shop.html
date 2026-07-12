@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Nest Shop | The Nest</title>
   <link rel="stylesheet" href="./css/shop.css">
+  <link rel="stylesheet" href="./css/shop-live.css">
   <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
@@ -20,29 +21,55 @@
       <a class="hotspot nav-hotspot nav-shop is-current" href="shop.html" aria-label="The Nest Shop current page" data-dev-label="NAV SHOP"></a>
     </nav>
 
-    <section class="shop-balance dev-editable" data-dev-id="shop-balance" aria-label="Your Shinies balance">
+    <section class="shop-balance dev-editable" data-dev-id="shop-balance" data-dev-label="SHOP ACCOUNT & BALANCE" data-dev-selector=".shop-balance" aria-label="Your Shinies balance">
       <div class="shop-balance-label">Your Shinies</div>
-      <div class="shop-balance-value"><span id="shop-shinies">0</span> ✦</div>
+      <div class="shop-balance-value"><span id="shop-shinies">—</span> ✦</div>
+      <div id="shop-account" class="shop-account"></div>
+      <div id="shop-service-status" class="shop-service-status" role="status" aria-live="polite"></div>
     </section>
 
-    <section class="shop-items dev-editable" data-dev-id="shop-items" aria-label="Featured shop items">
-      <div id="shop-items" class="shop-item-grid"></div>
+    <section class="shop-items dev-editable" data-dev-id="shop-items" data-dev-label="FEATURED SHOP ITEMS" data-dev-selector=".shop-items" aria-label="Featured shop items">
+      <div id="shop-items" class="shop-item-grid" aria-live="polite"></div>
     </section>
 
-    <section class="shop-daily dev-editable" data-dev-id="shop-daily" aria-label="Daily special">
+    <section class="shop-daily dev-editable" data-dev-id="shop-daily" data-dev-label="DAILY SPECIAL" data-dev-selector=".shop-daily" aria-label="Daily special">
       <div class="panel-heading">Daily Special</div>
       <div id="shop-daily-special" class="daily-special"></div>
     </section>
 
-    <section class="shop-sellers dev-editable" data-dev-id="shop-sellers" aria-label="Top sellers">
+    <section class="shop-sellers dev-editable" data-dev-id="shop-sellers" data-dev-label="TOP SELLERS" data-dev-selector=".shop-sellers" aria-label="Top sellers">
       <div class="panel-heading">Top Sellers</div>
       <div id="shop-top-sellers" class="seller-list"></div>
     </section>
 
-    <section class="nest-sync-card dev-editable" data-dev-id="nest-sync" aria-label="Nest Sync status">
+    <section class="nest-sync-card dev-editable" data-dev-id="nest-sync" data-dev-label="NEST SYNC" data-dev-selector=".nest-sync-card" aria-label="Nest Sync status">
       <div id="nest-sync-status" class="sync-status is-connected">Connected</div>
       <div id="nest-sync-updated" class="sync-updated">Last updated just now</div>
     </section>
+
+    <div id="shop-modal" class="shop-modal" hidden aria-hidden="true">
+      <div class="shop-modal-backdrop" data-shop-close></div>
+      <section class="shop-modal-card" role="dialog" aria-modal="true" aria-labelledby="shop-modal-title" aria-describedby="shop-modal-description">
+        <button class="shop-modal-close" type="button" data-shop-close aria-label="Close purchase window">×</button>
+        <div id="shop-modal-icon" class="shop-modal-icon">✦</div>
+        <div id="shop-modal-rarity" class="shop-modal-rarity"></div>
+        <h2 id="shop-modal-title">Confirm purchase</h2>
+        <p id="shop-modal-description"></p>
+        <div class="shop-modal-summary" aria-label="Purchase summary">
+          <div><span>Current balance</span><strong id="shop-modal-balance">—</strong></div>
+          <div><span>Item price</span><strong id="shop-modal-price">—</strong></div>
+          <div><span>Balance after</span><strong id="shop-modal-after">—</strong></div>
+        </div>
+        <div id="shop-modal-notice" class="shop-modal-notice">The reward is reserved immediately and applied by Kiwi Birb.</div>
+        <div id="shop-modal-error" class="shop-modal-error" role="status"></div>
+        <div class="shop-modal-actions">
+          <button type="button" class="shop-secondary-button" data-shop-close>Cancel</button>
+          <button type="button" id="shop-confirm-buy" class="shop-primary-button">Buy</button>
+        </div>
+      </section>
+    </div>
+
+    <div id="shop-toast" class="shop-toast" role="status" aria-live="polite"></div>
   </main>
 
   <script src="./js/main.js"></script>

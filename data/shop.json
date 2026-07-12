@@ -1,54 +1,63 @@
 {
-  "shinies": 12540,
+  "shinies": 0,
   "items": [
     {
-      "name": "Kiwi Hoodie",
-      "type": "Cosmetic",
-      "rarity": "Legendary",
-      "price": 5000,
-      "icon": "☘"
+      "id": "red-text",
+      "name": "Red Text",
+      "description": "A bright red name effect for your messages in The Nest chat overlay.",
+      "type": "Text Effect",
+      "rewardId": "text-red",
+      "rarity": "common",
+      "price": 100,
+      "icon": "◆"
     },
     {
-      "name": "Nestling Emote",
-      "type": "Emote",
-      "rarity": "Epic",
+      "id": "rainbow-text",
+      "name": "Rainbow Text",
+      "description": "A colourful animated name effect for The Nest chat overlay.",
+      "type": "Text Effect",
+      "rewardId": "text-rainbow",
+      "rarity": "rare",
       "price": 2500,
-      "icon": "🐥"
+      "icon": "🌈"
     },
     {
-      "name": "Golden Nest",
-      "type": "Badge",
-      "rarity": "Legendary",
+      "id": "angel-wings",
+      "name": "Angel Wings",
+      "description": "A pair of rare Angel Wings for your Stream Avatar.",
+      "type": "Cosmetic",
+      "rewardId": "back:angel wings",
+      "rarity": "rare",
+      "price": 5000,
+      "image": "./assets/shop/Angel Wings.png",
+      "icon": "🪽"
+    },
+    {
+      "id": "cow-companion",
+      "name": "Cow Companion",
+      "description": "A legendary cow companion for your Stream Avatar.",
+      "type": "Cosmetic",
+      "rewardId": "pets:cow",
+      "rarity": "legendary",
       "price": 10000,
-      "icon": "🥚"
-    },
-    {
-      "name": "Shiny Satchel",
-      "type": "Profile",
-      "rarity": "Epic",
-      "price": 3500,
-      "icon": "🎒"
+      "image": "./assets/shop/Cow.png",
+      "icon": "🐄"
     }
   ],
   "dailySpecial": {
-    "name": "Shiny Boost (1hr)",
-    "rarity": "Rare",
-    "price": 1250,
-    "oldPrice": 2000,
-    "timer": "23h 45m left"
+    "id": "portal-text",
+    "name": "Portal Text",
+    "description": "A legendary portal-inspired animated text effect.",
+    "type": "Text Effect",
+    "rewardId": "text-portal",
+    "rarity": "legendary",
+    "price": 6500,
+    "oldPrice": 8000,
+    "icon": "◉"
   },
   "topSellers": [
-    {
-      "name": "Kiwi Hoodie",
-      "price": 5000
-    },
-    {
-      "name": "Golden Nest",
-      "price": 10000
-    },
-    {
-      "name": "Nestling Emote",
-      "price": 2500
-    }
+    { "id": "red-text", "name": "Red Text", "price": 100, "sold": 0 },
+    { "id": "rainbow-text", "name": "Rainbow Text", "price": 2500, "sold": 0 },
+    { "id": "angel-wings", "name": "Angel Wings", "price": 5000, "sold": 0 }
   ]
 }

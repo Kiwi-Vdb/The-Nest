@@ -1,0 +1,4 @@
+/* Community follower-goal state only. Positioning remains in community.css. */
+.goal-bar.is-complete span {
+  box-shadow: 0 0 18px rgba(171, 112, 255, .68);
+}
