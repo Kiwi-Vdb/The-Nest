@@ -1,33 +1,28 @@
 {
-  "status": "live",
-  "viewers": 1256,
-  "currentGame": "BAR Lobby",
-  "currentPrediction": {
-    "question": "Will we get a Shiny before the stream ends?",
-    "yes": 62,
-    "no": 38,
-    "prize": 5000
+  "live": false,
+  "viewers": 0,
+  "channel": "itsvdb",
+  "twitchUrl": "https://www.twitch.tv/itsvdb",
+  "streamTitle": "Building The Nest with the community!",
+  "offlineTitle": "No stream currently live",
+  "game": {
+    "provider": "bar",
+    "available": true,
+    "active": false,
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
+    "lobbyTitle": "",
+    "mode": "",
+    "mapName": "Waiting for the next match",
+    "mapFileName": "",
+    "mapImage": "",
+    "players": 0,
+    "maxPlayers": 0,
+    "spectators": 0,
+    "gameTime": 0,
+    "updatedAt": null
   },
-  "clips": [
-    {
-      "title": "Insane Shiny Luck!",
-      "time": "0:29"
-    },
-    {
-      "title": "Absolute Chaos in BAR",
-      "time": "0:45"
-    },
-    {
-      "title": "Banshee Spawn!",
-      "time": "0:31"
-    },
-    {
-      "title": "Clutch Revive!",
-      "time": "0:38"
-    },
-    {
-      "title": "That EMP Though...",
-      "time": "0:28"
-    }
-  ]
+  "clips": [],
+  "clipsUpdatedAt": null
 }

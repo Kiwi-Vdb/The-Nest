@@ -1,0 +1,1483 @@
+{
+  "generated_at": 1783852431,
+  "viewers": {
+    "axolotl_eu": {
+      "username": "axolotl_eu",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 3000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hand:poesidon staff",
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:apprentice hat",
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:ranger cap",
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:wizards hat",
+          "name": "Wizards Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "emote:quiz hat",
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
+        },
+        {
+          "id": "text-orange",
+          "name": "Orange Text",
+          "rarity": "common",
+          "class_name": "text-orange",
+          "equip_command": "!equiptext Orange"
+        },
+        {
+          "id": "text-green",
+          "name": "Green Text",
+          "rarity": "common",
+          "class_name": "text-green",
+          "equip_command": "!equiptext Green"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
+        },
+        {
+          "id": "text-pink",
+          "name": "Pink Text",
+          "rarity": "common",
+          "class_name": "text-pink",
+          "equip_command": "!equiptext Pink"
+        },
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        },
+        {
+          "id": "text-red",
+          "name": "Red Text",
+          "rarity": "common",
+          "class_name": "text-red",
+          "equip_command": "!equiptext Red"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-pink",
+        "name": "Pink Text",
+        "rarity": "common",
+        "class_name": "text-pink"
+      },
+      "loot_boxes_opened": 14,
+      "recent_unlocks": [
+        {
+          "name": "Red Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-red",
+          "timestamp": 1782919498
+        },
+        {
+          "name": "Brown Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-brown",
+          "timestamp": 1782919486
+        },
+        {
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782919473
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 7,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 7,
+        "text_effects_available": 20,
+        "recent_unlocks": 14
+      }
+    },
+    "bar_outofmana": {
+      "username": "bar_outofmana",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 17000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
+    "betterstrategy": {
+      "username": "betterstrategy",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 69000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hand:poesidon staff",
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:ranger cap",
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-red",
+          "name": "Red Text",
+          "rarity": "common",
+          "class_name": "text-red",
+          "equip_command": "!equiptext Red"
+        }
+      ],
+      "current_text_effect": null,
+      "loot_boxes_opened": 3,
+      "recent_unlocks": [
+        {
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782752096
+        },
+        {
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782746158
+        },
+        {
+          "name": "Red Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-red",
+          "timestamp": 1782746133
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 2,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 1,
+        "text_effects_available": 20,
+        "recent_unlocks": 3
+      }
+    },
+    "bizzyrex": {
+      "username": "bizzyrex",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 2079,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
+    "crazypyronl": {
+      "username": "crazypyronl",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 6000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
+    "dme_wraxell": {
+      "username": "dme_wraxell",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-teal",
+          "name": "Teal Text",
+          "rarity": "common",
+          "class_name": "text-teal",
+          "equip_command": "!equiptext Teal"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-teal",
+        "name": "Teal Text",
+        "rarity": "common",
+        "class_name": "text-teal"
+      },
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Teal Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-teal",
+          "timestamp": 1782907989
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 1,
+        "text_effects_available": 20,
+        "recent_unlocks": 1
+      }
+    },
+    "grazzabee": {
+      "username": "grazzabee",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        }
+      ],
+      "current_text_effect": null,
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Purple Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-purple",
+          "timestamp": 1782739954
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 1,
+        "text_effects_available": 20,
+        "recent_unlocks": 1
+      }
+    },
+    "hunbleeone": {
+      "username": "hunbleeone",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 5851,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-rainbow-comet",
+          "name": "Rainbow Comet Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow-comet",
+          "equip_command": "!equiptext Rainbow Comet"
+        },
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-rainbow-comet",
+        "name": "Rainbow Comet Text",
+        "rarity": "rare",
+        "class_name": "text-rainbow-comet"
+      },
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Yellow Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-yellow",
+          "timestamp": 1782919407
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 2,
+        "text_effects_available": 20,
+        "recent_unlocks": 1
+      }
+    },
+    "iamdibi": {
+      "username": "iamdibi",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 69000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hand:poesidon staff",
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hand:sword",
+          "name": "Sword",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "emote:quiz hat",
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare"
+        },
+        {
+          "id": "emote:scav fog",
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        },
+        {
+          "id": "text-teal",
+          "name": "Teal Text",
+          "rarity": "common",
+          "class_name": "text-teal",
+          "equip_command": "!equiptext Teal"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-brown",
+        "name": "Brown Text",
+        "rarity": "common",
+        "class_name": "text-brown"
+      },
+      "loot_boxes_opened": 7,
+      "recent_unlocks": [
+        {
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782919443
+        },
+        {
+          "name": "Teal Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-teal",
+          "timestamp": 1782919423
+        },
+        {
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782734917
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 5,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 2,
+        "text_effects_available": 20,
+        "recent_unlocks": 7
+      }
+    },
+    "itsvdb": {
+      "username": "itsvdb",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 174600,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hand:poesidon staff",
+          "name": "Poesidon Staff",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hand:sword",
+          "name": "Sword",
+          "category": "Hand",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:apprentice hat",
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:ranger cap",
+          "name": "Ranger Cap",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:santa hat",
+          "name": "Santa Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:wizards hat",
+          "name": "Wizards Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:sultans hat",
+          "name": "Sultans Hat",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "hat:santa beard",
+          "name": "Santa Beard",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "hat:pumpkin",
+          "name": "Pumpkin",
+          "category": "Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "pets:batty",
+          "name": "Batty",
+          "category": "Pets",
+          "rarity": "rare"
+        },
+        {
+          "id": "emote:quiz hat",
+          "name": "Quiz Hat",
+          "category": "Emote",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:angel wings",
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:ash wings",
+          "name": "Ash Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:blood wings",
+          "name": "Blood Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:deadeye wings",
+          "name": "Deadeye Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:monarch wings",
+          "name": "Monarch Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "pets:deinosuchus",
+          "name": "Deinosuchus",
+          "category": "Pets",
+          "rarity": "legendary"
+        },
+        {
+          "id": "pets:cow",
+          "name": "Cow",
+          "category": "Pets",
+          "rarity": "legendary"
+        },
+        {
+          "id": "emote:fire aura",
+          "name": "Fire Aura",
+          "category": "Emote",
+          "rarity": "legendary"
+        },
+        {
+          "id": "emote:scav fog",
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary"
+        },
+        {
+          "id": "emote:sun beam",
+          "name": "Sun Beam",
+          "category": "Emote",
+          "rarity": "legendary"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-red",
+          "name": "Red Text",
+          "rarity": "common",
+          "class_name": "text-red",
+          "equip_command": "!equiptext Red"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
+        },
+        {
+          "id": "text-green",
+          "name": "Green Text",
+          "rarity": "common",
+          "class_name": "text-green",
+          "equip_command": "!equiptext Green"
+        },
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
+        },
+        {
+          "id": "text-orange",
+          "name": "Orange Text",
+          "rarity": "common",
+          "class_name": "text-orange",
+          "equip_command": "!equiptext Orange"
+        },
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        },
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        },
+        {
+          "id": "text-pink",
+          "name": "Pink Text",
+          "rarity": "common",
+          "class_name": "text-pink",
+          "equip_command": "!equiptext Pink"
+        },
+        {
+          "id": "text-teal",
+          "name": "Teal Text",
+          "rarity": "common",
+          "class_name": "text-teal",
+          "equip_command": "!equiptext Teal"
+        },
+        {
+          "id": "text-rainbow",
+          "name": "Rainbow Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow",
+          "equip_command": "!equiptext Rainbow"
+        },
+        {
+          "id": "text-sparkle",
+          "name": "Sparkle Text",
+          "rarity": "rare",
+          "class_name": "text-sparkle",
+          "equip_command": "!equiptext Sparkle"
+        },
+        {
+          "id": "text-wavy",
+          "name": "Wavy Text",
+          "rarity": "rare",
+          "class_name": "text-wavy",
+          "equip_command": "!equiptext Wavy"
+        },
+        {
+          "id": "text-candle-wish",
+          "name": "Candle Wish Text",
+          "rarity": "rare",
+          "class_name": "text-candle-wish",
+          "equip_command": "!equiptext Candle Wish"
+        },
+        {
+          "id": "text-rainbow-comet",
+          "name": "Rainbow Comet Text",
+          "rarity": "rare",
+          "class_name": "text-rainbow-comet",
+          "equip_command": "!equiptext Rainbow Comet"
+        },
+        {
+          "id": "text-portal",
+          "name": "Portal Text",
+          "rarity": "legendary",
+          "class_name": "text-portal",
+          "equip_command": "!equiptext Portal"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-black-hole",
+        "name": "Black Hole Text",
+        "rarity": "legendary",
+        "class_name": "text-black-hole"
+      },
+      "loot_boxes_opened": 34,
+      "recent_unlocks": [
+        {
+          "name": "Portal Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-portal",
+          "timestamp": 1783114820
+        },
+        {
+          "name": "Rainbow Comet Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-rainbow-comet",
+          "timestamp": 1783114796
+        },
+        {
+          "name": "Candle Wish Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-candle-wish",
+          "timestamp": 1783114259
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 24,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 15,
+        "text_effects_available": 20,
+        "recent_unlocks": 20
+      }
+    },
+    "kotaotake": {
+      "username": "kotaotake",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:santa hat",
+          "name": "Santa Hat",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Santa Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782919398
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 1,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 1
+      }
+    },
+    "lelalolul": {
+      "username": "lelalolul",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 594,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
+    "ligma_bullets": {
+      "username": "ligma_bullets",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 1000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
+    "oafsalot": {
+      "username": "oafsalot",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        },
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-purple",
+        "name": "Purple Text",
+        "rarity": "common",
+        "class_name": "text-purple"
+      },
+      "loot_boxes_opened": 2,
+      "recent_unlocks": [
+        {
+          "name": "Brown Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-brown",
+          "timestamp": 1783677775
+        },
+        {
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782919417
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 1,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 2,
+        "text_effects_available": 20,
+        "recent_unlocks": 2
+      }
+    },
+    "professor_bar": {
+      "username": "professor_bar",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 15150,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
+    "sharpishdog": {
+      "username": "sharpishdog",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 6000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:wizards hat",
+          "name": "Wizards Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "emote:scav fog",
+          "name": "Scav Fog",
+          "category": "Emote",
+          "rarity": "legendary"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
+        },
+        {
+          "id": "text-green",
+          "name": "Green Text",
+          "rarity": "common",
+          "class_name": "text-green",
+          "equip_command": "!equiptext Green"
+        }
+      ],
+      "current_text_effect": {
+        "id": "text-purple",
+        "name": "Purple Text",
+        "rarity": "common",
+        "class_name": "text-purple"
+      },
+      "loot_boxes_opened": 5,
+      "recent_unlocks": [
+        {
+          "name": "Wizards Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1782834813
+        },
+        {
+          "name": "Green Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-green",
+          "timestamp": 1782834796
+        },
+        {
+          "name": "Purple Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-purple",
+          "timestamp": 1782834741
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 3,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 2,
+        "text_effects_available": 20,
+        "recent_unlocks": 5
+      }
+    },
+    "stuart_williamson": {
+      "username": "stuart_williamson",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 66100,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "back:ash wings",
+          "name": "Ash Wings",
+          "category": "Back",
+          "rarity": "rare"
+        }
+      ],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Ash Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783772777
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 1,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 1
+      }
+    },
+    "timmytwoshots": {
+      "username": "timmytwoshots",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 74000,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    }
+  },
+  "catalog": {
+    "cosmetics": [
+      {
+        "id": "hand:poesidon staff",
+        "name": "Poesidon Staff",
+        "category": "Hand",
+        "rarity": "common"
+      },
+      {
+        "id": "hand:sword",
+        "name": "Sword",
+        "category": "Hand",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:apprentice hat",
+        "name": "Apprentice Hat",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:bday hat",
+        "name": "Bday Hat",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:party hat angle",
+        "name": "Party Hat Angle",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:ranger cap",
+        "name": "Ranger Cap",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:santa hat",
+        "name": "Santa Hat",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:witch hat",
+        "name": "Witch Hat",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:wizards hat",
+        "name": "Wizards Hat",
+        "category": "Hat",
+        "rarity": "common"
+      },
+      {
+        "id": "hat:sultans hat",
+        "name": "Sultans Hat",
+        "category": "Hat",
+        "rarity": "rare"
+      },
+      {
+        "id": "hat:santa beard",
+        "name": "Santa Beard",
+        "category": "Hat",
+        "rarity": "rare"
+      },
+      {
+        "id": "hat:pumpkin",
+        "name": "Pumpkin",
+        "category": "Hat",
+        "rarity": "rare"
+      },
+      {
+        "id": "pets:batty",
+        "name": "Batty",
+        "category": "Pets",
+        "rarity": "rare"
+      },
+      {
+        "id": "emote:quiz hat",
+        "name": "Quiz Hat",
+        "category": "Emote",
+        "rarity": "rare"
+      },
+      {
+        "id": "back:angel wings",
+        "name": "Angel Wings",
+        "category": "Back",
+        "rarity": "rare"
+      },
+      {
+        "id": "back:ash wings",
+        "name": "Ash Wings",
+        "category": "Back",
+        "rarity": "rare"
+      },
+      {
+        "id": "back:blood wings",
+        "name": "Blood Wings",
+        "category": "Back",
+        "rarity": "rare"
+      },
+      {
+        "id": "back:deadeye wings",
+        "name": "Deadeye Wings",
+        "category": "Back",
+        "rarity": "rare"
+      },
+      {
+        "id": "back:monarch wings",
+        "name": "Monarch Wings",
+        "category": "Back",
+        "rarity": "rare"
+      },
+      {
+        "id": "pets:deinosuchus",
+        "name": "Deinosuchus",
+        "category": "Pets",
+        "rarity": "legendary"
+      },
+      {
+        "id": "pets:cow",
+        "name": "Cow",
+        "category": "Pets",
+        "rarity": "legendary"
+      },
+      {
+        "id": "emote:fire aura",
+        "name": "Fire Aura",
+        "category": "Emote",
+        "rarity": "legendary"
+      },
+      {
+        "id": "emote:scav fog",
+        "name": "Scav Fog",
+        "category": "Emote",
+        "rarity": "legendary"
+      },
+      {
+        "id": "emote:sun beam",
+        "name": "Sun Beam",
+        "category": "Emote",
+        "rarity": "legendary"
+      }
+    ],
+    "text_effects": [
+      {
+        "id": "text-red",
+        "name": "Red Text",
+        "rarity": "common",
+        "class_name": "text-red"
+      },
+      {
+        "id": "text-blue",
+        "name": "Blue Text",
+        "rarity": "common",
+        "class_name": "text-blue"
+      },
+      {
+        "id": "text-green",
+        "name": "Green Text",
+        "rarity": "common",
+        "class_name": "text-green"
+      },
+      {
+        "id": "text-yellow",
+        "name": "Yellow Text",
+        "rarity": "common",
+        "class_name": "text-yellow"
+      },
+      {
+        "id": "text-orange",
+        "name": "Orange Text",
+        "rarity": "common",
+        "class_name": "text-orange"
+      },
+      {
+        "id": "text-brown",
+        "name": "Brown Text",
+        "rarity": "common",
+        "class_name": "text-brown"
+      },
+      {
+        "id": "text-purple",
+        "name": "Purple Text",
+        "rarity": "common",
+        "class_name": "text-purple"
+      },
+      {
+        "id": "text-pink",
+        "name": "Pink Text",
+        "rarity": "common",
+        "class_name": "text-pink"
+      },
+      {
+        "id": "text-teal",
+        "name": "Teal Text",
+        "rarity": "common",
+        "class_name": "text-teal"
+      },
+      {
+        "id": "text-rainbow",
+        "name": "Rainbow Text",
+        "rarity": "rare",
+        "class_name": "text-rainbow"
+      },
+      {
+        "id": "text-sparkle",
+        "name": "Sparkle Text",
+        "rarity": "rare",
+        "class_name": "text-sparkle"
+      },
+      {
+        "id": "text-wavy",
+        "name": "Wavy Text",
+        "rarity": "rare",
+        "class_name": "text-wavy"
+      },
+      {
+        "id": "text-animated-rainbow",
+        "name": "Animated Rainbow Text",
+        "rarity": "legendary",
+        "class_name": "text-animated-rainbow"
+      },
+      {
+        "id": "text-gold-sparkle",
+        "name": "Gold Sparkle Text",
+        "rarity": "legendary",
+        "class_name": "text-gold-sparkle"
+      },
+      {
+        "id": "text-glitch-sweep",
+        "name": "Glitch Sweep Text",
+        "rarity": "legendary",
+        "class_name": "text-glitch-sweep"
+      },
+      {
+        "id": "text-candle-wish",
+        "name": "Candle Wish Text",
+        "rarity": "rare",
+        "class_name": "text-candle-wish"
+      },
+      {
+        "id": "text-rainbow-comet",
+        "name": "Rainbow Comet Text",
+        "rarity": "rare",
+        "class_name": "text-rainbow-comet"
+      },
+      {
+        "id": "text-portal",
+        "name": "Portal Text",
+        "rarity": "legendary",
+        "class_name": "text-portal"
+      },
+      {
+        "id": "text-black-hole",
+        "name": "Black Hole Text",
+        "rarity": "legendary",
+        "class_name": "text-black-hole"
+      },
+      {
+        "id": "text-gift-box-surprise",
+        "name": "Gift Box Surprise Text",
+        "rarity": "legendary",
+        "class_name": "text-gift-box-surprise"
+      }
+    ],
+    "cosmetics_total": 24,
+    "text_effects_total": 20
+  },
+  "notes": {
+    "shinies": "Shinies are the Kiwi Birb-owned channel currency used for gifting, predictions, and gamba.",
+    "metal": "Metal has been replaced by Shinies."
+  }
+}
