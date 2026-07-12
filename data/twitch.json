@@ -12,11 +12,11 @@
     "mapName": "The Tartar Steppe v1.1",
     "mapFileName": "the_tartar_steppe_v1.1",
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 7,
     "gameTime": 1418,
-    "updatedAt": "2026-07-12T19:56:35Z"
+    "updatedAt": "2026-07-12T19:57:06Z"
   },
   "live": true,
   "viewers": 1,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-12T19:41:32Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783886173
+  "statusUpdatedAt": 1783886203
 }
