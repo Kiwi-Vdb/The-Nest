@@ -115,17 +115,15 @@ body { overflow-x: hidden; }
 .clips-hotspot { left: 81.5%; top: 84.4%; width: 10.7%; height: 4.1%; }
 
 /* The desk monitor shows the muted live stream and opens Twitch when clicked. */
+/* Paste this rule at the VERY BOTTOM of css/twitch.css.
+   Do not replace the original selector block; this overrides position and size only. */
+
+/* F8: STREAM MONITOR | editor ID: stream-monitor */
 .stream-monitor {
-  position: absolute;
-  left: 49.02%;
-  top: 13.82%;
+  left: 50.49%;
+  top: 14.21%;
   width: 14.48%;
   height: 11.62%;
-  z-index: 5;
-  overflow: hidden;
-  border-radius: 1.5% / 3%;
-  background: #000;
-  box-shadow: inset 0 0 18px rgba(0, 0, 0, .96);
 }
 
 .stream-monitor-screen {
