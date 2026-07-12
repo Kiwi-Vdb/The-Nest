@@ -962,3 +962,155 @@ body.clip-modal-open { overflow: hidden; }
     height: auto;
   }
 }
+
+/* === THE NEST F8 LAYOUT OVERRIDES: TWITCH START ===
+   Paste this entire block at the VERY BOTTOM of css/twitch.css.
+   These rules override position, size, and supported content-scale variables; they do not remove backgrounds,
+   borders, animation, typography, hover effects, or other existing styling.
+   On the next export, replace only the previous block between these markers. */
+
+/* F8: NAV HUB | editor ID: nav-hub */
+.nav-hub {
+  left: 3.99%;
+  top: 29.56%;
+  width: 13.07%;
+  height: 5.35%;
+}
+
+/* F8: NAV TWITCH | editor ID: nav-twitch */
+.nav-twitch {
+  left: 0.00%;
+  top: 0.00%;
+  width: 0.00%;
+  height: 0.00%;
+}
+
+/* F8: NAV DISCORD | editor ID: nav-discord */
+.nav-discord {
+  left: 4.20%;
+  top: 42.91%;
+  width: 12.60%;
+  height: 4.80%;
+}
+
+/* F8: NAV COMMUNITY | editor ID: nav-community */
+.nav-community {
+  left: 4.26%;
+  top: 49.24%;
+  width: 12.60%;
+  height: 4.80%;
+}
+
+/* F8: NAV EVENTS | editor ID: nav-events */
+.nav-events {
+  left: 4.15%;
+  top: 55.31%;
+  width: 12.60%;
+  height: 4.80%;
+}
+
+/* F8: NAV SHOP | editor ID: nav-shop */
+.nav-shop {
+  left: 4.31%;
+  top: 61.62%;
+  width: 12.60%;
+  height: 4.80%;
+}
+
+/* F8: STREAM MONITOR | editor ID: stream-monitor */
+.stream-monitor {
+  left: 49.02%;
+  top: 13.82%;
+  width: 14.48%;
+  height: 11.62%;
+}
+
+/* F8: WATCH STREAM BUTTON | editor ID: watch-button */
+.watch-hotspot {
+  left: 20.70%;
+  top: 50.20%;
+  width: 11.80%;
+  height: 5.50%;
+}
+
+/* F8: VIEW ALL CLIPS BUTTON | editor ID: clips-button */
+.clips-hotspot {
+  left: 22.02%;
+  top: 65.76%;
+  width: 10.91%;
+  height: 2.76%;
+}
+
+/* F8: LIVE STATUS CARD | editor ID: live-status-card */
+.live-status-card {
+  left: 20.70%;
+  top: 44.12%;
+  width: 21.60%;
+  height: 15.80%;
+}
+
+/* F8: CURRENT GAME CARD | editor ID: current-game-card */
+.current-game-card {
+  left: 43.98%;
+  top: 43.42%;
+  width: 23.64%;
+  height: 18.24%;
+}
+
+/* F8: PREDICTION CARD | editor ID: prediction-card */
+.prediction-card {
+  left: 70.09%;
+  top: 42.67%;
+  width: 24.61%;
+  height: 18.05%;
+}
+
+/* F8: CLIP 1 - NEWEST | editor ID: clip-window-1 */
+.clip-window-1 {
+  left: 21.95%;
+  top: 69.81%;
+  width: 13.44%;
+  height: 18.96%;
+}
+
+/* F8: CLIP 2 | editor ID: clip-window-2 */
+.clip-window-2 {
+  left: 36.44%;
+  top: 70.20%;
+  width: 13.44%;
+  height: 18.96%;
+}
+
+/* F8: CLIP 3 | editor ID: clip-window-3 */
+.clip-window-3 {
+  left: 51.04%;
+  top: 70.20%;
+  width: 13.44%;
+  height: 18.96%;
+}
+
+/* F8: CLIP 4 | editor ID: clip-window-4 */
+.clip-window-4 {
+  left: 65.84%;
+  top: 70.28%;
+  width: 13.44%;
+  height: 18.96%;
+}
+
+/* F8: CLIP 5 | editor ID: clip-window-5 */
+.clip-window-5 {
+  left: 80.37%;
+  top: 70.19%;
+  width: 13.44%;
+  height: 18.96%;
+}
+
+/* F8: NEST SYNC | editor ID: nest-sync */
+.nest-sync-card {
+  left: 5.20%;
+  top: 81.40%;
+  width: 10.70%;
+  height: 6.00%;
+}
+
+/* === THE NEST F8 LAYOUT OVERRIDES: TWITCH END === */
