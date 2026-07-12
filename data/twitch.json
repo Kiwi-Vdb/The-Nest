@@ -12,11 +12,11 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 12,
+    "players": 11,
     "maxPlayers": 16,
     "spectators": 8,
     "gameTime": 1418,
-    "updatedAt": "2026-07-12T19:59:15Z"
+    "updatedAt": "2026-07-12T20:00:33Z"
   },
   "live": true,
   "viewers": 1,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-12T19:41:32Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783886385
+  "statusUpdatedAt": 1783886416
 }
