@@ -480,55 +480,55 @@ body { overflow-x: hidden; }
 /* F8: NAV HUB | editor ID: nav-hub */
 .nav-hub {
   left: 4.84%;
-  top: 31.05%;
-  width: 12.61%;
-  height: 5.94%;
+  top: 31.67%;
+  width: 12.57%;
+  height: 4.68%;
 }
 
 /* F8: NAV TWITCH | editor ID: nav-twitch */
 .nav-twitch {
-  left: 4.84%;
-  top: 38.14%;
-  width: 12.61%;
-  height: 5.47%;
+  left: 4.75%;
+  top: 38.22%;
+  width: 12.79%;
+  height: 5.39%;
 }
 
 /* F8: NAV DISCORD | editor ID: nav-discord */
 .nav-discord {
-  left: 4.75%;
-  top: 45.22%;
-  width: 12.66%;
-  height: 5.47%;
+  left: 4.93%;
+  top: 45.62%;
+  width: 12.70%;
+  height: 4.84%;
 }
 
 /* F8: NAV COMMUNITY | editor ID: nav-community */
 .nav-community {
   left: 4.75%;
-  top: 52.47%;
-  width: 12.66%;
+  top: 52.55%;
+  width: 12.75%;
   height: 5.39%;
 }
 
 /* F8: NAV EVENTS | editor ID: nav-events */
 .nav-events {
-  left: 4.75%;
-  top: 59.39%;
-  width: 12.75%;
-  height: 5.54%;
+  left: 4.93%;
+  top: 59.71%;
+  width: 12.44%;
+  height: 5.31%;
 }
 
 /* F8: NAV SHOP | editor ID: nav-shop */
 .nav-shop {
-  left: 4.75%;
+  left: 4.66%;
   top: 66.64%;
-  width: 12.74%;
-  height: 5.55%;
+  width: 12.84%;
+  height: 5.63%;
 }
 
 /* F8: JOIN DISCORD BUTTON | editor ID: join-discord-button */
 .join-discord-hotspot {
-  left: 23.15%;
-  top: 27.95%;
+  left: 23.59%;
+  top: 28.42%;
   width: 16.65%;
   height: 6.75%;
 }
@@ -543,26 +543,26 @@ body { overflow-x: hidden; }
 
 /* F8: LIVE GENERAL CHAT PANEL | editor ID: live-general-chat-panel */
 .live-chat-panel {
-  left: 44.29%;
-  top: 50.68%;
-  width: 23.48%;
-  height: 41.45%;
+  left: 44.73%;
+  top: 51.71%;
+  width: 22.77%;
+  height: 40.11%;
 }
 
 /* F8: LATEST MEME PANEL | editor ID: latest-meme-panel */
 .latest-meme-panel {
-  left: 69.64%;
-  top: 50.84%;
-  width: 25.15%;
-  height: 41.45%;
+  left: 70.16%;
+  top: 53.83%;
+  width: 23.56%;
+  height: 37.67%;
 }
 
 /* F8: NEST SYNC STATUS | editor ID: discord-nest-sync */
 .nest-sync-card {
-  left: 8.59%;
-  top: 85.46%;
-  width: 6.83%;
-  height: 6.54%;
+  left: 8.46%;
+  top: 86.41%;
+  width: 9.75%;
+  height: 5.75%;
 }
 
 /* === THE NEST F8 LAYOUT OVERRIDES: DISCORD END === */
