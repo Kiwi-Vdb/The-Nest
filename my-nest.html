@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Nest | The Nest</title>
+  <link rel="stylesheet" href="./css/my-nest-nav.css">
+  <link rel="stylesheet" href="./css/my-nest.css">
+  <link rel="stylesheet" href="./css/dev-mode.css">
+</head>
+<body>
+  <main class="my-nest-page nest-art-page" aria-label="Your personal Nest profile">
+    <img class="my-nest-bg" src="./assets/backgrounds/community-bg.png?v=my-nest-20260712" alt="The Nest community room">
+    <div class="my-nest-shade" aria-hidden="true"></div>
+
+    <nav aria-label="My Nest page navigation">
+      <a class="hotspot nav-hotspot nav-hub" href="hub.html" aria-label="Open Hub" data-dev-label="NAV HUB"></a>
+      <a class="hotspot nav-hotspot nav-twitch" href="twitch.html" aria-label="Open Twitch page" data-dev-label="NAV TWITCH"></a>
+      <a class="hotspot nav-hotspot nav-discord" href="discord.html" aria-label="Open Discord page" data-dev-label="NAV DISCORD"></a>
+      <a class="hotspot nav-hotspot nav-community" href="community.html" aria-label="Open Community" data-dev-label="NAV COMMUNITY"></a>
+      <a class="hotspot nav-hotspot nav-events" href="events.html" aria-label="Open Events" data-dev-label="NAV EVENTS"></a>
+      <a class="hotspot nav-hotspot nav-shop" href="shop.html" aria-label="Open The Nest Shop" data-dev-label="NAV SHOP"></a>
+      <a class="my-nest-nav is-current dev-editable" href="my-nest.html" aria-current="page"
+         data-dev-id="nav-my-nest" data-dev-label="NAV MY NEST" data-dev-selector=".my-nest-nav">My Nest</a>
+    </nav>
+
+    <section class="my-nest-profile dev-editable" data-dev-id="my-nest-profile" data-dev-label="PROFILE & SHINIES" data-dev-selector=".my-nest-profile">
+      <div class="profile-loading" id="my-nest-loading">
+        <span class="nest-spinner" aria-hidden="true"></span>
+        <strong>Opening your Nest…</strong>
+      </div>
+
+      <div class="profile-signed-out" id="my-nest-signed-out" hidden>
+        <div class="signed-out-icon">✦</div>
+        <div>
+          <p class="panel-kicker">Your private corner of the community</p>
+          <h1>Welcome to My Nest</h1>
+          <p>Sign in with Twitch to see your Shinies, statistics, unlocks and recent activity.</p>
+        </div>
+        <button id="my-nest-login" class="nest-primary-button" type="button">Sign in with Twitch</button>
+      </div>
+
+      <div class="profile-content" id="my-nest-profile-content" hidden>
+        <img id="my-nest-avatar" class="profile-avatar" alt="">
+        <div class="profile-identity">
+          <p class="panel-kicker">Personal Nest</p>
+          <h1><span id="my-nest-display-name">Viewer</span>'s Nest</h1>
+          <p id="my-nest-member-since" class="profile-member-since">Nest member since —</p>
+        </div>
+        <div class="profile-summary">
+          <div><span>Shinies</span><strong id="my-nest-balance">0 ✦</strong></div>
+          <div><span>Leaderboard</span><strong id="my-nest-rank">—</strong></div>
+          <div><span>Unlocks</span><strong id="my-nest-unlock-total">0</strong></div>
+        </div>
+        <button id="my-nest-logout" class="nest-secondary-button" type="button">Sign out</button>
+      </div>
+
+      <div class="profile-error" id="my-nest-error" hidden role="status"></div>
+    </section>
+
+    <section class="my-nest-stats nest-panel dev-editable" data-dev-id="my-nest-stats" data-dev-label="VIEWER STATISTICS" data-dev-selector=".my-nest-stats">
+      <header class="nest-panel-heading">
+        <div><span>Performance</span><h2>Your Statistics</h2></div>
+        <div id="my-nest-updated" class="panel-updated">Waiting for Kiwi Birb</div>
+      </header>
+      <div id="my-nest-stat-grid" class="stat-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="my-nest-collection nest-panel dev-editable" data-dev-id="my-nest-collection" data-dev-label="UNLOCK COLLECTION" data-dev-selector=".my-nest-collection">
+      <header class="nest-panel-heading collection-heading">
+        <div><span>Your rewards</span><h2>Collection</h2></div>
+        <div class="collection-tabs" role="tablist" aria-label="Collection type">
+          <button class="is-active" type="button" role="tab" aria-selected="true" data-collection-tab="cosmetics">Cosmetics</button>
+          <button type="button" role="tab" aria-selected="false" data-collection-tab="textEffects">Text Effects</button>
+        </div>
+      </header>
+      <div id="my-nest-collection-summary" class="collection-summary"></div>
+      <div id="my-nest-collection-grid" class="collection-grid" aria-live="polite"></div>
+    </section>
+
+    <section class="my-nest-activity nest-panel dev-editable" data-dev-id="my-nest-activity" data-dev-label="PRIVATE RECENT ACTIVITY" data-dev-selector=".my-nest-activity">
+      <header class="nest-panel-heading">
+        <div><span>Only visible to you</span><h2>Recent Activity</h2></div>
+      </header>
+      <div id="my-nest-activity-list" class="personal-activity-list" aria-live="polite"></div>
+    </section>
+
+    <section class="nest-sync-card dev-editable" data-dev-id="nest-sync" data-dev-label="NEST SYNC" data-dev-selector=".nest-sync-card" aria-label="Nest Sync status">
+      <div id="nest-sync-status" class="sync-status is-connected">Connected</div>
+      <div id="nest-sync-updated" class="sync-updated">Last updated just now</div>
+    </section>
+
+    <div id="my-nest-toast" class="my-nest-toast" role="status" aria-live="polite"></div>
+  </main>
+
+  <script src="./js/main.js"></script>
+  <script src="./js/my-nest.js"></script>
+  <script src="./js/dev-mode.js"></script>
+</body>
+</html>

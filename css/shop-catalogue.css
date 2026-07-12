@@ -615,3 +615,14 @@
   font-size: clamp(.34rem, 3.7cqw, .58rem);
 }
 
+
+
+/* My Nest shortcut shared by both catalogue pages. */
+.catalogue-header-links { display: flex; flex-direction: column; align-items: flex-start; gap: .55rem; }
+.catalogue-my-nest {
+  display: inline-flex; align-items: center; gap: .4em; padding: .55rem .75rem;
+  border: 1px solid rgba(156,108,255,.42); border-radius: 999px;
+  background: rgba(71,34,112,.2); color: #efe1c4; text-decoration: none;
+  font-weight: 700; font-size: .78rem; letter-spacing: .05em;
+}
+.catalogue-my-nest:hover,.catalogue-my-nest:focus-visible { border-color: rgba(190,155,255,.9); box-shadow: 0 0 16px rgba(141,85,255,.28); outline: none; }

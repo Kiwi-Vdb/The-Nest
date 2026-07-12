@@ -1,0 +1,83 @@
+/* Shared My Nest navigation button added without changing the painted backgrounds. */
+.my-nest-nav {
+  position: absolute;
+  left: 4.58%;
+  top: 68.45%;
+  width: 12.72%;
+  height: 5.05%;
+  z-index: 14;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .48em;
+  border: 1px solid rgba(210, 161, 95, .42);
+  border-radius: .52vw;
+  background:
+    linear-gradient(180deg, rgba(31, 23, 19, .96), rgba(8, 7, 8, .98)),
+    radial-gradient(circle at 50% 0%, rgba(141, 85, 255, .18), transparent 62%);
+  box-shadow:
+    inset 0 0 16px rgba(0, 0, 0, .72),
+    0 0 12px rgba(0, 0, 0, .62);
+  color: rgba(236, 212, 171, .94);
+  font: 700 clamp(.38rem, .72vw, .82rem)/1 Georgia, "Times New Roman", serif;
+  letter-spacing: .105em;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-shadow: 0 0 10px rgba(0, 0, 0, .96);
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.my-nest-nav::before {
+  content: "✦";
+  color: #a980ff;
+  font-size: 1.06em;
+  text-shadow: 0 0 10px rgba(141, 85, 255, .8);
+}
+
+.my-nest-nav::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  background: linear-gradient(90deg, transparent, rgba(141, 85, 255, .16), transparent);
+  transform: translateX(-100%);
+  transition: transform 260ms ease, opacity 180ms ease;
+  pointer-events: none;
+}
+
+.my-nest-nav:hover,
+.my-nest-nav:focus-visible,
+.my-nest-nav.is-current {
+  color: #fff2d6;
+  border-color: rgba(169, 128, 255, .76);
+  box-shadow:
+    inset 0 0 18px rgba(75, 34, 121, .3),
+    0 0 18px rgba(141, 85, 255, .34);
+  outline: none;
+}
+
+.my-nest-nav:hover::after,
+.my-nest-nav:focus-visible::after {
+  opacity: 1;
+  transform: translateX(100%);
+}
+
+.discord-page .my-nest-nav {
+  left: 4.75%;
+  top: 71.45%;
+  width: 13.5%;
+  height: 5.55%;
+  border-radius: .6vw;
+  font-size: clamp(.4rem, .72vw, .86rem);
+}
+
+.events-page .my-nest-nav { top: 71.25%; }
+.shop-page .my-nest-nav { top: 68.35%; }
+.twitch-page .my-nest-nav { top: 68.15%; }
+.community-page .my-nest-nav,
+.leaderboards-page .my-nest-nav { top: 68.35%; }
+
+@media (max-width: 800px) {
+  .my-nest-nav { letter-spacing: .07em; }
+}
