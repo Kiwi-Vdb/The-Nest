@@ -525,6 +525,14 @@ body { overflow-x: hidden; }
   height: 5.63%;
 }
 
+/* F8: NAV MY NEST | editor ID: nav-my-nest */
+.my-nest-nav {
+  left: 4.35%;
+  top: 73.57%;
+  width: 13.50%;
+  height: 5.55%;
+}
+
 /* F8: JOIN DISCORD BUTTON | editor ID: join-discord-button */
 .join-discord-hotspot {
   left: 23.59%;

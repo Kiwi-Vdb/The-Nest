@@ -365,6 +365,14 @@ body { overflow-x: hidden; }
   height: 1.00%;
 }
 
+/* F8: NAV MY NEST | editor ID: nav-my-nest */
+.my-nest-nav {
+  left: 4.16%;
+  top: 69.37%;
+  width: 12.72%;
+  height: 5.05%;
+}
+
 /* F8: SHOP ACCOUNT & BALANCE | editor ID: shop-balance */
 .shop-balance {
   left: 21.90%;
@@ -375,34 +383,34 @@ body { overflow-x: hidden; }
 
 /* F8: FEATURED PRODUCT 1 | editor ID: featured-product-1 */
 .featured-product-1 {
-  left: 21.30%;
-  top: 48.92%;
-  width: 15.30%;
-  height: 16.22%;
+  left: 23.40%;
+  top: 48.37%;
+  width: 11.11%;
+  height: 11.90%;
 }
 
 /* F8: FEATURED PRODUCT 2 | editor ID: featured-product-2 */
 .featured-product-2 {
-  left: 21.47%;
-  top: 68.98%;
-  width: 15.19%;
-  height: 17.10%;
+  left: 23.73%;
+  top: 67.65%;
+  width: 10.73%;
+  height: 11.67%;
 }
 
 /* F8: FEATURED PRODUCT 3 | editor ID: featured-product-3 */
 .featured-product-3 {
-  left: 39.93%;
+  left: 42.29%;
   top: 48.59%;
-  width: 16.35%;
-  height: 15.61%;
+  width: 10.63%;
+  height: 12.46%;
 }
 
 /* F8: FEATURED PRODUCT 4 | editor ID: featured-product-4 */
 .featured-product-4 {
-  left: 39.74%;
-  top: 68.34%;
-  width: 17.04%;
-  height: 18.04%;
+  left: 42.57%;
+  top: 68.50%;
+  width: 10.01%;
+  height: 13.32%;
 }
 
 /* F8: VIEW ALL COSMETICS BUTTON | editor ID: shop-cosmetics-button */
@@ -425,8 +433,8 @@ body { overflow-x: hidden; }
 .shop-daily {
   left: 58.45%;
   top: 48.43%;
-  width: 16.88%;
-  height: 35.69%;
+  width: 16.20%;
+  height: 35.22%;
   --shop-panel-scale: 1.28;
 }
 
