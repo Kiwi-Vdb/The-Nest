@@ -247,3 +247,10 @@ body.nest-dev-on .nest-dev-panel { display: block; }
   box-shadow: 0 0 20px rgba(141, 85, 255, .35);
 }
 body.nest-dev-on .nest-dev-toast.show { display: block; }
+
+/* Optional per-panel content scaling control (v3.6.4). */
+.nest-dev-scale-field { grid-column: 1 / -1; }
+.nest-dev-field input:disabled {
+  opacity: .38;
+  cursor: not-allowed;
+}

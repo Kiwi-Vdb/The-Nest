@@ -311,10 +311,6 @@ body { overflow-x: hidden; }
   .shop-page { width: 100vw; }
 }
 
-/* Paste this rule at the VERY BOTTOM of css/shop.css.
-   Do not replace the original selector block; this overrides position and size only. */
-
-/* F8: TOP SELLERS | editor ID: shop-sellers */
 /* === THE NEST F8 LAYOUT OVERRIDES: SHOP START ===
    Paste this entire block at the VERY BOTTOM of css/shop.css.
    These rules override only position and size; they do not remove backgrounds,
@@ -379,34 +375,34 @@ body { overflow-x: hidden; }
 
 /* F8: FEATURED PRODUCT 1 | editor ID: featured-product-1 */
 .featured-product-1 {
-  left: 22.88%;
-  top: 49.78%;
-  width: 12.73%;
-  height: 15.76%;
+  left: 23.40%;
+  top: 48.37%;
+  width: 11.11%;
+  height: 11.90%;
 }
 
 /* F8: FEATURED PRODUCT 2 | editor ID: featured-product-2 */
 .featured-product-2 {
-  left: 22.57%;
-  top: 69.29%;
-  width: 12.89%;
-  height: 15.45%;
+  left: 23.73%;
+  top: 67.65%;
+  width: 10.73%;
+  height: 11.67%;
 }
 
 /* F8: FEATURED PRODUCT 3 | editor ID: featured-product-3 */
 .featured-product-3 {
-  left: 41.93%;
-  top: 49.78%;
-  width: 12.10%;
-  height: 16.55%;
+  left: 42.29%;
+  top: 48.59%;
+  width: 10.63%;
+  height: 12.46%;
 }
 
 /* F8: FEATURED PRODUCT 4 | editor ID: featured-product-4 */
 .featured-product-4 {
-  left: 41.83%;
-  top: 68.97%;
-  width: 12.26%;
-  height: 15.52%;
+  left: 42.57%;
+  top: 68.50%;
+  width: 10.01%;
+  height: 13.32%;
 }
 
 /* F8: VIEW ALL COSMETICS BUTTON | editor ID: shop-cosmetics-button */
@@ -427,18 +423,18 @@ body { overflow-x: hidden; }
 
 /* F8: DAILY SPECIAL | editor ID: shop-daily */
 .shop-daily {
-  left: 58.60%;
-  top: 55.50%;
-  width: 16.67%;
-  height: 25.07%;
+  left: 58.45%;
+  top: 48.43%;
+  width: 16.20%;
+  height: 35.22%;
 }
 
 /* F8: TOP SELLERS | editor ID: shop-sellers */
 .shop-sellers {
-  left: 77.91%;
-  top: 49.65%;
-  width: 17.30%;
-  height: 37.28%;
+  left: 77.49%;
+  top: 47.76%;
+  width: 16.93%;
+  height: 36.65%;
 }
 
 /* F8: NEST SYNC | editor ID: nest-sync */

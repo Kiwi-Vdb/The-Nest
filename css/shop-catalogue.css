@@ -521,3 +521,97 @@
   .catalogue-tabs { flex-direction: column; }
   .catalogue-card { min-height: 330px; }
 }
+
+/* -------------------------------------------------------------------------
+   Main Shop readability fix (v3.6.4)
+   Keeps name, type/rarity, price and button in dedicated rows so they cannot
+   overlap even when a featured slot is resized with F8.
+   ------------------------------------------------------------------------- */
+.shop-page .featured-product-slot {
+  container-type: size;
+  overflow: visible;
+}
+
+.shop-page .featured-product-slot .shop-card {
+  display: grid;
+  grid-template-rows: minmax(0, 43%) minmax(0, 27%) auto auto;
+  align-items: center;
+  justify-items: center;
+  gap: 1.6cqh;
+  padding: 5cqh 7cqw 4cqh;
+  overflow: hidden;
+}
+
+.shop-page .featured-product-slot .shop-card-image,
+.shop-page .featured-product-slot .shop-card-icon {
+  width: min(58cqw, 27cqh);
+  max-width: 100%;
+  max-height: 100%;
+  align-self: center;
+}
+
+.shop-page .featured-product-slot .shop-card-icon {
+  font-size: clamp(1rem, 17cqw, 3rem);
+}
+
+.shop-page .featured-product-slot .shop-card-details {
+  width: 100%;
+  min-height: 0;
+  display: grid;
+  align-content: start;
+  justify-items: center;
+  gap: 1.25cqh;
+}
+
+.shop-page .featured-product-slot .shop-card-name {
+  width: 100%;
+  margin: 0;
+  color: #f5e8cc;
+  font-size: clamp(.52rem, 6.25cqw, 1rem);
+  line-height: 1.14;
+  text-align: center;
+}
+
+.shop-page .featured-product-slot .shop-card-meta {
+  min-height: 2.2em;
+  margin: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: .2em .34em;
+  font-size: clamp(.42rem, 4.45cqw, .72rem);
+  line-height: 1.15;
+}
+
+.shop-page .featured-product-slot .shop-card-price-row {
+  width: 100%;
+  min-height: 1.4em;
+  margin: 0;
+  align-self: end;
+}
+
+.shop-page .featured-product-slot .shop-card-price {
+  font-size: clamp(.68rem, 8.4cqw, 1.42rem);
+  line-height: 1;
+}
+
+.shop-page .featured-product-slot .shop-card-old-price {
+  font-size: clamp(.38rem, 4cqw, .68rem);
+}
+
+.shop-page .featured-product-slot .shop-card-buy {
+  width: 84%;
+  min-height: 0;
+  height: max(3.1cqh, 1.45em);
+  margin: 0;
+  padding: .22em .32em;
+  align-self: end;
+  font-size: clamp(.38rem, 4.25cqw, .68rem);
+}
+
+.shop-page .featured-product-slot .shop-card.is-owned::after,
+.shop-page .featured-product-slot .shop-card.is-sold-out::after {
+  font-size: clamp(.34rem, 3.7cqw, .58rem);
+}
+

@@ -13,6 +13,7 @@
   let history = [];
   let historyIndex = -1;
   const defaults = new Map();
+  const defaultScales = new Map();
 
   let targets = getTargets();
   if (!targets.length) return;
@@ -23,7 +24,10 @@
   const coords = createCoords();
   const toast = createToast();
 
-  targets.forEach(t => defaults.set(t, getBox(t)));
+  targets.forEach(t => {
+    defaults.set(t, getBox(t));
+    defaultScales.set(t, getScale(t));
+  });
   loadBrowserLayout(false);
   pushHistory();
 
@@ -121,6 +125,7 @@
           <div class="nest-dev-field"><label>Top %</label><input data-field="top" type="number" step="0.01"></div>
           <div class="nest-dev-field"><label>Width %</label><input data-field="width" type="number" step="0.01"></div>
           <div class="nest-dev-field"><label>Height %</label><input data-field="height" type="number" step="0.01"></div>
+          <div class="nest-dev-field nest-dev-scale-field"><label>Content Scale %</label><input data-field="scale" type="number" step="1" min="25" max="300"></div>
         </div>
         <div class="nest-dev-row">
           <button type="button" data-action="copy-selected">Copy Selected Override</button>
@@ -145,7 +150,7 @@
           <button type="button" data-action="undo">Undo</button>
           <button type="button" data-action="redo">Redo</button>
         </div>
-        <div class="nest-dev-output" data-output>Permanent save: click Copy All CSS and paste the generated override block at the very bottom of this page's CSS file. Replace only an older F8 override block; do not replace the original styled rules.</div>
+        <div class="nest-dev-output" data-output>Permanent save: click Copy All CSS and paste the generated override block at the very bottom of this page's CSS file. Daily Special and Top Sellers also support Content Scale. Replace only an older F8 override block; do not replace the original styled rules.</div>
       </div>
 
       <div class="nest-dev-section nest-dev-small">
@@ -249,6 +254,26 @@
 
   function pageRect() { return page.getBoundingClientRect(); }
 
+  function scaleVarFor(el) {
+    return el?.dataset?.devScaleVar || "";
+  }
+
+  function getScale(el) {
+    const variable = scaleVarFor(el);
+    if (!variable) return 1;
+    const raw = getComputedStyle(el).getPropertyValue(variable).trim();
+    const value = parseFloat(raw);
+    return Number.isFinite(value) && value > 0 ? value : 1;
+  }
+
+  function setScale(el, value) {
+    const variable = scaleVarFor(el);
+    if (!variable) return;
+    const scale = clamp(Number(value), 0.25, 3);
+    el.style.setProperty(variable, scale.toFixed(2));
+    if (selected === el) updatePanel();
+  }
+
   function getBox(el) {
     const r = pageRect();
     const style = getComputedStyle(el);
@@ -328,10 +353,15 @@
   function updatePanel() {
     if (!selected) {
       ui.readout.textContent = 'No item selected.';
-      Object.values(ui.fields).forEach(f => f.value = '');
+      Object.values(ui.fields).forEach(f => {
+        f.value = '';
+        f.disabled = f.dataset.field === 'scale';
+      });
       return;
     }
     const b = getBox(selected);
+    const scaleVariable = scaleVarFor(selected);
+    const scale = getScale(selected);
     const label = selected.dataset.devLabel || labelFromId(getId(selected));
     const selector = selectorFor(selected);
     const classes = Array.from(selected.classList)
@@ -347,11 +377,14 @@ Values: CSS layout (visual transforms ignored)
 left: ${b.left.toFixed(2)}%
 top: ${b.top.toFixed(2)}%
 width: ${b.width.toFixed(2)}%
-height: ${b.height.toFixed(2)}%`;
+height: ${b.height.toFixed(2)}%
+content scale: ${scaleVariable ? `${Math.round(scale * 100)}% (${scaleVariable})` : 'not available for this item'}`;
     ui.fields.left.value = b.left.toFixed(2);
     ui.fields.top.value = b.top.toFixed(2);
     ui.fields.width.value = b.width.toFixed(2);
     ui.fields.height.value = b.height.toFixed(2);
+    ui.fields.scale.value = scaleVariable ? String(Math.round(scale * 100)) : '';
+    ui.fields.scale.disabled = !scaleVariable;
   }
 
   function applyInputFields() {
@@ -362,6 +395,9 @@ height: ${b.height.toFixed(2)}%`;
       width: parseFloat(ui.fields.width.value),
       height: parseFloat(ui.fields.height.value)
     });
+    if (scaleVarFor(selected) && ui.fields.scale.value !== '') {
+      setScale(selected, parseFloat(ui.fields.scale.value) / 100);
+    }
   }
 
   window.addEventListener('pointermove', e => {
@@ -463,14 +499,21 @@ height: ${b.height.toFixed(2)}%`;
 
   function getLayout() {
     const layout = {};
-    targets.forEach(t => layout[getId(t)] = roundBox(getBox(t)));
+    targets.forEach(t => {
+      const entry = roundBox(getBox(t));
+      if (scaleVarFor(t)) entry.scale = Number(getScale(t).toFixed(2));
+      layout[getId(t)] = entry;
+    });
     return layout;
   }
 
   function applyLayout(layout) {
     targets.forEach(t => {
       const b = layout[getId(t)];
-      if (b) setBox(t, b);
+      if (b) {
+        setBox(t, b);
+        if (scaleVarFor(t) && Number.isFinite(Number(b.scale))) setScale(t, Number(b.scale));
+      }
     });
     updatePanel();
   }
@@ -487,12 +530,14 @@ height: ${b.height.toFixed(2)}%`;
   function cssFor(el) {
     const b = roundBox(getBox(el));
     const label = el.dataset.devLabel || labelFromId(getId(el));
+    const scaleVariable = scaleVarFor(el);
+    const scaleLine = scaleVariable ? `\n  ${scaleVariable}: ${getScale(el).toFixed(2)};` : "";
     return `/* F8: ${label} | editor ID: ${getId(el)} */
 ${selectorFor(el)} {
   left: ${b.left.toFixed(2)}%;
   top: ${b.top.toFixed(2)}%;
   width: ${b.width.toFixed(2)}%;
-  height: ${b.height.toFixed(2)}%;
+  height: ${b.height.toFixed(2)}%;${scaleLine}
 }`;
   }
 
@@ -507,7 +552,7 @@ ${cssFor(el)}`;
     const pageId = pageName().toUpperCase();
     return `/* === THE NEST F8 LAYOUT OVERRIDES: ${pageId} START ===
    Paste this entire block at the VERY BOTTOM of css/${pageName()}.css.
-   These rules override only position and size; they do not remove backgrounds,
+   These rules override position, size, and supported content-scale variables; they do not remove backgrounds,
    borders, animation, typography, hover effects, or other existing styling.
    On the next export, replace only the previous block between these markers. */
 
@@ -542,7 +587,9 @@ ${targets.map(cssFor).join('\n\n')}
 
   function resetSelected() {
     if (!selected) { showToast('Select an item first'); return; }
-    setBox(selected, defaults.get(selected), true);
+    setBox(selected, defaults.get(selected));
+    if (scaleVarFor(selected)) setScale(selected, defaultScales.get(selected) || 1);
+    pushHistory();
     showToast('Selected Reset');
   }
 

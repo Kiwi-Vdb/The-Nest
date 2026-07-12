@@ -446,3 +446,88 @@
   .shop-modal-card { width: 78%; padding: 5%; }
   .shop-card-buy { font-size: clamp(.28rem, 1.1vw, .58rem); }
 }
+
+/* -------------------------------------------------------------------------
+   Daily Special / Top Sellers scaling fix (v3.6.4)
+   F8 now exposes a Content Scale field for these two panels. Resizing the
+   outer panel also changes the container-relative typography below.
+   ------------------------------------------------------------------------- */
+.shop-daily,
+.shop-sellers {
+  --shop-panel-scale: 1.28;
+  container-type: inline-size;
+  overflow: visible;
+}
+
+.shop-panel-content {
+  width: calc(100% / var(--shop-panel-scale, 1));
+  transform: scale(var(--shop-panel-scale, 1));
+  transform-origin: top left;
+}
+
+.shop-daily .panel-heading,
+.shop-sellers .panel-heading {
+  margin-bottom: 6%;
+  font-size: clamp(.52rem, 5.2cqw, 1.05rem);
+  line-height: 1.05;
+}
+
+.shop-daily .daily-special {
+  gap: .42em;
+}
+
+.shop-daily .daily-special-timer {
+  font-size: clamp(.42rem, 4.1cqw, .78rem);
+  line-height: 1.15;
+}
+
+.shop-daily .daily-special-name {
+  font-size: clamp(.62rem, 6.1cqw, 1.18rem);
+  line-height: 1.14;
+}
+
+.shop-daily .daily-special-meta {
+  font-size: clamp(.42rem, 4.2cqw, .78rem);
+  line-height: 1.18;
+}
+
+.shop-daily .daily-special-price {
+  margin-top: 2%;
+  font-size: clamp(.78rem, 8.4cqw, 1.55rem);
+  line-height: 1.05;
+}
+
+.shop-daily .daily-special-old {
+  font-size: clamp(.42rem, 4.2cqw, .78rem);
+}
+
+.shop-daily .daily-special-buy {
+  margin-top: .25em;
+  min-height: 1.8em;
+  font-size: clamp(.4rem, 4.1cqw, .76rem);
+}
+
+.shop-sellers .seller-list {
+  display: grid;
+  gap: .7em;
+}
+
+.shop-sellers .seller-row {
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  column-gap: .45em;
+  row-gap: .12em;
+  font-size: clamp(.46rem, 4.65cqw, .88rem);
+  line-height: 1.12;
+}
+
+.shop-sellers .seller-sold {
+  font-size: 72%;
+}
+
+@supports not (font-size: 1cqw) {
+  .shop-daily .panel-heading,
+  .shop-sellers .panel-heading { font-size: clamp(.52rem, .9vw, 1.05rem); }
+  .shop-daily .daily-special-name { font-size: clamp(.62rem, 1.05vw, 1.18rem); }
+  .shop-sellers .seller-row { font-size: clamp(.46rem, .82vw, .88rem); }
+}
+
