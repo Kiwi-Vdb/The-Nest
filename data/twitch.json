@@ -10,6 +10,57 @@
     "title": "BAR Lobby",
     "description": "Hanging out in the lobby, getting ready for the next raid."
   },
-  "clips": [],
-  "clipsUpdatedAt": null
+  "clips": [
+    {
+      "id": "FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
+      "title": "a program",
+      "url": "https://www.twitch.tv/itsvdb/clip/FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d1201ef2-74f3-4658-83ed-8b813246c6b7/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 2,
+      "duration": 24.2,
+      "createdAt": "2026-06-24T15:28:04Z"
+    },
+    {
+      "id": "EphemeralPoliteLlamaFrankerZ-YWwJXpiME_DckrIn",
+      "title": "AHHHH! EME...! EMRE! *moans*",
+      "url": "https://www.twitch.tv/itsvdb/clip/EphemeralPoliteLlamaFrankerZ-YWwJXpiME_DckrIn",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=EphemeralPoliteLlamaFrankerZ-YWwJXpiME_DckrIn",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e410c3a3-b042-4d02-aee6-296b876911d6/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 12,
+      "duration": 27.9,
+      "createdAt": "2026-06-04T19:17:27Z"
+    },
+    {
+      "id": "TenderPuzzledChickenOpieOP-N5jhvhHSfx7orKP_",
+      "title": "VDB is a master of macro",
+      "url": "https://www.twitch.tv/itsvdb/clip/TenderPuzzledChickenOpieOP-N5jhvhHSfx7orKP_",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=TenderPuzzledChickenOpieOP-N5jhvhHSfx7orKP_",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5c8dd147-3ace-408c-8999-b302008cd056/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 18,
+      "duration": 37.2,
+      "createdAt": "2026-06-04T18:09:12Z"
+    },
+    {
+      "id": "NeighborlyBoringTomatoFloof-HgRYc94SCm0QTgCb",
+      "title": "66.67% winrate against Best BAR player",
+      "url": "https://www.twitch.tv/itsvdb/clip/NeighborlyBoringTomatoFloof-HgRYc94SCm0QTgCb",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=NeighborlyBoringTomatoFloof-HgRYc94SCm0QTgCb",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/bf274de5-baf1-4c78-b672-d227690272aa/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 3,
+      "duration": 30.0,
+      "createdAt": "2026-05-20T15:42:39Z"
+    },
+    {
+      "id": "ObservantCoweringEagleCoolStoryBro-xmL4ImceQkgG54GK",
+      "title": "almost smooth",
+      "url": "https://www.twitch.tv/itsvdb/clip/ObservantCoweringEagleCoolStoryBro-xmL4ImceQkgG54GK",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=ObservantCoweringEagleCoolStoryBro-xmL4ImceQkgG54GK",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7d57c069-164f-4065-9bf1-d8b946f7e726/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 17.8,
+      "createdAt": "2026-02-27T21:16:44Z"
+    }
+  ],
+  "clipsUpdatedAt": 1783848283
 }
