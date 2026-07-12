@@ -310,3 +310,143 @@ body { overflow-x: hidden; }
 @media (max-width: 800px) {
   .shop-page { width: 100vw; }
 }
+
+/* Paste this rule at the VERY BOTTOM of css/shop.css.
+   Do not replace the original selector block; this overrides position and size only. */
+
+/* F8: TOP SELLERS | editor ID: shop-sellers */
+/* === THE NEST F8 LAYOUT OVERRIDES: SHOP START ===
+   Paste this entire block at the VERY BOTTOM of css/shop.css.
+   These rules override only position and size; they do not remove backgrounds,
+   borders, animation, typography, hover effects, or other existing styling.
+   On the next export, replace only the previous block between these markers. */
+
+/* F8: NAV HUB | editor ID: nav-hub */
+.nav-hub {
+  left: 3.94%;
+  top: 29.41%;
+  width: 12.60%;
+  height: 4.60%;
+}
+
+/* F8: NAV TWITCH | editor ID: nav-twitch */
+.nav-twitch {
+  left: 4.09%;
+  top: 36.06%;
+  width: 12.60%;
+  height: 4.60%;
+}
+
+/* F8: NAV DISCORD | editor ID: nav-discord */
+.nav-discord {
+  left: 3.94%;
+  top: 42.91%;
+  width: 12.60%;
+  height: 4.60%;
+}
+
+/* F8: NAV COMMUNITY | editor ID: nav-community */
+.nav-community {
+  left: 3.99%;
+  top: 49.48%;
+  width: 12.60%;
+  height: 4.60%;
+}
+
+/* F8: NAV EVENTS | editor ID: nav-events */
+.nav-events {
+  left: 4.04%;
+  top: 56.18%;
+  width: 12.60%;
+  height: 4.60%;
+}
+
+/* F8: NAV SHOP | editor ID: nav-shop */
+.nav-shop {
+  left: 0.00%;
+  top: 0.00%;
+  width: 0.00%;
+  height: 0.00%;
+}
+
+/* F8: SHOP ACCOUNT & BALANCE | editor ID: shop-balance */
+.shop-balance {
+  left: 21.90%;
+  top: 29.30%;
+  width: 14.70%;
+  height: 9.80%;
+}
+
+/* F8: FEATURED PRODUCT 1 | editor ID: featured-product-1 */
+.featured-product-1 {
+  left: 22.88%;
+  top: 49.78%;
+  width: 12.73%;
+  height: 15.76%;
+}
+
+/* F8: FEATURED PRODUCT 2 | editor ID: featured-product-2 */
+.featured-product-2 {
+  left: 22.57%;
+  top: 69.29%;
+  width: 12.89%;
+  height: 15.45%;
+}
+
+/* F8: FEATURED PRODUCT 3 | editor ID: featured-product-3 */
+.featured-product-3 {
+  left: 41.93%;
+  top: 49.78%;
+  width: 12.10%;
+  height: 16.55%;
+}
+
+/* F8: FEATURED PRODUCT 4 | editor ID: featured-product-4 */
+.featured-product-4 {
+  left: 41.83%;
+  top: 68.97%;
+  width: 12.26%;
+  height: 15.52%;
+}
+
+/* F8: VIEW ALL COSMETICS BUTTON | editor ID: shop-cosmetics-button */
+.shop-cosmetics-button {
+  left: 32.40%;
+  top: 87.08%;
+  width: 14.25%;
+  height: 2.85%;
+}
+
+/* F8: VIEW ALL TEXT EFFECTS BUTTON | editor ID: shop-text-effects-button */
+.shop-text-effects-button {
+  left: 50.70%;
+  top: 87.08%;
+  width: 15.65%;
+  height: 2.85%;
+}
+
+/* F8: DAILY SPECIAL | editor ID: shop-daily */
+.shop-daily {
+  left: 58.60%;
+  top: 55.50%;
+  width: 16.67%;
+  height: 25.07%;
+}
+
+/* F8: TOP SELLERS | editor ID: shop-sellers */
+.shop-sellers {
+  left: 77.91%;
+  top: 49.65%;
+  width: 17.30%;
+  height: 37.28%;
+}
+
+/* F8: NEST SYNC | editor ID: nest-sync */
+.nest-sync-card {
+  left: 7.40%;
+  top: 83.10%;
+  width: 8.70%;
+  height: 4.20%;
+}
+
+/* === THE NEST F8 LAYOUT OVERRIDES: SHOP END === */
