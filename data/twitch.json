@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 016",
     "lobbyTitle": "EU1 - 016",
     "mode": "",
-    "mapName": "Hades Ponds 1.1",
-    "mapFileName": "hades_ponds_1.1",
-    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
+    "mapName": "Feast of Hades 1.0.1",
+    "mapFileName": "feast_of_hades_1.0.1",
+    "mapImage": "assets/maps/feast-of-hades-1-0-1-01d723791e.webp",
     "players": 5,
     "maxPlayers": 16,
     "spectators": 3,
     "gameTime": 2014,
-    "updatedAt": "2026-07-13T19:26:30Z"
+    "updatedAt": "2026-07-13T19:27:04Z"
   },
   "live": true,
   "viewers": 38,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783970792
+  "statusUpdatedAt": 1783970822
 }
