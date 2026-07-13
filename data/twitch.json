@@ -12,14 +12,14 @@
     "mapName": "SailAway 2",
     "mapFileName": "sailaway_2",
     "mapImage": "assets/maps/sailaway-2-7988ebb590.webp",
-    "players": 14,
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
-    "gameTime": 2101,
-    "updatedAt": "2026-07-13T15:50:55Z"
+    "gameTime": 4,
+    "updatedAt": "2026-07-13T15:51:29Z"
   },
   "live": true,
-  "viewers": 25,
+  "viewers": 22,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783957837
+  "statusUpdatedAt": 1783957867
 }
