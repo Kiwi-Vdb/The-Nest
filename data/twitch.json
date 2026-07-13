@@ -17,7 +17,7 @@
     "gameTime": 0,
     "updatedAt": "2026-07-13T13:01:30Z"
   },
-  "live": false,
+  "live": true,
   "viewers": 0,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
@@ -74,9 +74,9 @@
       "createdAt": "2026-02-27T21:16:44Z"
     }
   ],
-  "title": "",
-  "gameName": "",
-  "startedAt": "",
-  "thumbnailUrl": "",
-  "statusUpdatedAt": 1783947690
+  "title": "Hi i'm VDB and I play the only map I know.",
+  "gameName": "Beyond All Reason",
+  "startedAt": "2026-07-13T13:01:37Z",
+  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
+  "statusUpdatedAt": 1783947720
 }
