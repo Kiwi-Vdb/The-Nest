@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 769,
-    "updatedAt": "2026-07-13T14:24:53Z"
+    "spectators": 4,
+    "gameTime": 799,
+    "updatedAt": "2026-07-13T14:25:24Z"
   },
   "live": true,
-  "viewers": 10,
+  "viewers": 9,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783952698
+  "statusUpdatedAt": 1783952730
 }
