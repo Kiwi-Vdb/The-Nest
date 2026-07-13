@@ -1,7 +1,23 @@
 {
-  "generatedAt": 1783953763,
+  "generatedAt": 1783955166,
   "count": 50,
   "activities": [
+    {
+      "id": "f412443de9e5b840",
+      "type": "prediction",
+      "who": "hunbleeone",
+      "text": "won 1,000 Shinies in a prediction: Will the Blitz only win?",
+      "timestamp": 1783955166,
+      "amount": 1000
+    },
+    {
+      "id": "ce6f1cdb67284682",
+      "type": "prediction",
+      "who": "sharpishdog",
+      "text": "won 1,000 Shinies in a prediction: Will the Blitz only win?",
+      "timestamp": 1783955165,
+      "amount": 1000
+    },
     {
       "id": "fa0b643234ae1f7d",
       "type": "unlock",
@@ -441,26 +457,6 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "883ee0214dbdc057",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Ranger Cap",
-      "timestamp": 1782915444,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "8b34af6dbb4a9576",
-      "type": "unlock",
-      "who": "dme_wraxell",
-      "text": "unlocked Teal Text",
-      "timestamp": 1782907989,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }

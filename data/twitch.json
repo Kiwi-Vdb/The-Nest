@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "Failed Negotiations 1.0",
-    "mapFileName": "failed_negotiations_1.0",
-    "mapImage": "assets/maps/failed-negotiations-1-0-2965dbc0d3.webp",
-    "players": 15,
+    "mapName": "Mescaline_V2",
+    "mapFileName": "mescaline_v2",
+    "mapImage": "assets/maps/mescaline-v2-1898c93dd4.webp",
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 5,
     "gameTime": 1149,
-    "updatedAt": "2026-07-13T15:05:50Z"
+    "updatedAt": "2026-07-13T15:06:06Z"
   },
   "live": true,
   "viewers": 15,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783955145
+  "statusUpdatedAt": 1783955175
 }
