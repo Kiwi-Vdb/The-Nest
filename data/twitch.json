@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "The Rock 3.0.1",
-    "mapFileName": "the_rock_3.0.1",
-    "mapImage": "assets/maps/the-rock-3-0-1-0e0c911f47.webp",
+    "mapName": "Glacial Gap v1.1",
+    "mapFileName": "glacial_gap_v1.1",
+    "mapImage": "assets/maps/glacial-gap-v1-1-031ea2ea80.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 785,
-    "updatedAt": "2026-07-13T16:12:29Z"
+    "updatedAt": "2026-07-13T16:13:01Z"
   },
   "live": true,
   "viewers": 30,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783959150
+  "statusUpdatedAt": 1783959181
 }
