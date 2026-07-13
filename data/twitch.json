@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/failed-negotiations-1-0-2965dbc0d3.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 735,
-    "updatedAt": "2026-07-13T14:57:49Z"
+    "spectators": 7,
+    "gameTime": 767,
+    "updatedAt": "2026-07-13T14:58:21Z"
   },
   "live": true,
   "viewers": 18,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783954657
+  "statusUpdatedAt": 1783954687
 }
