@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 016",
     "lobbyTitle": "EU1 - 016",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 6,
+    "mapName": "Tangerine_Remake 1.0",
+    "mapFileName": "tangerine_remake_1.0",
+    "mapImage": "assets/maps/tangerine-remake-1-0-659d81b837.webp",
+    "players": 7,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 5,
     "gameTime": 1510,
-    "updatedAt": "2026-07-13T17:43:52Z"
+    "updatedAt": "2026-07-13T17:44:25Z"
   },
   "live": true,
   "viewers": 20,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783964608
+  "statusUpdatedAt": 1783964639
 }
