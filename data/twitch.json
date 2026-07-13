@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 016",
     "lobbyTitle": "EU1 - 016",
     "mode": "",
-    "mapName": "Tangerine_Remake 1.0",
-    "mapFileName": "tangerine_remake_1.0",
-    "mapImage": "assets/maps/tangerine-remake-1-0-659d81b837.webp",
+    "mapName": "White Fire Remake 1.3",
+    "mapFileName": "white_fire_remake_1.3",
+    "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
     "players": 6,
     "maxPlayers": 16,
     "spectators": 5,
     "gameTime": 1510,
-    "updatedAt": "2026-07-13T17:45:27Z"
+    "updatedAt": "2026-07-13T17:46:31Z"
   },
   "live": true,
   "viewers": 20,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783964761
+  "statusUpdatedAt": 1783964791
 }
