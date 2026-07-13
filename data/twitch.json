@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/koom-valley-3-3-1-31688bcab7.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 4,
-    "gameTime": 9,
-    "updatedAt": "2026-07-13T13:21:06Z"
+    "spectators": 5,
+    "gameTime": 39,
+    "updatedAt": "2026-07-13T13:21:37Z"
   },
   "live": true,
   "viewers": 9,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783948847
+  "statusUpdatedAt": 1783948878
 }
