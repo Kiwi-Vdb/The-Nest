@@ -12,11 +12,11 @@
     "mapName": "White Fire Remake 1.3",
     "mapFileName": "white_fire_remake_1.3",
     "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
-    "players": 7,
+    "players": 6,
     "maxPlayers": 16,
     "spectators": 4,
-    "gameTime": 729,
-    "updatedAt": "2026-07-13T18:02:24Z"
+    "gameTime": 762,
+    "updatedAt": "2026-07-13T18:02:56Z"
   },
   "live": true,
   "viewers": 51,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783965735
+  "statusUpdatedAt": 1783965765
 }
