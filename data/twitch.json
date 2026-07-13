@@ -6,17 +6,17 @@
     "status": "in_lobby",
     "statusLabel": "IN LOBBY",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU1 - 014",
-    "lobbyTitle": "EU1 - 014",
+    "lobbyName": "EU1 - 033",
+    "lobbyTitle": "EU1 - 033",
     "mode": "",
-    "mapName": "Supreme Isthmus v2.1",
-    "mapFileName": "supreme_isthmus_v2.1",
-    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
-    "players": 3,
+    "mapName": "Comet Catcher Remake 1.8",
+    "mapFileName": "comet_catcher_remake_1.8",
+    "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
+    "players": 0,
     "maxPlayers": 16,
-    "spectators": 2,
+    "spectators": 1,
     "gameTime": 0,
-    "updatedAt": "2026-07-13T17:20:33Z"
+    "updatedAt": "2026-07-13T17:21:21Z"
   },
   "live": true,
   "viewers": 25,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783963235
+  "statusUpdatedAt": 1783963265
 }
