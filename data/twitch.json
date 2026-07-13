@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 4,
-    "updatedAt": "2026-07-13T17:47:48Z"
+    "spectators": 6,
+    "gameTime": 34,
+    "updatedAt": "2026-07-13T17:48:19Z"
   },
   "live": true,
   "viewers": 20,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783964852
+  "statusUpdatedAt": 1783964882
 }
