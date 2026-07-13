@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_lobby",
-    "statusLabel": "IN LOBBY",
+    "status": "in_game",
+    "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
@@ -15,8 +15,8 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 0,
-    "updatedAt": "2026-07-13T14:42:08Z"
+    "gameTime": 23,
+    "updatedAt": "2026-07-13T14:42:38Z"
   },
   "live": true,
   "viewers": 18,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783953723
+  "statusUpdatedAt": 1783953753
 }
