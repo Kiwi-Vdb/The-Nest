@@ -18,7 +18,7 @@
     "updatedAt": "2026-07-13T14:36:40Z"
   },
   "live": true,
-  "viewers": 14,
+  "viewers": 15,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -78,5 +78,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783953420
+  "statusUpdatedAt": 1783953450
 }
