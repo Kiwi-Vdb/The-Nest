@@ -58,12 +58,58 @@ const STREAM_EMBED_HEIGHT = 300;
 const TWITCH_REFRESH_MS = 15000;
 const PREDICTION_REFRESH_MS = 15000;
 const SYNC_REFRESH_MS = 30000;
+const TWITCH_STATUS_STALE_MS = 3 * 60 * 1000;
+let twitchServiceConfigPromise = null;
 let streamResizeObserver = null;
 let currentTwitchData = fallbackTwitch;
 let currentPredictionData = fallbackTwitch.prediction;
 let currentSyncData = fallbackSync;
 let currentClips = [];
 let activeClip = null;
+
+
+async function twitchServiceApiBase() {
+  if (!twitchServiceConfigPromise) {
+    twitchServiceConfigPromise = readJson('./data/shop-config.json', {})
+      .then(config => String(config.apiBase || '').replace(/\/+$/, ''))
+      .catch(() => '');
+  }
+  return twitchServiceConfigPromise;
+}
+
+function applyTwitchFreshness(data = {}) {
+  const updatedAt = Number(data.statusUpdatedAt || 0) * 1000;
+  const isFresh = updatedAt > 0 && (Date.now() - updatedAt) <= TWITCH_STATUS_STALE_MS;
+  if (isFresh) return data;
+
+  return {
+    ...data,
+    live: false,
+    viewers: 0,
+    title: '',
+    gameName: '',
+    startedAt: '',
+    thumbnailUrl: '',
+    statusStale: true
+  };
+}
+
+async function fetchCloudTwitchStatus() {
+  const apiBase = await twitchServiceApiBase();
+  if (!apiBase) return null;
+
+  try {
+    const response = await fetch(
+      `${apiBase}/api/twitch-status?v=${Date.now()}`,
+      { cache: 'no-store' }
+    );
+    if (!response.ok) return null;
+    const status = await response.json();
+    return status?.ok ? status : null;
+  } catch {
+    return null;
+  }
+}
 
 function normaliseChannel(value) {
   return String(value || 'itsvdb')
@@ -536,7 +582,13 @@ function renderTwitchPage(data) {
 }
 
 async function refreshTwitchData() {
-  currentTwitchData = await readJson('./data/twitch.json', currentTwitchData);
+  const fileData = await readJson('./data/twitch.json', currentTwitchData);
+  const cloudStatus = await fetchCloudTwitchStatus();
+
+  currentTwitchData = cloudStatus
+    ? { ...fileData, ...cloudStatus }
+    : applyTwitchFreshness(fileData);
+
   renderTwitchPage(currentTwitchData);
 }
 

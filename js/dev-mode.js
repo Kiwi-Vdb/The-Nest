@@ -28,8 +28,8 @@
     defaults.set(t, getBox(t));
     defaultScales.set(t, getScale(t));
   });
-  loadBrowserLayout(false);
   pushHistory();
+  void initialisePublishedLayout();
 
   function getTargets() {
     const found = Array.from(page.querySelectorAll('.hotspot, .dev-editable, [data-dev-id]'));
@@ -135,8 +135,12 @@
 
       <div class="nest-dev-section">
         <div class="nest-dev-row">
-          <button type="button" data-action="save-browser">Save Browser Layout</button>
-          <button type="button" data-action="load-browser">Load Browser Layout</button>
+          <button type="button" data-action="save-browser">Save Draft Locally</button>
+          <button type="button" data-action="load-browser">Load Local Draft</button>
+        </div>
+        <div class="nest-dev-row">
+          <button type="button" data-action="publish-layout">Publish For Everyone</button>
+          <button type="button" data-action="load-published">Load Published</button>
         </div>
         <div class="nest-dev-row">
           <button type="button" data-action="copy-all">Copy All CSS</button>
@@ -150,7 +154,7 @@
           <button type="button" data-action="undo">Undo</button>
           <button type="button" data-action="redo">Redo</button>
         </div>
-        <div class="nest-dev-output" data-output>Permanent save: click Copy All CSS and paste the generated override block at the very bottom of this page's CSS file. Daily Special and Top Sellers also support Content Scale. Replace only an older F8 override block; do not replace the original styled rules.</div>
+        <div class="nest-dev-output" data-output>Use Save Draft Locally while positioning. When finished, click Publish For Everyone. Published layouts are stored securely and load for every visitor. CSS export remains available as a backup.</div>
       </div>
 
       <div class="nest-dev-section nest-dev-small">
@@ -463,7 +467,7 @@ content scale: ${scaleVariable ? `${Math.round(scale * 100)}% (${scaleVariable})
     coords.textContent = `x: ${x.toFixed(2)}%   y: ${y.toFixed(2)}%`;
   }
 
-  function handlePanelClick(e) {
+  async function handlePanelClick(e) {
     const btn = e.target.closest('button[data-action]');
     if (!btn) return;
     const action = btn.dataset.action;
@@ -485,6 +489,8 @@ content scale: ${scaleVariable ? `${Math.round(scale * 100)}% (${scaleVariable})
     if (action === 'reset-selected') resetSelected();
     if (action === 'save-browser') saveBrowserLayout();
     if (action === 'load-browser') loadBrowserLayout(true);
+    if (action === 'publish-layout') await publishCurrentLayout();
+    if (action === 'load-published') await loadPublishedLayout(true);
     if (action === 'clear-browser') clearBrowserLayout();
     if (action === 'copy-all') copy(allCss(), 'All CSS copied');
     if (action === 'download-css') download(`${pageName()}-f8-layout-overrides.css`, allCss());
@@ -561,19 +567,129 @@ ${targets.map(cssFor).join('\n\n')}
 /* === THE NEST F8 LAYOUT OVERRIDES: ${pageId} END === */`;
   }
 
+
+  let serviceConfigPromise = null;
+
+  async function serviceApiBase() {
+    if (!serviceConfigPromise) {
+      serviceConfigPromise = fetch(`./data/shop-config.json?v=${Date.now()}`, {
+        cache: 'no-store'
+      })
+        .then(response => {
+          if (!response.ok) throw new Error('Shop service configuration not found');
+          return response.json();
+        })
+        .then(config => String(config.apiBase || '').replace(/\/+$/, ''))
+        .catch(() => '');
+    }
+    return serviceConfigPromise;
+  }
+
+  async function initialisePublishedLayout() {
+    await loadPublishedLayout(false);
+    // A local browser draft is intentionally applied last so the owner can
+    // keep editing without changing what visitors see until Publish is clicked.
+    loadBrowserLayout(false);
+    pushHistory();
+  }
+
+  async function loadPublishedLayout(showMessage = false) {
+    const apiBase = await serviceApiBase();
+    if (!apiBase) {
+      if (showMessage) {
+        showToast('Layout Service Not Configured');
+        showOutput('The published-layout service could not be found. Check data/shop-config.json.');
+      }
+      return false;
+    }
+
+    try {
+      const response = await fetch(
+        `${apiBase}/api/layout?page=${encodeURIComponent(pageName())}&v=${Date.now()}`,
+        { cache: 'no-store' }
+      );
+      if (!response.ok) throw new Error(`Layout service returned ${response.status}`);
+      const result = await response.json();
+
+      if (!result.layout) {
+        if (showMessage) {
+          showToast('No Published Layout');
+          showOutput('No global F8 layout has been published for this page yet.');
+        }
+        return false;
+      }
+
+      applyLayout(result.layout);
+      pushHistory();
+      if (showMessage) {
+        showToast('Published Layout Loaded');
+        showOutput('The globally published layout has been loaded.');
+      }
+      return true;
+    } catch (error) {
+      if (showMessage) {
+        showToast('Published Layout Failed');
+        showOutput(`Could not load the published layout: ${error.message || error}`);
+      }
+      return false;
+    }
+  }
+
+  async function publishCurrentLayout() {
+    const apiBase = await serviceApiBase();
+    if (!apiBase) {
+      showToast('Layout Service Not Configured');
+      showOutput('The published-layout service could not be found. Check data/shop-config.json.');
+      return;
+    }
+
+    const token = localStorage.getItem('the-nest-shop-token');
+    if (!token) {
+      showToast('Sign In Required');
+      showOutput('Sign in with Twitch on the Shop or My Nest page first, then return here and click Publish For Everyone.');
+      return;
+    }
+
+    try {
+      const response = await fetch(
+        `${apiBase}/api/layout?page=${encodeURIComponent(pageName())}`,
+        {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ layout: getLayout() })
+        }
+      );
+
+      const result = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        throw new Error(result.message || result.error || `Layout service returned ${response.status}`);
+      }
+
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(getLayout()));
+      showToast('Published For Everyone');
+      showOutput('This page layout is now global. New visitors and friends will receive these positions automatically.');
+    } catch (error) {
+      showToast('Publish Failed');
+      showOutput(`Could not publish this layout: ${error.message || error}`);
+    }
+  }
+
   function saveBrowserLayout() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(getLayout()));
-    showOutput('Browser layout saved. This survives refreshes on this computer only. For a permanent project save, use Copy All CSS and paste the override block at the bottom of the matching page CSS file. Never replace the original styled selector block.');
-    showToast('Browser Layout Saved');
+    showOutput('Local draft saved on this browser only. Click Publish For Everyone when the layout is ready for visitors.');
+    showToast('Local Draft Saved');
   }
 
   function loadBrowserLayout(showMessage) {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) { if (showMessage) showToast('No Browser Layout Found'); return; }
+    if (!raw) { if (showMessage) showToast('No Local Draft Found'); return; }
     try {
       applyLayout(JSON.parse(raw));
       pushHistory();
-      if (showMessage) showToast('Browser Layout Loaded');
+      if (showMessage) showToast('Local Draft Loaded');
     } catch {
       if (showMessage) showToast('Saved Layout Is Invalid');
     }
@@ -581,8 +697,8 @@ ${targets.map(cssFor).join('\n\n')}
 
   function clearBrowserLayout() {
     localStorage.removeItem(STORAGE_KEY);
-    showToast('Browser Layout Cleared');
-    showOutput('Saved browser layout cleared. Refresh the page to see only the CSS-defined positions.');
+    showToast('Local Draft Cleared');
+    showOutput('Local draft cleared. Refresh the page to load the published layout, or the CSS defaults when no layout has been published.');
   }
 
   function resetSelected() {

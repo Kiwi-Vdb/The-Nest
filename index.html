@@ -11,7 +11,7 @@
   <main class="welcome-page" aria-label="The Nest welcome page">
     <img class="welcome-bg" src="./assets/backgrounds/welcome-bg.png" alt="The Nest welcome interface">
 
-    <!-- Live text overlay. Values come from data/twitch.json, with a safe offline fallback. -->
+    <!-- Live text overlay. Values use the Cloudflare live-status service, with a fresh GitHub snapshot fallback. -->
     <section class="stream-status-card" aria-label="Twitch stream status">
       <div id="stream-status" class="stream-status is-offline">● OFFLINE</div>
       <div id="viewer-count" class="viewer-count">0 Viewers</div>
@@ -23,7 +23,7 @@
     <a class="hotspot hotspot-hub" href="hub.html" aria-label="Enter the Hub" data-dev-label="ENTER HUB"></a>
   </main>
 
-  <script src="./js/welcome.js?v=20260712-home-status-fix"></script>
-  <script src="./js/dev-mode.js"></script>
+  <script src="./js/welcome.js?v=20260713-cloud-status"></script>
+  <script src="./js/dev-mode.js?v=20260713-global-layouts"></script>
 </body>
 </html>
