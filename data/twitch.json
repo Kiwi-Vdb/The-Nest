@@ -9,17 +9,17 @@
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "The Tartar Steppe v1.1",
-    "mapFileName": "the_tartar_steppe_v1.1",
-    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
-    "players": 12,
+    "mapName": "Failed Negotiations 1.0",
+    "mapFileName": "failed_negotiations_1.0",
+    "mapImage": "assets/maps/failed-negotiations-1-0-2965dbc0d3.webp",
+    "players": 15,
     "maxPlayers": 16,
-    "spectators": 1,
+    "spectators": 7,
     "gameTime": 0,
-    "updatedAt": "2026-07-13T14:40:35Z"
+    "updatedAt": "2026-07-13T14:41:37Z"
   },
   "live": true,
-  "viewers": 15,
+  "viewers": 18,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783953663
+  "statusUpdatedAt": 1783953693
 }
