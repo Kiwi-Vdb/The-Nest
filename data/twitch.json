@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 469,
-    "updatedAt": "2026-07-13T13:15:04Z"
+    "spectators": 6,
+    "gameTime": 492,
+    "updatedAt": "2026-07-13T13:15:35Z"
   },
   "live": true,
   "viewers": 6,
