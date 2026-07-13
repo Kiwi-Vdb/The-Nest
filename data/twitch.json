@@ -12,11 +12,11 @@
     "mapName": "Ditched_V1",
     "mapFileName": "Ditched_V1",
     "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
-    "players": 16,
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 390,
-    "updatedAt": "2026-07-13T13:13:46Z"
+    "gameTime": 405,
+    "updatedAt": "2026-07-13T13:14:03Z"
   },
   "live": true,
   "viewers": 6,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783948424
+  "statusUpdatedAt": 1783948454
 }
