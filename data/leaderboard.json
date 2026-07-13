@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1783963223,
+  "generatedAt": 1783963631,
   "totalViewers": 14,
   "totalShinies": 517874,
   "pageSize": 100,
@@ -16,33 +16,33 @@
     },
     {
       "rank": 3,
-      "name": "iamdibi",
-      "shinies": 70900
-    },
-    {
-      "rank": 4,
       "name": "betterstrategy",
       "shinies": 69000
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "stuart_williamson",
       "shinies": 66100
     },
     {
+      "rank": 5,
+      "name": "iamdibi",
+      "shinies": 60900
+    },
+    {
       "rank": 6,
+      "name": "hunbleeone",
+      "shinies": 21451
+    },
+    {
+      "rank": 7,
       "name": "bar_outofmana",
       "shinies": 17000
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "professor_bar",
       "shinies": 15150
-    },
-    {
-      "rank": 8,
-      "name": "hunbleeone",
-      "shinies": 11451
     },
     {
       "rank": 9,

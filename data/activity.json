@@ -1,7 +1,16 @@
 {
-  "generatedAt": 1783963223,
+  "generatedAt": 1783963631,
   "count": 50,
   "activities": [
+    {
+      "id": "b2c8ee003228cb33",
+      "type": "gift",
+      "who": "iamdibi",
+      "text": "gifted 10,000 Shinies to hunbleeone",
+      "timestamp": 1783963631,
+      "amount": 10000,
+      "target": "hunbleeone"
+    },
     {
       "id": "edde03fd3c9dc127",
       "type": "unlock",
@@ -447,16 +456,6 @@
       "rarity": "common",
       "category": "Hand",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "dac4a2762e029239",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Teal Text",
-      "timestamp": 1782919423,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
