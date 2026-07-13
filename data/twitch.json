@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/sailaway-2-7988ebb590.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 5,
     "gameTime": 2101,
-    "updatedAt": "2026-07-13T15:48:53Z"
+    "updatedAt": "2026-07-13T15:49:08Z"
   },
   "live": true,
   "viewers": 20,
