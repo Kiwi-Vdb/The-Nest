@@ -2,20 +2,21 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": false,
-    "status": "not_in_lobby",
-    "statusLabel": "NOT IN LOBBY",
-    "lobbyName": "Not in a BAR lobby",
-    "lobbyTitle": "",
+    "active": true,
+    "status": "in_lobby",
+    "statusLabel": "IN LOBBY",
+    "playerName": "[APM]Vdb",
+    "lobbyName": "EU1 - 004",
+    "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "Waiting for a lobby",
-    "mapFileName": "",
-    "mapImage": "",
-    "players": 0,
-    "maxPlayers": 0,
-    "spectators": 0,
+    "mapName": "The Tartar Steppe v1.1",
+    "mapFileName": "the_tartar_steppe_v1.1",
+    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
+    "players": 12,
+    "maxPlayers": 16,
+    "spectators": 1,
     "gameTime": 0,
-    "updatedAt": "2026-07-13T14:39:18Z"
+    "updatedAt": "2026-07-13T14:40:35Z"
   },
   "live": true,
   "viewers": 15,
@@ -78,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783953602
+  "statusUpdatedAt": 1783953632
 }
