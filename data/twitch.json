@@ -9,17 +9,17 @@
     "lobbyName": "EU7 - 011",
     "lobbyTitle": "EU7 - 011",
     "mode": "",
-    "mapName": "Coastlines_Dry_V2.2.1",
-    "mapFileName": "coastlines_dry_v2.2.1",
-    "mapImage": "assets/maps/coastlines-dry-v2-2-1-1c9b64d378.webp",
+    "mapName": "Twin Lakes Park Redux 1.2.2",
+    "mapFileName": "twin_lakes_park_redux_1.2.2",
+    "mapImage": "assets/maps/twin-lakes-park-redux-1-2-2-344041f342.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 9,
     "gameTime": 937,
-    "updatedAt": "2026-07-13T13:38:49Z"
+    "updatedAt": "2026-07-13T13:39:22Z"
   },
   "live": true,
-  "viewers": 9,
+  "viewers": 11,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783949917
+  "statusUpdatedAt": 1783949948
 }
