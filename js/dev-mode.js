@@ -503,14 +503,49 @@ content scale: ${scaleVariable ? `${Math.round(scale * 100)}% (${scaleVariable})
     return (location.pathname.split('/').pop() || 'index').replace(/\.html$/i, '') || 'index';
   }
 
+  function safeLayoutId(value, index = 0) {
+    const raw = String(value || '').trim();
+    if (/^[a-z0-9_-]{1,80}$/i.test(raw)) return raw;
+    const repaired = slugFromText(raw).slice(0, 80);
+    return repaired || `dev-item-${index + 1}`;
+  }
+
   function getLayout() {
     const layout = {};
-    targets.forEach(t => {
-      const entry = roundBox(getBox(t));
+    targets.forEach((t, index) => {
+      const id = safeLayoutId(getId(t), index);
+      if (t.dataset.devId !== id) t.dataset.devId = id;
+
+      // Always pass the measured box through the same normalisation used by
+      // drag/resize. Hidden, not-yet-painted, or legacy targets can otherwise
+      // report 0/NaN geometry and make the Worker reject the whole page.
+      const entry = roundBox(normalizeBox(getBox(t)));
       if (scaleVarFor(t)) entry.scale = Number(getScale(t).toFixed(2));
-      layout[getId(t)] = entry;
+      layout[id] = entry;
     });
     return layout;
+  }
+
+  function validatePublishLayout(layout) {
+    const entries = Object.entries(layout || {});
+    if (!entries.length) return 'No editable items were found on this page.';
+    if (entries.length > 160) return 'This page contains too many editable items.';
+
+    for (const [id, box] of entries) {
+      if (!/^[a-z0-9_-]{1,80}$/i.test(id)) return `Invalid editor ID: ${id}`;
+      if (!box || typeof box !== 'object' || Array.isArray(box)) return `Invalid layout entry: ${id}`;
+      const values = [box.left, box.top, box.width, box.height].map(Number);
+      if (!values.every(Number.isFinite)) return `Invalid measurements for: ${id}`;
+      const [left, top, width, height] = values;
+      if (left < 0 || top < 0 || width < 0.25 || height < 0.25 || left > 100 || top > 100 || width > 100 || height > 100) {
+        return `Out-of-range measurements for: ${id}`;
+      }
+      if (box.scale !== undefined) {
+        const scale = Number(box.scale);
+        if (!Number.isFinite(scale) || scale < 0.25 || scale > 3) return `Invalid content scale for: ${id}`;
+      }
+    }
+    return '';
   }
 
   function applyLayout(layout) {
@@ -651,6 +686,12 @@ ${targets.map(cssFor).join('\n\n')}
     }
 
     try {
+      const layout = getLayout();
+      const validationError = validatePublishLayout(layout);
+      if (validationError) {
+        throw new Error(validationError);
+      }
+
       const response = await fetch(
         `${apiBase}/api/layout?page=${encodeURIComponent(pageName())}`,
         {
@@ -659,7 +700,7 @@ ${targets.map(cssFor).join('\n\n')}
             'Authorization': `Bearer ${token}`,
             'Content-Type': 'application/json'
           },
-          body: JSON.stringify({ layout: getLayout() })
+          body: JSON.stringify({ layout })
         }
       );
 
@@ -668,7 +709,7 @@ ${targets.map(cssFor).join('\n\n')}
         throw new Error(result.message || result.error || `Layout service returned ${response.status}`);
       }
 
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(getLayout()));
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(layout));
       showToast('Published For Everyone');
       showOutput('This page layout is now global. New visitors and friends will receive these positions automatically.');
     } catch (error) {
