@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 1124,
-    "updatedAt": "2026-07-13T15:29:40Z"
+    "spectators": 6,
+    "gameTime": 1169,
+    "updatedAt": "2026-07-13T15:30:21Z"
   },
   "live": true,
   "viewers": 19,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783956567
+  "statusUpdatedAt": 1783956600
 }
