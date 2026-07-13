@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/coastlines-dry-v2-2-1-1c9b64d378.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 6,
     "gameTime": 937,
-    "updatedAt": "2026-07-13T13:36:46Z"
+    "updatedAt": "2026-07-13T13:37:17Z"
   },
   "live": true,
   "viewers": 9,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783949795
+  "statusUpdatedAt": 1783949826
 }
