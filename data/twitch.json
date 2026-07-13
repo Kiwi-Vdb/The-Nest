@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 016",
     "lobbyTitle": "EU1 - 016",
     "mode": "",
-    "mapName": "Feast of Hades 1.0.1",
-    "mapFileName": "feast_of_hades_1.0.1",
-    "mapImage": "assets/maps/feast-of-hades-1-0-1-01d723791e.webp",
-    "players": 7,
+    "mapName": "Delta Siege Dry v5.7.1",
+    "mapFileName": "delta_siege_dry_v5.7.1",
+    "mapImage": "assets/maps/delta-siege-dry-v5-7-1-2ae47590ed.webp",
+    "players": 3,
     "maxPlayers": 16,
-    "spectators": 2,
+    "spectators": 4,
     "gameTime": 1038,
-    "updatedAt": "2026-07-13T19:49:55Z"
+    "updatedAt": "2026-07-13T19:50:36Z"
   },
   "live": true,
   "viewers": 35,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783972195
+  "statusUpdatedAt": 1783972226
 }
