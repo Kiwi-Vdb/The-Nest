@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 352,
-    "updatedAt": "2026-07-13T15:16:41Z"
+    "spectators": 7,
+    "gameTime": 379,
+    "updatedAt": "2026-07-13T15:17:12Z"
   },
   "live": true,
-  "viewers": 18,
+  "viewers": 22,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783955795
+  "statusUpdatedAt": 1783955825
 }
