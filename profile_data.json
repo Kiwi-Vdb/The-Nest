@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783960100,
+  "generated_at": 1783960106,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -1233,7 +1233,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:witch hat",
+          "name": "Witch Hat",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
@@ -1248,7 +1255,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 0,
         "text_effects_available": 20,
