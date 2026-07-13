@@ -1,5 +1,5 @@
 {
-  "generated_at": 1783960106,
+  "generated_at": 1783960171,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -962,7 +962,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:wizards hat",
+          "name": "Wizards Hat",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-red",
@@ -973,8 +980,16 @@
         }
       ],
       "current_text_effect": null,
-      "loot_boxes_opened": 1,
+      "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Wizards Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1783960165
+        },
         {
           "name": "Red Text",
           "category": "Text Effect",
@@ -985,11 +1000,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "oafsalot": {

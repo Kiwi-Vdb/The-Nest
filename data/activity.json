@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1783960106,
+  "generatedAt": 1783960171,
   "count": 50,
   "activities": [
+    {
+      "id": "edde03fd3c9dc127",
+      "type": "unlock",
+      "who": "mesaber",
+      "text": "unlocked Wizards Hat",
+      "timestamp": 1783960165,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "d16882e751b2fe95",
       "type": "unlock",
@@ -447,16 +457,6 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "126963d432566384",
-      "type": "unlock",
-      "who": "oafsalot",
-      "text": "unlocked Witch Hat",
-      "timestamp": 1782919417,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
