@@ -9,17 +9,17 @@
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "SailAway 2",
-    "mapFileName": "sailaway_2",
-    "mapImage": "assets/maps/sailaway-2-7988ebb590.webp",
+    "mapName": "The Rock 3.0.1",
+    "mapFileName": "the_rock_3.0.1",
+    "mapImage": "assets/maps/the-rock-3-0-1-0e0c911f47.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 785,
-    "updatedAt": "2026-07-13T16:11:58Z"
+    "updatedAt": "2026-07-13T16:12:29Z"
   },
   "live": true,
-  "viewers": 28,
+  "viewers": 30,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783959120
+  "statusUpdatedAt": 1783959150
 }
