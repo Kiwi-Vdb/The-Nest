@@ -2,21 +2,20 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
-    "playerName": "[APM]Vdb",
-    "lobbyName": "EU7 - 011",
-    "lobbyTitle": "EU7 - 011",
+    "active": false,
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
+    "lobbyTitle": "",
     "mode": "",
-    "mapName": "Plains and Passes v1.0",
-    "mapFileName": "plains_and_passes_v1.0",
-    "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
-    "players": 15,
-    "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 1445,
-    "updatedAt": "2026-07-13T14:36:08Z"
+    "mapName": "Waiting for a lobby",
+    "mapFileName": "",
+    "mapImage": "",
+    "players": 0,
+    "maxPlayers": 0,
+    "spectators": 0,
+    "gameTime": 0,
+    "updatedAt": "2026-07-13T14:36:40Z"
   },
   "live": true,
   "viewers": 14,
@@ -79,5 +78,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783953359
+  "statusUpdatedAt": 1783953389
 }
