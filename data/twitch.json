@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/feast-of-hades-1-0-1-01d723791e.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 701,
-    "updatedAt": "2026-07-13T19:44:12Z"
+    "spectators": 2,
+    "gameTime": 734,
+    "updatedAt": "2026-07-13T19:44:44Z"
   },
   "live": true,
   "viewers": 36,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783971854
+  "statusUpdatedAt": 1783971885
 }
