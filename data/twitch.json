@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "Deeploria Fields v1.5.1",
-    "mapFileName": "deeploria_fields_v1.5.1",
-    "mapImage": "assets/maps/deeploria-fields-v1-5-1-7ab629cb69.webp",
-    "players": 13,
+    "mapName": "Flats and Forests v2.2",
+    "mapFileName": "flats_and_forests_v2.2",
+    "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 1149,
-    "updatedAt": "2026-07-13T15:06:37Z"
+    "updatedAt": "2026-07-13T15:07:16Z"
   },
   "live": true,
   "viewers": 15,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783955175
+  "statusUpdatedAt": 1783955216
 }
