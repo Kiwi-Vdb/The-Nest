@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 514,
-    "updatedAt": "2026-07-13T14:20:37Z"
+    "spectators": 4,
+    "gameTime": 544,
+    "updatedAt": "2026-07-13T14:21:09Z"
   },
   "live": true,
   "viewers": 9,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783952423
+  "statusUpdatedAt": 1783952453
 }
