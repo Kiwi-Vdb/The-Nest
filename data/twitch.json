@@ -6,17 +6,17 @@
     "status": "in_game",
     "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU1 - 004",
-    "lobbyTitle": "EU1 - 004",
+    "lobbyName": "EU6 - 005",
+    "lobbyTitle": "EU6 - 005",
     "mode": "",
-    "mapName": "Glacial Gap v1.1",
-    "mapFileName": "glacial_gap_v1.1",
-    "mapImage": "assets/maps/glacial-gap-v1-1-031ea2ea80.webp",
+    "mapName": "All That Glitters v2.2.3",
+    "mapFileName": "all_that_glitters_v2.2.3",
+    "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 808,
-    "updatedAt": "2026-07-13T16:30:13Z"
+    "spectators": 5,
+    "gameTime": 898,
+    "updatedAt": "2026-07-13T16:30:46Z"
   },
   "live": true,
   "viewers": 30,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783960216
+  "statusUpdatedAt": 1783960247
 }
