@@ -12,11 +12,11 @@
     "mapName": "Delta Siege Dry v5.7.1",
     "mapFileName": "delta_siege_dry_v5.7.1",
     "mapImage": "assets/maps/delta-siege-dry-v5-7-1-2ae47590ed.webp",
-    "players": 2,
+    "players": 1,
     "maxPlayers": 16,
     "spectators": 3,
     "gameTime": 1038,
-    "updatedAt": "2026-07-13T19:52:40Z"
+    "updatedAt": "2026-07-13T19:53:41Z"
   },
   "live": true,
   "viewers": 38,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783972377
+  "statusUpdatedAt": 1783972407
 }
