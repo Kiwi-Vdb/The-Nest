@@ -12,11 +12,11 @@
     "mapName": "Plains and Passes v1.0",
     "mapFileName": "plains_and_passes_v1.0",
     "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
     "spectators": 3,
-    "gameTime": 871,
-    "updatedAt": "2026-07-13T14:26:38Z"
+    "gameTime": 922,
+    "updatedAt": "2026-07-13T14:27:29Z"
   },
   "live": true,
   "viewers": 9,
