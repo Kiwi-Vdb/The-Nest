@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 4,
-    "gameTime": 1234,
-    "updatedAt": "2026-07-13T14:32:41Z"
+    "spectators": 5,
+    "gameTime": 1270,
+    "updatedAt": "2026-07-13T14:33:14Z"
   },
   "live": true,
   "viewers": 14,
