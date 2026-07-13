@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 7,
     "gameTime": 898,
-    "updatedAt": "2026-07-13T16:30:46Z"
+    "updatedAt": "2026-07-13T16:31:16Z"
   },
   "live": true,
-  "viewers": 30,
+  "viewers": 32,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783960247
+  "statusUpdatedAt": 1783960277
 }
