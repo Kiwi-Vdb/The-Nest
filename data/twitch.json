@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/feast-of-hades-1-0-1-01d723791e.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 36,
-    "updatedAt": "2026-07-13T19:30:55Z"
+    "spectators": 3,
+    "gameTime": 19,
+    "updatedAt": "2026-07-13T19:31:26Z"
   },
   "live": true,
-  "viewers": 38,
+  "viewers": 39,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783971064
+  "statusUpdatedAt": 1783971094
 }
