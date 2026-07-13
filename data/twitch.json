@@ -2,20 +2,21 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": false,
-    "status": "not_in_lobby",
-    "statusLabel": "NOT IN LOBBY",
-    "lobbyName": "Not in a BAR lobby",
-    "lobbyTitle": "",
+    "active": true,
+    "status": "in_game",
+    "statusLabel": "IN GAME",
+    "playerName": "[APM]Vdb",
+    "lobbyName": "EU8 - 018",
+    "lobbyTitle": "EU8 - 018",
     "mode": "",
-    "mapName": "Waiting for a lobby",
-    "mapFileName": "",
-    "mapImage": "",
-    "players": 0,
-    "maxPlayers": 0,
-    "spectators": 0,
-    "gameTime": 0,
-    "updatedAt": "2026-07-13T14:36:40Z"
+    "mapName": "Altored Divide Bar Remake 1.6.2",
+    "mapFileName": "altored_divide_bar_remake_1.6.2",
+    "mapImage": "assets/maps/altored-divide-bar-remake-1-6-2-d890dd8583.webp",
+    "players": 7,
+    "maxPlayers": 16,
+    "spectators": 2,
+    "gameTime": 1296,
+    "updatedAt": "2026-07-13T14:38:16Z"
   },
   "live": true,
   "viewers": 15,
@@ -78,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783953450
+  "statusUpdatedAt": 1783953481
 }
