@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
     "players": 3,
     "maxPlayers": 16,
-    "spectators": 1,
+    "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-13T17:20:18Z"
+    "updatedAt": "2026-07-13T17:20:33Z"
   },
   "live": true,
   "viewers": 25,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783963205
+  "statusUpdatedAt": 1783963235
 }
