@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 016",
     "lobbyTitle": "EU1 - 016",
     "mode": "",
-    "mapName": "White Fire Remake 1.3",
-    "mapFileName": "white_fire_remake_1.3",
-    "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
+    "mapName": "FolsomDamR 1.17",
+    "mapFileName": "folsomdamr_1.17",
+    "mapImage": "assets/maps/folsomdamr-1-17-3747bb209c.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 3,
+    "spectators": 5,
     "gameTime": 762,
-    "updatedAt": "2026-07-13T18:06:00Z"
+    "updatedAt": "2026-07-13T18:06:32Z"
   },
   "live": true,
   "viewers": 49,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783965947
+  "statusUpdatedAt": 1783965977
 }
