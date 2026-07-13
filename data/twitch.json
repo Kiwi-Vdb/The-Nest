@@ -2,21 +2,20 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
-    "playerName": "[APM]Vdb",
-    "lobbyName": "EU6 - 005",
-    "lobbyTitle": "EU6 - 005",
+    "active": false,
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
+    "lobbyTitle": "",
     "mode": "",
-    "mapName": "All That Glitters v2.2.3",
-    "mapFileName": "all_that_glitters_v2.2.3",
-    "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
-    "players": 13,
-    "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 134,
-    "updatedAt": "2026-07-13T17:15:54Z"
+    "mapName": "Waiting for a lobby",
+    "mapFileName": "",
+    "mapImage": "",
+    "players": 0,
+    "maxPlayers": 0,
+    "spectators": 0,
+    "gameTime": 0,
+    "updatedAt": "2026-07-13T17:16:10Z"
   },
   "live": true,
   "viewers": 28,
@@ -79,5 +78,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783962932
+  "statusUpdatedAt": 1783962962
 }
