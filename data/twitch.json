@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 016",
     "lobbyTitle": "EU1 - 016",
     "mode": "",
-    "mapName": "FolsomDamR 1.17",
-    "mapFileName": "folsomdamr_1.17",
-    "mapImage": "assets/maps/folsomdamr-1-17-3747bb209c.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 7,
     "maxPlayers": 16,
     "spectators": 4,
-    "gameTime": 463,
-    "updatedAt": "2026-07-13T18:16:47Z"
+    "gameTime": 496,
+    "updatedAt": "2026-07-13T18:17:18Z"
   },
   "live": true,
   "viewers": 44,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783966586
+  "statusUpdatedAt": 1783966618
 }
