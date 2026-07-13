@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 011",
     "lobbyTitle": "EU7 - 011",
     "mode": "",
-    "mapName": "Ditched_V1",
-    "mapFileName": "Ditched_V1",
-    "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
+    "mapName": "Koom Valley 3 3.1",
+    "mapFileName": "koom_valley_3_3.1",
+    "mapImage": "assets/maps/koom-valley-3-3-1-31688bcab7.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
-    "gameTime": 492,
-    "updatedAt": "2026-07-13T13:15:35Z"
+    "gameTime": 507,
+    "updatedAt": "2026-07-13T13:16:09Z"
   },
   "live": true,
   "viewers": 6,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783948516
+  "statusUpdatedAt": 1783948546
 }
