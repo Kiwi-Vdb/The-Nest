@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 004",
     "lobbyTitle": "EU1 - 004",
     "mode": "",
-    "mapName": "Koom Valley 3 3.1",
-    "mapFileName": "koom_valley_3_3.1",
-    "mapImage": "assets/maps/koom-valley-3-3-1-31688bcab7.webp",
+    "mapName": "Cells 1.2",
+    "mapFileName": "cells_1.2",
+    "mapImage": "assets/maps/cells-1-2-b2eb8b3f82.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 7,
     "gameTime": 2101,
-    "updatedAt": "2026-07-13T15:47:27Z"
+    "updatedAt": "2026-07-13T15:48:05Z"
   },
   "live": true,
   "viewers": 20,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783957654
+  "statusUpdatedAt": 1783957686
 }
