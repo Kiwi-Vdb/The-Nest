@@ -15,8 +15,8 @@
     "players": 6,
     "maxPlayers": 16,
     "spectators": 2,
-    "gameTime": 285,
-    "updatedAt": "2026-07-13T17:21:51Z"
+    "gameTime": 315,
+    "updatedAt": "2026-07-13T17:22:22Z"
   },
   "live": true,
   "viewers": 25,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783963295
+  "statusUpdatedAt": 1783963326
 }
