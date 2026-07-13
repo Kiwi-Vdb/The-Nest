@@ -1,45 +1,33 @@
 {
-  "upcoming": [
+  "version": 2,
+  "sourceTimeZone": "Europe/London",
+  "updatedAt": "2026-07-13T12:18:45+00:00",
+  "events": [
     {
-      "date": "FRI",
-      "title": "Community Games Night",
-      "meta": "8:00 PM · Party games",
-      "prize": "+500 Shinies"
+      "id": "vdb-birthday-bash-2026",
+      "title": "VDB Birthday Bash",
+      "category": "Community",
+      "start": "2026-07-18T10:00:00+01:00",
+      "end": "2026-07-18T23:59:00+01:00",
+      "timeZone": "Europe/London",
+      "location": "The Nest",
+      "description": "A full-day birthday celebration with the flock.",
+      "link": "",
+      "linkLabel": "",
+      "durationMinutes": 480
     },
     {
-      "date": "SAT",
-      "title": "Prediction Night",
-      "meta": "Viewer picks and chaos",
-      "prize": "+750 Shinies"
-    },
-    {
-      "date": "SUN",
-      "title": "Special Raid Train",
-      "meta": "Bring the flock together",
-      "prize": "+1,000 Shinies"
-    }
-  ],
-  "current": {
-    "status": "Active Soon",
-    "title": "No event running right now",
-    "description": "The next flock event will appear here when it is ready.",
-    "prize": "Check back soon ✦"
-  },
-  "calendar": [
-    {
-      "date": "08",
-      "title": "Shiny Hunt Night",
-      "meta": "Monster Hunter · 7:30 PM"
-    },
-    {
-      "date": "10",
-      "title": "Community Vote",
-      "meta": "Choose next event theme"
-    },
-    {
-      "date": "12",
-      "title": "Giveaway Evening",
-      "meta": "Rewards and Shinies"
+      "id": "jcp-tournament-2026",
+      "title": "JCP Tournament",
+      "category": "Tournament",
+      "start": "2026-08-01T16:00:00+01:00",
+      "end": null,
+      "timeZone": "Europe/London",
+      "location": "Beyond All Reason",
+      "description": "Joint Command Protocol: a shared-control tournament format similar to Archon mode in StarCraft II.",
+      "link": "https://apm.bar/tournaments/JCP",
+      "linkLabel": "Tournament details",
+      "durationMinutes": 480
     }
   ]
 }

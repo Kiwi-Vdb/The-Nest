@@ -1,0 +1,26 @@
+THE NEST EVENT MANAGER
+
+Open:
+  Edit Events.bat
+
+The Event Manager edits:
+  data/events.json
+
+Add, edit or remove an event once. The website then automatically decides what
+belongs in:
+- Upcoming
+- Current / Next Event
+- Calendar
+
+TIME ZONES
+Enter event times in the host time zone. The default is Europe/London.
+The saved JSON includes an explicit UTC offset. The Events page uses each
+visitor's browser settings to show the same event in their own local date/time.
+
+PUBLISHING
+After saving changes:
+1. Commit and push The Nest with GitHub Desktop.
+2. Wait for the Pages deployment to turn green.
+3. Refresh events.html.
+
+The page checks for a new events.json every minute.

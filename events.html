@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Events | The Nest</title>
   <link rel="stylesheet" href="./css/my-nest-nav.css">
-  <link rel="stylesheet" href="./css/events.css">
+  <link rel="stylesheet" href="./css/events.css?v=20260713-events-v2">
   <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
@@ -23,21 +23,21 @@
          data-dev-id="nav-my-nest" data-dev-label="NAV MY NEST" data-dev-selector=".my-nest-nav">My Nest</a>
     </nav>
 
-    <section class="events-upcoming dev-editable" data-dev-id="events-upcoming" aria-label="Upcoming events">
+    <section class="events-upcoming dev-editable" data-dev-id="events-upcoming" data-dev-label="UPCOMING EVENTS PANEL" data-dev-selector=".events-upcoming" aria-label="Upcoming events">
       <div id="events-upcoming-list" class="event-list"></div>
     </section>
 
-    <section class="events-current dev-editable" data-dev-id="events-current" aria-label="Current event">
+    <section class="events-current dev-editable" data-dev-id="events-current" data-dev-label="CURRENT / NEXT EVENT PANEL" data-dev-selector=".events-current" aria-label="Current or next event">
       <div id="events-current-card" class="current-event"></div>
     </section>
 
-    <section class="events-calendar dev-editable" data-dev-id="events-calendar" aria-label="Events calendar">
+    <section class="events-calendar dev-editable" data-dev-id="events-calendar" data-dev-label="EVENTS CALENDAR PANEL" data-dev-selector=".events-calendar" aria-label="Events calendar">
       <div id="events-calendar-list" class="calendar-list"></div>
     </section>
   </main>
 
   <script src="./js/main.js"></script>
-  <script src="./js/events.js"></script>
+  <script src="./js/events.js?v=20260713-events-v2"></script>
   <script src="./js/dev-mode.js?v=20260713-global-layouts"></script>
 </body>
 </html>
