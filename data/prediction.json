@@ -1,17 +1,17 @@
 {
-  "generatedAt": 1783953786,
+  "generatedAt": 1783953801,
   "active": true,
   "status": "open",
   "id": 1783953765,
   "question": "Will the Blitz only win?",
   "prize": 1000,
-  "totalPicks": 1,
+  "totalPicks": 2,
   "startedAt": 1783953765,
   "closedAt": null,
   "options": [
     {
       "label": "yes",
-      "votes": 1,
+      "votes": 2,
       "percent": 100.0
     },
     {
