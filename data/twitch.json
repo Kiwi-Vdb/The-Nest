@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/bismuth-valley-v2-4-1-60b6b5a0e2.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 513,
-    "updatedAt": "2026-07-14T14:20:48Z"
+    "spectators": 7,
+    "gameTime": 540,
+    "updatedAt": "2026-07-14T14:21:20Z"
   },
   "live": true,
   "viewers": 34,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784038849
+  "statusUpdatedAt": 1784038879
 }
