@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/canis-river-v1-4-0cb137c674.webp",
     "players": 1,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 4,
     "gameTime": 294,
-    "updatedAt": "2026-07-14T12:37:36Z"
+    "updatedAt": "2026-07-14T12:37:51Z"
   },
-  "live": false,
-  "viewers": 0,
+  "live": true,
+  "viewers": 15,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -75,9 +75,9 @@
       "createdAt": "2026-02-27T21:16:44Z"
     }
   ],
-  "title": "",
-  "gameName": "",
-  "startedAt": "",
-  "thumbnailUrl": "",
-  "statusUpdatedAt": 1784031169
+  "title": "Short 3 hour Strim",
+  "gameName": "Beyond All Reason",
+  "startedAt": "2026-07-14T12:13:11Z",
+  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
+  "statusUpdatedAt": 1784032669
 }
