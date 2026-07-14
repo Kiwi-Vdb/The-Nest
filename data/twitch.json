@@ -2,20 +2,21 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": false,
-    "status": "not_in_lobby",
-    "statusLabel": "NOT IN LOBBY",
-    "lobbyName": "Not in a BAR lobby",
-    "lobbyTitle": "",
+    "active": true,
+    "status": "in_game",
+    "statusLabel": "IN GAME",
+    "playerName": "[APM]Vdb",
+    "lobbyName": "EU7 - 002",
+    "lobbyTitle": "EU7 - 002",
     "mode": "",
-    "mapName": "Waiting for a lobby",
-    "mapFileName": "",
-    "mapImage": "",
-    "players": 0,
-    "maxPlayers": 0,
-    "spectators": 0,
-    "gameTime": 0,
-    "updatedAt": "2026-07-13T19:54:59Z"
+    "mapName": "Eternal Consequences 1.2",
+    "mapFileName": "eternal_consequences_1.2",
+    "mapImage": "assets/maps/eternal-consequences-1-2-9ec163caf7.webp",
+    "players": 1,
+    "maxPlayers": 16,
+    "spectators": 3,
+    "gameTime": 1110,
+    "updatedAt": "2026-07-14T12:08:29Z"
   },
   "live": false,
   "viewers": 0,
@@ -78,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784030862
+  "statusUpdatedAt": 1784030892
 }
