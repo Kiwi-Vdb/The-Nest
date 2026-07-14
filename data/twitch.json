@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/eternal-consequences-1-2-9ec163caf7.webp",
     "players": 1,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 23,
-    "updatedAt": "2026-07-14T12:11:36Z"
+    "spectators": 2,
+    "gameTime": 21,
+    "updatedAt": "2026-07-14T12:12:34Z"
   },
   "live": false,
   "viewers": 0,
@@ -79,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784031111
+  "statusUpdatedAt": 1784031169
 }
