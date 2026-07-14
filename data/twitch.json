@@ -2,21 +2,20 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
-    "playerName": "[APM]Vdb",
-    "lobbyName": "EU1 - 016",
-    "lobbyTitle": "EU1 - 016",
+    "active": false,
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
+    "lobbyTitle": "",
     "mode": "",
-    "mapName": "Delta Siege Dry v5.7.1",
-    "mapFileName": "delta_siege_dry_v5.7.1",
-    "mapImage": "assets/maps/delta-siege-dry-v5-7-1-2ae47590ed.webp",
-    "players": 1,
-    "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 1038,
-    "updatedAt": "2026-07-13T19:53:41Z"
+    "mapName": "Waiting for a lobby",
+    "mapFileName": "",
+    "mapImage": "",
+    "players": 0,
+    "maxPlayers": 0,
+    "spectators": 0,
+    "gameTime": 0,
+    "updatedAt": "2026-07-13T19:54:59Z"
   },
   "live": true,
   "viewers": 38,
@@ -79,5 +78,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-13T13:01:37Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1783972468
+  "statusUpdatedAt": 1783972498
 }
