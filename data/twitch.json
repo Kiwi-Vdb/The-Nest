@@ -6,17 +6,17 @@
     "status": "in_game",
     "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
-    "lobbyName": "AU2 - 005",
-    "lobbyTitle": "AU2 - 005",
+    "lobbyName": "EU6 - 006",
+    "lobbyTitle": "EU6 - 006",
     "mode": "",
-    "mapName": "Salmiakki 1.3",
-    "mapFileName": "salmiakki_1.3",
-    "mapImage": "assets/maps/salmiakki-1-3-a49bba5e4a.webp",
-    "players": 9,
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
+    "players": 7,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 423,
-    "updatedAt": "2026-07-14T13:10:33Z"
+    "spectators": 4,
+    "gameTime": 563,
+    "updatedAt": "2026-07-14T13:11:04Z"
   },
   "live": true,
   "viewers": 25,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784034619
+  "statusUpdatedAt": 1784034649
 }
