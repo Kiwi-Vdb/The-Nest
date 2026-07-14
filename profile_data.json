@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784040320,
+  "generated_at": 1784040450,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -419,6 +419,13 @@
           "rarity": "common",
           "class_name": "text-yellow",
           "equip_command": "!equiptext Yellow"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
         }
       ],
       "current_text_effect": {
@@ -427,8 +434,16 @@
         "rarity": "rare",
         "class_name": "text-rainbow-comet"
       },
-      "loot_boxes_opened": 1,
+      "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Blue Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-blue",
+          "timestamp": 1784040444
+        },
         {
           "name": "Yellow Text",
           "category": "Text Effect",
@@ -441,9 +456,9 @@
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 2,
+        "text_effects_unlocked": 3,
         "text_effects_available": 20,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "iamdibi": {
