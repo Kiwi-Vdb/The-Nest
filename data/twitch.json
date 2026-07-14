@@ -12,11 +12,11 @@
     "mapName": "Canis River v1.4",
     "mapFileName": "canis_river_v1.4",
     "mapImage": "assets/maps/canis-river-v1-4-0cb137c674.webp",
-    "players": 1,
+    "players": 0,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 482,
-    "updatedAt": "2026-07-14T12:57:04Z"
+    "gameTime": 509,
+    "updatedAt": "2026-07-14T12:57:34Z"
   },
   "live": true,
   "viewers": 21,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784033828
+  "statusUpdatedAt": 1784033858
 }
