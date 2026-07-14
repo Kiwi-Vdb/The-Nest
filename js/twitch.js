@@ -59,6 +59,7 @@ const TWITCH_REFRESH_MS = 15000;
 const PREDICTION_REFRESH_MS = 15000;
 const SYNC_REFRESH_MS = 30000;
 const TWITCH_STATUS_STALE_MS = 3 * 60 * 1000;
+const BAR_STATUS_STALE_MS = 30 * 60 * 1000;
 let twitchServiceConfigPromise = null;
 let streamResizeObserver = null;
 let currentTwitchData = fallbackTwitch;
@@ -101,6 +102,75 @@ async function fetchCloudTwitchStatus() {
   try {
     const response = await fetch(
       `${apiBase}/api/twitch-status?v=${Date.now()}`,
+      { cache: 'no-store' }
+    );
+    if (!response.ok) return null;
+    const status = await response.json();
+    return status?.ok ? status : null;
+  } catch {
+    return null;
+  }
+}
+
+
+function inactiveBarGame(available = true) {
+  return {
+    provider: 'bar',
+    available,
+    active: false,
+    status: available ? 'not_in_lobby' : 'unavailable',
+    statusLabel: available ? 'NOT IN LOBBY' : 'BAR UNAVAILABLE',
+    playerName: '',
+    lobbyName: available ? 'Not in a BAR lobby' : 'BAR status unavailable',
+    lobbyTitle: '',
+    mode: '',
+    mapName: available ? 'Waiting for the next match' : 'The BAR service could not be reached',
+    mapFileName: '',
+    mapImage: '',
+    players: 0,
+    maxPlayers: 0,
+    spectators: 0,
+    gameTime: 0
+  };
+}
+
+function applyBarFreshness(game = {}) {
+  if (!game.active) return game;
+  const updatedAt = Date.parse(String(game.updatedAt || ''));
+  if (Number.isFinite(updatedAt) && (Date.now() - updatedAt) <= BAR_STATUS_STALE_MS) {
+    return game;
+  }
+  return { ...inactiveBarGame(true), statusStale: true };
+}
+
+function mergeCloudBarGame(fileGame = {}, cloudGame = {}) {
+  if (!cloudGame || cloudGame.ok !== true) return applyBarFreshness(fileGame);
+  if (!cloudGame.active) return { ...inactiveBarGame(cloudGame.available !== false), ...cloudGame };
+
+  const sameMap = (
+    String(fileGame.mapFileName || '').trim().toLowerCase()
+    && String(fileGame.mapFileName || '').trim().toLowerCase()
+      === String(cloudGame.mapFileName || '').trim().toLowerCase()
+  ) || (
+    String(fileGame.mapName || '').trim().toLowerCase()
+    && String(fileGame.mapName || '').trim().toLowerCase()
+      === String(cloudGame.mapName || '').trim().toLowerCase()
+  );
+
+  return {
+    ...fileGame,
+    ...cloudGame,
+    mapImage: sameMap ? String(fileGame.mapImage || '') : String(cloudGame.mapImage || '')
+  };
+}
+
+async function fetchCloudBarStatus() {
+  const apiBase = await twitchServiceApiBase();
+  if (!apiBase) return null;
+
+  try {
+    const response = await fetch(
+      `${apiBase}/api/bar-status?v=${Date.now()}`,
       { cache: 'no-store' }
     );
     if (!response.ok) return null;
@@ -583,11 +653,19 @@ function renderTwitchPage(data) {
 
 async function refreshTwitchData() {
   const fileData = await readJson('./data/twitch.json', currentTwitchData);
-  const cloudStatus = await fetchCloudTwitchStatus();
+  const [cloudStatus, cloudBarGame] = await Promise.all([
+    fetchCloudTwitchStatus(),
+    fetchCloudBarStatus()
+  ]);
 
-  currentTwitchData = cloudStatus
+  const twitchData = cloudStatus
     ? { ...fileData, ...cloudStatus }
     : applyTwitchFreshness(fileData);
+
+  currentTwitchData = {
+    ...twitchData,
+    game: mergeCloudBarGame(fileData.game || {}, cloudBarGame)
+  };
 
   renderTwitchPage(currentTwitchData);
 }
