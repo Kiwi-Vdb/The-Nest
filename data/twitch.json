@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 006",
     "lobbyTitle": "EU6 - 006",
     "mode": "",
-    "mapName": "Plains and Passes v1.0",
-    "mapFileName": "plains_and_passes_v1.0",
-    "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
+    "mapName": "Flats and Forests v2.2",
+    "mapFileName": "flats_and_forests_v2.2",
+    "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 7,
     "maxPlayers": 16,
     "spectators": 9,
     "gameTime": 579,
-    "updatedAt": "2026-07-14T14:23:38Z"
+    "updatedAt": "2026-07-14T14:23:53Z"
   },
   "live": true,
   "viewers": 39,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784039001
+  "statusUpdatedAt": 1784039031
 }
