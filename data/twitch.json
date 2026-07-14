@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 515,
-    "updatedAt": "2026-07-14T13:51:21Z"
+    "spectators": 9,
+    "gameTime": 533,
+    "updatedAt": "2026-07-14T13:51:37Z"
   },
   "live": true,
-  "viewers": 31,
+  "viewers": 28,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784037056
+  "statusUpdatedAt": 1784037087
 }
