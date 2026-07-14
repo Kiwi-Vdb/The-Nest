@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1784031081,
+  "generatedAt": 1784040320,
   "count": 50,
   "activities": [
+    {
+      "id": "8b4ab62f6ad2f798",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Glitch Sweep Text",
+      "timestamp": 1784040314,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "a646ccaf2858f044",
       "type": "gamba",
@@ -444,16 +454,6 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "315c8a332339608a",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Pink Text",
-      "timestamp": 1782919451,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
