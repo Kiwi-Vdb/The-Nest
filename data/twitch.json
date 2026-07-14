@@ -6,8 +6,8 @@
     "status": "in_game",
     "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU7 - 002",
-    "lobbyTitle": "EU7 - 002",
+    "lobbyName": "EU1 - 004",
+    "lobbyTitle": "EU1 - 004",
     "mode": "",
     "mapName": "Eternal Consequences 1.2",
     "mapFileName": "eternal_consequences_1.2",
@@ -15,8 +15,8 @@
     "players": 1,
     "maxPlayers": 16,
     "spectators": 3,
-    "gameTime": 1110,
-    "updatedAt": "2026-07-14T12:08:29Z"
+    "gameTime": 565,
+    "updatedAt": "2026-07-14T12:08:44Z"
   },
   "live": false,
   "viewers": 0,
@@ -79,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784030892
+  "statusUpdatedAt": 1784030922
 }
