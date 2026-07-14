@@ -1015,10 +1015,18 @@ body.clip-modal-open { overflow: hidden; }
   height: 4.80%;
 }
 
+/* F8: NAV MY NEST | editor ID: nav-my-nest */
+.my-nest-nav {
+  left: 4.58%;
+  top: 68.15%;
+  width: 12.72%;
+  height: 5.05%;
+}
+
 /* F8: STREAM MONITOR | editor ID: stream-monitor */
 .stream-monitor {
-  left: 49.02%;
-  top: 13.82%;
+  left: 50.80%;
+  top: 14.29%;
   width: 14.48%;
   height: 11.62%;
 }
