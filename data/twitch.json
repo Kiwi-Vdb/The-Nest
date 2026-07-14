@@ -6,17 +6,17 @@
     "status": "in_game",
     "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU1 - 004",
-    "lobbyTitle": "EU1 - 004",
+    "lobbyName": "EU8 - 012",
+    "lobbyTitle": "EU8 - 012",
     "mode": "",
-    "mapName": "Canis River v1.4",
-    "mapFileName": "canis_river_v1.4",
-    "mapImage": "assets/maps/canis-river-v1-4-0cb137c674.webp",
-    "players": 1,
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
+    "players": 7,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 405,
-    "updatedAt": "2026-07-14T13:08:28Z"
+    "spectators": 4,
+    "gameTime": 810,
+    "updatedAt": "2026-07-14T13:08:59Z"
   },
   "live": true,
   "viewers": 21,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784034498
+  "statusUpdatedAt": 1784034528
 }
