@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 6,
-    "gameTime": 827,
-    "updatedAt": "2026-07-14T13:39:24Z"
+    "spectators": 5,
+    "gameTime": 13,
+    "updatedAt": "2026-07-14T13:40:56Z"
   },
   "live": true,
   "viewers": 32,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-14T12:13:11Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784036418
+  "statusUpdatedAt": 1784036448
 }
