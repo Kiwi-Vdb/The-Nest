@@ -2,10 +2,16 @@ const MY_NEST_TOKEN_KEY = "the-nest-shop-token";
 const MY_NEST_REFRESH_MS = 60_000;
 const MY_NEST_CONFIG_FALLBACK = { enabled: false, apiBase: "" };
 
+const MY_NEST_COLLECTION_PAGE_SIZE = 12;
+
 const myNestState = {
   config: MY_NEST_CONFIG_FALLBACK,
   profile: null,
   activeCollection: "cosmetics",
+  collectionPages: {
+    cosmetics: 1,
+    textEffects: 1,
+  },
 };
 
 let myNestRefreshTimer = null;
@@ -118,6 +124,18 @@ function bindMyNestUi() {
       renderCollection(myNestState.profile);
     });
   });
+
+  document.querySelectorAll("[data-collection-page]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const key = myNestState.activeCollection;
+      const direction = button.dataset.collectionPage;
+      const currentPage = Number(myNestState.collectionPages[key] || 1);
+      myNestState.collectionPages[key] = direction === "previous"
+        ? Math.max(1, currentPage - 1)
+        : currentPage + 1;
+      renderCollection(myNestState.profile);
+    });
+  });
 }
 
 function beginMyNestLogin() {
@@ -214,26 +232,52 @@ function renderStats(data) {
 function renderCollection(data) {
   const grid = document.querySelector("#my-nest-collection-grid");
   const summary = document.querySelector("#my-nest-collection-summary");
+  const summaryText = document.querySelector("#my-nest-collection-summary-text");
+  const pageLabel = document.querySelector("#my-nest-collection-page-label");
+  const previousButton = document.querySelector('[data-collection-page="previous"]');
+  const nextButton = document.querySelector('[data-collection-page="next"]');
   if (!grid || !summary) return;
 
+  const setPagination = (page, totalPages, enabled = true) => {
+    const safeTotal = Math.max(1, Number(totalPages) || 1);
+    const safePage = Math.min(safeTotal, Math.max(1, Number(page) || 1));
+    if (pageLabel) pageLabel.textContent = `Page ${safePage} of ${safeTotal}`;
+    if (previousButton) previousButton.disabled = !enabled || safePage <= 1;
+    if (nextButton) nextButton.disabled = !enabled || safePage >= safeTotal;
+    summary.classList.toggle("has-pages", enabled && safeTotal > 1);
+  };
+
   if (!data) {
-    summary.textContent = "Your unlocked rewards will appear here.";
+    if (summaryText) summaryText.textContent = "Your unlocked rewards will appear here.";
+    else summary.textContent = "Your unlocked rewards will appear here.";
+    setPagination(1, 1, false);
     grid.innerHTML = `<div class="collection-empty"><strong>Your collection is private</strong><span>Sign in to view it.</span></div>`;
     return;
   }
 
   const key = myNestState.activeCollection;
-  const collection = data.collections?.[key] || [];
+  const collection = Array.isArray(data.collections?.[key]) ? data.collections[key] : [];
   const equipped = String(data.profile?.equippedTextEffect || "");
   const label = key === "cosmetics" ? "cosmetics" : "text effects";
-  summary.textContent = `${formatNumber(collection.length)} ${label} unlocked`;
+  const totalPages = Math.max(1, Math.ceil(collection.length / MY_NEST_COLLECTION_PAGE_SIZE));
+  const requestedPage = Number(myNestState.collectionPages[key] || 1);
+  const currentPage = Math.min(totalPages, Math.max(1, requestedPage));
+  myNestState.collectionPages[key] = currentPage;
+
+  if (summaryText) summaryText.textContent = `${formatNumber(collection.length)} ${label} unlocked`;
+  else summary.textContent = `${formatNumber(collection.length)} ${label} unlocked`;
+  setPagination(currentPage, totalPages, collection.length > 0);
 
   if (!collection.length) {
     grid.innerHTML = `<div class="collection-empty"><strong>No ${escapeHtml(label)} yet</strong><span>Open Loot Chests or visit The Nest Shop to grow your collection.</span></div>`;
     return;
   }
 
-  grid.innerHTML = collection.map((item) => {
+  const pageStart = (currentPage - 1) * MY_NEST_COLLECTION_PAGE_SIZE;
+  const visibleItems = collection.slice(pageStart, pageStart + MY_NEST_COLLECTION_PAGE_SIZE);
+
+  grid.scrollTop = 0;
+  grid.innerHTML = visibleItems.map((item) => {
     const isEquipped = key === "textEffects" && equipped && equipped === item.rewardId;
     const visual = item.image
       ? `<img class="collection-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'collection-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`

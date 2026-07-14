@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My Nest | The Nest</title>
   <link rel="stylesheet" href="./css/my-nest-nav.css">
-  <link rel="stylesheet" href="./css/my-nest.css">
+  <link rel="stylesheet" href="./css/my-nest.css?v=20260714-collection-pages">
   <link rel="stylesheet" href="./css/dev-mode.css">
 </head>
 <body>
@@ -74,7 +74,14 @@
           <button type="button" role="tab" aria-selected="false" data-collection-tab="textEffects">Text Effects</button>
         </div>
       </header>
-      <div id="my-nest-collection-summary" class="collection-summary"></div>
+      <div id="my-nest-collection-summary" class="collection-summary">
+        <span id="my-nest-collection-summary-text">Your unlocked rewards will appear here.</span>
+        <div class="collection-pagination" aria-label="Collection pages">
+          <button type="button" class="collection-page-button" data-collection-page="previous" aria-label="Previous collection page">‹</button>
+          <span id="my-nest-collection-page-label" class="collection-page-label">Page 1 of 1</span>
+          <button type="button" class="collection-page-button" data-collection-page="next" aria-label="Next collection page">›</button>
+        </div>
+      </div>
       <div id="my-nest-collection-grid" class="collection-grid" aria-live="polite"></div>
     </section>
 
@@ -94,7 +101,7 @@
   </main>
 
   <script src="./js/main.js"></script>
-  <script src="./js/my-nest.js"></script>
+  <script src="./js/my-nest.js?v=20260714-collection-pages"></script>
   <script src="./js/dev-mode.js?v=20260713-f8-publish-hotfix"></script>
 </body>
 </html>
