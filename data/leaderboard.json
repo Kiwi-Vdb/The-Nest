@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1784202260,
-  "totalViewers": 14,
-  "totalShinies": 518044,
+  "generatedAt": 1784213633,
+  "totalViewers": 15,
+  "totalShinies": 519044,
   "pageSize": 100,
   "entries": [
     {
@@ -66,11 +66,16 @@
     },
     {
       "rank": 13,
-      "name": "ligma_bullets",
+      "name": "kirinokirino",
       "shinies": 1000
     },
     {
       "rank": 14,
+      "name": "ligma_bullets",
+      "shinies": 1000
+    },
+    {
+      "rank": 15,
       "name": "lelalolul",
       "shinies": 594
     }

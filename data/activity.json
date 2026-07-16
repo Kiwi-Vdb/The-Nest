@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1784202260,
+  "generatedAt": 1784213633,
   "count": 50,
   "activities": [
+    {
+      "id": "395b9558015674db",
+      "type": "prediction",
+      "who": "kirinokirino",
+      "text": "won 1,000 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1784213633,
+      "amount": 1000
+    },
     {
       "id": "9ee1dad467b2ea3a",
       "type": "unlock",
@@ -444,16 +452,6 @@
       "text": "won 400 Shinies playing Gamba",
       "timestamp": 1783102785,
       "amount": 400
-    },
-    {
-      "id": "593de9c31cedc1a2",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Santa Beard",
-      "timestamp": 1783092699,
-      "rarity": "rare",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
