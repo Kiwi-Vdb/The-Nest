@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784202204,
+  "generated_at": 1784202234,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -837,10 +837,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-black-hole",
-        "name": "Black Hole Text",
-        "rarity": "legendary",
-        "class_name": "text-black-hole"
+        "id": "text-blue",
+        "name": "Blue Text",
+        "rarity": "common",
+        "class_name": "text-blue"
       },
       "loot_boxes_opened": 35,
       "recent_unlocks": [
@@ -984,11 +984,34 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:apprentice hat",
+          "name": "Apprentice Hat",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
+        }
+      ],
       "current_text_effect": null,
-      "loot_boxes_opened": 1,
+      "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Blue Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-blue",
+          "timestamp": 1784202219
+        },
         {
           "name": "Apprentice Hat",
           "category": "Hat",
@@ -999,11 +1022,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "mesaber": {
