@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1784200409,
+  "generatedAt": 1784202204,
   "count": 50,
   "activities": [
+    {
+      "id": "ef4fcf9558dfa087",
+      "type": "unlock",
+      "who": "lordjammacus",
+      "text": "unlocked Apprentice Hat",
+      "timestamp": 1784202204,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "22ab93f7c9302da7",
       "type": "unlock",
@@ -441,16 +451,6 @@
       "who": "axolotl_eu",
       "text": "unlocked Red Text",
       "timestamp": 1782919498,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "b9ab87bcad283fbb",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Brown Text",
-      "timestamp": 1782919486,
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
