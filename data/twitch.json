@@ -12,11 +12,11 @@
     "mapName": "Hera Planum 0.9.2",
     "mapFileName": "hera_planum_0.9.2",
     "mapImage": "assets/maps/hera-planum-0-9-2-c722a22e38.webp",
-    "players": 4,
+    "players": 5,
     "maxPlayers": 16,
-    "spectators": 2,
+    "spectators": 1,
     "gameTime": 0,
-    "updatedAt": "2026-07-16T11:13:31Z"
+    "updatedAt": "2026-07-16T11:16:02Z"
   },
   "live": false,
   "viewers": 0,
@@ -79,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784200531
+  "statusUpdatedAt": 1784200561
 }
