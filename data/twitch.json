@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 6,
-    "gameTime": 870,
-    "updatedAt": "2026-07-16T14:53:08Z"
+    "spectators": 5,
+    "gameTime": 900,
+    "updatedAt": "2026-07-16T14:53:38Z"
   },
   "live": true,
   "viewers": 17,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784213575
+  "statusUpdatedAt": 1784213605
 }
