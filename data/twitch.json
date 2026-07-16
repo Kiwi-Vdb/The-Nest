@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 013",
     "lobbyTitle": "EU8 - 013",
     "mode": "",
-    "mapName": "Greenhaven BAR v1.2",
-    "mapFileName": "greenhaven_bar_v1.2",
-    "mapImage": "assets/maps/greenhaven-bar-v1-2-4072d3eaf0.webp",
+    "mapName": "Proving Grounds v1.0",
+    "mapFileName": "proving_grounds_v1.0",
+    "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 1978,
-    "updatedAt": "2026-07-16T15:38:30Z"
+    "updatedAt": "2026-07-16T15:39:18Z"
   },
   "live": true,
   "viewers": 19,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784216318
+  "statusUpdatedAt": 1784216348
 }
