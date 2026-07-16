@@ -12,11 +12,11 @@
     "mapName": "Hades Ponds 1.1",
     "mapFileName": "hades_ponds_1.1",
     "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 1311,
-    "updatedAt": "2026-07-16T14:27:29Z"
+    "updatedAt": "2026-07-16T14:27:59Z"
   },
   "live": true,
   "viewers": 20,
