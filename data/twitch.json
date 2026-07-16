@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 013",
     "lobbyTitle": "EU8 - 013",
     "mode": "",
-    "mapName": "Cirolata 1.03",
-    "mapFileName": "cirolata_1.03",
-    "mapImage": "assets/maps/cirolata-1-03-4fd0ca4e23.webp",
-    "players": 3,
+    "mapName": "Prismatic Anomaly v1.02",
+    "mapFileName": "prismatic_anomaly_v1.02",
+    "mapImage": "assets/maps/prismatic-anomaly-v1-02-5f26f079db.webp",
+    "players": 1,
     "maxPlayers": 16,
-    "spectators": 4,
+    "spectators": 5,
     "gameTime": 563,
-    "updatedAt": "2026-07-16T15:52:23Z"
+    "updatedAt": "2026-07-16T15:52:54Z"
   },
   "live": true,
   "viewers": 15,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784217139
+  "statusUpdatedAt": 1784217169
 }
