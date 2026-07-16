@@ -12,14 +12,14 @@
     "mapName": "Hera Planum 0.9.2",
     "mapFileName": "hera_planum_0.9.2",
     "mapImage": "assets/maps/hera-planum-0-9-2-c722a22e38.webp",
-    "players": 7,
+    "players": 6,
     "maxPlayers": 16,
-    "spectators": 1,
+    "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-16T11:16:48Z"
+    "updatedAt": "2026-07-16T11:17:20Z"
   },
   "live": true,
-  "viewers": 0,
+  "viewers": 1,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784200591
+  "statusUpdatedAt": 1784200621
 }
