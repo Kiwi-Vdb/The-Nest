@@ -12,11 +12,11 @@
     "mapName": "Prismatic Anomaly v1.02",
     "mapFileName": "prismatic_anomaly_v1.02",
     "mapImage": "assets/maps/prismatic-anomaly-v1-02-5f26f079db.webp",
-    "players": 0,
+    "players": 1,
     "maxPlayers": 16,
-    "spectators": 4,
+    "spectators": 3,
     "gameTime": 563,
-    "updatedAt": "2026-07-16T15:53:10Z"
+    "updatedAt": "2026-07-16T15:53:40Z"
   },
   "live": true,
   "viewers": 15,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784217200
+  "statusUpdatedAt": 1784217230
 }
