@@ -6,17 +6,17 @@
     "status": "in_game",
     "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU7 - 004",
-    "lobbyTitle": "EU7 - 004",
+    "lobbyName": "EU8 - 013",
+    "lobbyTitle": "EU8 - 013",
     "mode": "",
-    "mapName": "Hades Ponds 1.1",
-    "mapFileName": "hades_ponds_1.1",
-    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
-    "players": 2,
+    "mapName": "Ascendancy v2.2",
+    "mapFileName": "ascendancy_v2.2",
+    "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 1,
-    "gameTime": 2068,
-    "updatedAt": "2026-07-16T13:11:30Z"
+    "spectators": 5,
+    "gameTime": 1055,
+    "updatedAt": "2026-07-16T13:12:17Z"
   },
   "live": true,
   "viewers": 7,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784207493
+  "statusUpdatedAt": 1784207524
 }
