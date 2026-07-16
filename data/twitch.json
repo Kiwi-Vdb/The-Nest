@@ -12,11 +12,11 @@
     "mapName": "Greenhaven BAR v1.2",
     "mapFileName": "greenhaven_bar_v1.2",
     "mapImage": "assets/maps/greenhaven-bar-v1-2-4072d3eaf0.webp",
-    "players": 3,
+    "players": 4,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 1978,
-    "updatedAt": "2026-07-16T15:37:44Z"
+    "updatedAt": "2026-07-16T15:38:15Z"
   },
   "live": true,
   "viewers": 19,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784216258
+  "statusUpdatedAt": 1784216288
 }
