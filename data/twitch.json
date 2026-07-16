@@ -12,11 +12,11 @@
     "mapName": "Hera Planum 0.9.2",
     "mapFileName": "hera_planum_0.9.2",
     "mapImage": "assets/maps/hera-planum-0-9-2-c722a22e38.webp",
-    "players": 5,
+    "players": 6,
     "maxPlayers": 16,
-    "spectators": 3,
+    "spectators": 2,
     "gameTime": 1159,
-    "updatedAt": "2026-07-16T11:39:20Z"
+    "updatedAt": "2026-07-16T11:39:51Z"
   },
   "live": true,
   "viewers": 6,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784201960
+  "statusUpdatedAt": 1784201990
 }
