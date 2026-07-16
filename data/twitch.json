@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 846,
-    "updatedAt": "2026-07-16T13:29:23Z"
+    "spectators": 6,
+    "gameTime": 879,
+    "updatedAt": "2026-07-16T13:29:55Z"
   },
   "live": true,
   "viewers": 14,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784208558
+  "statusUpdatedAt": 1784208588
 }
