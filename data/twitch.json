@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 013",
     "lobbyTitle": "EU8 - 013",
     "mode": "",
-    "mapName": "Proving Grounds v1.0",
-    "mapFileName": "proving_grounds_v1.0",
-    "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
+    "mapName": "Cirolata 1.03",
+    "mapFileName": "cirolata_1.03",
+    "mapImage": "assets/maps/cirolata-1-03-4fd0ca4e23.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 1978,
-    "updatedAt": "2026-07-16T15:39:18Z"
+    "updatedAt": "2026-07-16T15:40:05Z"
   },
   "live": true,
   "viewers": 19,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784216379
+  "statusUpdatedAt": 1784216409
 }
