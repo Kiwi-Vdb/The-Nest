@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 013",
     "lobbyTitle": "EU8 - 013",
     "mode": "",
-    "mapName": "All That Glitters v2.2.3",
-    "mapFileName": "all_that_glitters_v2.2.3",
-    "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
+    "mapName": "Carrot Mountains v2.0",
+    "mapFileName": "carrot_mountains_v2.0",
+    "mapImage": "assets/maps/carrot-mountains-v2-0-754b5c58ff.webp",
     "players": 4,
     "maxPlayers": 16,
-    "spectators": 3,
+    "spectators": 4,
     "gameTime": 1978,
-    "updatedAt": "2026-07-16T15:35:21Z"
+    "updatedAt": "2026-07-16T15:36:41Z"
   },
   "live": true,
   "viewers": 19,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784216167
+  "statusUpdatedAt": 1784216197
 }
