@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/prismatic-anomaly-v1-02-5f26f079db.webp",
     "players": 0,
     "maxPlayers": 16,
-    "spectators": 4,
+    "spectators": 3,
     "gameTime": 563,
-    "updatedAt": "2026-07-16T15:54:57Z"
+    "updatedAt": "2026-07-16T15:55:12Z"
   },
-  "live": true,
-  "viewers": 11,
+  "live": false,
+  "viewers": 0,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -75,9 +75,9 @@
       "createdAt": "2026-02-27T21:16:44Z"
     }
   ],
-  "title": "Dear Diary, It's been 1 day since my last crashout",
-  "gameName": "Beyond All Reason",
-  "startedAt": "2026-07-16T11:16:08Z",
-  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784217290
+  "title": "",
+  "gameName": "",
+  "startedAt": "",
+  "thumbnailUrl": "",
+  "statusUpdatedAt": 1784217321
 }
