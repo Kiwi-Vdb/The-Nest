@@ -12,11 +12,11 @@
     "mapName": "Riverrun_V1",
     "mapFileName": "Riverrun_V1",
     "mapImage": "assets/maps/riverrun-v1-eb454a3c97.webp",
-    "players": 7,
+    "players": 5,
     "maxPlayers": 16,
-    "spectators": 8,
+    "spectators": 10,
     "gameTime": 1311,
-    "updatedAt": "2026-07-16T14:23:38Z"
+    "updatedAt": "2026-07-16T14:24:25Z"
   },
   "live": true,
   "viewers": 13,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784211842
+  "statusUpdatedAt": 1784211872
 }
