@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 2,
-    "gameTime": 360,
-    "updatedAt": "2026-07-16T12:19:13Z"
+    "spectators": 1,
+    "gameTime": 393,
+    "updatedAt": "2026-07-16T12:19:45Z"
   },
   "live": true,
   "viewers": 14,
