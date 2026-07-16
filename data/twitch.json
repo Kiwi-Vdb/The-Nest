@@ -2,20 +2,21 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": false,
-    "status": "not_in_lobby",
-    "statusLabel": "NOT IN LOBBY",
-    "lobbyName": "Not in a BAR lobby",
-    "lobbyTitle": "",
+    "active": true,
+    "status": "in_lobby",
+    "statusLabel": "IN LOBBY",
+    "playerName": "[APM]Vdb",
+    "lobbyName": "EU7 - 004",
+    "lobbyTitle": "EU7 - 004",
     "mode": "",
-    "mapName": "Waiting for a lobby",
-    "mapFileName": "",
-    "mapImage": "",
-    "players": 0,
-    "maxPlayers": 0,
-    "spectators": 0,
+    "mapName": "Hera Planum 0.9.2",
+    "mapFileName": "hera_planum_0.9.2",
+    "mapImage": "assets/maps/hera-planum-0-9-2-c722a22e38.webp",
+    "players": 4,
+    "maxPlayers": 16,
+    "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-14T19:39:22Z"
+    "updatedAt": "2026-07-16T11:13:31Z"
   },
   "live": false,
   "viewers": 0,
@@ -78,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784058294
+  "statusUpdatedAt": 1784200410
 }
