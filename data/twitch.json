@@ -12,14 +12,14 @@
     "mapName": "Ascendancy v2.2",
     "mapFileName": "ascendancy_v2.2",
     "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
-    "players": 13,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 4,
-    "gameTime": 2118,
-    "updatedAt": "2026-07-16T13:50:38Z"
+    "spectators": 3,
+    "gameTime": 2148,
+    "updatedAt": "2026-07-16T13:51:09Z"
   },
   "live": true,
-  "viewers": 14,
+  "viewers": 13,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784209836
+  "statusUpdatedAt": 1784209866
 }
