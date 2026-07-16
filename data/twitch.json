@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/scylla-and-charybdis-1-1-4fab8d41e6.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 2,
-    "gameTime": 227,
-    "updatedAt": "2026-07-16T11:50:09Z"
+    "spectators": 3,
+    "gameTime": 256,
+    "updatedAt": "2026-07-16T11:50:40Z"
   },
   "live": true,
-  "viewers": 5,
+  "viewers": 6,
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "clipsUpdatedAt": 1783947693,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784202597
+  "statusUpdatedAt": 1784202627
 }
