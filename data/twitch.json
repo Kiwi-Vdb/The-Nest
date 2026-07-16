@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 250,
-    "updatedAt": "2026-07-16T15:05:24Z"
+    "spectators": 2,
+    "gameTime": 280,
+    "updatedAt": "2026-07-16T15:05:56Z"
   },
   "live": true,
   "viewers": 15,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784214306
+  "statusUpdatedAt": 1784214336
 }
