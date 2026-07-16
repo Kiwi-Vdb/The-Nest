@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 004",
     "lobbyTitle": "EU7 - 004",
     "mode": "",
-    "mapName": "Scylla and Charybdis 1.1",
-    "mapFileName": "scylla_and_charybdis_1.1",
-    "mapImage": "assets/maps/scylla-and-charybdis-1-1-4fab8d41e6.webp",
-    "players": 6,
+    "mapName": "Starwatcher 1.0",
+    "mapFileName": "starwatcher_1.0",
+    "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
+    "players": 7,
     "maxPlayers": 16,
     "spectators": 2,
     "gameTime": 573,
-    "updatedAt": "2026-07-16T12:09:11Z"
+    "updatedAt": "2026-07-16T12:10:27Z"
   },
   "live": true,
   "viewers": 14,
@@ -79,5 +79,5 @@
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-16T11:16:08Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
-  "statusUpdatedAt": 1784203782
+  "statusUpdatedAt": 1784203812
 }
