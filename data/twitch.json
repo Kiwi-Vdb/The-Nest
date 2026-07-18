@@ -12,11 +12,11 @@
     "mapName": "The Cold Place BAR v1.1",
     "mapFileName": "the_cold_place_BAR_v1.1",
     "mapImage": "assets/maps/the-cold-place-bar-v1-1-1ac333d2b1.webp",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 16,
     "spectators": 3,
     "gameTime": 447,
-    "updatedAt": "2026-07-18T11:56:05Z"
+    "updatedAt": "2026-07-18T11:56:20Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784375756,
+  "statusUpdatedAt": 1784375787,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
