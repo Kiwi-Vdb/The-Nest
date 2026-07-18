@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784370752,
+  "generated_at": 1784370801,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -542,6 +542,14 @@
           "rarity": "rare",
           "type": "cosmetic",
           "text_effect": "",
+          "timestamp": 1784370801
+        },
+        {
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
           "timestamp": 1784370752
         },
         {
@@ -551,14 +559,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782919443
-        },
-        {
-          "name": "Teal Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-teal",
-          "timestamp": 1782919423
         }
       ],
       "totals": {
@@ -566,7 +566,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 8
+        "recent_unlocks": 9
       }
     },
     "itsvdb": {
