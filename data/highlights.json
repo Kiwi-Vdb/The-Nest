@@ -1,16 +1,16 @@
 {
-  "generatedAt": 1784372213,
-  "rotationGeneratedAt": 1784370655,
-  "nextRotationAt": 1784457055,
+  "generatedAt": 1784372533,
+  "rotationGeneratedAt": 1784372533,
+  "nextRotationAt": 1784458933,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "collection_champion",
+      "category": "gamba_champion",
       "group": "viewer",
-      "icon": "♛",
-      "title": "Nest Collector",
-      "copy": "itsvdb owns 40 cosmetics and text effects."
+      "icon": "◆",
+      "title": "Gamba High Roller",
+      "copy": "itsvdb has collected 4,400 Shinies from winning spins."
     },
     {
       "category": "highest_gamba_win",
@@ -20,11 +20,11 @@
       "copy": "itsvdb won 2,000 Shinies in one spin."
     },
     {
-      "category": "community_gifts",
+      "category": "community_loot_boxes",
       "group": "community",
-      "icon": "♥",
-      "title": "Shinies Shared",
-      "copy": "Viewers have sent 1 gifts worth 10,000 Shinies."
+      "icon": "◇",
+      "title": "Boxes Opened",
+      "copy": "The community has opened 77 loot boxes."
     }
   ]
 }
