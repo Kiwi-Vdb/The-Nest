@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 000",
     "lobbyTitle": "EU6 - 000",
     "mode": "",
-    "mapName": "The Tartar Steppe v1.1",
-    "mapFileName": "the_tartar_steppe_v1.1",
-    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
-    "players": 15,
+    "mapName": "Serene Caldera v1.3",
+    "mapFileName": "serene_caldera_v1.3",
+    "mapImage": "assets/maps/serene-caldera-v1-3-cbdf20c520.webp",
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 12,
+    "spectators": 11,
     "gameTime": 880,
-    "updatedAt": "2026-07-18T18:59:07Z"
+    "updatedAt": "2026-07-18T18:59:42Z"
   },
   "live": true,
   "viewers": 22,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784401127,
+  "statusUpdatedAt": 1784401157,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
