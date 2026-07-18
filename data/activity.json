@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1784371004,
+  "generatedAt": 1784371422,
   "count": 50,
   "activities": [
+    {
+      "id": "0f1ba4b8c3b13ae9",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Angel Wings",
+      "timestamp": 1784371399,
+      "rarity": "rare",
+      "category": "Back",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "c7f8067fd43e044d",
       "type": "unlock",
@@ -450,14 +460,6 @@
       "rarity": "rare",
       "category": "Back",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "4a4601382409b025",
-      "type": "gamba",
-      "who": "itsvdb",
-      "text": "won 2,000 Shinies playing Gamba",
-      "timestamp": 1783107839,
-      "amount": 2000
     }
   ]
 }

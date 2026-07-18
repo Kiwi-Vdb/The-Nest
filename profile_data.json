@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784371004,
+  "generated_at": 1784371422,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -500,12 +500,6 @@
           "rarity": "rare"
         },
         {
-          "id": "back:angel wings",
-          "name": "Angel Wings",
-          "category": "Back",
-          "rarity": "rare"
-        },
-        {
           "id": "emote:scav fog",
           "name": "Scav Fog",
           "category": "Emote",
@@ -542,6 +536,14 @@
           "rarity": "rare",
           "type": "cosmetic",
           "text_effect": "",
+          "timestamp": 1784371399
+        },
+        {
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
           "timestamp": 1784371004
         },
         {
@@ -551,22 +553,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784370801
-        },
-        {
-          "name": "Angel Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784370752
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 10
+        "recent_unlocks": 11
       }
     },
     "itsvdb": {
