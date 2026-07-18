@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1784368784,
-  "rotationGeneratedAt": 1784368762,
-  "nextRotationAt": 1784455162,
+  "generatedAt": 1784370655,
+  "rotationGeneratedAt": 1784370655,
+  "nextRotationAt": 1784457055,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
@@ -20,11 +20,11 @@
       "copy": "itsvdb won 2,000 Shinies in one spin."
     },
     {
-      "category": "community_unlocks",
+      "category": "community_gifts",
       "group": "community",
-      "icon": "♛",
-      "title": "Unlock Collection",
-      "copy": "Viewers have collected 84 cosmetics and text effects."
+      "icon": "♥",
+      "title": "Shinies Shared",
+      "copy": "Viewers have sent 1 gifts worth 10,000 Shinies."
     }
   ]
 }
