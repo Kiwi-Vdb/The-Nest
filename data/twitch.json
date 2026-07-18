@@ -15,8 +15,8 @@
     "players": 1,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 318,
-    "updatedAt": "2026-07-18T10:37:44Z"
+    "gameTime": 348,
+    "updatedAt": "2026-07-18T10:38:14Z"
   },
   "live": false,
   "viewers": 0,
@@ -79,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784371048
+  "statusUpdatedAt": 1784371078
 }
