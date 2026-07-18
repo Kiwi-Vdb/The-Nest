@@ -3,20 +3,20 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
+    "status": "in_lobby",
+    "statusLabel": "IN LOBBY",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU8 - 013",
-    "lobbyTitle": "EU8 - 013",
+    "lobbyName": "EU6 - 009",
+    "lobbyTitle": "EU6 - 009",
     "mode": "",
-    "mapName": "Prismatic Anomaly v1.02",
-    "mapFileName": "prismatic_anomaly_v1.02",
-    "mapImage": "assets/maps/prismatic-anomaly-v1-02-5f26f079db.webp",
-    "players": 0,
+    "mapName": "Comet Catcher Remake 1.8",
+    "mapFileName": "comet_catcher_remake_1.8",
+    "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
+    "players": 1,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 563,
-    "updatedAt": "2026-07-16T15:55:12Z"
+    "spectators": 2,
+    "gameTime": 0,
+    "updatedAt": "2026-07-18T10:56:09Z"
   },
   "live": false,
   "viewers": 0,
@@ -79,5 +79,9 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784217351
+<<<<<<< HEAD
+  "statusUpdatedAt": 1784217381
+=======
+  "statusUpdatedAt": 1784372184
+>>>>>>> 90f419747ca2cba64ace95297fc25c5a5275a6d7
 }
