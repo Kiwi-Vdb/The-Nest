@@ -12,11 +12,11 @@
     "mapName": "Project SD-129 v1.0",
     "mapFileName": "project_sd-129_v1.0",
     "mapImage": "assets/maps/project-sd-129-v1-0-137df3e649.webp",
-    "players": 13,
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 435,
-    "updatedAt": "2026-07-18T17:55:46Z"
+    "updatedAt": "2026-07-18T17:56:12Z"
   },
   "live": true,
   "viewers": 40,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784397346,
+  "statusUpdatedAt": 1784397377,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
