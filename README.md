@@ -35,6 +35,19 @@ Then open:
 http://localhost:8000
 ```
 
+## F8 Layout Studio
+
+The recommended editor is built into Kiwi Birb. Open the **The Nest** tab,
+choose a page, and click **Open F8 Layout Editor**. Press F8 in the browser,
+move or resize the outlined items, then click **Save & Publish**.
+
+Drafts save automatically. Publishing updates the global Cloudflare layout and
+asks Kiwi Birb to write `data/layouts/<page>.json`, commit only that snapshot,
+and push it with the computer's existing Git credentials. The website loads the
+newest Cloudflare or Git snapshot, so the Git copy is also a durable fallback.
+
+See `F8_EDITOR_README.txt` for shortcuts and troubleshooting.
+
 ## How to upload
 
 Copy the contents of this folder into your GitHub repository, commit, and push.

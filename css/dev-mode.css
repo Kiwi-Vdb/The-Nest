@@ -1,256 +1,449 @@
-/* The Nest Developer Overlay
-   Toggle with F8. This file is safe to keep in production: it is invisible until Dev Mode is enabled. */
+/* The Nest F8 Layout Editor v2
+   Hidden during normal browsing. Press F8 to enter the editor. */
 
-.nest-dev-grid,
-.nest-dev-panel,
-.dev-resize-handle,
-.nest-dev-coords {
+.nest-f8-grid,
+.nest-f8-selection,
+.nest-f8-panel,
+.nest-f8-toast {
   display: none;
 }
 
-body.nest-dev-on {
-  --dev-purple: rgba(141, 85, 255, .9);
-  --dev-purple-soft: rgba(141, 85, 255, .18);
-  --dev-bronze: rgba(210, 161, 95, .95);
-  --dev-blue: rgba(82, 168, 255, .9);
-  --dev-green: rgba(79, 255, 170, .9);
+body.nest-f8-on {
+  --f8-bg: rgba(10, 8, 15, .97);
+  --f8-panel: rgba(20, 15, 29, .97);
+  --f8-border: rgba(218, 173, 108, .38);
+  --f8-bronze: #e1b474;
+  --f8-cream: #fff0cd;
+  --f8-purple: #9f70ff;
+  --f8-green: #72e49b;
+  --f8-yellow: #ffd36a;
+  --f8-red: #ff7b82;
 }
 
-body.nest-dev-on .nest-dev-target {
-  outline: 2px solid var(--dev-purple);
-  background: rgba(141, 85, 255, .12);
-  box-shadow: 0 0 18px rgba(141, 85, 255, .35), inset 0 0 18px rgba(210, 161, 95, .13);
-  z-index: 25;
+body.nest-f8-on .nest-f8-target {
+  z-index: 40 !important;
+  outline: 1px dashed rgba(159, 112, 255, .9);
+  outline-offset: 1px;
+  cursor: grab !important;
+  touch-action: none;
+  user-select: none;
 }
 
-
-body.nest-dev-on .dev-editable,
-body.nest-dev-on .community-panel,
-body.nest-dev-on .nest-sync-card {
-  pointer-events: auto !important;
+body.nest-f8-on .nest-f8-target:hover,
+body.nest-f8-on .nest-f8-target.is-selected {
+  outline: 2px solid var(--f8-bronze);
+  background-color: rgba(159, 112, 255, .09) !important;
+  box-shadow: 0 0 0 1px rgba(5, 4, 8, .75), 0 0 20px rgba(159, 112, 255, .42) !important;
 }
 
-body.nest-dev-on .nest-dev-target *:not(.dev-resize-handle) {
-  pointer-events: none;
+body.nest-f8-on .nest-f8-target.is-moving {
+  cursor: grabbing !important;
 }
 
-body.nest-dev-on .nest-dev-target::before {
-  content: attr(data-dev-label);
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  padding: 4px 9px;
-  border: 1px solid rgba(210, 161, 95, .55);
-  border-radius: 999px;
-  background: rgba(5, 4, 8, .82);
-  color: #f4dcad;
-  font: 700 11px/1.1 system-ui, -apple-system, Segoe UI, sans-serif;
-  letter-spacing: .08em;
-  white-space: nowrap;
-  pointer-events: none;
-  text-shadow: 0 0 8px rgba(141, 85, 255, .8);
+body.nest-f8-on .nest-f8-target * {
+  pointer-events: none !important;
 }
 
-body.nest-dev-on .nest-dev-target:hover,
-body.nest-dev-on .nest-dev-target.is-selected {
-  outline-color: var(--dev-bronze);
-  background: rgba(210, 161, 95, .16);
-  box-shadow: 0 0 24px rgba(210, 161, 95, .42), inset 0 0 20px rgba(141, 85, 255, .18);
-}
-
-body.nest-dev-on .nest-dev-target.is-dragging {
-  cursor: grabbing;
-}
-
-body.nest-dev-on .dev-resize-handle {
-  display: block;
-  position: absolute;
-  width: 13px;
-  height: 13px;
-  border: 2px solid #f4dcad;
-  border-radius: 50%;
-  background: #120c1d;
-  box-shadow: 0 0 10px rgba(141, 85, 255, .85);
-  z-index: 30;
-}
-
-body.nest-dev-on .dev-resize-handle[data-corner="nw"] { left: -7px; top: -7px; cursor: nwse-resize; }
-body.nest-dev-on .dev-resize-handle[data-corner="ne"] { right: -7px; top: -7px; cursor: nesw-resize; }
-body.nest-dev-on .dev-resize-handle[data-corner="sw"] { left: -7px; bottom: -7px; cursor: nesw-resize; }
-body.nest-dev-on .dev-resize-handle[data-corner="se"] { right: -7px; bottom: -7px; cursor: nwse-resize; }
-
-.nest-dev-grid {
+.nest-f8-grid {
   position: absolute;
   inset: 0;
-  z-index: 20;
+  z-index: 30;
   pointer-events: none;
   background-image:
-    linear-gradient(to right, rgba(210, 161, 95, .14) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(210, 161, 95, .14) 1px, transparent 1px),
-    linear-gradient(to right, rgba(141, 85, 255, .18) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(141, 85, 255, .18) 1px, transparent 1px);
+    linear-gradient(to right, rgba(225, 180, 116, .12) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(225, 180, 116, .12) 1px, transparent 1px),
+    linear-gradient(to right, rgba(159, 112, 255, .16) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(159, 112, 255, .16) 1px, transparent 1px);
   background-size: 2.5% 2.5%, 2.5% 2.5%, 10% 10%, 10% 10%;
 }
 
-body.nest-dev-on.show-grid .nest-dev-grid { display: block; }
-
-.nest-dev-coords {
-  position: fixed;
-  left: 14px;
-  bottom: 14px;
-  z-index: 9999;
-  padding: 8px 11px;
-  border: 1px solid rgba(210, 161, 95, .5);
-  border-radius: 10px;
-  background: rgba(5, 4, 8, .86);
-  color: #f4dcad;
-  font: 12px/1.35 Consolas, Monaco, monospace;
-  pointer-events: none;
-  box-shadow: 0 0 18px rgba(0,0,0,.45);
+body.nest-f8-on.nest-f8-show-grid .nest-f8-grid {
+  display: block;
 }
-body.nest-dev-on.show-coords .nest-dev-coords { display: block; }
 
-.nest-dev-panel {
+.nest-f8-selection {
+  position: absolute;
+  z-index: 70;
+  pointer-events: none;
+  border: 2px solid var(--f8-bronze);
+  box-shadow: 0 0 0 1px rgba(4, 3, 7, .9), 0 0 18px rgba(159, 112, 255, .55);
+}
+
+body.nest-f8-on .nest-f8-selection.is-visible {
+  display: block;
+}
+
+.nest-f8-selection-label {
+  position: absolute;
+  left: -2px;
+  bottom: calc(100% + 7px);
+  max-width: 240px;
+  overflow: hidden;
+  padding: 5px 9px;
+  border: 1px solid rgba(225, 180, 116, .5);
+  border-radius: 7px;
+  background: rgba(8, 6, 12, .95);
+  color: var(--f8-cream);
+  font: 750 11px/1.1 system-ui, -apple-system, "Segoe UI", sans-serif;
+  letter-spacing: .05em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.nest-f8-resize-handle {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border: 2px solid #fff0cd;
+  border-radius: 50%;
+  background: #6f3fd0;
+  box-shadow: 0 0 0 2px rgba(5, 4, 8, .9), 0 0 11px rgba(159, 112, 255, .9);
+  pointer-events: auto;
+  touch-action: none;
+}
+
+.nest-f8-resize-handle[data-resize-edge="n"]  { left: 50%; top: -8px; transform: translateX(-50%); cursor: ns-resize; }
+.nest-f8-resize-handle[data-resize-edge="ne"] { right: -8px; top: -8px; cursor: nesw-resize; }
+.nest-f8-resize-handle[data-resize-edge="e"]  { right: -8px; top: 50%; transform: translateY(-50%); cursor: ew-resize; }
+.nest-f8-resize-handle[data-resize-edge="se"] { right: -8px; bottom: -8px; cursor: nwse-resize; }
+.nest-f8-resize-handle[data-resize-edge="s"]  { left: 50%; bottom: -8px; transform: translateX(-50%); cursor: ns-resize; }
+.nest-f8-resize-handle[data-resize-edge="sw"] { left: -8px; bottom: -8px; cursor: nesw-resize; }
+.nest-f8-resize-handle[data-resize-edge="w"]  { left: -8px; top: 50%; transform: translateY(-50%); cursor: ew-resize; }
+.nest-f8-resize-handle[data-resize-edge="nw"] { left: -8px; top: -8px; cursor: nwse-resize; }
+
+.nest-f8-panel {
   position: fixed;
-  right: 14px;
   top: 14px;
-  z-index: 10000;
-  width: min(370px, calc(100vw - 28px));
+  right: 14px;
+  z-index: 100000;
+  width: min(360px, calc(100vw - 28px));
   max-height: calc(100vh - 28px);
   overflow: auto;
-  padding: 14px;
-  border: 1px solid rgba(210, 161, 95, .45);
-  border-radius: 16px;
-  background: linear-gradient(180deg, rgba(18, 14, 28, .96), rgba(5, 4, 8, .96));
-  color: #f4dcad;
-  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
-  box-shadow: 0 15px 40px rgba(0,0,0,.55), 0 0 24px rgba(141, 85, 255, .25);
-  backdrop-filter: blur(10px);
+  border: 1px solid var(--f8-border);
+  border-radius: 18px;
+  background: linear-gradient(180deg, var(--f8-panel), var(--f8-bg));
+  color: rgba(255, 240, 205, .88);
+  font: 13px/1.35 system-ui, -apple-system, "Segoe UI", sans-serif;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, .65), 0 0 30px rgba(118, 70, 220, .2);
+  backdrop-filter: blur(18px);
+  scrollbar-color: rgba(225, 180, 116, .45) transparent;
 }
-body.nest-dev-on .nest-dev-panel { display: block; }
 
-.nest-dev-title {
-  margin-bottom: 10px;
-  color: #fff3cf;
+body.nest-f8-on .nest-f8-panel {
+  display: block;
+}
+
+body.nest-f8-panel-left .nest-f8-panel {
+  right: auto;
+  left: 14px;
+}
+
+.nest-f8-panel * {
+  box-sizing: border-box;
+}
+
+.nest-f8-panel-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 16px 12px;
+  border-bottom: 1px solid rgba(225, 180, 116, .14);
+}
+
+.nest-f8-eyebrow {
+  color: rgba(225, 180, 116, .65);
+  font-size: 10px;
   font-weight: 800;
-  letter-spacing: .12em;
+  letter-spacing: .16em;
   text-transform: uppercase;
-  font-size: 13px;
 }
 
-.nest-dev-small {
-  color: rgba(244, 220, 173, .72);
-  font-size: 12px;
-  line-height: 1.35;
+.nest-f8-title {
+  color: var(--f8-cream);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: .02em;
 }
 
-.nest-dev-section {
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid rgba(210, 161, 95, .18);
+.nest-f8-page-name {
+  margin-top: 2px;
+  color: rgba(255, 240, 205, .55);
+  font-size: 11px;
+  text-transform: capitalize;
 }
 
-.nest-dev-panel button,
-.nest-dev-panel input,
-.nest-dev-panel select,
-.nest-dev-panel textarea {
+.nest-f8-header-actions {
+  display: flex;
+  gap: 6px;
+}
+
+.nest-f8-panel button,
+.nest-f8-panel input,
+.nest-f8-panel select {
   font: inherit;
 }
 
-.nest-dev-panel button {
-  border: 1px solid rgba(210, 161, 95, .48);
-  border-radius: 10px;
-  background: rgba(141, 85, 255, .14);
-  color: #f4dcad;
-  padding: 8px 10px;
+.nest-f8-panel button {
+  border: 1px solid rgba(225, 180, 116, .32);
+  border-radius: 9px;
+  background: rgba(159, 112, 255, .1);
+  color: rgba(255, 240, 205, .88);
   cursor: pointer;
 }
 
-.nest-dev-panel button:hover {
-  background: rgba(210, 161, 95, .18);
-  box-shadow: 0 0 12px rgba(141, 85, 255, .28);
+.nest-f8-panel button:hover:not(:disabled) {
+  border-color: rgba(225, 180, 116, .65);
+  background: rgba(159, 112, 255, .2);
 }
 
-.nest-dev-panel button.is-active {
-  background: rgba(210, 161, 95, .26);
-  border-color: rgba(244, 220, 173, .75);
+.nest-f8-panel button:focus-visible,
+.nest-f8-panel input:focus-visible,
+.nest-f8-panel select:focus-visible,
+.nest-f8-advanced summary:focus-visible {
+  outline: 2px solid var(--f8-purple);
+  outline-offset: 2px;
 }
 
-.nest-dev-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 8px;
-  margin-top: 8px;
+.nest-f8-panel button:disabled {
+  cursor: wait;
+  opacity: .7;
 }
 
-.nest-dev-row.three {
-  grid-template-columns: 1fr 1fr 1fr;
+.nest-f8-icon-button {
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  font-size: 18px !important;
+  line-height: 1;
 }
 
-.nest-dev-fields {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 8px;
-  margin-top: 8px;
-}
-
-.nest-dev-field label {
-  display: block;
-  margin-bottom: 4px;
-  color: rgba(244, 220, 173, .72);
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: .08em;
-}
-
-.nest-dev-field input {
-  width: 100%;
-  padding: 7px 8px;
-  border: 1px solid rgba(210, 161, 95, .36);
-  border-radius: 9px;
-  background: rgba(0, 0, 0, .25);
-  color: #fff3cf;
-}
-
-.nest-dev-readout,
-.nest-dev-output {
-  margin-top: 8px;
-  padding: 10px;
-  min-height: 42px;
-  border: 1px solid rgba(210, 161, 95, .24);
+.nest-f8-status {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  min-height: 38px;
+  margin: 12px 16px 0;
+  padding: 9px 10px;
+  border: 1px solid rgba(225, 180, 116, .15);
   border-radius: 10px;
-  background: rgba(0, 0, 0, .24);
-  color: #f4dcad;
-  font: 12px/1.35 Consolas, Monaco, monospace;
+  background: rgba(0, 0, 0, .18);
+  color: rgba(255, 240, 205, .72);
+  font-size: 12px;
+}
+
+.nest-f8-status-dot {
+  flex: 0 0 auto;
+  width: 8px;
+  height: 8px;
+  margin-top: 4px;
+  border-radius: 50%;
+  background: rgba(255, 240, 205, .35);
+  box-shadow: 0 0 8px currentColor;
+}
+
+.nest-f8-status[data-tone="success"] { color: var(--f8-green); }
+.nest-f8-status[data-tone="warning"] { color: var(--f8-yellow); }
+.nest-f8-status[data-tone="error"] { color: var(--f8-red); }
+.nest-f8-status[data-tone="busy"] { color: var(--f8-purple); }
+.nest-f8-status[data-tone="busy"] .nest-f8-status-dot { animation: nestF8Pulse .8s ease-in-out infinite alternate; }
+
+@keyframes nestF8Pulse {
+  to { opacity: .35; transform: scale(.72); }
+}
+
+.nest-f8-publish {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 32px);
+  margin: 10px 16px 0;
+  padding: 11px 14px !important;
+  border-color: rgba(114, 228, 155, .55) !important;
+  background: linear-gradient(180deg, rgba(70, 170, 112, .28), rgba(36, 109, 74, .22)) !important;
+  color: #d9ffe7 !important;
+  font-weight: 800 !important;
+  letter-spacing: .02em;
+}
+
+.nest-f8-publish:hover:not(:disabled) {
+  border-color: rgba(114, 228, 155, .9) !important;
+  box-shadow: 0 0 18px rgba(114, 228, 155, .15);
+}
+
+.nest-f8-publish small {
+  margin-top: 2px;
+  color: rgba(217, 255, 231, .62);
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.nest-f8-section {
+  margin: 14px 16px 0;
+}
+
+.nest-f8-select-label,
+.nest-f8-fields label span {
+  display: block;
+  margin-bottom: 5px;
+  color: rgba(255, 240, 205, .55);
+  font-size: 10px;
+  font-weight: 750;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.nest-f8-panel select,
+.nest-f8-panel input {
+  width: 100%;
+  min-width: 0;
+  border: 1px solid rgba(225, 180, 116, .24);
+  border-radius: 9px;
+  background: rgba(0, 0, 0, .28);
+  color: var(--f8-cream);
+}
+
+.nest-f8-panel select {
+  padding: 9px 10px;
+}
+
+.nest-f8-panel input {
+  padding: 7px 8px;
+}
+
+.nest-f8-panel input:disabled {
+  opacity: .35;
+  cursor: not-allowed;
+}
+
+.nest-f8-fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 9px;
+  margin-top: 11px;
+}
+
+.nest-f8-scale-field {
+  grid-column: 1 / -1;
+}
+
+.nest-f8-hint {
+  min-height: 30px;
+  margin-top: 9px;
+  color: rgba(255, 240, 205, .5);
+  font: 11px/1.35 ui-monospace, SFMono-Regular, Consolas, monospace;
+  overflow-wrap: anywhere;
+}
+
+.nest-f8-button-row,
+.nest-f8-view-tools {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 7px;
+}
+
+.nest-f8-button-row button,
+.nest-f8-view-tools button,
+.nest-f8-button-grid button {
+  min-height: 35px;
+  padding: 7px 8px;
+  font-size: 11px;
+}
+
+.nest-f8-view-tools {
+  padding-top: 13px;
+  border-top: 1px solid rgba(225, 180, 116, .12);
+}
+
+.nest-f8-panel button.is-active {
+  border-color: rgba(225, 180, 116, .72);
+  background: rgba(225, 180, 116, .18);
+  color: var(--f8-cream);
+}
+
+.nest-f8-advanced {
+  margin: 14px 16px 0;
+  border-top: 1px solid rgba(225, 180, 116, .12);
+}
+
+.nest-f8-advanced summary {
+  padding: 12px 0 4px;
+  color: rgba(255, 240, 205, .62);
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .04em;
+}
+
+.nest-f8-advanced-body {
+  padding-top: 7px;
+}
+
+.nest-f8-button-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 7px;
+}
+
+.nest-f8-output {
+  max-height: 140px;
+  margin: 9px 0 0;
+  overflow: auto;
+  padding: 9px;
+  border: 1px solid rgba(225, 180, 116, .14);
+  border-radius: 9px;
+  background: rgba(0, 0, 0, .22);
+  color: rgba(255, 240, 205, .58);
+  font: 10px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace;
   white-space: pre-wrap;
 }
 
-.nest-dev-output {
-  max-height: 160px;
-  overflow: auto;
+.nest-f8-footer {
+  margin-top: 14px;
+  padding: 10px 16px 13px;
+  border-top: 1px solid rgba(225, 180, 116, .1);
+  color: rgba(255, 240, 205, .38);
+  font-size: 10px;
+  text-align: center;
 }
 
-.nest-dev-toast {
+.nest-f8-toast {
   position: fixed;
   left: 50%;
-  top: 16px;
-  transform: translateX(-50%);
-  z-index: 10001;
-  display: none;
-  padding: 9px 14px;
-  border: 1px solid rgba(210, 161, 95, .55);
+  top: 18px;
+  z-index: 100001;
+  transform: translate(-50%, -10px);
+  padding: 10px 15px;
+  border: 1px solid rgba(225, 180, 116, .55);
   border-radius: 999px;
-  background: rgba(5, 4, 8, .9);
-  color: #fff3cf;
-  font: 700 12px/1 system-ui, -apple-system, Segoe UI, sans-serif;
-  box-shadow: 0 0 20px rgba(141, 85, 255, .35);
+  background: rgba(8, 6, 12, .94);
+  color: var(--f8-cream, #fff0cd);
+  font: 750 12px/1 system-ui, -apple-system, "Segoe UI", sans-serif;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, .55), 0 0 18px rgba(159, 112, 255, .3);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .15s ease, transform .15s ease;
 }
-body.nest-dev-on .nest-dev-toast.show { display: block; }
 
-/* Optional per-panel content scaling control (v3.6.4). */
-.nest-dev-scale-field { grid-column: 1 / -1; }
-.nest-dev-field input:disabled {
-  opacity: .38;
-  cursor: not-allowed;
+body.nest-f8-on .nest-f8-toast {
+  display: block;
+}
+
+body.nest-f8-on .nest-f8-toast.is-visible {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+@media (max-width: 620px) {
+  .nest-f8-panel {
+    top: 8px;
+    right: 8px;
+    width: min(340px, calc(100vw - 16px));
+    max-height: calc(100vh - 16px);
+  }
+
+  body.nest-f8-panel-left .nest-f8-panel {
+    left: 8px;
+  }
 }

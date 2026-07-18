@@ -1,39 +1,53 @@
-THE NEST F8 EDITOR
-==================
+THE NEST F8 LAYOUT STUDIO
+=========================
 
-The F8 editor has two save levels:
+QUICK WORKFLOW
+--------------
 
-1. Save Draft Locally
-   - Stores the layout only in this browser.
-   - Useful while you are still experimenting.
-   - Friends and new visitors will not see it.
+1. Keep Kiwi Birb open.
+2. Open Kiwi Birb > The Nest.
+3. Choose a page and click Open F8 Layout Editor.
+4. Press F8 in the browser.
+5. Drag an outlined button/window to move it.
+6. Select it and drag any outside handle to resize it.
+7. Click Save & Publish.
 
-2. Publish For Everyone
-   - Stores the page layout securely in the Cloudflare Worker/D1 database.
-   - Every visitor receives the same positions automatically.
-   - Requires you to be signed in with Twitch on Shop or My Nest.
-   - Only the configured owner Twitch account can publish.
+That one button:
 
-RECOMMENDED WORKFLOW
---------------------
+- saves the current layout for every visitor;
+- writes a durable snapshot under The Nest/data/layouts/;
+- commits only that page's snapshot; and
+- pushes the commit using the Git credentials already available to Kiwi Birb.
 
-1. Sign in with Twitch on Shop or My Nest.
-2. Open the page you want to edit.
-3. Press F8.
-4. Move and resize the panels.
-5. Use Save Draft Locally while testing.
-6. Click Publish For Everyone when the page is ready.
+Unrelated website files are never included in the layout commit.
 
-The editor also shows:
+AUTOMATIC DRAFTS
+----------------
 
-- Name: the friendly label
-- Editor ID: the stable layout key
-- CSS selector: the exact CSS selector
+There is no separate draft-save step. Every move, resize, keyboard nudge, and
+number-field edit is saved automatically in the browser. If the browser closes
+before publishing, the draft is restored the next time that page opens.
 
-CSS EXPORT BACKUP
------------------
+EDITOR CONTROLS
+---------------
 
-Copy All CSS and Download CSS Patch remain available as an offline backup.
-When using that method, paste the generated override block at the very bottom
-of the matching page CSS file and replace only an older F8 override block.
-Do not replace the original styled selector rules.
+- Editing dropdown: selects a button/window even when it is small or covered.
+- Eight outside handles: resize from any side or corner without clipping.
+- X/Y/Width/Height: exact percentage controls.
+- Content scale: available only on panels that support internal scaling.
+- Grid and Snap: optional alignment helpers.
+- Undo/Redo: up to 100 layout changes.
+- Dock button: moves the editor between the left and right edge.
+- Ctrl+S: Save & Publish.
+- Arrow keys: nudge the selected item; hold Shift for a larger step.
+
+PUBLISHING
+----------
+
+When signed in with the owner Twitch account, Save & Publish updates the
+Cloudflare layout immediately. With Kiwi Birb open, it also commits and pushes
+the Git snapshot. The public website compares both copies and uses whichever
+one is newest.
+
+Advanced & backups contains reload, discard, CSS copy/download, and JSON
+download tools. These are optional and are no longer part of the normal flow.
