@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
-    "gameTime": 96,
-    "updatedAt": "2026-07-18T20:13:44Z"
+    "spectators": 18,
+    "gameTime": 148,
+    "updatedAt": "2026-07-18T20:14:16Z"
   },
   "live": true,
   "viewers": 7,
