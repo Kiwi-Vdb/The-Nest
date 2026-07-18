@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 048",
     "lobbyTitle": "EU7 - 048",
     "mode": "",
-    "mapName": "All That Smolders v1.2",
-    "mapFileName": "all_that_smolders_v1.2",
-    "mapImage": "assets/maps/all-that-smolders-v1-2-8e0e1ee079.webp",
-    "players": 11,
+    "mapName": "Hyperion Shale 1.0.2",
+    "mapFileName": "hyperion_shale_1.0.2",
+    "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
+    "players": 14,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 762,
-    "updatedAt": "2026-07-18T16:50:25Z"
+    "updatedAt": "2026-07-18T16:51:12Z"
   },
   "live": true,
   "viewers": 23,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784393418,
+  "statusUpdatedAt": 1784393448,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
