@@ -1,15 +1,205 @@
 {
-  "generatedAt": 1784394887,
+  "generatedAt": 1784394902,
   "count": 50,
   "activities": [
     {
-      "id": "cbb8cc86bf449f6a",
+      "id": "39fc63469ea75a34",
       "type": "unlock",
       "who": "hunbleeone",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784394887,
+      "text": "unlocked Witch Hat",
+      "timestamp": 1784394902,
       "rarity": "common",
       "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "7087853b0a5f3084",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Wizards Hat",
+      "timestamp": 1784394902,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "e87ce665f803c662",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Sword",
+      "timestamp": 1784394902,
+      "rarity": "common",
+      "category": "Hand",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "0c9119e0d309114f",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Sun Beam",
+      "timestamp": 1784394901,
+      "rarity": "legendary",
+      "category": "Emote",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "da1146e7401c4940",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Sultans Hat",
+      "timestamp": 1784394901,
+      "rarity": "rare",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "8100252ad8d92c48",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Ranger Cap",
+      "timestamp": 1784394900,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "a7788ae985efb034",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Santa Hat",
+      "timestamp": 1784394900,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "bc55fb37e15646d6",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Scav Fog",
+      "timestamp": 1784394900,
+      "rarity": "legendary",
+      "category": "Emote",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "ca4f87e518b861d9",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Santa Beard",
+      "timestamp": 1784394900,
+      "rarity": "rare",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "3ce0e5c41a70b14f",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Quiz Hat",
+      "timestamp": 1784394899,
+      "rarity": "rare",
+      "category": "Emote",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "65f8ed9606f4c9ad",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Poesidon Staff",
+      "timestamp": 1784394899,
+      "rarity": "common",
+      "category": "Hand",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "d29cac0dceb54f80",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Pumpkin",
+      "timestamp": 1784394899,
+      "rarity": "rare",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "dcb1242959d692b7",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784394899,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "003c6e4369588426",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Deinosuchus",
+      "timestamp": 1784394898,
+      "rarity": "legendary",
+      "category": "Pets",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "23ba9296a0de20e7",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Monarch Wings",
+      "timestamp": 1784394898,
+      "rarity": "rare",
+      "category": "Back",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c15c9bad7e6111d2",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Fire Aura",
+      "timestamp": 1784394898,
+      "rarity": "legendary",
+      "category": "Emote",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c6ffb3e6ed79396b",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Deadeye Wings",
+      "timestamp": 1784394897,
+      "rarity": "rare",
+      "category": "Back",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "f1eaed4822634606",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Cow",
+      "timestamp": 1784394897,
+      "rarity": "legendary",
+      "category": "Pets",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "25b29e78758994bd",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Batty",
+      "timestamp": 1784394896,
+      "rarity": "rare",
+      "category": "Pets",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "6de2887fa12d71e8",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Blood Wings",
+      "timestamp": 1784394896,
+      "rarity": "rare",
+      "category": "Back",
       "rewardType": "cosmetic"
     },
     {
@@ -161,16 +351,6 @@
       "rewardType": "cosmetic"
     },
     {
-      "id": "22ab93f7c9302da7",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Blue Text",
-      "timestamp": 1784040444,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
       "id": "8b4ab62f6ad2f798",
       "type": "unlock",
       "who": "itsvdb",
@@ -300,166 +480,6 @@
       "text": "won 1,300 Shinies playing Gamba",
       "timestamp": 1783771867,
       "amount": 1300
-    },
-    {
-      "id": "2f6a01a7a1d825d0",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 6,000 Shinies in a prediction: Will VDb and Prof Win?",
-      "timestamp": 1783707662,
-      "amount": 6000
-    },
-    {
-      "id": "54bbc879c27249e2",
-      "type": "prediction",
-      "who": "bar_outofmana",
-      "text": "won 6,000 Shinies in a prediction: Will VDb and Prof Win?",
-      "timestamp": 1783707662,
-      "amount": 6000
-    },
-    {
-      "id": "ae456e6c5f1b33b8",
-      "type": "prediction",
-      "who": "timmytwoshots",
-      "text": "won 6,000 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1783682900,
-      "amount": 6000
-    },
-    {
-      "id": "fc4c08f43d73dbb8",
-      "type": "prediction",
-      "who": "crazypyronl",
-      "text": "won 6,000 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1783681288,
-      "amount": 6000
-    },
-    {
-      "id": "1ceff5db731d4aee",
-      "type": "unlock",
-      "who": "oafsalot",
-      "text": "unlocked Brown Text",
-      "timestamp": 1783677775,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "4dceb2269a357117",
-      "type": "gamba",
-      "who": "bizzyrex",
-      "text": "won 300 Shinies playing Gamba",
-      "timestamp": 1783626453,
-      "amount": 300
-    },
-    {
-      "id": "800b2b3b8b6eea2e",
-      "type": "gamba",
-      "who": "hunbleeone",
-      "text": "won 260 Shinies playing Gamba",
-      "timestamp": 1783626406,
-      "amount": 260
-    },
-    {
-      "id": "b29d8ba646c75596",
-      "type": "prediction",
-      "who": "bar_outofmana",
-      "text": "won 2,000 Shinies in a prediction: Does VDB team win?",
-      "timestamp": 1783626209,
-      "amount": 2000
-    },
-    {
-      "id": "d299f2f7c5049e2c",
-      "type": "prediction",
-      "who": "itsvdb",
-      "text": "won 6,000 Shinies in a prediction: Does This Work?",
-      "timestamp": 1783263717,
-      "amount": 6000
-    },
-    {
-      "id": "7b773b0efc6df487",
-      "type": "prediction",
-      "who": "bar_outofmana",
-      "text": "won 6,000 Shinies in a prediction: Will VDB Win?",
-      "timestamp": 1783263693,
-      "amount": 6000
-    },
-    {
-      "id": "d76e446a5e79f5f0",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Portal Text",
-      "timestamp": 1783114820,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "7e9691677792fd46",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Rainbow Comet Text",
-      "timestamp": 1783114796,
-      "rarity": "rare",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "958074d23fe26cce",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Candle Wish Text",
-      "timestamp": 1783114259,
-      "rarity": "rare",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "4af52906be8a9029",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Deinosuchus",
-      "timestamp": 1783112611,
-      "rarity": "legendary",
-      "category": "Pets",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "52e9949aa43eb1a4",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Scav Fog",
-      "timestamp": 1783112576,
-      "rarity": "legendary",
-      "category": "Emote",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "e890234f8d8ccd10",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Cow",
-      "timestamp": 1783112499,
-      "rarity": "legendary",
-      "category": "Pets",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "a2985e42436481d5",
-      "type": "gamba",
-      "who": "axolotl_eu",
-      "text": "won 650 Shinies playing Gamba",
-      "timestamp": 1783110239,
-      "amount": 650
-    },
-    {
-      "id": "a6498eb9b2b22628",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Sultans Hat",
-      "timestamp": 1783109258,
-      "rarity": "rare",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
