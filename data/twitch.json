@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/esker-creek-1-3-c4776b49d7.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 198,
-    "updatedAt": "2026-07-18T19:47:07Z"
+    "spectators": 16,
+    "gameTime": 213,
+    "updatedAt": "2026-07-18T19:47:42Z"
   },
   "live": true,
   "viewers": 16,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784404019,
+  "statusUpdatedAt": 1784404050,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
