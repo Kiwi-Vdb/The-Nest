@@ -2,20 +2,21 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": false,
-    "status": "not_in_lobby",
-    "statusLabel": "NOT IN LOBBY",
-    "lobbyName": "Not in a BAR lobby",
-    "lobbyTitle": "",
+    "active": true,
+    "status": "in_game",
+    "statusLabel": "IN GAME",
+    "playerName": "[APM]Vdb",
+    "lobbyName": "EU8 - 003",
+    "lobbyTitle": "EU8 - 003",
     "mode": "",
-    "mapName": "Waiting for a lobby",
-    "mapFileName": "",
-    "mapImage": "",
-    "players": 0,
-    "maxPlayers": 0,
-    "spectators": 0,
-    "gameTime": 0,
-    "updatedAt": "2026-07-18T09:59:22Z"
+    "mapName": "Comet Catcher Remake 1.8",
+    "mapFileName": "comet_catcher_remake_1.8",
+    "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
+    "players": 1,
+    "maxPlayers": 16,
+    "spectators": 4,
+    "gameTime": 878,
+    "updatedAt": "2026-07-18T10:30:55Z"
   },
   "live": false,
   "viewers": 0,
@@ -78,5 +79,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784368762
+  "statusUpdatedAt": 1784370655
 }
