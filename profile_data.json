@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784394902,
+  "generated_at": 1784394958,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -30,6 +30,12 @@
         {
           "id": "hat:bday hat",
           "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
           "category": "Hat",
           "rarity": "common"
         },
@@ -118,6 +124,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784394958
+        },
+        {
           "name": "Red Text",
           "category": "Text Effect",
           "rarity": "common",
@@ -132,22 +146,14 @@
           "type": "text_effect",
           "text_effect": "text-brown",
           "timestamp": 1782919486
-        },
-        {
-          "name": "Apprentice Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782919473
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 7,
+        "cosmetics_unlocked": 8,
         "cosmetics_available": 24,
         "text_effects_unlocked": 7,
         "text_effects_available": 20,
-        "recent_unlocks": 14
+        "recent_unlocks": 15
       }
     },
     "bar_outofmana": {

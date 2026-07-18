@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1784394902,
+  "generatedAt": 1784394958,
   "count": 50,
   "activities": [
+    {
+      "id": "c1be1e4dfaa098ae",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784394958,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "39fc63469ea75a34",
       "type": "unlock",
@@ -472,14 +482,6 @@
       "text": "won 134 Shinies playing Gamba",
       "timestamp": 1783772073,
       "amount": 134
-    },
-    {
-      "id": "6fe5a63b9e379f85",
-      "type": "gamba",
-      "who": "stuart_williamson",
-      "text": "won 1,300 Shinies playing Gamba",
-      "timestamp": 1783771867,
-      "amount": 1300
     }
   ]
 }
