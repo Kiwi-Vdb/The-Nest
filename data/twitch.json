@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 048",
     "lobbyTitle": "EU7 - 048",
     "mode": "",
-    "mapName": "Hyperion Shale 1.0.2",
-    "mapFileName": "hyperion_shale_1.0.2",
-    "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
+    "mapName": "Kings Assault v1.3",
+    "mapFileName": "kings_assault_v1.3",
+    "mapImage": "assets/maps/kings-assault-v1-3-d3888b5f17.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 10,
     "gameTime": 991,
-    "updatedAt": "2026-07-18T17:12:19Z"
+    "updatedAt": "2026-07-18T17:12:52Z"
   },
   "live": true,
   "viewers": 31,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784394757,
+  "statusUpdatedAt": 1784394788,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
