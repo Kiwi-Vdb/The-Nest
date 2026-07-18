@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 048",
     "lobbyTitle": "EU7 - 048",
     "mode": "",
-    "mapName": "White Fire Remake 1.3",
-    "mapFileName": "white_fire_remake_1.3",
-    "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
-    "players": 13,
+    "mapName": "Project SD-129 v1.0",
+    "mapFileName": "project_sd-129_v1.0",
+    "mapImage": "assets/maps/project-sd-129-v1-0-137df3e649.webp",
+    "players": 12,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 8,
     "gameTime": 435,
-    "updatedAt": "2026-07-18T17:54:29Z"
+    "updatedAt": "2026-07-18T17:55:00Z"
   },
   "live": true,
   "viewers": 40,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784397256,
+  "statusUpdatedAt": 1784397286,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
