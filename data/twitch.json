@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 009",
     "lobbyTitle": "EU6 - 009",
     "mode": "",
-    "mapName": "The Cold Place BAR v1.1",
-    "mapFileName": "the_cold_place_BAR_v1.1",
-    "mapImage": "assets/maps/the-cold-place-bar-v1-1-1ac333d2b1.webp",
+    "mapName": "Comet Catcher Remake 1.8",
+    "mapFileName": "comet_catcher_remake_1.8",
+    "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
     "players": 3,
     "maxPlayers": 16,
-    "spectators": 3,
+    "spectators": 2,
     "gameTime": 612,
-    "updatedAt": "2026-07-18T12:15:46Z"
+    "updatedAt": "2026-07-18T12:16:01Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784376921,
+  "statusUpdatedAt": 1784376952,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
