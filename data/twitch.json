@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 000",
     "lobbyTitle": "EU6 - 000",
     "mode": "",
-    "mapName": "Delta Siege Dry v5.7.1",
-    "mapFileName": "delta_siege_dry_v5.7.1",
-    "mapImage": "assets/maps/delta-siege-dry-v5-7-1-2ae47590ed.webp",
-    "players": 15,
+    "mapName": "Esker Creek 1.3",
+    "mapFileName": "esker_creek_1.3",
+    "mapImage": "assets/maps/esker-creek-1-3-c4776b49d7.webp",
+    "players": 16,
     "maxPlayers": 16,
-    "spectators": 18,
+    "spectators": 19,
     "gameTime": 1734,
-    "updatedAt": "2026-07-18T19:32:23Z"
+    "updatedAt": "2026-07-18T19:32:54Z"
   },
   "live": true,
   "viewers": 21,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784403138,
+  "statusUpdatedAt": 1784403168,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
