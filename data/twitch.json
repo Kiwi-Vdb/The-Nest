@@ -12,11 +12,11 @@
     "mapName": "Hyperion Shale 1.0.2",
     "mapFileName": "hyperion_shale_1.0.2",
     "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
-    "players": 14,
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
-    "gameTime": 503,
-    "updatedAt": "2026-07-18T17:03:24Z"
+    "gameTime": 533,
+    "updatedAt": "2026-07-18T17:03:56Z"
   },
   "live": true,
   "viewers": 18,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784394209,
+  "statusUpdatedAt": 1784394239,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
