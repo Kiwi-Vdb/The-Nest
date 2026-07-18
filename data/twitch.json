@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 622,
-    "updatedAt": "2026-07-18T18:54:17Z"
+    "spectators": 9,
+    "gameTime": 636,
+    "updatedAt": "2026-07-18T18:54:33Z"
   },
   "live": true,
-  "viewers": 23,
+  "viewers": 21,
   "title": "New Devs When?",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-18T16:00:58Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784400853,
+  "statusUpdatedAt": 1784400883,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
