@@ -12,21 +12,21 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 15,
+    "players": 16,
     "maxPlayers": 16,
-    "spectators": 18,
+    "spectators": 20,
     "gameTime": 1376,
-    "updatedAt": "2026-07-18T20:07:40Z"
+    "updatedAt": "2026-07-18T20:08:27Z"
   },
   "live": true,
-  "viewers": 11,
+  "viewers": 7,
   "title": "New Devs When?",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-18T16:00:58Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784405269,
+  "statusUpdatedAt": 1784405300,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
