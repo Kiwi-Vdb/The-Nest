@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 17,
-    "gameTime": 390,
-    "updatedAt": "2026-07-18T20:18:19Z"
+    "gameTime": 408,
+    "updatedAt": "2026-07-18T20:18:35Z"
   },
   "live": true,
-  "viewers": 6,
+  "viewers": 3,
   "title": "New Devs When?",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-18T16:00:58Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784405879,
+  "statusUpdatedAt": 1784405910,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
