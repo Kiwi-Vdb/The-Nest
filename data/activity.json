@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1784375392,
+  "generatedAt": 1784375398,
   "count": 50,
   "activities": [
+    {
+      "id": "1f33abc84110f1f6",
+      "type": "unlock",
+      "who": "lordjammacus",
+      "text": "unlocked Yellow Text",
+      "timestamp": 1784375392,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "f16757eb5e0c71cb",
       "type": "unlock",
@@ -449,16 +459,6 @@
       "timestamp": 1783108728,
       "rarity": "rare",
       "category": "Pets",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "c827372fe02b9b99",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Fire Aura",
-      "timestamp": 1783108578,
-      "rarity": "legendary",
-      "category": "Emote",
       "rewardType": "cosmetic"
     }
   ]

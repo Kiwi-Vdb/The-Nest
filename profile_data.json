@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784375392,
+  "generated_at": 1784375398,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -1099,6 +1099,13 @@
           "rarity": "common",
           "class_name": "text-blue",
           "equip_command": "!equiptext Blue"
+        },
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
         }
       ],
       "current_text_effect": {
@@ -1109,6 +1116,14 @@
       },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Yellow Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-yellow",
+          "timestamp": 1784375392
+        },
         {
           "name": "Bday Hat",
           "category": "Hat",
@@ -1124,22 +1139,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784375166
-        },
-        {
-          "name": "Blue Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-blue",
-          "timestamp": 1784202219
         }
       ],
       "totals": {
         "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 1,
+        "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 4
+        "recent_unlocks": 5
       }
     },
     "mesaber": {
