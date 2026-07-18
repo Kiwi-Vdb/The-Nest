@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/kings-assault-v1-3-d3888b5f17.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 8,
     "gameTime": 1368,
-    "updatedAt": "2026-07-18T17:40:18Z"
+    "updatedAt": "2026-07-18T17:40:34Z"
   },
   "live": true,
-  "viewers": 41,
+  "viewers": 40,
   "title": "New Devs When?",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-18T16:00:58Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784396404,
+  "statusUpdatedAt": 1784396435,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
