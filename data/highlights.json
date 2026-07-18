@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1784213633,
-  "rotationGeneratedAt": 1784200409,
-  "nextRotationAt": 1784286809,
+  "generatedAt": 1784368762,
+  "rotationGeneratedAt": 1784368762,
+  "nextRotationAt": 1784455162,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "largest_balance",
+      "category": "collection_champion",
       "group": "viewer",
-      "icon": "✦",
-      "title": "Shiny Hoarder",
-      "copy": "itsvdb leads the flock with 174,600 Shinies."
+      "icon": "♛",
+      "title": "Nest Collector",
+      "copy": "itsvdb owns 40 cosmetics and text effects."
     },
     {
-      "category": "busiest_prediction",
+      "category": "highest_gamba_win",
       "group": "event",
-      "icon": "●",
-      "title": "Biggest Prediction",
-      "copy": "5 viewers picked sides on “Will the VDB build pay off?”."
+      "icon": "◆",
+      "title": "Biggest Gamba Win",
+      "copy": "itsvdb won 2,000 Shinies in one spin."
     },
     {
-      "category": "community_prediction_entries",
+      "category": "community_unlocks",
       "group": "community",
-      "icon": "✓",
-      "title": "Prediction Picks",
-      "copy": "The flock has made 23 prediction picks."
+      "icon": "♛",
+      "title": "Unlock Collection",
+      "copy": "Viewers have collected 84 cosmetics and text effects."
     }
   ]
 }

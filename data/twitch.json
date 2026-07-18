@@ -2,21 +2,20 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
-    "playerName": "[APM]Vdb",
-    "lobbyName": "EU8 - 013",
-    "lobbyTitle": "EU8 - 013",
+    "active": false,
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
+    "lobbyTitle": "",
     "mode": "",
-    "mapName": "Prismatic Anomaly v1.02",
-    "mapFileName": "prismatic_anomaly_v1.02",
-    "mapImage": "assets/maps/prismatic-anomaly-v1-02-5f26f079db.webp",
+    "mapName": "Waiting for a lobby",
+    "mapFileName": "",
+    "mapImage": "",
     "players": 0,
-    "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 563,
-    "updatedAt": "2026-07-16T15:55:12Z"
+    "maxPlayers": 0,
+    "spectators": 0,
+    "gameTime": 0,
+    "updatedAt": "2026-07-18T09:59:22Z"
   },
   "live": false,
   "viewers": 0,
@@ -79,5 +78,5 @@
   "gameName": "",
   "startedAt": "",
   "thumbnailUrl": "",
-  "statusUpdatedAt": 1784217351
+  "statusUpdatedAt": 1784368762
 }
