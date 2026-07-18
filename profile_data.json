@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784372600,
+  "generated_at": 1784375392,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -272,6 +272,62 @@
         "text_effects_unlocked": 0,
         "text_effects_available": 20,
         "recent_unlocks": 0
+      }
+    },
+    "cozzwald": {
+      "username": "cozzwald",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [
+        {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784375200
+        },
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784375192
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 2,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 2
       }
     },
     "crazypyronl": {
@@ -1022,6 +1078,18 @@
           "name": "Apprentice Hat",
           "category": "Hat",
           "rarity": "common"
+        },
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [
@@ -1039,8 +1107,24 @@
         "rarity": "common",
         "class_name": "text-blue"
       },
-      "loot_boxes_opened": 2,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784375168
+        },
+        {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784375166
+        },
         {
           "name": "Blue Text",
           "category": "Text Effect",
@@ -1048,22 +1132,14 @@
           "type": "text_effect",
           "text_effect": "text-blue",
           "timestamp": 1784202219
-        },
-        {
-          "name": "Apprentice Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784202204
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 24,
         "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 2
+        "recent_unlocks": 4
       }
     },
     "mesaber": {

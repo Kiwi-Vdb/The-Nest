@@ -12,11 +12,11 @@
     "mapName": "Comet Catcher Remake 1.8",
     "mapFileName": "comet_catcher_remake_1.8",
     "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 16,
     "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-18T11:02:13Z"
+    "updatedAt": "2026-07-18T11:04:14Z"
   },
   "live": false,
   "viewers": 0,
