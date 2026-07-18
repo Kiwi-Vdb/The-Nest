@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 12,
-    "gameTime": 747,
-    "updatedAt": "2026-07-18T19:15:15Z"
+    "spectators": 13,
+    "gameTime": 778,
+    "updatedAt": "2026-07-18T19:15:47Z"
   },
   "live": true,
   "viewers": 21,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784402102,
+  "statusUpdatedAt": 1784402132,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
