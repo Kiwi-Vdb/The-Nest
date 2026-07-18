@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1784394958,
+  "generatedAt": 1784394988,
   "count": 50,
   "activities": [
+    {
+      "id": "99f72553cc070fa6",
+      "type": "unlock",
+      "who": "rosiescarlet",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784394988,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "1efd690098495ca2",
+      "type": "unlock",
+      "who": "rosiescarlet",
+      "text": "unlocked Bday Hat",
+      "timestamp": 1784394985,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "c1be1e4dfaa098ae",
       "type": "unlock",
@@ -466,22 +486,6 @@
       "text": "won 69,000 Shinies in a prediction: Will the VDB build pay off?",
       "timestamp": 1783772673,
       "amount": 69000
-    },
-    {
-      "id": "be6aad92d035e133",
-      "type": "prediction",
-      "who": "betterstrategy",
-      "text": "won 69,000 Shinies in a prediction: Will the VDB build pay off?",
-      "timestamp": 1783772673,
-      "amount": 69000
-    },
-    {
-      "id": "bf0c39a0241b2795",
-      "type": "gamba",
-      "who": "lelalolul",
-      "text": "won 134 Shinies playing Gamba",
-      "timestamp": 1783772073,
-      "amount": 134
     }
   ]
 }
