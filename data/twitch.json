@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
+    "spectators": 10,
     "gameTime": 1368,
-    "updatedAt": "2026-07-18T17:43:43Z"
+    "updatedAt": "2026-07-18T17:44:01Z"
   },
   "live": true,
   "viewers": 40,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784396617,
+  "statusUpdatedAt": 1784396647,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
