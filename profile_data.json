@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784370655,
+  "generated_at": 1784370752,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -500,6 +500,12 @@
           "rarity": "rare"
         },
         {
+          "id": "back:angel wings",
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
           "id": "emote:scav fog",
           "name": "Scav Fog",
           "category": "Emote",
@@ -531,6 +537,14 @@
       "loot_boxes_opened": 7,
       "recent_unlocks": [
         {
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784370752
+        },
+        {
           "name": "Poesidon Staff",
           "category": "Hand",
           "rarity": "common",
@@ -545,22 +559,14 @@
           "type": "text_effect",
           "text_effect": "text-teal",
           "timestamp": 1782919423
-        },
-        {
-          "name": "Quiz Hat",
-          "category": "Emote",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782734917
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 5,
+        "cosmetics_unlocked": 6,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 7
+        "recent_unlocks": 8
       }
     },
     "itsvdb": {
