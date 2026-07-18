@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 048",
     "lobbyTitle": "EU7 - 048",
     "mode": "",
-    "mapName": "Moonshine Run v1.0.1",
-    "mapFileName": "moonshine_run_v1.0.1",
-    "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
+    "mapName": "All That Smolders v1.2",
+    "mapFileName": "all_that_smolders_v1.2",
+    "mapImage": "assets/maps/all-that-smolders-v1-2-8e0e1ee079.webp",
     "players": 11,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 762,
-    "updatedAt": "2026-07-18T16:50:07Z"
+    "updatedAt": "2026-07-18T16:50:25Z"
   },
   "live": true,
   "viewers": 23,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784393387,
+  "statusUpdatedAt": 1784393418,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
