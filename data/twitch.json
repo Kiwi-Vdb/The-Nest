@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 4,
-    "gameTime": 90,
-    "updatedAt": "2026-07-18T20:29:28Z"
+    "spectators": 3,
+    "gameTime": 122,
+    "updatedAt": "2026-07-18T20:30:00Z"
   },
   "live": true,
   "viewers": 3,
