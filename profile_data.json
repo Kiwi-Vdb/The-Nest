@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784394742,
+  "generated_at": 1784394887,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -163,17 +163,47 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
       "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "recent_unlocks": [
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784394879
+        },
+        {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784394877
+        }
+      ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
         "text_effects_unlocked": 0,
         "text_effects_available": 20,
-        "recent_unlocks": 0
+        "recent_unlocks": 2
       }
     },
     "betterstrategy": {
@@ -460,7 +490,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-rainbow-comet",
@@ -493,6 +530,14 @@
       "loot_boxes_opened": 2,
       "recent_unlocks": [
         {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784394887
+        },
+        {
           "name": "Blue Text",
           "category": "Text Effect",
           "rarity": "common",
@@ -510,11 +555,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
         "text_effects_unlocked": 3,
         "text_effects_available": 20,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "iamdibi": {
@@ -1374,6 +1419,18 @@
       },
       "cosmetics_unlocked": [
         {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
           "id": "hat:witch hat",
           "name": "Witch Hat",
           "category": "Hat",
@@ -1417,36 +1474,36 @@
       "loot_boxes_opened": 5,
       "recent_unlocks": [
         {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784394864
+        },
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784394858
+        },
+        {
           "name": "Wizards Hat",
           "category": "Hat",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782834813
-        },
-        {
-          "name": "Green Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-green",
-          "timestamp": 1782834796
-        },
-        {
-          "name": "Purple Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-purple",
-          "timestamp": 1782834741
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 3,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 5
+        "recent_unlocks": 7
       }
     },
     "stuart_williamson": {
