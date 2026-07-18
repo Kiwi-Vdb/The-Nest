@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_lobby",
-    "statusLabel": "IN LOBBY",
+    "status": "in_game",
+    "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
     "lobbyName": "EU6 - 000",
     "lobbyTitle": "EU6 - 000",
@@ -15,8 +15,8 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 10,
-    "gameTime": 0,
-    "updatedAt": "2026-07-18T18:21:54Z"
+    "gameTime": 18,
+    "updatedAt": "2026-07-18T18:22:40Z"
   },
   "live": true,
   "viewers": 26,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784398926,
+  "statusUpdatedAt": 1784398956,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
