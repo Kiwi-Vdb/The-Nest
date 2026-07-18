@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784375915,
+  "generated_at": 1784377075,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -1301,6 +1301,62 @@
         "text_effects_unlocked": 0,
         "text_effects_available": 20,
         "recent_unlocks": 0
+      }
+    },
+    "sasadal": {
+      "username": "sasadal",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 0,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [
+        {
+          "id": "hat:bday hat",
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "hat:party hat angle",
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common"
+        }
+      ],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [
+        {
+          "name": "Party Hat Angle",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784377075
+        },
+        {
+          "name": "Bday Hat",
+          "category": "Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784377069
+        }
+      ],
+      "totals": {
+        "cosmetics_unlocked": 2,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 2
       }
     },
     "sharpishdog": {
