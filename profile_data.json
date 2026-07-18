@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784371781,
+  "generated_at": 1784371845,
   "viewers": {
     "axolotl_eu": {
       "username": "axolotl_eu",
@@ -543,6 +543,14 @@
       "loot_boxes_opened": 7,
       "recent_unlocks": [
         {
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1784371845
+        },
+        {
           "name": "Deinosuchus",
           "category": "Pets",
           "rarity": "legendary",
@@ -557,14 +565,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784371424
-        },
-        {
-          "name": "Angel Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784371399
         }
       ],
       "totals": {
@@ -572,7 +572,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 13
+        "recent_unlocks": 14
       }
     },
     "itsvdb": {
