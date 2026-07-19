@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1784452445,
-  "rotationGeneratedAt": 1784372533,
-  "nextRotationAt": 1784458933,
+  "generatedAt": 1784459045,
+  "rotationGeneratedAt": 1784459045,
+  "nextRotationAt": 1784545445,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "gamba_champion",
+      "category": "collection_champion",
       "group": "viewer",
-      "icon": "◆",
-      "title": "Gamba High Roller",
-      "copy": "itsvdb has collected 4,400 Shinies from winning spins."
+      "icon": "♛",
+      "title": "Nest Collector",
+      "copy": "itsvdb owns 40 cosmetics and text effects."
     },
     {
-      "category": "highest_gamba_win",
+      "category": "biggest_prediction_prize",
       "group": "event",
-      "icon": "◆",
-      "title": "Biggest Gamba Win",
-      "copy": "itsvdb won 2,000 Shinies in one spin."
+      "icon": "✓",
+      "title": "Biggest Prediction Prize",
+      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_unlocks",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 78 loot boxes."
+      "icon": "♛",
+      "title": "Unlock Collection",
+      "copy": "Viewers have collected 127 cosmetics and text effects."
     }
   ]
 }
