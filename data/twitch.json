@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/ice-scream-v2-5-2-57b9ebb3c5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
-    "gameTime": 99,
-    "updatedAt": "2026-07-19T11:20:15Z"
+    "spectators": 8,
+    "gameTime": 5,
+    "updatedAt": "2026-07-19T11:20:46Z"
   },
   "live": true,
   "viewers": 17,
