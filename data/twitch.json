@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
-    "gameTime": 725,
-    "updatedAt": "2026-07-19T13:45:09Z"
+    "spectators": 12,
+    "gameTime": 758,
+    "updatedAt": "2026-07-19T13:45:41Z"
   },
   "live": true,
-  "viewers": 9,
+  "viewers": 11,
   "title": "Trash game for Trash people",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T13:34:26Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784468702,
+  "statusUpdatedAt": 1784468733,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
