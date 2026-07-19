@@ -12,11 +12,11 @@
     "mapName": "Supreme Isthmus v2.1",
     "mapFileName": "supreme_isthmus_v2.1",
     "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
-    "players": 12,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 1,
+    "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-19T12:13:02Z"
+    "updatedAt": "2026-07-19T12:13:39Z"
   },
   "live": true,
   "viewers": 19,
