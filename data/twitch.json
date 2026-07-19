@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Supreme Isthmus v2.1",
-    "mapFileName": "supreme_isthmus_v2.1",
-    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
+    "mapName": "Red River Remake v1.2",
+    "mapFileName": "red_river_remake_v1.2",
+    "mapImage": "assets/maps/red-river-remake-v1-2-6436885a47.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 6,
     "gameTime": 1280,
-    "updatedAt": "2026-07-19T08:40:27Z"
+    "updatedAt": "2026-07-19T08:40:59Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784450420,
+  "statusUpdatedAt": 1784450450,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
