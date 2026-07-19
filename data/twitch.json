@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Serene Caldera v1.3",
-    "mapFileName": "serene_caldera_v1.3",
-    "mapImage": "assets/maps/serene-caldera-v1-3-cbdf20c520.webp",
+    "mapName": "Seven Rivers v1.21",
+    "mapFileName": "seven_rivers_v1.21",
+    "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 6,
     "gameTime": 1488,
-    "updatedAt": "2026-07-19T09:12:04Z"
+    "updatedAt": "2026-07-19T09:12:36Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784452308,
+  "statusUpdatedAt": 1784452339,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
