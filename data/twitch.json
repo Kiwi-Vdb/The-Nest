@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/salt-reef-1-1-726b37f6d1.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
-    "gameTime": 1040,
-    "updatedAt": "2026-07-19T08:36:12Z"
+    "spectators": 11,
+    "gameTime": 1073,
+    "updatedAt": "2026-07-19T08:36:43Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784450176,
+  "statusUpdatedAt": 1784450207,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
