@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/ice-scream-v2-5-2-57b9ebb3c5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 1626,
-    "updatedAt": "2026-07-19T11:47:49Z"
+    "spectators": 14,
+    "gameTime": 1659,
+    "updatedAt": "2026-07-19T11:48:21Z"
   },
   "live": true,
   "viewers": 20,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784461676,
+  "statusUpdatedAt": 1784461706,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
