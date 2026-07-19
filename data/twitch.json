@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Red River Remake v1.2",
-    "mapFileName": "red_river_remake_v1.2",
-    "mapImage": "assets/maps/red-river-remake-v1-2-6436885a47.webp",
+    "mapName": "Hellas Basin v1.4",
+    "mapFileName": "hellas_basin_v1.4",
+    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 1280,
-    "updatedAt": "2026-07-19T08:40:59Z"
+    "updatedAt": "2026-07-19T08:41:30Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784450450,
+  "statusUpdatedAt": 1784450480,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
