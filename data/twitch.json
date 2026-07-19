@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
-    "gameTime": 135,
-    "updatedAt": "2026-07-19T08:49:03Z"
+    "gameTime": 153,
+    "updatedAt": "2026-07-19T08:49:19Z"
   },
   "live": true,
-  "viewers": 5,
+  "viewers": 6,
   "title": "Music Discovery Stream (probably minimal talking)",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T08:25:28Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784450936,
+  "statusUpdatedAt": 1784450967,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
