@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Seven Rivers v1.21",
-    "mapFileName": "seven_rivers_v1.21",
-    "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
+    "mapName": "Pinch Point 1.03",
+    "mapFileName": "pinch_point_1.03",
+    "mapImage": "assets/maps/pinch-point-1-03-8e70601205.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
-    "gameTime": 1105,
-    "updatedAt": "2026-07-19T09:34:33Z"
+    "gameTime": 1123,
+    "updatedAt": "2026-07-19T09:35:07Z"
   },
   "live": true,
   "viewers": 8,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784453666,
+  "statusUpdatedAt": 1784453696,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
