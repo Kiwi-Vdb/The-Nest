@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Twin Lakes Park Redux 1.2.2",
-    "mapFileName": "twin_lakes_park_redux_1.2.2",
-    "mapImage": "assets/maps/twin-lakes-park-redux-1-2-2-344041f342.webp",
+    "mapName": "Supreme Isthmus v2.1",
+    "mapFileName": "supreme_isthmus_v2.1",
+    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
+    "spectators": 9,
     "gameTime": 1245,
-    "updatedAt": "2026-07-19T10:41:01Z"
+    "updatedAt": "2026-07-19T10:41:31Z"
   },
   "live": true,
   "viewers": 13,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784457653,
+  "statusUpdatedAt": 1784457683,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
