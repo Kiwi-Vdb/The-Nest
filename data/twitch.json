@@ -12,21 +12,21 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 1,
+    "players": 7,
     "maxPlayers": 16,
-    "spectators": 2,
+    "spectators": 4,
     "gameTime": 0,
-    "updatedAt": "2026-07-19T12:01:47Z"
+    "updatedAt": "2026-07-19T12:02:18Z"
   },
   "live": true,
-  "viewers": 17,
+  "viewers": 19,
   "title": "Flip a Coin",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T08:25:28Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784462495,
+  "statusUpdatedAt": 1784462526,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
