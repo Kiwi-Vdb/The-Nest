@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/the-rock-3-0-1-0e0c911f47.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 518,
-    "updatedAt": "2026-07-19T10:55:39Z"
+    "spectators": 8,
+    "gameTime": 551,
+    "updatedAt": "2026-07-19T10:56:11Z"
   },
   "live": true,
-  "viewers": 14,
+  "viewers": 15,
   "title": "Music Discovery Stream (probably minimal talking)",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T08:25:28Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784458535,
+  "statusUpdatedAt": 1784458566,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
