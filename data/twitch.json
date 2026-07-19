@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 12,
-    "gameTime": 104,
-    "updatedAt": "2026-07-19T12:19:21Z"
+    "spectators": 10,
+    "gameTime": 6,
+    "updatedAt": "2026-07-19T12:19:58Z"
   },
   "live": true,
   "viewers": 18,
