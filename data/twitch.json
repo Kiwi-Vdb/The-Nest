@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
-    "gameTime": 1012,
-    "updatedAt": "2026-07-19T09:03:42Z"
+    "spectators": 8,
+    "gameTime": 1045,
+    "updatedAt": "2026-07-19T09:04:13Z"
   },
   "live": true,
-  "viewers": 6,
+  "viewers": 8,
   "title": "Music Discovery Stream (probably minimal talking)",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T08:25:28Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784451820,
+  "statusUpdatedAt": 1784451851,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
