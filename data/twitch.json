@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/twin-lakes-park-redux-1-2-2-344041f342.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 918,
-    "updatedAt": "2026-07-19T10:35:34Z"
+    "spectators": 12,
+    "gameTime": 951,
+    "updatedAt": "2026-07-19T10:36:06Z"
   },
   "live": true,
   "viewers": 12,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784457319,
+  "statusUpdatedAt": 1784457349,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
