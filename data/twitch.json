@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 12,
-    "gameTime": 140,
-    "updatedAt": "2026-07-19T13:35:21Z"
+    "gameTime": 170,
+    "updatedAt": "2026-07-19T13:35:52Z"
   },
   "live": true,
-  "viewers": 0,
+  "viewers": 19,
   "title": "Trash game for Trash people",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T13:34:26Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784468093,
+  "statusUpdatedAt": 1784468123,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
