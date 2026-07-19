@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 13,
-    "gameTime": 1692,
-    "updatedAt": "2026-07-19T11:48:52Z"
+    "gameTime": 1722,
+    "updatedAt": "2026-07-19T11:49:22Z"
   },
   "live": true,
-  "viewers": 20,
+  "viewers": 21,
   "title": "Flip a Coin",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T08:25:28Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784461736,
+  "statusUpdatedAt": 1784461767,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
