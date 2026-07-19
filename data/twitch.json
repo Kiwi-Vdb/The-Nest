@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
-    "gameTime": 299,
-    "updatedAt": "2026-07-19T09:21:15Z"
+    "spectators": 5,
+    "gameTime": 339,
+    "updatedAt": "2026-07-19T09:21:46Z"
   },
   "live": true,
   "viewers": 4,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784452873,
+  "statusUpdatedAt": 1784452904,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
