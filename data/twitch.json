@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Tempest_V3",
-    "mapFileName": "Tempest_V3",
-    "mapImage": "assets/maps/tempest-v3-bebe9e1058.webp",
+    "mapName": "The Rock 3.0.1",
+    "mapFileName": "the_rock_3.0.1",
+    "mapImage": "assets/maps/the-rock-3-0-1-0e0c911f47.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
+    "spectators": 11,
     "gameTime": 1245,
-    "updatedAt": "2026-07-19T10:42:02Z"
+    "updatedAt": "2026-07-19T10:42:33Z"
   },
   "live": true,
   "viewers": 13,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784457714,
+  "statusUpdatedAt": 1784457744,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
