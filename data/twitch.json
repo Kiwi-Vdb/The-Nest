@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/twin-lakes-park-redux-1-2-2-344041f342.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 12,
-    "gameTime": 444,
-    "updatedAt": "2026-07-19T10:27:40Z"
+    "spectators": 13,
+    "gameTime": 465,
+    "updatedAt": "2026-07-19T10:28:11Z"
   },
   "live": true,
-  "viewers": 12,
+  "viewers": 11,
   "title": "Music Discovery Stream (probably minimal talking)",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-19T08:25:28Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784456862,
+  "statusUpdatedAt": 1784456892,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
