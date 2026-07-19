@@ -6,17 +6,17 @@
     "status": "in_lobby",
     "statusLabel": "IN LOBBY",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU1 - 006",
-    "lobbyTitle": "EU1 - 006",
+    "lobbyName": "EU7 - 017",
+    "lobbyTitle": "EU7 - 017",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 2,
+    "mapName": "Supreme Isthmus v2.1",
+    "mapFileName": "supreme_isthmus_v2.1",
+    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
+    "players": 10,
     "maxPlayers": 16,
     "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-19T12:11:15Z"
+    "updatedAt": "2026-07-19T12:11:51Z"
   },
   "live": true,
   "viewers": 19,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784463087,
+  "statusUpdatedAt": 1784463118,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
