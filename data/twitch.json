@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 005",
     "lobbyTitle": "EU7 - 005",
     "mode": "",
-    "mapName": "Hellas Basin v1.4",
-    "mapFileName": "hellas_basin_v1.4",
-    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
+    "mapName": "Serene Caldera v1.3",
+    "mapFileName": "serene_caldera_v1.3",
+    "mapImage": "assets/maps/serene-caldera-v1-3-cbdf20c520.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
-    "gameTime": 1485,
-    "updatedAt": "2026-07-19T09:11:33Z"
+    "spectators": 7,
+    "gameTime": 1488,
+    "updatedAt": "2026-07-19T09:12:04Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784452278,
+  "statusUpdatedAt": 1784452308,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
