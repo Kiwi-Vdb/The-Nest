@@ -17,15 +17,15 @@
     "gameTime": 0,
     "updatedAt": "2026-07-19T18:03:30Z"
   },
-  "live": false,
+  "live": true,
   "viewers": 0,
-  "title": "",
-  "gameName": "",
-  "startedAt": "",
-  "thumbnailUrl": "",
+  "title": "Coupla hours of Dota to test the lag",
+  "gameName": "Dota 2",
+  "startedAt": "2026-07-20T14:13:14Z",
+  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784496814,
+  "statusUpdatedAt": 1784556807,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
