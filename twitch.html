@@ -65,22 +65,22 @@
       </div>
     </section>
 
-    <section class="current-game-card dev-editable is-not-in-lobby" data-dev-id="current-game-card" data-dev-label="CURRENT GAME CARD" data-dev-selector=".current-game-card" aria-label="Current Beyond All Reason lobby">
+    <section class="current-game-card dev-editable is-generic is-offline" data-dev-id="current-game-card" data-dev-label="CURRENT GAME CARD" data-dev-selector=".current-game-card" aria-label="Current Twitch game">
       <div class="game-map-frame">
         <img id="game-map-image" class="game-map-image" alt="" loading="eager" hidden>
         <div id="game-map-placeholder" class="game-map-placeholder" aria-hidden="true">
-          <span>BAR</span>
+          <span>NEXT</span>
         </div>
-        <span id="game-status" class="game-status" role="status" aria-live="polite">NOT IN LOBBY</span>
+        <span id="game-status" class="game-status" role="status" aria-live="polite">OFFLINE</span>
       </div>
 
       <div class="game-copy">
-        <span class="game-eyebrow">Current BAR lobby</span>
-        <h2 id="game-lobby-name">Not in a BAR lobby</h2>
-        <p id="game-map-name" class="game-map-name">Waiting for the next match</p>
-        <div class="game-meta" aria-label="Lobby details">
-          <span id="game-mode" class="game-meta-chip">—</span>
-          <span id="game-player-count" class="game-meta-chip">0 players</span>
+        <span id="game-eyebrow" class="game-eyebrow">Current game</span>
+        <h2 id="game-lobby-name">Stream offline</h2>
+        <p id="game-map-name" class="game-map-name">The next game will appear automatically</p>
+        <div class="game-meta" aria-label="Automatic current game status">
+          <span id="game-mode" class="game-meta-chip">AUTO</span>
+          <span id="game-player-count" class="game-meta-chip">Waiting</span>
         </div>
         <p id="game-spectators" class="game-spectators" hidden></p>
       </div>
@@ -193,7 +193,7 @@
   </div>
 
   <script src="./js/main.js"></script>
-  <script src="./js/twitch.js?v=20260714-bar-cloud-status"></script>
+  <script src="./js/twitch.js?v=20260720-dynamic-current-game"></script>
   <script src="./js/dev-mode.js?v=20260718-f8-editor-v2"></script>
 </body>
 </html>

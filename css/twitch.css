@@ -425,9 +425,34 @@ body { overflow-x: hidden; }
   box-shadow: 0 0 11px rgba(98, 220, 101, .16), 0 0 10px rgba(0, 0, 0, .8);
 }
 
+.current-game-card.is-playing .game-status {
+  border-color: rgba(98, 220, 101, .58);
+  color: var(--green);
+  box-shadow: 0 0 11px rgba(98, 220, 101, .16), 0 0 10px rgba(0, 0, 0, .8);
+}
+
 .current-game-card.is-unavailable .game-status {
   border-color: rgba(160, 108, 255, .5);
   color: var(--purple-bright);
+}
+
+.current-game-card.is-generic .game-map-placeholder span {
+  max-width: 88%;
+  font-size: clamp(.78rem, 1.75vw, 1.85rem);
+  letter-spacing: .06em;
+  text-align: center;
+}
+
+.current-game-card.is-dota .game-map-frame {
+  border-color: rgba(205, 91, 73, .52);
+  background:
+    radial-gradient(circle at 50% 42%, rgba(179, 52, 42, .23), transparent 61%),
+    rgba(3, 4, 6, .88);
+}
+
+.current-game-card.is-dota .game-map-placeholder span {
+  color: #e17663;
+  text-shadow: 0 0 18px rgba(179, 52, 42, .52), 0 2px 8px #000;
 }
 
 .game-copy {
@@ -521,8 +546,10 @@ body { overflow-x: hidden; }
 
 .current-game-card.is-not-in-lobby .game-copy h2,
 .current-game-card.is-unavailable .game-copy h2,
+.current-game-card.is-offline .game-copy h2,
 .current-game-card.is-not-in-lobby .game-map-name,
-.current-game-card.is-unavailable .game-map-name { color: var(--muted); }
+.current-game-card.is-unavailable .game-map-name,
+.current-game-card.is-offline .game-map-name { color: var(--muted); }
 
 .prediction-card {
   left: 70.09%;

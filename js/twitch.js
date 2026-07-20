@@ -13,6 +13,12 @@ const fallbackTwitch = {
   viewers: 0,
   channel: 'itsvdb',
   twitchUrl: 'https://www.twitch.tv/itsvdb',
+  title: '',
+  gameId: '',
+  gameName: '',
+  gameBoxArtUrl: '',
+  startedAt: '',
+  thumbnailUrl: '',
   streamTitle: 'Live from The Nest',
   offlineTitle: 'No stream currently live',
   game: {
@@ -60,6 +66,11 @@ const PREDICTION_REFRESH_MS = 15000;
 const SYNC_REFRESH_MS = 30000;
 const TWITCH_STATUS_STALE_MS = 3 * 60 * 1000;
 const BAR_STATUS_STALE_MS = 30 * 60 * 1000;
+const BAR_TWITCH_CATEGORIES = new Set(['beyond all reason']);
+const GAME_PRESENTATIONS = Object.freeze({
+  'dota 2': Object.freeze({ placeholder: 'DOTA', mode: 'MOBA', className: 'is-dota' }),
+  'just chatting': Object.freeze({ placeholder: 'LIVE', mode: 'CHAT', className: 'is-chatting' })
+});
 let twitchServiceConfigPromise = null;
 let streamResizeObserver = null;
 let currentTwitchData = fallbackTwitch;
@@ -88,7 +99,9 @@ function applyTwitchFreshness(data = {}) {
     live: false,
     viewers: 0,
     title: '',
+    gameId: '',
     gameName: '',
+    gameBoxArtUrl: '',
     startedAt: '',
     thumbnailUrl: '',
     statusStale: true
@@ -306,23 +319,58 @@ function normaliseMapImagePath(value) {
   return `./${path.replace(/^\/+/, '')}`;
 }
 
-function renderGame(game = {}) {
-  const card = document.querySelector('.current-game-card');
-  const image = document.getElementById('game-map-image');
-  const placeholder = document.getElementById('game-map-placeholder');
-  const spectators = document.getElementById('game-spectators');
-  if (!card || !image || !placeholder || !spectators) return;
+function normaliseTwitchArtwork(value, width = 640, height = 360) {
+  return normaliseMapImagePath(
+    String(value || '')
+      .replace('{width}', String(width))
+      .replace('{height}', String(height))
+  );
+}
 
+function normaliseGameName(value) {
+  return String(value || '').trim().replace(/\s+/g, ' ');
+}
+
+function isBarTwitchCategory(value) {
+  return BAR_TWITCH_CATEGORIES.has(normaliseGameName(value).toLowerCase());
+}
+
+function gamePlaceholder(value) {
+  const gameName = normaliseGameName(value);
+  if (!gameName) return 'LIVE';
+
+  const words = gameName
+    .replace(/[^a-z0-9 ]/gi, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+  if (!words.length) return 'LIVE';
+
+  const compact = words.join(' ');
+  if (compact.length <= 7) return compact.toUpperCase();
+  if (words.length === 1) return words[0].slice(0, 5).toUpperCase();
+  return words.slice(0, 4).map(word => word[0]).join('').toUpperCase();
+}
+
+function genericGamePresentation(gameName) {
+  const normalised = normaliseGameName(gameName).toLowerCase();
+  return GAME_PRESENTATIONS[normalised] || {
+    placeholder: gamePlaceholder(gameName),
+    mode: 'TWITCH',
+    className: ''
+  };
+}
+
+function buildBarCurrentGameView(game = {}) {
   // Keep older twitch.json files readable while Kiwi Birb publishes the first
-  // BAR snapshot from the new integration.
+  // BAR snapshot from the current integration.
   const isLegacyGame = !('active' in game) && (game.title || game.description);
   const status = isLegacyGame ? 'not_in_lobby' : normaliseGameStatus(game);
   const active = isLegacyGame ? false : Boolean(game.active);
   const available = game.available !== false;
-  const lobbyName = active
+  const title = active
     ? (game.lobbyName || game.title || 'BAR Lobby')
     : (available ? 'Not in a BAR lobby' : 'BAR status unavailable');
-  const mapName = active
+  const subtitle = active
     ? (game.mapName || game.description || 'Unknown map')
     : (available ? 'Waiting for the next match' : 'Kiwi Birb will try again automatically');
   const statusLabel = game.statusLabel || ({
@@ -331,29 +379,136 @@ function renderGame(game = {}) {
     unavailable: 'BAR UNAVAILABLE',
     not_in_lobby: 'NOT IN LOBBY'
   }[status]);
-
-  card.classList.remove('is-in-game', 'is-in-lobby', 'is-not-in-lobby', 'is-unavailable');
-  card.classList.add(`is-${status.replaceAll('_', '-')}`);
-
-  setText('game-status', statusLabel);
-  setText('game-lobby-name', lobbyName);
-  setText('game-map-name', mapName);
-  setText('game-mode', active && game.mode ? String(game.mode).toUpperCase() : '—');
-  setText('game-player-count', active
-    ? formatGamePlayerCount(game.players, game.maxPlayers)
-    : '0 players');
-
   const spectatorCount = Math.max(0, Math.trunc(Number(game.spectators) || 0));
-  spectators.textContent = `${spectatorCount.toLocaleString()} ${spectatorCount === 1 ? 'spectator' : 'spectators'}`;
-  spectators.hidden = !active || spectatorCount === 0;
+  const modeText = active && game.mode ? String(game.mode).toUpperCase() : '—';
+  const detailText = active
+    ? formatGamePlayerCount(game.players, game.maxPlayers)
+    : '0 players';
+  const fullLobbyTitle = game.lobbyTitle && game.lobbyTitle !== title
+    ? `. Full lobby title: ${game.lobbyTitle}`
+    : '';
 
-  const imagePath = active ? normaliseMapImagePath(game.mapImage) : '';
-  if (imagePath) {
-    const imageKey = `${imagePath}|${game.mapName || ''}`;
+  return {
+    provider: 'bar',
+    status,
+    statusLabel,
+    eyebrow: 'Current BAR lobby',
+    title,
+    subtitle,
+    modeText,
+    detailText,
+    metaLabel: 'BAR lobby details',
+    spectatorText: `${spectatorCount.toLocaleString()} ${spectatorCount === 1 ? 'spectator' : 'spectators'}`,
+    showSpectators: active && spectatorCount > 0,
+    imagePath: active ? normaliseMapImagePath(game.mapImage) : '',
+    imageAlt: active ? `${subtitle} map preview` : '',
+    placeholder: 'BAR',
+    classNames: ['is-bar', `is-${status.replaceAll('_', '-')}`],
+    ariaLabel: `${statusLabel}. ${title}. ${subtitle}${active ? `, ${detailText}` : ''}${fullLobbyTitle}`,
+    titleAttribute: active && game.lobbyTitle ? game.lobbyTitle : ''
+  };
+}
+
+function buildGenericCurrentGameView(data = {}) {
+  const live = Boolean(data.live);
+  const gameName = normaliseGameName(data.gameName);
+  const streamTitle = String(data.title || data.streamTitle || '').trim();
+
+  if (!live) {
+    return {
+      provider: 'twitch',
+      status: 'offline',
+      statusLabel: 'OFFLINE',
+      eyebrow: 'Current game',
+      title: 'Stream offline',
+      subtitle: 'The next game will appear automatically',
+      modeText: 'AUTO',
+      detailText: 'Waiting',
+      metaLabel: 'Automatic current game status',
+      spectatorText: '',
+      showSpectators: false,
+      imagePath: '',
+      imageAlt: '',
+      placeholder: 'NEXT',
+      classNames: ['is-generic', 'is-offline'],
+      ariaLabel: 'Stream offline. The next Twitch game will appear automatically.',
+      titleAttribute: ''
+    };
+  }
+
+  const presentation = genericGamePresentation(gameName);
+  const title = gameName || 'Live on Twitch';
+  const subtitle = streamTitle || 'Streaming now on Twitch';
+  const boxArt = normaliseTwitchArtwork(data.gameBoxArtUrl, 285, 380);
+  const streamPreview = normaliseTwitchArtwork(data.thumbnailUrl, 640, 360);
+
+  return {
+    provider: 'twitch',
+    status: 'playing',
+    statusLabel: 'LIVE NOW',
+    eyebrow: 'Currently playing',
+    title,
+    subtitle,
+    modeText: presentation.mode,
+    detailText: formatViewerCount(data.viewers),
+    metaLabel: 'Current Twitch game details',
+    spectatorText: '',
+    showSpectators: false,
+    imagePath: boxArt || streamPreview,
+    imageAlt: boxArt ? `${title} category artwork` : `Live ${title} stream preview`,
+    placeholder: presentation.placeholder,
+    classNames: ['is-generic', 'is-playing', presentation.className].filter(Boolean),
+    ariaLabel: `Live now playing ${title}. ${subtitle}. ${formatViewerCount(data.viewers)}.`,
+    titleAttribute: streamTitle
+  };
+}
+
+function buildCurrentGameView(data = {}) {
+  const barGame = data.game && typeof data.game === 'object' ? data.game : {};
+  const gameName = normaliseGameName(data.gameName);
+  const liveInAnotherCategory = Boolean(data.live && gameName && !isBarTwitchCategory(gameName));
+  const shouldShowBar = !liveInAnotherCategory
+    && (isBarTwitchCategory(gameName) || Boolean(barGame.active));
+
+  return shouldShowBar
+    ? buildBarCurrentGameView(barGame)
+    : buildGenericCurrentGameView(data);
+}
+
+function renderGame(data = {}) {
+  const card = document.querySelector('.current-game-card');
+  const image = document.getElementById('game-map-image');
+  const placeholder = document.getElementById('game-map-placeholder');
+  const spectators = document.getElementById('game-spectators');
+  if (!card || !image || !placeholder || !spectators) return;
+  const view = buildCurrentGameView(data);
+  const stateClasses = [
+    'is-in-game', 'is-in-lobby', 'is-not-in-lobby', 'is-unavailable',
+    'is-playing', 'is-offline', 'is-bar', 'is-generic', 'is-dota', 'is-chatting'
+  ];
+  card.classList.remove(...stateClasses);
+  card.classList.add(...view.classNames);
+  card.dataset.gameProvider = view.provider;
+
+  setText('game-status', view.statusLabel);
+  setText('game-eyebrow', view.eyebrow);
+  setText('game-lobby-name', view.title);
+  setText('game-map-name', view.subtitle);
+  setText('game-mode', view.modeText);
+  setText('game-player-count', view.detailText);
+  document.querySelector('.game-meta')?.setAttribute('aria-label', view.metaLabel);
+
+  spectators.textContent = view.spectatorText;
+  spectators.hidden = !view.showSpectators;
+  const placeholderText = placeholder.querySelector('span');
+  if (placeholderText) placeholderText.textContent = view.placeholder;
+
+  if (view.imagePath) {
+    const imageKey = `${view.provider}|${view.imagePath}|${view.title}`;
     if (image.dataset.imageKey !== imageKey) {
       image.hidden = true;
       placeholder.hidden = false;
-      image.alt = `${mapName} map preview`;
+      image.alt = view.imageAlt;
       image.onload = () => {
         image.hidden = false;
         placeholder.hidden = true;
@@ -362,7 +517,7 @@ function renderGame(game = {}) {
         image.hidden = true;
         placeholder.hidden = false;
       };
-      image.src = imagePath;
+      image.src = view.imagePath;
       image.dataset.imageKey = imageKey;
     } else if (image.complete && image.naturalWidth > 0) {
       image.hidden = false;
@@ -376,16 +531,8 @@ function renderGame(game = {}) {
     placeholder.hidden = false;
   }
 
-  const modeText = active && game.mode ? `, ${game.mode}` : '';
-  const playerText = active ? `, ${formatGamePlayerCount(game.players, game.maxPlayers)}` : '';
-  const fullLobbyTitle = game.lobbyTitle && game.lobbyTitle !== lobbyName
-    ? `. Full lobby title: ${game.lobbyTitle}`
-    : '';
-  card.setAttribute(
-    'aria-label',
-    `${statusLabel}. ${lobbyName}. ${mapName}${modeText}${playerText}${fullLobbyTitle}`
-  );
-  card.title = active && game.lobbyTitle ? game.lobbyTitle : '';
+  card.setAttribute('aria-label', view.ariaLabel);
+  card.title = view.titleAttribute;
 }
 
 function formatPredictionOptionLabel(value) {
@@ -647,20 +794,33 @@ function escapeHtml(value) {
 
 function renderTwitchPage(data) {
   renderStatus(data);
-  renderGame(data.game);
+  renderGame(data);
   renderClips(data.clips);
 }
 
 async function refreshTwitchData() {
   const fileData = await readJson('./data/twitch.json', currentTwitchData);
-  const [cloudStatus, cloudBarGame] = await Promise.all([
-    fetchCloudTwitchStatus(),
-    fetchCloudBarStatus()
-  ]);
+  const cloudStatus = await fetchCloudTwitchStatus();
 
+  const cloudGameId = String(cloudStatus?.gameId || '').trim();
+  const fileGameId = String(fileData.gameId || '').trim();
+  const cloudGameName = normaliseGameName(cloudStatus?.gameName).toLowerCase();
+  const fileGameName = normaliseGameName(fileData.gameName).toLowerCase();
+  const sameCloudGame = Boolean(
+    (cloudGameId && fileGameId && cloudGameId === fileGameId)
+    || (cloudGameName && fileGameName && cloudGameName === fileGameName)
+  );
   const twitchData = cloudStatus
-    ? { ...fileData, ...cloudStatus }
+    ? {
+        ...fileData,
+        ...cloudStatus,
+        gameBoxArtUrl: String(cloudStatus.gameBoxArtUrl || '')
+          || (sameCloudGame ? String(fileData.gameBoxArtUrl || '') : '')
+      }
     : applyTwitchFreshness(fileData);
+  const shouldRefreshBar = isBarTwitchCategory(twitchData.gameName)
+    || (!twitchData.live && Boolean(fileData.game?.active));
+  const cloudBarGame = shouldRefreshBar ? await fetchCloudBarStatus() : null;
 
   currentTwitchData = {
     ...twitchData,
@@ -688,4 +848,13 @@ async function initTwitchPage() {
   window.setInterval(refreshSyncData, SYNC_REFRESH_MS);
 }
 
-initTwitchPage();
+if (typeof document !== 'undefined') initTwitchPage();
+
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = {
+    buildCurrentGameView,
+    gamePlaceholder,
+    isBarTwitchCategory,
+    normaliseTwitchArtwork
+  };
+}

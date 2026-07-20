@@ -72,10 +72,18 @@ data/twitch.json
 
 Each clip window on `twitch.html` is a separate F8-editable element. Clicking a populated card opens a larger Twitch clip player; the card also shows the clip title, duration, and view count.
 
-## Twitch Current Game (BAR)
+## Twitch Current Game
 
-Kiwi Birb v3.5.0 writes the current Beyond All Reason lobby into the `game`
-object in `data/twitch.json`. The Twitch page supports these states:
+Kiwi Birb v3.10.0 publishes Twitch `gameId`, `gameName`, and `gameBoxArtUrl`
+alongside live status in `data/twitch.json`. The Twitch page selects its panel
+automatically:
+
+- Beyond All Reason uses the rich BAR lobby object and cached map artwork.
+- Dota 2 uses a dedicated MOBA presentation.
+- Every other category shows Twitch artwork, stream title, and viewers.
+- Offline or stale data returns to a neutral automatic waiting state.
+
+The BAR presentation still supports these states:
 
 - `in_lobby`
 - `in_game`
