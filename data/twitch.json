@@ -18,14 +18,14 @@
     "updatedAt": "2026-07-19T18:03:30Z"
   },
   "live": true,
-  "viewers": 6,
+  "viewers": 4,
   "title": "Coupla hours of Dota to test the lag",
   "gameName": "Dota 2",
   "startedAt": "2026-07-20T14:13:14Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1784561103,
+  "statusUpdatedAt": 1784561133,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
