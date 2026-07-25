@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785013390,
+  "generatedAt": 1785013969,
   "totalViewers": 22,
-  "totalShinies": 524650,
+  "totalShinies": 526650,
   "pageSize": 100,
   "entries": [
     {
@@ -61,22 +61,22 @@
     },
     {
       "rank": 12,
+      "name": "bot_kiwi_birb",
+      "shinies": 2334
+    },
+    {
+      "rank": 13,
+      "name": "streamelements",
+      "shinies": 2334
+    },
+    {
+      "rank": 14,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 13,
-      "name": "bot_kiwi_birb",
-      "shinies": 1334
-    },
-    {
-      "rank": 14,
-      "name": "oafsalot",
-      "shinies": 1334
-    },
-    {
       "rank": 15,
-      "name": "streamelements",
+      "name": "oafsalot",
       "shinies": 1334
     },
     {
