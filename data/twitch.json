@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Comet Catcher Remake 1.8",
-    "mapFileName": "comet_catcher_remake_1.8",
-    "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 0,
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 0,
-    "updatedAt": "2026-07-25T23:49:02Z"
+    "updatedAt": "2026-07-25T23:49:18Z"
   },
   "live": true,
   "viewers": 6,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785023319,
+  "statusUpdatedAt": 1785023349,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
