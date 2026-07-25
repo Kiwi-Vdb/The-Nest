@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785011589,
-  "totalViewers": 20,
-  "totalShinies": 523832,
+  "generatedAt": 1785012239,
+  "totalViewers": 21,
+  "totalShinies": 524316,
   "pageSize": 100,
   "entries": [
     {
@@ -101,6 +101,11 @@
     },
     {
       "rank": 20,
+      "name": "primetime94",
+      "shinies": 484
+    },
+    {
+      "rank": 21,
       "name": "massivemankey",
       "shinies": 334
     }
