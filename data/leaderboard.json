@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785006586,
-  "totalViewers": 15,
-  "totalShinies": 518044,
+  "generatedAt": 1785006768,
+  "totalViewers": 17,
+  "totalShinies": 518712,
   "pageSize": 100,
   "entries": [
     {
@@ -78,6 +78,16 @@
       "rank": 15,
       "name": "lelalolul",
       "shinies": 594
+    },
+    {
+      "rank": 16,
+      "name": "bot_kiwi_birb",
+      "shinies": 334
+    },
+    {
+      "rank": 17,
+      "name": "streamelements",
+      "shinies": 334
     }
   ]
 }
