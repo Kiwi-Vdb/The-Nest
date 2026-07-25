@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 003",
     "lobbyTitle": "EU6 - 003",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 8,
+    "mapName": "All That Glitters v2.2.3",
+    "mapFileName": "all_that_glitters_v2.2.3",
+    "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
+    "players": 6,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 6,
     "gameTime": 1415,
-    "updatedAt": "2026-07-25T20:09:41Z"
+    "updatedAt": "2026-07-25T20:10:11Z"
   },
   "live": true,
   "viewers": 3,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785010180,
+  "statusUpdatedAt": 1785010211,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
