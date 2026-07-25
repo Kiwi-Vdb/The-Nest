@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785018635,
+  "generatedAt": 1785018829,
   "totalViewers": 28,
-  "totalShinies": 536956,
+  "totalShinies": 537956,
   "pageSize": 100,
   "entries": [
     {
@@ -71,27 +71,27 @@
     },
     {
       "rank": 14,
+      "name": "massivemankey",
+      "shinies": 2334
+    },
+    {
+      "rank": 15,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "heltoff",
       "shinies": 1484
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "primetime94",
       "shinies": 1484
     },
     {
-      "rank": 17,
-      "name": "freakofnature122",
-      "shinies": 1334
-    },
-    {
       "rank": 18,
-      "name": "massivemankey",
+      "name": "freakofnature122",
       "shinies": 1334
     },
     {
