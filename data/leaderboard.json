@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785010673,
-  "totalViewers": 19,
-  "totalShinies": 523498,
+  "generatedAt": 1785011589,
+  "totalViewers": 20,
+  "totalShinies": 523832,
   "pageSize": 100,
   "entries": [
     {
@@ -98,6 +98,11 @@
       "rank": 19,
       "name": "erevos187",
       "shinies": 484
+    },
+    {
+      "rank": 20,
+      "name": "massivemankey",
+      "shinies": 334
     }
   ]
 }
