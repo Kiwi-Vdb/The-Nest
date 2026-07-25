@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785010368,
+  "generatedAt": 1785010673,
   "totalViewers": 19,
-  "totalShinies": 522498,
+  "totalShinies": 523498,
   "pageSize": 100,
   "entries": [
     {
@@ -71,33 +71,33 @@
     },
     {
       "rank": 14,
-      "name": "streamelements",
+      "name": "oafsalot",
       "shinies": 1334
     },
     {
       "rank": 15,
+      "name": "streamelements",
+      "shinies": 1334
+    },
+    {
+      "rank": 16,
       "name": "kirinokirino",
       "shinies": 1000
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "ligma_bullets",
       "shinies": 1000
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "lelalolul",
       "shinies": 594
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "erevos187",
       "shinies": 484
-    },
-    {
-      "rank": 19,
-      "name": "oafsalot",
-      "shinies": 334
     }
   ]
 }
