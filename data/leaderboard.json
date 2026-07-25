@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785015286,
-  "totalViewers": 23,
-  "totalShinies": 529318,
+  "generatedAt": 1785015351,
+  "totalViewers": 24,
+  "totalShinies": 529652,
   "pageSize": 100,
   "entries": [
     {
@@ -117,6 +117,11 @@
     {
       "rank": 23,
       "name": "heltoff",
+      "shinies": 334
+    },
+    {
+      "rank": 24,
+      "name": "nebulanomad12",
       "shinies": 334
     }
   ]
