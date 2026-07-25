@@ -12,21 +12,21 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 12,
+    "players": 11,
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 2531,
-    "updatedAt": "2026-07-25T22:54:54Z"
+    "updatedAt": "2026-07-25T22:55:24Z"
   },
   "live": true,
-  "viewers": 4,
+  "viewers": 3,
   "title": "Days Gone Ep1",
   "gameName": "",
   "startedAt": "2026-07-25T19:11:31Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785020097,
+  "statusUpdatedAt": 1785020127,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
