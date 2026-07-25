@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785007031,
-  "totalViewers": 18,
-  "totalShinies": 519530,
+  "generatedAt": 1785007066,
+  "totalViewers": 19,
+  "totalShinies": 519864,
   "pageSize": 100,
   "entries": [
     {
@@ -91,6 +91,11 @@
     },
     {
       "rank": 18,
+      "name": "oafsalot",
+      "shinies": 334
+    },
+    {
+      "rank": 19,
       "name": "streamelements",
       "shinies": 334
     }
