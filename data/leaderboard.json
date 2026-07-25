@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785012239,
-  "totalViewers": 21,
-  "totalShinies": 524316,
+  "generatedAt": 1785013390,
+  "totalViewers": 22,
+  "totalShinies": 524650,
   "pageSize": 100,
   "entries": [
     {
@@ -106,6 +106,11 @@
     },
     {
       "rank": 21,
+      "name": "freakofnature122",
+      "shinies": 334
+    },
+    {
+      "rank": 22,
       "name": "massivemankey",
       "shinies": 334
     }
