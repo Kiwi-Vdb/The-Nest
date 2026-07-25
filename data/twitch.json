@@ -12,21 +12,21 @@
     "mapName": "Thermal Shock v1.1",
     "mapFileName": "thermal_shock_v1.1",
     "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
-    "players": 12,
+    "players": 11,
     "maxPlayers": 16,
     "spectators": 2,
-    "gameTime": 2290,
-    "updatedAt": "2026-07-25T23:44:04Z"
+    "gameTime": 2319,
+    "updatedAt": "2026-07-25T23:44:36Z"
   },
   "live": true,
-  "viewers": 7,
+  "viewers": 6,
   "title": "Days Gone Ep1",
   "gameName": "",
   "startedAt": "2026-07-25T19:11:31Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785023046,
+  "statusUpdatedAt": 1785023076,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
