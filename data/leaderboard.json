@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785006768,
-  "totalViewers": 17,
-  "totalShinies": 518712,
+  "generatedAt": 1785006937,
+  "totalViewers": 18,
+  "totalShinies": 519046,
   "pageSize": 100,
   "entries": [
     {
@@ -86,6 +86,11 @@
     },
     {
       "rank": 17,
+      "name": "erevos187",
+      "shinies": 334
+    },
+    {
+      "rank": 18,
       "name": "streamelements",
       "shinies": 334
     }
