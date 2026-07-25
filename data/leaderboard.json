@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785013969,
-  "totalViewers": 22,
-  "totalShinies": 526650,
+  "generatedAt": 1785014398,
+  "totalViewers": 23,
+  "totalShinies": 526984,
   "pageSize": 100,
   "entries": [
     {
@@ -111,6 +111,11 @@
     },
     {
       "rank": 22,
+      "name": "heltoff",
+      "shinies": 334
+    },
+    {
+      "rank": 23,
       "name": "massivemankey",
       "shinies": 334
     }
