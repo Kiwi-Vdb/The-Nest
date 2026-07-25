@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785018049,
-  "totalViewers": 26,
-  "totalShinies": 536288,
+  "generatedAt": 1785018635,
+  "totalViewers": 28,
+  "totalShinies": 536956,
   "pageSize": 100,
   "entries": [
     {
@@ -126,11 +126,21 @@
     },
     {
       "rank": 25,
-      "name": "nebulanomad12",
+      "name": "lpalochka",
       "shinies": 334
     },
     {
       "rank": 26,
+      "name": "nebulanomad12",
+      "shinies": 334
+    },
+    {
+      "rank": 27,
+      "name": "prunko",
+      "shinies": 334
+    },
+    {
+      "rank": 28,
       "name": "tiwaz42",
       "shinies": 334
     }
