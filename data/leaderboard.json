@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785014928,
+  "generatedAt": 1785015229,
   "totalViewers": 23,
-  "totalShinies": 527984,
+  "totalShinies": 528984,
   "pageSize": 100,
   "entries": [
     {
@@ -76,47 +76,47 @@
     },
     {
       "rank": 15,
-      "name": "oafsalot",
+      "name": "massivemankey",
       "shinies": 1334
     },
     {
       "rank": 16,
+      "name": "oafsalot",
+      "shinies": 1334
+    },
+    {
+      "rank": 17,
       "name": "kirinokirino",
       "shinies": 1000
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "ligma_bullets",
       "shinies": 1000
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "lelalolul",
       "shinies": 594
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "erevos187",
       "shinies": 484
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "primetime94",
       "shinies": 484
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "freakofnature122",
       "shinies": 334
     },
     {
-      "rank": 22,
-      "name": "heltoff",
-      "shinies": 334
-    },
-    {
       "rank": 23,
-      "name": "massivemankey",
+      "name": "heltoff",
       "shinies": 334
     }
   ]
