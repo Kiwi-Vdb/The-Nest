@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/altored-divide-bar-remake-1-6-2-d890dd8583.webp",
     "players": 9,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 796,
-    "updatedAt": "2026-07-25T19:13:10Z"
+    "spectators": 6,
+    "gameTime": 830,
+    "updatedAt": "2026-07-25T19:13:41Z"
   },
   "live": true,
   "viewers": 0,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785006770,
+  "statusUpdatedAt": 1785006800,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
