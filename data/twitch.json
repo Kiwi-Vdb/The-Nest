@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 009",
     "lobbyTitle": "EU1 - 009",
     "mode": "",
-    "mapName": "Darkside v3.0",
-    "mapFileName": "darkside_v3.0",
-    "mapImage": "assets/maps/darkside-v3-0-d32b5acba6.webp",
+    "mapName": "Eight Horses 1.2",
+    "mapFileName": "eight_horses_1.2",
+    "mapImage": "assets/maps/eight-horses-1-2-628d6a7a7b.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 700,
-    "updatedAt": "2026-07-25T22:02:38Z"
+    "spectators": 4,
+    "gameTime": 712,
+    "updatedAt": "2026-07-25T22:02:55Z"
   },
   "live": true,
   "viewers": 6,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785016966,
+  "statusUpdatedAt": 1785016996,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
