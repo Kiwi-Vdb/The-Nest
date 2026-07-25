@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 037",
     "lobbyTitle": "EU8 - 037",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
+    "mapName": "Thermal Shock v1.1",
+    "mapFileName": "thermal_shock_v1.1",
+    "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 3,
+    "spectators": 4,
     "gameTime": 2531,
-    "updatedAt": "2026-07-25T22:57:12Z"
+    "updatedAt": "2026-07-25T22:57:44Z"
   },
   "live": true,
   "viewers": 3,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785020218,
+  "statusUpdatedAt": 1785020248,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
