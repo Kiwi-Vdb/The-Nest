@@ -12,11 +12,11 @@
     "mapName": "All That Glitters v2.2.3",
     "mapFileName": "all_that_glitters_v2.2.3",
     "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
-    "players": 15,
+    "players": 13,
     "maxPlayers": 16,
     "spectators": 3,
     "gameTime": 2451,
-    "updatedAt": "2026-07-25T21:00:17Z"
+    "updatedAt": "2026-07-25T21:01:19Z"
   },
   "live": true,
   "viewers": 1,
