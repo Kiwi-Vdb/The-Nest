@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 003",
     "lobbyTitle": "EU6 - 003",
     "mode": "",
-    "mapName": "Hyperion Shale 1.0.2",
-    "mapFileName": "hyperion_shale_1.0.2",
-    "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 9,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 6,
     "gameTime": 878,
-    "updatedAt": "2026-07-25T19:16:33Z"
+    "updatedAt": "2026-07-25T19:17:04Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785006983,
+  "statusUpdatedAt": 1785007013,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
