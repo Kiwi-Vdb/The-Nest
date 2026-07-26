@@ -15,8 +15,8 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 9,
-    "gameTime": 965,
-    "updatedAt": "2026-07-26T02:27:13Z"
+    "gameTime": 997,
+    "updatedAt": "2026-07-26T02:27:44Z"
   },
   "live": true,
   "viewers": 5,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785032836,
+  "statusUpdatedAt": 1785032866,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
