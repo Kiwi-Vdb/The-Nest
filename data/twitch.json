@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/coastlines-dry-v2-2-1-1c9b64d378.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 14,
-    "updatedAt": "2026-07-26T11:10:06Z"
+    "spectators": 7,
+    "gameTime": 44,
+    "updatedAt": "2026-07-26T11:10:36Z"
   },
   "live": true,
   "viewers": 3,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785064207,
+  "statusUpdatedAt": 1785064238,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
