@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/all-that-glitters-v2-2-3-cc136c32c3.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 23,
-    "gameTime": 142,
-    "updatedAt": "2026-07-26T00:22:53Z"
+    "spectators": 22,
+    "gameTime": 174,
+    "updatedAt": "2026-07-26T00:23:25Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785025356,
+  "statusUpdatedAt": 1785025386,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
