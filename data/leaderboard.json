@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785079406,
+  "generatedAt": 1785079537,
   "totalViewers": 50,
-  "totalShinies": 610444,
+  "totalShinies": 610928,
   "pageSize": 100,
   "entries": [
     {
@@ -161,17 +161,17 @@
     },
     {
       "rank": 32,
+      "name": "erevos187",
+      "shinies": 968
+    },
+    {
+      "rank": 33,
       "name": "lelalolul",
       "shinies": 594
     },
     {
-      "rank": 33,
-      "name": "e1jeffe",
-      "shinies": 484
-    },
-    {
       "rank": 34,
-      "name": "erevos187",
+      "name": "e1jeffe",
       "shinies": 484
     },
     {

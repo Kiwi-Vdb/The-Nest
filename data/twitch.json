@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/archsimkats-valley-v1-a6976c5635.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 8,
+    "spectators": 7,
     "gameTime": 936,
-    "updatedAt": "2026-07-26T15:25:18Z"
+    "updatedAt": "2026-07-26T15:25:50Z"
   },
   "live": true,
   "viewers": 12,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785079515,
+  "statusUpdatedAt": 1785079545,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
