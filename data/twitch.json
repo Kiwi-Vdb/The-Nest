@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 3200,
-    "updatedAt": "2026-07-26T03:04:27Z"
+    "gameTime": 3233,
+    "updatedAt": "2026-07-26T03:04:59Z"
   },
   "live": true,
-  "viewers": 5,
+  "viewers": 4,
   "title": "Days Gone Ep1",
   "gameName": "",
   "startedAt": "2026-07-25T19:11:31Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785035057,
+  "statusUpdatedAt": 1785035088,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
