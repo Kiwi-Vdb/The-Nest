@@ -12,11 +12,11 @@
     "mapName": "Salt Reef 1.1",
     "mapFileName": "salt_reef_1.1",
     "mapImage": "assets/maps/salt-reef-1-1-726b37f6d1.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
     "spectators": 8,
-    "gameTime": 264,
-    "updatedAt": "2026-07-26T15:11:20Z"
+    "gameTime": 291,
+    "updatedAt": "2026-07-26T15:11:51Z"
   },
   "live": true,
   "viewers": 10,
