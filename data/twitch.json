@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/archsimkats-valley-v1-a6976c5635.webp",
     "players": 7,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 8,
     "gameTime": 936,
-    "updatedAt": "2026-07-26T15:26:37Z"
+    "updatedAt": "2026-07-26T15:27:08Z"
   },
   "live": true,
-  "viewers": 12,
+  "viewers": 11,
   "title": "Doing What Needs Must Be Done",
   "gameName": "",
   "startedAt": "2026-07-26T10:59:26Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785079607,
+  "statusUpdatedAt": 1785079637,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
