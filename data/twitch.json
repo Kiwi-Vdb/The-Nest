@@ -12,11 +12,11 @@
     "mapName": "Great Divide V1",
     "mapFileName": "great_divide_v1",
     "mapImage": "assets/maps/great-divide-v1-58ebba7a6e.webp",
-    "players": 0,
+    "players": 1,
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 3163,
-    "updatedAt": "2026-07-26T14:08:23Z"
+    "updatedAt": "2026-07-26T14:10:10Z"
   },
   "live": true,
   "viewers": 7,
