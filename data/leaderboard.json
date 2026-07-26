@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785026030,
-  "totalViewers": 31,
-  "totalShinies": 552442,
+  "generatedAt": 1785026555,
+  "totalViewers": 32,
+  "totalShinies": 552776,
   "pageSize": 100,
   "entries": [
     {
@@ -136,26 +136,31 @@
     },
     {
       "rank": 27,
-      "name": "kusyck",
+      "name": "delfeacylol",
       "shinies": 334
     },
     {
       "rank": 28,
-      "name": "nebulanomad12",
+      "name": "kusyck",
       "shinies": 334
     },
     {
       "rank": 29,
-      "name": "prunko",
+      "name": "nebulanomad12",
       "shinies": 334
     },
     {
       "rank": 30,
-      "name": "robin_1_1",
+      "name": "prunko",
       "shinies": 334
     },
     {
       "rank": 31,
+      "name": "robin_1_1",
+      "shinies": 334
+    },
+    {
+      "rank": 32,
       "name": "tiwaz42",
       "shinies": 334
     }
