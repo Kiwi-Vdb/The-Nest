@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785081408,
+  "generatedAt": 1785081444,
   "totalViewers": 54,
-  "totalShinies": 613264,
+  "totalShinies": 612264,
   "pageSize": 100,
   "entries": [
     {
@@ -31,13 +31,13 @@
     },
     {
       "rank": 6,
-      "name": "hunbleeone",
-      "shinies": 21589
+      "name": "bar_outofmana",
+      "shinies": 20968
     },
     {
       "rank": 7,
-      "name": "bar_outofmana",
-      "shinies": 20968
+      "name": "hunbleeone",
+      "shinies": 20589
     },
     {
       "rank": 8,
