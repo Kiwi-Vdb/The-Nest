@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785067225,
-  "totalViewers": 41,
-  "totalShinies": 582386,
+  "generatedAt": 1785067330,
+  "totalViewers": 42,
+  "totalShinies": 582720,
   "pageSize": 100,
   "entries": [
     {
@@ -186,26 +186,31 @@
     },
     {
       "rank": 37,
-      "name": "nebulanomad12",
+      "name": "motimy",
       "shinies": 334
     },
     {
       "rank": 38,
-      "name": "prunko",
+      "name": "nebulanomad12",
       "shinies": 334
     },
     {
       "rank": 39,
-      "name": "robin_1_1",
+      "name": "prunko",
       "shinies": 334
     },
     {
       "rank": 40,
-      "name": "sasadal",
+      "name": "robin_1_1",
       "shinies": 334
     },
     {
       "rank": 41,
+      "name": "sasadal",
+      "shinies": 334
+    },
+    {
+      "rank": 42,
       "name": "tiwaz42",
       "shinies": 334
     }
