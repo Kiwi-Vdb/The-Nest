@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
-    "gameTime": 219,
-    "updatedAt": "2026-07-26T16:06:34Z"
+    "gameTime": 249,
+    "updatedAt": "2026-07-26T16:07:06Z"
   },
   "live": true,
-  "viewers": 8,
+  "viewers": 10,
   "title": "Doing What Needs Must Be Done",
   "gameName": "",
   "startedAt": "2026-07-26T10:59:26Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785081978,
+  "statusUpdatedAt": 1785082009,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
