@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1785080838,
+  "generatedAt": 1785081298,
   "count": 50,
   "activities": [
+    {
+      "id": "3158b95f8efe90ee",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Brown Text",
+      "timestamp": 1785081292,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "e8e899a7077f8f8d",
       "type": "unlock",
@@ -249,16 +259,6 @@
       "text": "unlocked Cow",
       "timestamp": 1784394897,
       "rarity": "legendary",
-      "category": "Pets",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "25b29e78758994bd",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Batty",
-      "timestamp": 1784394896,
-      "rarity": "rare",
       "category": "Pets",
       "rewardType": "cosmetic"
     },

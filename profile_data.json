@@ -1,5 +1,5 @@
 {
-  "generated_at": 1785080838,
+  "generated_at": 1785081298,
   "viewers": {
     "admsixx": {
       "username": "admsixx",
@@ -1057,6 +1057,13 @@
           "rarity": "common",
           "class_name": "text-blue",
           "equip_command": "!equiptext Blue"
+        },
+        {
+          "id": "text-brown",
+          "name": "Brown Text",
+          "rarity": "common",
+          "class_name": "text-brown",
+          "equip_command": "!equiptext Brown"
         }
       ],
       "current_text_effect": {
@@ -1065,8 +1072,16 @@
         "rarity": "rare",
         "class_name": "text-rainbow-comet"
       },
-      "loot_boxes_opened": 2,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Brown Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-brown",
+          "timestamp": 1785081292
+        },
         {
           "name": "Wizards Hat",
           "category": "Hat",
@@ -1082,20 +1097,12 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784394902
-        },
-        {
-          "name": "Sword",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394902
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 3,
+        "text_effects_unlocked": 4,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
