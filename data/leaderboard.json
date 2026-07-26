@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785024771,
+  "generatedAt": 1785026030,
   "totalViewers": 31,
-  "totalShinies": 550442,
+  "totalShinies": 552442,
   "pageSize": 100,
   "entries": [
     {
@@ -66,17 +66,17 @@
     },
     {
       "rank": 13,
+      "name": "massivemankey",
+      "shinies": 4334
+    },
+    {
+      "rank": 14,
       "name": "axolotl_eu",
       "shinies": 3334
     },
     {
-      "rank": 14,
-      "name": "freakofnature122",
-      "shinies": 3334
-    },
-    {
       "rank": 15,
-      "name": "massivemankey",
+      "name": "freakofnature122",
       "shinies": 3334
     },
     {
@@ -101,38 +101,38 @@
     },
     {
       "rank": 20,
-      "name": "lpalochka",
+      "name": "imth3apollo",
       "shinies": 1334
     },
     {
       "rank": 21,
-      "name": "oafsalot",
+      "name": "lpalochka",
       "shinies": 1334
     },
     {
       "rank": 22,
+      "name": "oafsalot",
+      "shinies": 1334
+    },
+    {
+      "rank": 23,
       "name": "kirinokirino",
       "shinies": 1000
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "ligma_bullets",
       "shinies": 1000
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "lelalolul",
       "shinies": 594
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "erevos187",
       "shinies": 484
-    },
-    {
-      "rank": 26,
-      "name": "imth3apollo",
-      "shinies": 334
     },
     {
       "rank": 27,
