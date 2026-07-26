@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 001",
     "lobbyTitle": "EU6 - 001",
     "mode": "",
-    "mapName": "The Tartar Steppe v1.1",
-    "mapFileName": "the_tartar_steppe_v1.1",
-    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 11,
     "gameTime": 974,
-    "updatedAt": "2026-07-26T12:38:54Z"
+    "updatedAt": "2026-07-26T12:39:56Z"
   },
   "live": true,
   "viewers": 8,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785069567,
+  "statusUpdatedAt": 1785069597,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
