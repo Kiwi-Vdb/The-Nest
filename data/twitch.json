@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/koom-valley-3-3-1-31688bcab7.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 855,
-    "updatedAt": "2026-07-26T16:17:16Z"
+    "spectators": 6,
+    "gameTime": 897,
+    "updatedAt": "2026-07-26T16:17:52Z"
   },
   "live": true,
   "viewers": 11,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785082618,
+  "statusUpdatedAt": 1785082651,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
