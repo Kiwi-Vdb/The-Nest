@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785064065,
-  "totalViewers": 39,
-  "totalShinies": 578384,
+  "generatedAt": 1785065519,
+  "totalViewers": 40,
+  "totalShinies": 578718,
   "pageSize": 100,
   "entries": [
     {
@@ -151,51 +151,56 @@
     },
     {
       "rank": 30,
-      "name": "alishhk",
+      "name": "admsixx",
       "shinies": 334
     },
     {
       "rank": 31,
-      "name": "delfeacylol",
+      "name": "alishhk",
       "shinies": 334
     },
     {
       "rank": 32,
-      "name": "jauja",
+      "name": "delfeacylol",
       "shinies": 334
     },
     {
       "rank": 33,
-      "name": "justus541",
+      "name": "jauja",
       "shinies": 334
     },
     {
       "rank": 34,
-      "name": "kusyck",
+      "name": "justus541",
       "shinies": 334
     },
     {
       "rank": 35,
-      "name": "liarturil",
+      "name": "kusyck",
       "shinies": 334
     },
     {
       "rank": 36,
-      "name": "nebulanomad12",
+      "name": "liarturil",
       "shinies": 334
     },
     {
       "rank": 37,
-      "name": "prunko",
+      "name": "nebulanomad12",
       "shinies": 334
     },
     {
       "rank": 38,
-      "name": "robin_1_1",
+      "name": "prunko",
       "shinies": 334
     },
     {
       "rank": 39,
+      "name": "robin_1_1",
+      "shinies": 334
+    },
+    {
+      "rank": 40,
       "name": "tiwaz42",
       "shinies": 334
     }
