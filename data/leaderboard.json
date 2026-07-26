@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785072205,
+  "generatedAt": 1785072985,
   "totalViewers": 44,
-  "totalShinies": 592538,
+  "totalShinies": 593538,
   "pageSize": 100,
   "entries": [
     {
@@ -106,32 +106,32 @@
     },
     {
       "rank": 21,
+      "name": "sasadal",
+      "shinies": 2334
+    },
+    {
+      "rank": 22,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "primetime94",
       "shinies": 1484
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "the_electron97",
       "shinies": 1484
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "thequetx",
       "shinies": 1484
     },
     {
-      "rank": 25,
-      "name": "oafsalot",
-      "shinies": 1334
-    },
-    {
       "rank": 26,
-      "name": "sasadal",
+      "name": "oafsalot",
       "shinies": 1334
     },
     {
