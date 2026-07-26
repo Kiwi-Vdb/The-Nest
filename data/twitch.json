@@ -12,11 +12,11 @@
     "mapName": "Supreme Isthmus v2.1",
     "mapFileName": "supreme_isthmus_v2.1",
     "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
-    "players": 15,
+    "players": 12,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 4242,
-    "updatedAt": "2026-07-26T03:21:49Z"
+    "spectators": 4,
+    "gameTime": 4269,
+    "updatedAt": "2026-07-26T03:22:21Z"
   },
   "live": true,
   "viewers": 4,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785036094,
+  "statusUpdatedAt": 1785036124,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
