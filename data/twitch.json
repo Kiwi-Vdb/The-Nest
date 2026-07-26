@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
-    "gameTime": 2114,
-    "updatedAt": "2026-07-26T02:46:22Z"
+    "spectators": 8,
+    "gameTime": 2147,
+    "updatedAt": "2026-07-26T02:46:53Z"
   },
   "live": true,
-  "viewers": 5,
+  "viewers": 6,
   "title": "Days Gone Ep1",
   "gameName": "",
   "startedAt": "2026-07-25T19:11:31Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785033962,
+  "statusUpdatedAt": 1785033992,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
