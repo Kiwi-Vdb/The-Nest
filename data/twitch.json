@@ -12,11 +12,11 @@
     "mapName": "The Tartar Steppe v1.1",
     "mapFileName": "the_tartar_steppe_v1.1",
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
-    "players": 4,
+    "players": 3,
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 2677,
-    "updatedAt": "2026-07-26T12:09:59Z"
+    "updatedAt": "2026-07-26T12:10:45Z"
   },
   "live": true,
   "viewers": 5,
