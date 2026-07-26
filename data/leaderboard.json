@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785027230,
+  "generatedAt": 1785027710,
   "totalViewers": 32,
-  "totalShinies": 553776,
+  "totalShinies": 554776,
   "pageSize": 100,
   "entries": [
     {
@@ -81,23 +81,23 @@
     },
     {
       "rank": 16,
+      "name": "akiletia",
+      "shinies": 2334
+    },
+    {
+      "rank": 17,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "heltoff",
       "shinies": 1484
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "primetime94",
       "shinies": 1484
-    },
-    {
-      "rank": 19,
-      "name": "akiletia",
-      "shinies": 1334
     },
     {
       "rank": 20,
