@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785074595,
+  "generatedAt": 1785074618,
   "totalViewers": 45,
-  "totalShinies": 598506,
+  "totalShinies": 598840,
   "pageSize": 100,
   "entries": [
     {
@@ -151,27 +151,27 @@
     },
     {
       "rank": 30,
+      "name": "alishhk",
+      "shinies": 668
+    },
+    {
+      "rank": 31,
       "name": "lelalolul",
       "shinies": 594
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "e1jeffe",
       "shinies": 484
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "erevos187",
       "shinies": 484
     },
     {
-      "rank": 33,
-      "name": "admsixx",
-      "shinies": 334
-    },
-    {
       "rank": 34,
-      "name": "alishhk",
+      "name": "admsixx",
       "shinies": 334
     },
     {
