@@ -12,11 +12,11 @@
     "mapName": "Archsimkats_Valley_V1",
     "mapFileName": "archsimkats_valley_v1",
     "mapImage": "assets/maps/archsimkats-valley-v1-a6976c5635.webp",
-    "players": 7,
+    "players": 8,
     "maxPlayers": 16,
-    "spectators": 8,
+    "spectators": 10,
     "gameTime": 936,
-    "updatedAt": "2026-07-26T15:27:08Z"
+    "updatedAt": "2026-07-26T15:27:39Z"
   },
   "live": true,
   "viewers": 11,
