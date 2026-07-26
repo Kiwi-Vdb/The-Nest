@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785077939,
+  "generatedAt": 1785078027,
   "totalViewers": 49,
-  "totalShinies": 602960,
+  "totalShinies": 605960,
   "pageSize": 100,
   "entries": [
     {
@@ -41,23 +41,23 @@
     },
     {
       "rank": 8,
+      "name": "crazypyronl",
+      "shinies": 15818
+    },
+    {
+      "rank": 9,
       "name": "professor_bar",
       "shinies": 15150
     },
     {
-      "rank": 9,
-      "name": "crazypyronl",
-      "shinies": 14818
-    },
-    {
       "rank": 10,
       "name": "bot_kiwi_birb",
-      "shinies": 11668
+      "shinies": 12668
     },
     {
       "rank": 11,
       "name": "streamelements",
-      "shinies": 11668
+      "shinies": 12668
     },
     {
       "rank": 12,
