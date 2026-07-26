@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 037",
     "lobbyTitle": "EU7 - 037",
     "mode": "",
-    "mapName": "Ascendancy v2.2",
-    "mapFileName": "ascendancy_v2.2",
-    "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
+    "mapName": "Deeploria Fields v1.5.1",
+    "mapFileName": "deeploria_fields_v1.5.1",
+    "mapImage": "assets/maps/deeploria-fields-v1-5-1-7ab629cb69.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 966,
-    "updatedAt": "2026-07-26T15:57:23Z"
+    "updatedAt": "2026-07-26T15:58:10Z"
   },
   "live": true,
   "viewers": 10,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785081461,
+  "statusUpdatedAt": 1785081492,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
