@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785032631,
+  "generatedAt": 1785032751,
   "totalViewers": 37,
-  "totalShinies": 567596,
+  "totalShinies": 568596,
   "pageSize": 100,
   "entries": [
     {
@@ -91,23 +91,23 @@
     },
     {
       "rank": 18,
+      "name": "lpalochka",
+      "shinies": 2334
+    },
+    {
+      "rank": 19,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "heltoff",
       "shinies": 1484
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "primetime94",
       "shinies": 1484
-    },
-    {
-      "rank": 21,
-      "name": "lpalochka",
-      "shinies": 1334
     },
     {
       "rank": 22,
