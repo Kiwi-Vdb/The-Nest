@@ -12,11 +12,11 @@
     "mapName": "Ancient Vault v1.4",
     "mapFileName": "ancient_vault_v1.4",
     "mapImage": "assets/maps/ancient-vault-v1-4-c43f29663d.webp",
-    "players": 46,
+    "players": 18,
     "maxPlayers": 16,
-    "spectators": 19,
+    "spectators": 45,
     "gameTime": 3573,
-    "updatedAt": "2026-07-26T14:49:21Z"
+    "updatedAt": "2026-07-26T14:49:52Z"
   },
   "live": true,
   "viewers": 8,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785077355,
+  "statusUpdatedAt": 1785077385,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
