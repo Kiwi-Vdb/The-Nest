@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 005",
     "lobbyTitle": "EU6 - 005",
     "mode": "",
-    "mapName": "Stronghold v5.0.1",
-    "mapFileName": "stronghold_v5.0.1",
-    "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
+    "mapName": "Archsimkats_Valley_V1",
+    "mapFileName": "archsimkats_valley_v1",
+    "mapImage": "assets/maps/archsimkats-valley-v1-a6976c5635.webp",
     "players": 9,
     "maxPlayers": 16,
     "spectators": 8,
     "gameTime": 936,
-    "updatedAt": "2026-07-26T15:23:13Z"
+    "updatedAt": "2026-07-26T15:23:29Z"
   },
   "live": true,
   "viewers": 12,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785079393,
+  "statusUpdatedAt": 1785079424,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {

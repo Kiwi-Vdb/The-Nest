@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785079271,
+  "generatedAt": 1785079406,
   "totalViewers": 50,
-  "totalShinies": 609444,
+  "totalShinies": 610444,
   "pageSize": 100,
   "entries": [
     {
@@ -81,27 +81,27 @@
     },
     {
       "rank": 16,
+      "name": "thequetx",
+      "shinies": 3484
+    },
+    {
+      "rank": 17,
       "name": "akiletia",
       "shinies": 3334
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "axolotl_eu",
       "shinies": 3334
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "imth3apollo",
       "shinies": 3334
     },
     {
-      "rank": 19,
-      "name": "cozzwald",
-      "shinies": 2484
-    },
-    {
       "rank": 20,
-      "name": "thequetx",
+      "name": "cozzwald",
       "shinies": 2484
     },
     {
