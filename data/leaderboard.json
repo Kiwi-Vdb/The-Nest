@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785069385,
+  "generatedAt": 1785070344,
   "totalViewers": 44,
-  "totalShinies": 586538,
+  "totalShinies": 587538,
   "pageSize": 100,
   "entries": [
     {
@@ -91,18 +91,18 @@
     },
     {
       "rank": 18,
+      "name": "heltoff",
+      "shinies": 2968
+    },
+    {
+      "rank": 19,
       "name": "lpalochka",
       "shinies": 2334
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "bizzyrex",
       "shinies": 2079
-    },
-    {
-      "rank": 20,
-      "name": "heltoff",
-      "shinies": 1968
     },
     {
       "rank": 21,
