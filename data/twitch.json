@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 003",
     "lobbyTitle": "EU1 - 003",
     "mode": "",
-    "mapName": "TitanDuel_V3",
-    "mapFileName": "titanduel_v3",
-    "mapImage": "assets/maps/titanduel-v3-612207dc50.webp",
+    "mapName": "Great Divide V1",
+    "mapFileName": "great_divide_v1",
+    "mapImage": "assets/maps/great-divide-v1-58ebba7a6e.webp",
     "players": 0,
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 3163,
-    "updatedAt": "2026-07-26T14:00:11Z"
+    "updatedAt": "2026-07-26T14:08:23Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785074891,
+  "statusUpdatedAt": 1785074922,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
