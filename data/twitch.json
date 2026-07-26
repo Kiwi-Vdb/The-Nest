@@ -12,21 +12,21 @@
     "mapName": "Coastlines_Dry_V2.2.1",
     "mapFileName": "coastlines_dry_v2.2.1",
     "mapImage": "assets/maps/coastlines-dry-v2-2-1-1c9b64d378.webp",
-    "players": 14,
+    "players": 13,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 6,
     "gameTime": 2294,
-    "updatedAt": "2026-07-26T11:02:07Z"
+    "updatedAt": "2026-07-26T11:02:38Z"
   },
   "live": true,
-  "viewers": 0,
+  "viewers": 1,
   "title": "Doing What Needs Must Be Done",
   "gameName": "",
   "startedAt": "2026-07-26T10:59:26Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785063722,
+  "statusUpdatedAt": 1785063753,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
