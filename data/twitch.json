@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 2045,
-    "updatedAt": "2026-07-26T10:57:10Z"
+    "spectators": 6,
+    "gameTime": 2075,
+    "updatedAt": "2026-07-26T10:57:41Z"
   },
   "live": false,
   "viewers": 0,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785063414,
+  "statusUpdatedAt": 1785063445,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
