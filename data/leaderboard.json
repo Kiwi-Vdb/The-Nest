@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785028653,
-  "totalViewers": 34,
-  "totalShinies": 558444,
+  "generatedAt": 1785028974,
+  "totalViewers": 35,
+  "totalShinies": 558778,
   "pageSize": 100,
   "entries": [
     {
@@ -172,6 +172,11 @@
     {
       "rank": 34,
       "name": "tiwaz42",
+      "shinies": 334
+    },
+    {
+      "rank": 35,
+      "name": "tjallex",
       "shinies": 334
     }
   ]
