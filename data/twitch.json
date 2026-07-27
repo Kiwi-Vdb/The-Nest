@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
-    "gameTime": 800,
-    "updatedAt": "2026-07-27T14:42:20Z"
+    "spectators": 17,
+    "gameTime": 828,
+    "updatedAt": "2026-07-27T14:42:50Z"
   },
-  "live": false,
+  "live": true,
   "viewers": 0,
-  "title": "",
+  "title": "Do What Did Done It",
   "gameName": "",
-  "startedAt": "",
-  "thumbnailUrl": "",
+  "startedAt": "2026-07-27T14:42:06Z",
+  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785163324,
+  "statusUpdatedAt": 1785163355,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
