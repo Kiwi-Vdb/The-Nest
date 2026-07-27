@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 150,
-    "updatedAt": "2026-07-27T15:42:14Z"
+    "spectators": 10,
+    "gameTime": 183,
+    "updatedAt": "2026-07-27T15:42:46Z"
   },
   "live": true,
   "viewers": 2,
