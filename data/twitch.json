@@ -15,8 +15,8 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 19,
-    "gameTime": 1374,
-    "updatedAt": "2026-07-27T18:22:16Z"
+    "gameTime": 1389,
+    "updatedAt": "2026-07-27T18:22:32Z"
   },
   "live": true,
   "viewers": 14,
@@ -26,9 +26,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785176524,
-  "clipsUpdatedAt": 1784372537,
+  "statusUpdatedAt": 1785176555,
+  "clipsUpdatedAt": 1785176543,
   "clips": [
+    {
+      "id": "SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
+      "title": "Do What Did Done It",
+      "url": "https://www.twitch.tv/itsvdb/clip/SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/81e62438-b322-4635-888e-a1d4f58247c8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 30.0,
+      "createdAt": "2026-07-27T18:11:07Z"
+    },
     {
       "id": "FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
       "title": "a program",
@@ -68,16 +78,6 @@
       "views": 5,
       "duration": 30.0,
       "createdAt": "2026-05-20T15:42:39Z"
-    },
-    {
-      "id": "ObservantCoweringEagleCoolStoryBro-xmL4ImceQkgG54GK",
-      "title": "almost smooth",
-      "url": "https://www.twitch.tv/itsvdb/clip/ObservantCoweringEagleCoolStoryBro-xmL4ImceQkgG54GK",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=ObservantCoweringEagleCoolStoryBro-xmL4ImceQkgG54GK",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7d57c069-164f-4065-9bf1-d8b946f7e726/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "duration": 17.8,
-      "createdAt": "2026-02-27T21:16:44Z"
     }
   ],
   "gameId": "",
