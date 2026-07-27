@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785175993,
-  "totalViewers": 66,
-  "totalShinies": 649116,
+  "generatedAt": 1785176107,
+  "totalViewers": 67,
+  "totalShinies": 649450,
   "pageSize": 100,
   "entries": [
     {
@@ -332,6 +332,11 @@
     {
       "rank": 66,
       "name": "thib_sss",
+      "shinies": 334
+    },
+    {
+      "rank": 67,
+      "name": "zzzzzvh",
       "shinies": 334
     }
   ]
