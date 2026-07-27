@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/bismuth-valley-v2-4-1-60b6b5a0e2.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 18,
-    "gameTime": 839,
-    "updatedAt": "2026-07-27T18:13:20Z"
+    "spectators": 19,
+    "gameTime": 870,
+    "updatedAt": "2026-07-27T18:13:52Z"
   },
   "live": true,
   "viewers": 13,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785175976,
+  "statusUpdatedAt": 1785176007,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
