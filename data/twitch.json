@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 018",
     "lobbyTitle": "EU7 - 018",
     "mode": "",
-    "mapName": "Project SD-129 v1.0",
-    "mapFileName": "project_sd-129_v1.0",
-    "mapImage": "assets/maps/project-sd-129-v1-0-137df3e649.webp",
+    "mapName": "Ditched_V1",
+    "mapFileName": "Ditched_V1",
+    "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 9,
     "gameTime": 634,
-    "updatedAt": "2026-07-27T17:14:24Z"
+    "updatedAt": "2026-07-27T17:15:12Z"
   },
   "live": true,
   "viewers": 8,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785172478,
+  "statusUpdatedAt": 1785172508,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
