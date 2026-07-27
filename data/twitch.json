@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 018",
     "lobbyTitle": "EU7 - 018",
     "mode": "",
-    "mapName": "Moonshine Run v1.0.1",
-    "mapFileName": "moonshine_run_v1.0.1",
-    "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
+    "mapName": "Project SD-129 v1.0",
+    "mapFileName": "project_sd-129_v1.0",
+    "mapImage": "assets/maps/project-sd-129-v1-0-137df3e649.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 13,
     "gameTime": 1272,
-    "updatedAt": "2026-07-27T16:28:35Z"
+    "updatedAt": "2026-07-27T16:29:06Z"
   },
   "live": true,
   "viewers": 4,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785169714,
+  "statusUpdatedAt": 1785169745,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
