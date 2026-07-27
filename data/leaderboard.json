@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785166956,
+  "generatedAt": 1785167198,
   "totalViewers": 57,
-  "totalShinies": 625720,
+  "totalShinies": 626204,
   "pageSize": 100,
   "entries": [
     {
@@ -171,27 +171,27 @@
     },
     {
       "rank": 34,
+      "name": "mesaber",
+      "shinies": 968
+    },
+    {
+      "rank": 35,
       "name": "prunko",
       "shinies": 668
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "lelalolul",
       "shinies": 594
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "e1jeffe",
       "shinies": 484
     },
     {
-      "rank": 37,
-      "name": "friskayunny",
-      "shinies": 484
-    },
-    {
       "rank": 38,
-      "name": "mesaber",
+      "name": "friskayunny",
       "shinies": 484
     },
     {
