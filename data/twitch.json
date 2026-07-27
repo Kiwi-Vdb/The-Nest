@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 018",
     "lobbyTitle": "EU7 - 018",
     "mode": "",
-    "mapName": "The Tartar Steppe v1.1",
-    "mapFileName": "the_tartar_steppe_v1.1",
-    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 8,
     "gameTime": 999,
-    "updatedAt": "2026-07-27T15:57:04Z"
+    "updatedAt": "2026-07-27T15:57:35Z"
   },
   "live": true,
   "viewers": 6,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785167798,
+  "statusUpdatedAt": 1785167828,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
