@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 16,
-    "gameTime": 1742,
-    "updatedAt": "2026-07-27T14:58:02Z"
+    "gameTime": 1772,
+    "updatedAt": "2026-07-27T14:58:33Z"
   },
   "live": true,
-  "viewers": 1,
+  "viewers": 2,
   "title": "Do What Did Done It",
   "gameName": "",
   "startedAt": "2026-07-27T14:42:06Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785164269,
+  "statusUpdatedAt": 1785164299,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
