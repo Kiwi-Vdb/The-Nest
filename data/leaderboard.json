@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785167198,
+  "generatedAt": 1785167279,
   "totalViewers": 57,
-  "totalShinies": 626204,
+  "totalShinies": 626688,
   "pageSize": 100,
   "entries": [
     {
@@ -106,17 +106,17 @@
     },
     {
       "rank": 21,
+      "name": "sasadal",
+      "shinies": 2818
+    },
+    {
+      "rank": 22,
       "name": "cozzwald",
       "shinies": 2484
     },
     {
-      "rank": 22,
-      "name": "lpalochka",
-      "shinies": 2334
-    },
-    {
       "rank": 23,
-      "name": "sasadal",
+      "name": "lpalochka",
       "shinies": 2334
     },
     {
