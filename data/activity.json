@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1785167562,
+  "generatedAt": 1785167647,
   "count": 50,
   "activities": [
+    {
+      "id": "71523485ba63f995",
+      "type": "unlock",
+      "who": "mesaber",
+      "text": "unlocked Blue Text",
+      "timestamp": 1785167641,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "3158b95f8efe90ee",
       "type": "unlock",
@@ -483,14 +493,6 @@
       "who": "hunbleeone",
       "text": "won 1,000 Shinies in a prediction: Will the Blitz only win?",
       "timestamp": 1783955166,
-      "amount": 1000
-    },
-    {
-      "id": "ce6f1cdb67284682",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 1,000 Shinies in a prediction: Will the Blitz only win?",
-      "timestamp": 1783955165,
       "amount": 1000
     }
   ]

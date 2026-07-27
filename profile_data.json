@@ -1,5 +1,5 @@
 {
-  "generated_at": 1785167562,
+  "generated_at": 1785167647,
   "viewers": {
     "admsixx": {
       "username": "admsixx",
@@ -2053,11 +2053,26 @@
           "rarity": "common",
           "class_name": "text-red",
           "equip_command": "!equiptext Red"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
         }
       ],
       "current_text_effect": null,
-      "loot_boxes_opened": 2,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Blue Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-blue",
+          "timestamp": 1785167641
+        },
         {
           "name": "Wizards Hat",
           "category": "Hat",
@@ -2078,9 +2093,9 @@
       "totals": {
         "cosmetics_unlocked": 1,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 1,
+        "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "motimy": {
