@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
-    "gameTime": 1772,
-    "updatedAt": "2026-07-27T14:58:33Z"
+    "spectators": 15,
+    "gameTime": 1802,
+    "updatedAt": "2026-07-27T14:59:05Z"
   },
   "live": true,
   "viewers": 2,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785164299,
+  "statusUpdatedAt": 1785164329,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
