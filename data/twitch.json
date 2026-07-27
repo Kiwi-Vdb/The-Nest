@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
+    "spectators": 14,
     "gameTime": 28,
-    "updatedAt": "2026-07-27T18:56:27Z"
+    "updatedAt": "2026-07-27T18:57:13Z"
   },
   "live": true,
-  "viewers": 12,
+  "viewers": 13,
   "title": "Do What Did Done It",
   "gameName": "",
   "startedAt": "2026-07-27T14:42:06Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785178624,
+  "statusUpdatedAt": 1785178654,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
