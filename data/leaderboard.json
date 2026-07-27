@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785168937,
-  "totalViewers": 60,
-  "totalShinies": 629508,
+  "generatedAt": 1785170047,
+  "totalViewers": 61,
+  "totalShinies": 630176,
   "pageSize": 100,
   "entries": [
     {
@@ -32,7 +32,7 @@
     {
       "rank": 6,
       "name": "bar_outofmana",
-      "shinies": 21968
+      "shinies": 22302
     },
     {
       "rank": 7,
@@ -236,71 +236,76 @@
     },
     {
       "rank": 47,
-      "name": "eddiesedu",
+      "name": "deverhr",
       "shinies": 334
     },
     {
       "rank": 48,
-      "name": "iyc2",
+      "name": "eddiesedu",
       "shinies": 334
     },
     {
       "rank": 49,
-      "name": "jauja",
+      "name": "iyc2",
       "shinies": 334
     },
     {
       "rank": 50,
-      "name": "jermeis7er",
+      "name": "jauja",
       "shinies": 334
     },
     {
       "rank": 51,
-      "name": "jjones666",
+      "name": "jermeis7er",
       "shinies": 334
     },
     {
       "rank": 52,
-      "name": "kusyck",
+      "name": "jjones666",
       "shinies": 334
     },
     {
       "rank": 53,
-      "name": "liarturil",
+      "name": "kusyck",
       "shinies": 334
     },
     {
       "rank": 54,
-      "name": "motimy",
+      "name": "liarturil",
       "shinies": 334
     },
     {
       "rank": 55,
-      "name": "nebulanomad12",
+      "name": "motimy",
       "shinies": 334
     },
     {
       "rank": 56,
-      "name": "pickabrax",
+      "name": "nebulanomad12",
       "shinies": 334
     },
     {
       "rank": 57,
-      "name": "robin_1_1",
+      "name": "pickabrax",
       "shinies": 334
     },
     {
       "rank": 58,
-      "name": "steffa92",
+      "name": "robin_1_1",
       "shinies": 334
     },
     {
       "rank": 59,
-      "name": "thib_sss",
+      "name": "steffa92",
       "shinies": 334
     },
     {
       "rank": 60,
+      "name": "thib_sss",
+      "shinies": 334
+    },
+    {
+      "rank": 61,
       "name": "tiwaz42",
       "shinies": 334
     }
