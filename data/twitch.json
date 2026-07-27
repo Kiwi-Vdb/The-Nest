@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 018",
     "lobbyTitle": "EU7 - 018",
     "mode": "",
-    "mapName": "Red River Estuary v1.1",
-    "mapFileName": "red_river_estuary_v1.1",
-    "mapImage": "assets/maps/red-river-estuary-v1-1-4af83863e9.webp",
+    "mapName": "Hellas Basin v1.4",
+    "mapFileName": "hellas_basin_v1.4",
+    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
+    "spectators": 11,
     "gameTime": 586,
-    "updatedAt": "2026-07-27T15:15:50Z"
+    "updatedAt": "2026-07-27T15:16:21Z"
   },
   "live": true,
   "viewers": 2,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785165332,
+  "statusUpdatedAt": 1785165362,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
