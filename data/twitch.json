@@ -12,11 +12,11 @@
     "mapName": "The Rock 3.0.1",
     "mapFileName": "the_rock_3.0.1",
     "mapImage": "assets/maps/the-rock-3-0-1-0e0c911f47.webp",
-    "players": 11,
+    "players": 10,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 4,
     "gameTime": 1737,
-    "updatedAt": "2026-07-27T17:51:38Z"
+    "updatedAt": "2026-07-27T17:52:40Z"
   },
   "live": true,
   "viewers": 9,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785174729,
+  "statusUpdatedAt": 1785174760,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
