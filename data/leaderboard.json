@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785170493,
+  "generatedAt": 1785170557,
   "totalViewers": 62,
-  "totalShinies": 631810,
+  "totalShinies": 633810,
   "pageSize": 100,
   "entries": [
     {
@@ -46,18 +46,18 @@
     },
     {
       "rank": 9,
-      "name": "professor_bar",
-      "shinies": 15150
+      "name": "bot_kiwi_birb",
+      "shinies": 16002
     },
     {
       "rank": 10,
-      "name": "bot_kiwi_birb",
-      "shinies": 15002
+      "name": "streamelements",
+      "shinies": 16002
     },
     {
       "rank": 11,
-      "name": "streamelements",
-      "shinies": 15002
+      "name": "professor_bar",
+      "shinies": 15150
     },
     {
       "rank": 12,
