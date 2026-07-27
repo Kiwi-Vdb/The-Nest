@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 000",
     "lobbyTitle": "EU6 - 000",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
+    "mapName": "Bismuth Valley v2.4.1",
+    "mapFileName": "bismuth_valley_v2.4.1",
+    "mapImage": "assets/maps/bismuth-valley-v2-4-1-60b6b5a0e2.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 13,
     "gameTime": 2026,
-    "updatedAt": "2026-07-27T17:54:45Z"
+    "updatedAt": "2026-07-27T17:55:16Z"
   },
   "live": true,
   "viewers": 9,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785174911,
+  "statusUpdatedAt": 1785174942,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
