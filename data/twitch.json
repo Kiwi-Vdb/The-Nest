@@ -6,17 +6,17 @@
     "status": "in_game",
     "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
-    "lobbyName": "EU7 - 018",
-    "lobbyTitle": "EU7 - 018",
+    "lobbyName": "EU6 - 000",
+    "lobbyTitle": "EU6 - 000",
     "mode": "",
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 7,
+    "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 1737,
-    "updatedAt": "2026-07-27T17:53:42Z"
+    "spectators": 13,
+    "gameTime": 2026,
+    "updatedAt": "2026-07-27T17:54:14Z"
   },
   "live": true,
   "viewers": 9,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785174820,
+  "statusUpdatedAt": 1785174850,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
