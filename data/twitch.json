@@ -12,11 +12,11 @@
     "mapName": "White Fire Remake 1.3",
     "mapFileName": "white_fire_remake_1.3",
     "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 59,
-    "updatedAt": "2026-07-27T16:43:19Z"
+    "spectators": 10,
+    "gameTime": 68,
+    "updatedAt": "2026-07-27T16:43:49Z"
   },
   "live": true,
   "viewers": 5,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785170594,
+  "statusUpdatedAt": 1785170624,
   "clipsUpdatedAt": 1784372537,
   "clips": [
     {
