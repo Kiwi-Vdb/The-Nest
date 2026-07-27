@@ -12,11 +12,11 @@
     "mapName": "Forge v2.3",
     "mapFileName": "forge_v2.3",
     "mapImage": "assets/maps/forge-v2-3-ff776a9644.webp",
-    "players": 14,
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 1315,
-    "updatedAt": "2026-07-27T19:01:26Z"
+    "gameTime": 1344,
+    "updatedAt": "2026-07-27T19:01:58Z"
   },
   "live": true,
   "viewers": 11,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785178867,
+  "statusUpdatedAt": 1785178897,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
