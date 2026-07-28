@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/heartbreak-hill-v4-0-1-640f3048bc.webp",
     "players": 1,
     "maxPlayers": 16,
-    "spectators": 9,
-    "gameTime": 1130,
-    "updatedAt": "2026-07-28T15:28:36Z"
+    "spectators": 10,
+    "gameTime": 1160,
+    "updatedAt": "2026-07-28T15:29:06Z"
   },
   "live": true,
   "viewers": 4,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785252513,
+  "statusUpdatedAt": 1785252543,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
