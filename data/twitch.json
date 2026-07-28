@@ -12,21 +12,21 @@
     "mapName": "Eternal Consequences 1.2",
     "mapFileName": "eternal_consequences_1.2",
     "mapImage": "assets/maps/eternal-consequences-1-2-9ec163caf7.webp",
-    "players": 7,
+    "players": 2,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 482,
-    "updatedAt": "2026-07-28T15:57:11Z"
+    "spectators": 4,
+    "gameTime": 485,
+    "updatedAt": "2026-07-28T15:57:42Z"
   },
   "live": true,
-  "viewers": 5,
+  "viewers": 3,
   "title": "Hit em with the \"Why not?\"",
   "gameName": "",
   "startedAt": "2026-07-28T15:22:39Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785254211,
+  "statusUpdatedAt": 1785254241,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
