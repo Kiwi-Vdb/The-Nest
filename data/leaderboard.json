@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785252589,
+  "generatedAt": 1785252716,
   "totalViewers": 70,
-  "totalShinies": 671874,
+  "totalShinies": 672208,
   "pageSize": 100,
   "entries": [
     {
@@ -91,18 +91,18 @@
     },
     {
       "rank": 18,
+      "name": "lpalochka",
+      "shinies": 4002
+    },
+    {
+      "rank": 19,
       "name": "cozzwald",
       "shinies": 3968
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "axolotl_eu",
       "shinies": 3818
-    },
-    {
-      "rank": 20,
-      "name": "lpalochka",
-      "shinies": 3668
     },
     {
       "rank": 21,
