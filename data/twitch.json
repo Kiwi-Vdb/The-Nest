@@ -15,18 +15,18 @@
     "players": 7,
     "maxPlayers": 16,
     "spectators": 2,
-    "gameTime": 65,
-    "updatedAt": "2026-07-28T15:48:22Z"
+    "gameTime": 81,
+    "updatedAt": "2026-07-28T15:48:38Z"
   },
   "live": true,
-  "viewers": 6,
+  "viewers": 7,
   "title": "Hit em with the \"Why not?\"",
   "gameName": "",
   "startedAt": "2026-07-28T15:22:39Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785253678,
+  "statusUpdatedAt": 1785253709,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
