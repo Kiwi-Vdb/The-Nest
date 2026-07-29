@@ -12,11 +12,11 @@
     "mapName": "Proving Grounds v1.0",
     "mapFileName": "proving_grounds_v1.0",
     "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
-    "players": 13,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 3,
+    "spectators": 2,
     "gameTime": 2106,
-    "updatedAt": "2026-07-29T19:48:54Z"
+    "updatedAt": "2026-07-29T19:49:24Z"
   },
   "live": true,
   "viewers": 2,
