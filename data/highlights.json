@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1785329942,
-  "rotationGeneratedAt": 1785252142,
-  "nextRotationAt": 1785338542,
+  "generatedAt": 1785351010,
+  "rotationGeneratedAt": 1785351010,
+  "nextRotationAt": 1785437410,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "most_generous_viewer",
+      "category": "loot_box_champion",
       "group": "viewer",
-      "icon": "♥",
-      "title": "Most Generous",
-      "copy": "iamdibi has gifted 10,000 Shinies to the flock."
+      "icon": "◇",
+      "title": "Loot Box Legend",
+      "copy": "itsvdb has opened 35 loot boxes."
     },
     {
-      "category": "highest_gamba_win",
+      "category": "busiest_prediction",
       "group": "event",
-      "icon": "◆",
-      "title": "Biggest Gamba Win",
-      "copy": "itsvdb won 2,000 Shinies in one spin."
+      "icon": "●",
+      "title": "Biggest Prediction",
+      "copy": "5 viewers picked sides on “Will the VDB build pay off?”."
     },
     {
-      "category": "community_prediction_entries",
+      "category": "community_gamba_wins",
       "group": "community",
-      "icon": "✓",
-      "title": "Prediction Picks",
-      "copy": "The flock has made 24 prediction picks."
+      "icon": "◆",
+      "title": "Winning Spins",
+      "copy": "The community has landed 10 winning Gamba spins."
     }
   ]
 }
