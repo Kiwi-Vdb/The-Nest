@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
-    "gameTime": 1377,
-    "updatedAt": "2026-07-29T19:06:22Z"
+    "spectators": 4,
+    "gameTime": 1392,
+    "updatedAt": "2026-07-29T19:06:38Z"
   },
   "live": true,
   "viewers": 1,
