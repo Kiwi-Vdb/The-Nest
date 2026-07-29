@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785353532,
-  "totalViewers": 72,
-  "totalShinies": 675330,
+  "generatedAt": 1785354052,
+  "totalViewers": 73,
+  "totalShinies": 675664,
   "pageSize": 100,
   "entries": [
     {
@@ -361,6 +361,11 @@
     },
     {
       "rank": 72,
+      "name": "twintwonk",
+      "shinies": 334
+    },
+    {
+      "rank": 73,
       "name": "zzzzzvh",
       "shinies": 334
     }
