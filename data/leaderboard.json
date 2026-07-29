@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785354792,
-  "totalViewers": 73,
-  "totalShinies": 676998,
+  "generatedAt": 1785354822,
+  "totalViewers": 74,
+  "totalShinies": 677332,
   "pageSize": 100,
   "entries": [
     {
@@ -331,41 +331,46 @@
     },
     {
       "rank": 66,
-      "name": "motimy",
+      "name": "marslancer",
       "shinies": 334
     },
     {
       "rank": 67,
-      "name": "pickabrax",
+      "name": "motimy",
       "shinies": 334
     },
     {
       "rank": 68,
-      "name": "rage_bacon",
+      "name": "pickabrax",
       "shinies": 334
     },
     {
       "rank": 69,
-      "name": "robin_1_1",
+      "name": "rage_bacon",
       "shinies": 334
     },
     {
       "rank": 70,
-      "name": "steffa92",
+      "name": "robin_1_1",
       "shinies": 334
     },
     {
       "rank": 71,
-      "name": "thib_sss",
+      "name": "steffa92",
       "shinies": 334
     },
     {
       "rank": 72,
-      "name": "twintwonk",
+      "name": "thib_sss",
       "shinies": 334
     },
     {
       "rank": 73,
+      "name": "twintwonk",
+      "shinies": 334
+    },
+    {
+      "rank": 74,
       "name": "zzzzzvh",
       "shinies": 334
     }
