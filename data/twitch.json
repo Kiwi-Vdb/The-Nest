@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 627,
-    "updatedAt": "2026-07-29T18:53:53Z"
+    "spectators": 4,
+    "gameTime": 659,
+    "updatedAt": "2026-07-29T18:54:25Z"
   },
   "live": true,
   "viewers": 1,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785351223,
+  "statusUpdatedAt": 1785351254,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
