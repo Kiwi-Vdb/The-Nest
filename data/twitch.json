@@ -15,18 +15,18 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 4,
-    "gameTime": 1802,
-    "updatedAt": "2026-07-29T19:43:11Z"
+    "gameTime": 1820,
+    "updatedAt": "2026-07-29T19:43:28Z"
   },
   "live": true,
-  "viewers": 5,
+  "viewers": 3,
   "title": "Drop into the \"How come?\"",
   "gameName": "",
   "startedAt": "2026-07-29T18:51:03Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785354177,
+  "statusUpdatedAt": 1785354208,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
