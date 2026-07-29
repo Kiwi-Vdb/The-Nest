@@ -20,6 +20,11 @@ This is the first proper structure pass:
 - community.html
 - events.html
 - shop.html
+- commands.html
+
+`commands.html` is the mobile-friendly Kiwi Birb chat guide linked by
+`!help`, `!commands`, and `!botcommands`. Its command list lives in
+`data/commands.json`.
 
 ## How to run locally
 

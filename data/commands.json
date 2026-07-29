@@ -1,0 +1,107 @@
+{
+  "updatedAt": "2026-07-29",
+  "sections": [
+    {
+      "id": "viewer",
+      "title": "Viewer Commands",
+      "description": "Available to everyone in itsVDB's Twitch chat.",
+      "commands": [
+        {
+          "usage": "!help",
+          "description": "Open this complete Kiwi Birb command guide.",
+          "aliases": ["!commands", "!botcommands"]
+        },
+        {
+          "usage": "!shinies",
+          "description": "Check your current Shinies balance.",
+          "aliases": ["!shiny", "!points", "!balance"]
+        },
+        {
+          "usage": "!gift @viewer amount",
+          "description": "Transfer some of your Shinies to another viewer.",
+          "aliases": ["!giftshinies @viewer amount"]
+        },
+        {
+          "usage": "!leaderboard",
+          "description": "Show the five viewers with the largest Shinies balances.",
+          "aliases": ["!shiniesleaderboard"]
+        },
+        {
+          "usage": "!gamba amount",
+          "description": "Play Kiwi Birb's slot machine while Gamba is open.",
+          "aliases": ["!gamble amount"]
+        },
+        {
+          "usage": "!pick option",
+          "description": "Choose an answer in the active prediction. Picks do not cost Shinies."
+        },
+        {
+          "usage": "!shop",
+          "description": "Show featured items and open The Nest Shop.",
+          "aliases": ["!store"]
+        },
+        {
+          "usage": "!buy item",
+          "description": "Buy an available shop item using its item ID or name."
+        },
+        {
+          "usage": "!texteffects",
+          "description": "List the chat text effects you own and show the one currently equipped.",
+          "aliases": ["!textfx", "!mytext"]
+        },
+        {
+          "usage": "!equiptext effect",
+          "description": "Equip one of your unlocked chat text effects."
+        },
+        {
+          "usage": "!cleartext",
+          "description": "Remove your currently equipped chat text effect.",
+          "aliases": ["!unequiptext"]
+        }
+      ]
+    },
+    {
+      "id": "moderator",
+      "title": "Moderator Commands",
+      "description": "Restricted to itsVDB and Twitch moderators.",
+      "commands": [
+        {
+          "usage": "!giveshinies @viewer amount",
+          "description": "Add Shinies to a viewer's balance.",
+          "aliases": ["!givepoints @viewer amount"]
+        },
+        {
+          "usage": "!takeshinies @viewer amount",
+          "description": "Remove Shinies from a viewer's balance.",
+          "aliases": ["!takepoints @viewer amount"]
+        },
+        {
+          "usage": "!setshinies @viewer amount",
+          "description": "Set a viewer's Shinies balance to an exact amount.",
+          "aliases": ["!setpoints @viewer amount"]
+        },
+        {
+          "usage": "!prediction start \"question\" yes no reward",
+          "description": "Open a fixed-reward prediction with a question, answer options, and prize."
+        },
+        {
+          "usage": "!prediction close",
+          "description": "Close the active prediction so no more viewers can pick."
+        },
+        {
+          "usage": "!prediction resolve option",
+          "description": "Choose the winning option and award the configured prize."
+        },
+        {
+          "usage": "!prediction cancel",
+          "description": "Cancel the active prediction without awarding Shinies."
+        },
+        {
+          "usage": "!gifttext @viewer effect",
+          "description": "Unlock a chat text effect for a viewer.",
+          "aliases": ["!gifttexteffect @viewer effect"]
+        }
+      ]
+    }
+  ]
+}

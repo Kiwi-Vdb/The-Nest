@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#08060a">
+  <meta name="description" content="The complete Kiwi Birb Twitch chat command list for itsVDB's stream.">
+  <title>Chat Commands | The Nest</title>
+  <link rel="stylesheet" href="./css/commands.css">
+</head>
+<body>
+  <main class="commands-page">
+    <header class="commands-hero">
+      <nav class="commands-nav" aria-label="Commands page navigation">
+        <a href="hub.html">← Return to The Nest</a>
+        <a href="https://www.twitch.tv/itsvdb" target="_blank" rel="noopener noreferrer">Watch on Twitch</a>
+      </nav>
+
+      <div class="hero-copy">
+        <p class="eyebrow">Kiwi Birb Chat Guide</p>
+        <h1>Chat Commands</h1>
+        <p class="hero-intro">
+          Everything Kiwi Birb understands in Twitch chat, from Shinies and Gamba
+          to predictions, shopping, and text effects.
+        </p>
+      </div>
+
+      <label class="command-search" for="command-search">
+        <span>Find a command</span>
+        <input
+          id="command-search"
+          type="search"
+          placeholder="Try shinies, gamba, shop…"
+          autocomplete="off"
+          spellcheck="false"
+        >
+      </label>
+
+      <p id="command-status" class="command-status" role="status" aria-live="polite">
+        Loading Kiwi Birb commands…
+      </p>
+    </header>
+
+    <div id="command-sections" class="command-sections" aria-live="polite"></div>
+
+    <noscript>
+      <section class="load-error">
+        <h2>JavaScript is required</h2>
+        <p>Please enable JavaScript to load the current Kiwi Birb command list.</p>
+      </section>
+    </noscript>
+
+    <footer class="commands-footer">
+      <span>Use commands in the itsVDB Twitch channel.</span>
+      <span>Shinies ✦ are Kiwi Birb's stream currency.</span>
+    </footer>
+  </main>
+
+  <script src="./js/commands.js"></script>
+</body>
+</html>
