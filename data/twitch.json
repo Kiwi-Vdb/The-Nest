@@ -12,21 +12,21 @@
     "mapName": "Proving Grounds v1.0",
     "mapFileName": "proving_grounds_v1.0",
     "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
-    "players": 13,
+    "players": 15,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 4,
     "gameTime": 2106,
-    "updatedAt": "2026-07-29T19:50:26Z"
+    "updatedAt": "2026-07-29T19:50:41Z"
   },
   "live": true,
-  "viewers": 2,
+  "viewers": 1,
   "title": "Drop into the \"How come?\"",
   "gameName": "",
   "startedAt": "2026-07-29T18:51:03Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785354606,
+  "statusUpdatedAt": 1785354637,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
