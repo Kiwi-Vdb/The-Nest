@@ -12,21 +12,21 @@
     "mapName": "Erebos Lakes v1.0",
     "mapFileName": "erebos_lakes_v1.0",
     "mapImage": "assets/maps/erebos-lakes-v1-0-aeb37e7bb1.webp",
-    "players": 12,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 4,
+    "spectators": 6,
     "gameTime": 351,
-    "updatedAt": "2026-07-30T12:48:58Z"
+    "updatedAt": "2026-07-30T12:49:29Z"
   },
   "live": true,
-  "viewers": 7,
+  "viewers": 6,
   "title": "come for the \"What was that?\"",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-30T11:03:53Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785415726,
+  "statusUpdatedAt": 1785415756,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
