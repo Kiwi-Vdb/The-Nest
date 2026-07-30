@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785419384,
-  "totalViewers": 86,
-  "totalShinies": 699266,
+  "generatedAt": 1785420082,
+  "totalViewers": 87,
+  "totalShinies": 699600,
   "pageSize": 100,
   "entries": [
     {
@@ -431,6 +431,11 @@
     },
     {
       "rank": 86,
+      "name": "zelderoth",
+      "shinies": 334
+    },
+    {
+      "rank": 87,
       "name": "zzzzzvh",
       "shinies": 334
     }
