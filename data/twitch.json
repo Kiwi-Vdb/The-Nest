@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
+    "status": "in_lobby",
+    "statusLabel": "IN LOBBY",
     "playerName": "[APM]Vdb",
     "lobbyName": "EU1 - 002",
     "lobbyTitle": "EU1 - 002",
@@ -12,11 +12,11 @@
     "mapName": "Red Rock Desert v2",
     "mapFileName": "red_rock_desert_v2",
     "mapImage": "assets/maps/red-rock-desert-v2-bb677f2d60.webp",
-    "players": 5,
+    "players": 7,
     "maxPlayers": 16,
     "spectators": 3,
     "gameTime": 0,
-    "updatedAt": "2026-07-30T11:46:27Z"
+    "updatedAt": "2026-07-30T11:46:58Z"
   },
   "live": true,
   "viewers": 2,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785411989,
+  "statusUpdatedAt": 1785412019,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
