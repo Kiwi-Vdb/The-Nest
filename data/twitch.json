@@ -15,18 +15,18 @@
     "players": 7,
     "maxPlayers": 16,
     "spectators": 3,
-    "gameTime": 1069,
-    "updatedAt": "2026-07-30T12:07:03Z"
+    "gameTime": 1100,
+    "updatedAt": "2026-07-30T12:07:34Z"
   },
   "live": true,
-  "viewers": 4,
+  "viewers": 5,
   "title": "come for the \"What was that?\"",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-30T11:03:53Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785413205,
+  "statusUpdatedAt": 1785413236,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
