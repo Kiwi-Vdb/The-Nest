@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/red-river-remake-v1-2-6436885a47.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 8,
     "gameTime": 1747,
-    "updatedAt": "2026-07-30T14:35:30Z"
+    "updatedAt": "2026-07-30T14:35:46Z"
   },
   "live": true,
   "viewers": 10,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785422112,
+  "statusUpdatedAt": 1785422143,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
