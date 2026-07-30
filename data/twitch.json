@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 232,
-    "updatedAt": "2026-07-30T14:42:46Z"
+    "spectators": 6,
+    "gameTime": 263,
+    "updatedAt": "2026-07-30T14:43:17Z"
   },
   "live": true,
-  "viewers": 11,
+  "viewers": 13,
   "title": "come for the \"What was that?\"",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-30T11:03:53Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785422568,
+  "statusUpdatedAt": 1785422599,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
