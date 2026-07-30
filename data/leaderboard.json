@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785413324,
-  "totalViewers": 77,
-  "totalShinies": 683156,
+  "generatedAt": 1785413964,
+  "totalViewers": 78,
+  "totalShinies": 683824,
   "pageSize": 100,
   "entries": [
     {
@@ -151,28 +151,28 @@
     },
     {
       "rank": 30,
-      "name": "prunko",
+      "name": "oafsalot",
       "shinies": 1668
     },
     {
       "rank": 31,
-      "name": "tiwaz42",
+      "name": "prunko",
       "shinies": 1668
     },
     {
       "rank": 32,
+      "name": "tiwaz42",
+      "shinies": 1668
+    },
+    {
+      "rank": 33,
       "name": "our_lord_and_savior_gonk",
       "shinies": 1484
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "the_electron97",
       "shinies": 1484
-    },
-    {
-      "rank": 34,
-      "name": "oafsalot",
-      "shinies": 1334
     },
     {
       "rank": 35,
@@ -371,21 +371,26 @@
     },
     {
       "rank": 74,
-      "name": "steffa92",
+      "name": "slicklikevik",
       "shinies": 334
     },
     {
       "rank": 75,
-      "name": "thib_sss",
+      "name": "steffa92",
       "shinies": 334
     },
     {
       "rank": 76,
-      "name": "twintwonk",
+      "name": "thib_sss",
       "shinies": 334
     },
     {
       "rank": 77,
+      "name": "twintwonk",
+      "shinies": 334
+    },
+    {
+      "rank": 78,
       "name": "zzzzzvh",
       "shinies": 334
     }
