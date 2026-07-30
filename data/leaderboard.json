@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785412145,
+  "generatedAt": 1785413084,
   "totalViewers": 77,
-  "totalShinies": 680488,
+  "totalShinies": 681488,
   "pageSize": 100,
   "entries": [
     {
@@ -36,18 +36,18 @@
     },
     {
       "rank": 7,
+      "name": "bot_kiwi_birb",
+      "shinies": 22004
+    },
+    {
+      "rank": 8,
       "name": "hunbleeone",
       "shinies": 21557
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "crazypyronl",
       "shinies": 21152
-    },
-    {
-      "rank": 9,
-      "name": "bot_kiwi_birb",
-      "shinies": 21004
     },
     {
       "rank": 10,
