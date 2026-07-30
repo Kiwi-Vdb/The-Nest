@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/all-that-smolders-v1-2-8e0e1ee079.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 12,
-    "gameTime": 123,
-    "updatedAt": "2026-07-30T13:24:16Z"
+    "spectators": 11,
+    "gameTime": 156,
+    "updatedAt": "2026-07-30T13:24:47Z"
   },
   "live": true,
   "viewers": 10,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785417855,
+  "statusUpdatedAt": 1785417885,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
