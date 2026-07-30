@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/erebos-lakes-v1-0-aeb37e7bb1.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 5,
     "gameTime": 351,
-    "updatedAt": "2026-07-30T12:47:57Z"
+    "updatedAt": "2026-07-30T12:48:12Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785415665,
+  "statusUpdatedAt": 1785415695,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
