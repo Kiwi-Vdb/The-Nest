@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1785415932,
+  "generatedAt": 1785415971,
   "active": true,
   "status": "open",
   "id": 1785415918,
@@ -11,13 +11,13 @@
   "options": [
     {
       "label": "yes",
-      "votes": 1,
-      "percent": 100.0
+      "votes": 0,
+      "percent": 0.0
     },
     {
       "label": "no",
-      "votes": 0,
-      "percent": 0.0
+      "votes": 1,
+      "percent": 100.0
     }
   ]
 }
