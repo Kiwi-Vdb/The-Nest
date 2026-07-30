@@ -12,21 +12,21 @@
     "mapName": "Red Rock Desert v2",
     "mapFileName": "red_rock_desert_v2",
     "mapImage": "assets/maps/red-rock-desert-v2-bb677f2d60.webp",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 16,
     "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-30T11:43:05Z"
+    "updatedAt": "2026-07-30T11:43:21Z"
   },
   "live": true,
-  "viewers": 3,
+  "viewers": 2,
   "title": "come for the \"What was that?\"",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-30T11:03:53Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785411775,
+  "statusUpdatedAt": 1785411805,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
