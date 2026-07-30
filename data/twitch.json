@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/red-rock-desert-v2-bb677f2d60.webp",
     "players": 1,
     "maxPlayers": 16,
-    "spectators": 1,
+    "spectators": 2,
     "gameTime": 0,
-    "updatedAt": "2026-07-30T11:41:02Z"
+    "updatedAt": "2026-07-30T11:41:18Z"
   },
   "live": true,
   "viewers": 3,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785411652,
+  "statusUpdatedAt": 1785411683,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
