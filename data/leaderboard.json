@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785416929,
+  "generatedAt": 1785417062,
   "totalViewers": 81,
-  "totalShinies": 690794,
+  "totalShinies": 691128,
   "pageSize": 100,
   "entries": [
     {
@@ -146,22 +146,22 @@
     },
     {
       "rank": 29,
+      "name": "tiwaz42",
+      "shinies": 2002
+    },
+    {
+      "rank": 30,
       "name": "primetime94",
       "shinies": 1818
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "oafsalot",
       "shinies": 1668
     },
     {
-      "rank": 31,
-      "name": "prunko",
-      "shinies": 1668
-    },
-    {
       "rank": 32,
-      "name": "tiwaz42",
+      "name": "prunko",
       "shinies": 1668
     },
     {
