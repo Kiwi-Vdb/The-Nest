@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785418109,
-  "totalViewers": 83,
-  "totalShinies": 694446,
+  "generatedAt": 1785418129,
+  "totalViewers": 84,
+  "totalShinies": 695114,
   "pageSize": 100,
   "entries": [
     {
@@ -96,13 +96,13 @@
     },
     {
       "rank": 19,
-      "name": "cozzwald",
-      "shinies": 3968
+      "name": "axolotl_eu",
+      "shinies": 4152
     },
     {
       "rank": 20,
-      "name": "axolotl_eu",
-      "shinies": 3818
+      "name": "cozzwald",
+      "shinies": 3968
     },
     {
       "rank": 21,
@@ -406,16 +406,21 @@
     },
     {
       "rank": 81,
-      "name": "thib_sss",
+      "name": "stzerorm1n",
       "shinies": 334
     },
     {
       "rank": 82,
-      "name": "twintwonk",
+      "name": "thib_sss",
       "shinies": 334
     },
     {
       "rank": 83,
+      "name": "twintwonk",
+      "shinies": 334
+    },
+    {
+      "rank": 84,
       "name": "zzzzzvh",
       "shinies": 334
     }
