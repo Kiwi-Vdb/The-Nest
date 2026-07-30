@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 013",
     "lobbyTitle": "EU6 - 013",
     "mode": "",
-    "mapName": "Forge v2.3",
-    "mapFileName": "forge_v2.3",
-    "mapImage": "assets/maps/forge-v2-3-ff776a9644.webp",
+    "mapName": "Erebos Lakes v1.0",
+    "mapFileName": "erebos_lakes_v1.0",
+    "mapImage": "assets/maps/erebos-lakes-v1-0-aeb37e7bb1.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 8,
+    "spectators": 6,
     "gameTime": 351,
-    "updatedAt": "2026-07-30T12:47:25Z"
+    "updatedAt": "2026-07-30T12:47:57Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785415635,
+  "statusUpdatedAt": 1785415665,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
