@@ -1,7 +1,16 @@
 {
-  "generatedAt": 1785415784,
+  "generatedAt": 1785416114,
   "count": 50,
   "activities": [
+    {
+      "id": "149904444f94a531",
+      "type": "gift",
+      "who": "deverhr",
+      "text": "gifted 100 Shinies to heavywater00",
+      "timestamp": 1785416113,
+      "amount": 100,
+      "target": "heavywater00"
+    },
     {
       "id": "71523485ba63f995",
       "type": "unlock",
@@ -486,14 +495,6 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "f412443de9e5b840",
-      "type": "prediction",
-      "who": "hunbleeone",
-      "text": "won 1,000 Shinies in a prediction: Will the Blitz only win?",
-      "timestamp": 1783955166,
-      "amount": 1000
     }
   ]
 }
