@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 013",
     "lobbyTitle": "EU6 - 013",
     "mode": "",
-    "mapName": "All That Smolders v1.2",
-    "mapFileName": "all_that_smolders_v1.2",
-    "mapImage": "assets/maps/all-that-smolders-v1-2-8e0e1ee079.webp",
+    "mapName": "Project SD-129 v1.0",
+    "mapFileName": "project_sd-129_v1.0",
+    "mapImage": "assets/maps/project-sd-129-v1-0-137df3e649.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
+    "spectators": 12,
     "gameTime": 909,
-    "updatedAt": "2026-07-30T13:37:44Z"
+    "updatedAt": "2026-07-30T13:38:35Z"
   },
   "live": true,
   "viewers": 11,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785418677,
+  "statusUpdatedAt": 1785418708,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
