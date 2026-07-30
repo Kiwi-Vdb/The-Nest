@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_lobby",
-    "statusLabel": "IN LOBBY",
+    "status": "in_game",
+    "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
     "lobbyName": "EU1 - 002",
     "lobbyTitle": "EU1 - 002",
@@ -15,18 +15,18 @@
     "players": 7,
     "maxPlayers": 16,
     "spectators": 3,
-    "gameTime": 0,
-    "updatedAt": "2026-07-30T11:46:58Z"
+    "gameTime": 8,
+    "updatedAt": "2026-07-30T11:47:29Z"
   },
   "live": true,
-  "viewers": 2,
+  "viewers": 3,
   "title": "come for the \"What was that?\"",
   "gameName": "Beyond All Reason",
   "startedAt": "2026-07-30T11:03:53Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785412019,
+  "statusUpdatedAt": 1785412049,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
