@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785421304,
-  "totalViewers": 88,
-  "totalShinies": 707084,
+  "generatedAt": 1785421338,
+  "totalViewers": 89,
+  "totalShinies": 707418,
   "pageSize": 100,
   "entries": [
     {
@@ -431,16 +431,21 @@
     },
     {
       "rank": 86,
-      "name": "twintwonk",
+      "name": "thrakei",
       "shinies": 334
     },
     {
       "rank": 87,
-      "name": "zelderoth",
+      "name": "twintwonk",
       "shinies": 334
     },
     {
       "rank": 88,
+      "name": "zelderoth",
+      "shinies": 334
+    },
+    {
+      "rank": 89,
       "name": "zzzzzvh",
       "shinies": 334
     }
