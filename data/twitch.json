@@ -12,11 +12,11 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 1,
+    "players": 2,
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 0,
-    "updatedAt": "2026-07-30T11:07:08Z"
+    "updatedAt": "2026-07-30T11:08:17Z"
   },
   "live": true,
   "viewers": 1,
