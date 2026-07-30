@@ -9,14 +9,14 @@
     "lobbyName": "EU1 - 002",
     "lobbyTitle": "EU1 - 002",
     "mode": "",
-    "mapName": "Altored Divide Bar Remake 1.6.2",
-    "mapFileName": "altored_divide_bar_remake_1.6.2",
-    "mapImage": "assets/maps/altored-divide-bar-remake-1-6-2-d890dd8583.webp",
+    "mapName": "White Fire Remake 1.3",
+    "mapFileName": "white_fire_remake_1.3",
+    "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
     "players": 7,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 1995,
-    "updatedAt": "2026-07-30T12:22:40Z"
+    "updatedAt": "2026-07-30T12:23:11Z"
   },
   "live": true,
   "viewers": 6,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785414147,
+  "statusUpdatedAt": 1785414178,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
