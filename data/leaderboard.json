@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785417704,
-  "totalViewers": 81,
-  "totalShinies": 693628,
+  "generatedAt": 1785418071,
+  "totalViewers": 82,
+  "totalShinies": 693962,
   "pageSize": 100,
   "entries": [
     {
@@ -391,21 +391,26 @@
     },
     {
       "rank": 78,
-      "name": "steffa92",
+      "name": "snoopa_aoe",
       "shinies": 334
     },
     {
       "rank": 79,
-      "name": "thib_sss",
+      "name": "steffa92",
       "shinies": 334
     },
     {
       "rank": 80,
-      "name": "twintwonk",
+      "name": "thib_sss",
       "shinies": 334
     },
     {
       "rank": 81,
+      "name": "twintwonk",
+      "shinies": 334
+    },
+    {
+      "rank": 82,
       "name": "zzzzzvh",
       "shinies": 334
     }
