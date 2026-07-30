@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785420405,
+  "generatedAt": 1785420524,
   "totalViewers": 88,
-  "totalShinies": 703084,
+  "totalShinies": 704084,
   "pageSize": 100,
   "entries": [
     {
@@ -101,28 +101,28 @@
     },
     {
       "rank": 20,
+      "name": "dreadyfire",
+      "shinies": 4002
+    },
+    {
+      "rank": 21,
       "name": "cozzwald",
       "shinies": 3968
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "imth3apollo",
       "shinies": 3668
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "akiletia",
       "shinies": 3334
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "deverhr",
       "shinies": 3218
-    },
-    {
-      "rank": 24,
-      "name": "dreadyfire",
-      "shinies": 3002
     },
     {
       "rank": 25,
