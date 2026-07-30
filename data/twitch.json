@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 013",
     "lobbyTitle": "EU6 - 013",
     "mode": "",
-    "mapName": "Erebos Lakes v1.0",
-    "mapFileName": "erebos_lakes_v1.0",
-    "mapImage": "assets/maps/erebos-lakes-v1-0-aeb37e7bb1.webp",
-    "players": 14,
+    "mapName": "Tropical Assault v3.0",
+    "mapFileName": "tropical_assault_v3.0",
+    "mapImage": "assets/maps/tropical-assault-v3-0-a842cf496a.webp",
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 1176,
-    "updatedAt": "2026-07-30T13:16:16Z"
+    "updatedAt": "2026-07-30T13:16:48Z"
   },
   "live": true,
   "viewers": 7,
@@ -26,7 +26,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785417370,
+  "statusUpdatedAt": 1785417400,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {

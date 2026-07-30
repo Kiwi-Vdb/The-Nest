@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1785417062,
+  "generatedAt": 1785417389,
   "count": 50,
   "activities": [
+    {
+      "id": "2fe7043981e784cd",
+      "type": "prediction",
+      "who": "deverhr",
+      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1785417389,
+      "amount": 1500
+    },
     {
       "id": "149904444f94a531",
       "type": "gift",
@@ -485,16 +493,6 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "8cc6caceb43a588f",
-      "type": "unlock",
-      "who": "mesaber",
-      "text": "unlocked Red Text",
-      "timestamp": 1783960071,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
