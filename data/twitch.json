@@ -14,19 +14,19 @@
     "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
-    "gameTime": 37,
-    "updatedAt": "2026-07-30T11:04:01Z"
+    "spectators": 11,
+    "gameTime": 70,
+    "updatedAt": "2026-07-30T11:04:32Z"
   },
-  "live": false,
+  "live": true,
   "viewers": 0,
-  "title": "",
-  "gameName": "",
-  "startedAt": "",
-  "thumbnailUrl": "",
+  "title": "come for the \"What was that?\"",
+  "gameName": "Beyond All Reason",
+  "startedAt": "2026-07-30T11:03:53Z",
+  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785409424,
+  "statusUpdatedAt": 1785409455,
   "clipsUpdatedAt": 1785176543,
   "clips": [
     {
@@ -80,6 +80,6 @@
       "createdAt": "2026-05-20T15:42:39Z"
     }
   ],
-  "gameId": "",
-  "gameBoxArtUrl": ""
+  "gameId": "517109",
+  "gameBoxArtUrl": "https://static-cdn.jtvnw.net/ttv-boxart/517109_IGDB-285x380.jpg"
 }
