@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785422133,
+  "generatedAt": 1785422325,
   "totalViewers": 89,
-  "totalShinies": 707418,
+  "totalShinies": 708902,
   "pageSize": 100,
   "entries": [
     {
@@ -32,7 +32,7 @@
     {
       "rank": 6,
       "name": "bar_outofmana",
-      "shinies": 24936
+      "shinies": 25420
     },
     {
       "rank": 7,
@@ -146,43 +146,43 @@
     },
     {
       "rank": 29,
+      "name": "heavywater00",
+      "shinies": 2584
+    },
+    {
+      "rank": 30,
       "name": "watchmedothis",
       "shinies": 2484
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "kazmazel",
       "shinies": 2334
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "primalgamingnexus",
       "shinies": 2334
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "primetime94",
       "shinies": 1818
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "prunko",
       "shinies": 1668
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "tjallex",
       "shinies": 1668
-    },
-    {
-      "rank": 36,
-      "name": "heavywater00",
-      "shinies": 1584
     },
     {
       "rank": 37,
