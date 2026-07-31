@@ -2,31 +2,30 @@
   "game": {
     "provider": "bar",
     "available": true,
-    "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
-    "playerName": "[APM]Vdb",
-    "lobbyName": "EU6 - 013",
-    "lobbyTitle": "EU6 - 013",
+    "active": false,
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
+    "lobbyTitle": "",
     "mode": "",
-    "mapName": "Swirly Rock v1.1",
-    "mapFileName": "swirly_rock_v1.1",
-    "mapImage": "assets/maps/swirly-rock-v1-1-103e96c923.webp",
-    "players": 12,
-    "maxPlayers": 16,
-    "spectators": 6,
-    "gameTime": 817,
-    "updatedAt": "2026-07-30T14:53:10Z"
+    "mapName": "Waiting for a lobby",
+    "mapFileName": "",
+    "mapImage": "",
+    "players": 0,
+    "maxPlayers": 0,
+    "spectators": 0,
+    "gameTime": 0,
+    "updatedAt": "2026-07-31T15:46:07Z"
   },
-  "live": true,
-  "viewers": 12,
-  "title": "come for the \"What was that?\"",
-  "gameName": "Beyond All Reason",
-  "startedAt": "2026-07-30T11:03:53Z",
-  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
+  "live": false,
+  "viewers": 0,
+  "title": "",
+  "gameName": "",
+  "startedAt": "",
+  "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785423176,
+  "statusUpdatedAt": 1785512767,
   "clipsUpdatedAt": 1785414054,
   "clips": [
     {
@@ -80,6 +79,6 @@
       "createdAt": "2026-05-20T15:42:39Z"
     }
   ],
-  "gameId": "517109",
-  "gameBoxArtUrl": "https://static-cdn.jtvnw.net/ttv-boxart/517109_IGDB-285x380.jpg"
+  "gameId": "",
+  "gameBoxArtUrl": ""
 }
