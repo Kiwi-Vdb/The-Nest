@@ -15,27 +15,20 @@
     "maxPlayers": 0,
     "spectators": 0,
     "gameTime": 0,
-<<<<<<< HEAD
-    "updatedAt": "2026-07-31T15:46:07Z"
-=======
-    "updatedAt": "2026-07-31T15:21:06Z"
->>>>>>> f88d7f3227df138037b26e2dd1adae6e589c049b
+    "updatedAt": "2026-07-31T15:47:26Z"
   },
   "live": false,
   "viewers": 0,
   "title": "",
+  "gameId": "",
   "gameName": "",
+  "gameBoxArtUrl": "",
   "startedAt": "",
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-<<<<<<< HEAD
-  "statusUpdatedAt": 1785512767,
-  "clipsUpdatedAt": 1785512769,
-=======
-  "statusUpdatedAt": 1785512082,
-  "clipsUpdatedAt": 1785511268,
->>>>>>> f88d7f3227df138037b26e2dd1adae6e589c049b
+  "statusUpdatedAt": 1785512846,
+  "clipsUpdatedAt": 1785512848,
   "clips": [
     {
       "id": "SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
@@ -87,7 +80,5 @@
       "duration": 30.0,
       "createdAt": "2026-05-20T15:42:39Z"
     }
-  ],
-  "gameId": "",
-  "gameBoxArtUrl": ""
+  ]
 }
