@@ -1,17 +1,13 @@
 {
-<<<<<<< HEAD
-  "generatedAt": 1785512767,
-=======
-  "generatedAt": 1785511315,
->>>>>>> f88d7f3227df138037b26e2dd1adae6e589c049b
+  "generatedAt": 1785512846,
   "totalViewers": 91,
-  "totalShinies": 712220,
+  "totalShinies": 712720,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "itsvdb",
-      "shinies": 174100
+      "shinies": 174600
     },
     {
       "rank": 2,

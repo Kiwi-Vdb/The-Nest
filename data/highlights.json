@@ -1,18 +1,11 @@
 {
-<<<<<<< HEAD
-  "generatedAt": 1785512767,
+  "generatedAt": 1785512846,
   "rotationGeneratedAt": 1785512767,
   "nextRotationAt": 1785599167,
-=======
-  "generatedAt": 1785511315,
-  "rotationGeneratedAt": 1785511266,
-  "nextRotationAt": 1785597666,
->>>>>>> f88d7f3227df138037b26e2dd1adae6e589c049b
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-<<<<<<< HEAD
       "category": "collection_champion",
       "group": "viewer",
       "icon": "♛",
@@ -32,27 +25,6 @@
       "icon": "♥",
       "title": "Shinies Shared",
       "copy": "Viewers have sent 2 gifts worth 10,100 Shinies."
-=======
-      "category": "largest_balance",
-      "group": "viewer",
-      "icon": "✦",
-      "title": "Shiny Hoarder",
-      "copy": "itsvdb leads the flock with 174,100 Shinies."
-    },
-    {
-      "category": "latest_unlock",
-      "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "mesaber unlocked Blue Text (Common)."
-    },
-    {
-      "category": "community_loot_boxes",
-      "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 80 loot boxes."
->>>>>>> f88d7f3227df138037b26e2dd1adae6e589c049b
     }
   ]
 }
