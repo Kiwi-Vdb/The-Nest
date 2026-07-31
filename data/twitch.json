@@ -26,7 +26,7 @@
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "statusUpdatedAt": 1785512767,
-  "clipsUpdatedAt": 1785414054,
+  "clipsUpdatedAt": 1785512769,
   "clips": [
     {
       "id": "SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
@@ -34,7 +34,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
       "embedUrl": "https://clips.twitch.tv/embed?clip=SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/81e62438-b322-4635-888e-a1d4f58247c8/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
+      "views": 3,
       "duration": 30.0,
       "createdAt": "2026-07-27T18:11:07Z"
     },
