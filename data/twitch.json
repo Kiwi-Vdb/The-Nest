@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
     "players": 3,
     "maxPlayers": 16,
-    "spectators": 12,
-    "gameTime": 21,
-    "updatedAt": "2026-08-01T19:34:06Z"
+    "spectators": 13,
+    "gameTime": 51,
+    "updatedAt": "2026-08-01T19:34:37Z"
   },
   "live": true,
   "viewers": 12,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785612831,
+  "statusUpdatedAt": 1785612862,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
