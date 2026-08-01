@@ -1,5 +1,5 @@
 {
-  "generated_at": 1785604737,
+  "generated_at": 1785604999,
   "viewers": {
     "admsixx": {
       "username": "admsixx",
@@ -1116,6 +1116,32 @@
         "recent_unlocks": 0
       }
     },
+    "globe2deag": {
+      "username": "globe2deag",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 20,
+        "recent_unlocks": 0
+      }
+    },
     "gnus75": {
       "username": "gnus75",
       "shinies": {
@@ -1190,7 +1216,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 484,
+        "balance": 968,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
