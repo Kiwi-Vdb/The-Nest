@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 3,
     "maxPlayers": 16,
-    "spectators": 3,
-    "gameTime": 264,
-    "updatedAt": "2026-08-01T17:57:47Z"
+    "spectators": 4,
+    "gameTime": 291,
+    "updatedAt": "2026-08-01T17:58:18Z"
   },
   "live": true,
   "viewers": 15,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785607042,
+  "statusUpdatedAt": 1785607073,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
