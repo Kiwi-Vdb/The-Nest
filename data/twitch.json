@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_lobby",
-    "statusLabel": "IN LOBBY",
+    "status": "in_game",
+    "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
     "lobbyName": "iyc - Private Battle",
     "lobbyTitle": "iyc - Private Battle",
@@ -15,11 +15,11 @@
     "players": 3,
     "maxPlayers": 16,
     "spectators": 1,
-    "gameTime": 0,
-    "updatedAt": "2026-08-01T18:09:21Z"
+    "gameTime": 25,
+    "updatedAt": "2026-08-01T18:10:39Z"
   },
   "live": true,
-  "viewers": 23,
+  "viewers": 15,
   "title": "JCP Tournament",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785607805,
+  "statusUpdatedAt": 1785607835,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
