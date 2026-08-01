@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785617075,
+  "generatedAt": 1785617087,
   "totalViewers": 165,
-  "totalShinies": 784124,
+  "totalShinies": 785124,
   "pageSize": 100,
   "entries": [
     {
@@ -76,18 +76,18 @@
     },
     {
       "rank": 15,
+      "name": "oafsalot",
+      "shinies": 7002
+    },
+    {
+      "rank": 16,
       "name": "freakofnature122",
       "shinies": 6668
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "lpalochka",
       "shinies": 6336
-    },
-    {
-      "rank": 17,
-      "name": "oafsalot",
-      "shinies": 6002
     },
     {
       "rank": 18,
