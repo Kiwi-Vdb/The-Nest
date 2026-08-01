@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785609793,
+  "generatedAt": 1785609886,
   "totalViewers": 123,
-  "totalShinies": 740670,
+  "totalShinies": 741670,
   "pageSize": 100,
   "entries": [
     {
@@ -86,32 +86,32 @@
     },
     {
       "rank": 17,
+      "name": "oafsalot",
+      "shinies": 5002
+    },
+    {
+      "rank": 18,
       "name": "thequetx",
       "shinies": 4968
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "axolotl_eu",
       "shinies": 4486
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "heltoff",
       "shinies": 4302
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "deverhr",
       "shinies": 4218
     },
     {
-      "rank": 21,
-      "name": "dreadyfire",
-      "shinies": 4002
-    },
-    {
       "rank": 22,
-      "name": "oafsalot",
+      "name": "dreadyfire",
       "shinies": 4002
     },
     {
