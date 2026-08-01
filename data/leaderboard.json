@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785613427,
+  "generatedAt": 1785613487,
   "totalViewers": 132,
-  "totalShinies": 755346,
+  "totalShinies": 756830,
   "pageSize": 100,
   "entries": [
     {
@@ -87,7 +87,7 @@
     {
       "rank": 17,
       "name": "oafsalot",
-      "shinies": 5002
+      "shinies": 6002
     },
     {
       "rank": 18,
@@ -181,23 +181,23 @@
     },
     {
       "rank": 36,
+      "name": "primetime94",
+      "shinies": 2302
+    },
+    {
+      "rank": 37,
       "name": "bizzyrex",
       "shinies": 2079
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "liarturil",
       "shinies": 2002
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "prunko",
       "shinies": 2002
-    },
-    {
-      "rank": 39,
-      "name": "primetime94",
-      "shinies": 1818
     },
     {
       "rank": 40,
