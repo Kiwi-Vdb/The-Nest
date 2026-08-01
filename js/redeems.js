@@ -156,13 +156,14 @@ function renderRedeemCards() {
   const focusId = new URL(location.href).searchParams.get("redeem");
   grid.innerHTML = redeemState.redeems.map((item) => {
     const state = availability(item);
+    const commandLabel = item.inputRequired ? `${item.command} <song>` : item.command;
     return `
       <article class="redeem-card ${focusId === item.id ? "is-focused" : ""}" data-redeem-card="${escapeAttr(item.id)}">
         <div class="redeem-card-icon" aria-hidden="true">▶</div>
         <h3>${escapeHtml(item.name)}</h3>
         <p class="redeem-card-description">${escapeHtml(item.description || "Play this effect live on stream.")}</p>
         <div class="redeem-card-meta">
-          <span class="redeem-command">${escapeHtml(item.command)}</span>
+          <span class="redeem-command">${escapeHtml(commandLabel)}</span>
           <span>${Number(item.cooldownSeconds || 0)}s cooldown</span>
         </div>
         <button type="button" class="redeem-button" data-redeem-id="${escapeAttr(item.id)}" ${state.disabled ? "disabled" : ""}>${escapeHtml(state.label)}</button>
@@ -193,10 +194,23 @@ function openModal(item) {
   setText("#redeem-modal-price", `${Number(item.price || 0).toLocaleString()} ✦`);
   setText("#redeem-modal-after", `${(balance - Number(item.price || 0)).toLocaleString()} ✦`);
   setText("#redeem-modal-error", "");
+  const inputWrap = document.querySelector("#redeem-modal-input-wrap");
+  const input = document.querySelector("#redeem-modal-input");
+  const requiresInput = Boolean(item.inputRequired);
+  if (inputWrap && input) {
+    inputWrap.hidden = !requiresInput;
+    input.required = requiresInput;
+    input.value = "";
+    input.maxLength = Math.max(1, Number(item.inputMaxLength || 200));
+    input.placeholder = String(item.inputPlaceholder || "Enter request details");
+    setText("#redeem-modal-input-label", item.inputLabel || "Request details");
+  }
+  const confirm = document.querySelector("#redeem-confirm");
+  if (confirm) confirm.textContent = requiresInput ? "Queue song" : "Play on stream";
   const modal = document.querySelector("#redeem-modal");
   modal.hidden = false;
   modal.setAttribute("aria-hidden", "false");
-  document.querySelector("#redeem-confirm")?.focus();
+  (requiresInput ? input : confirm)?.focus();
 }
 
 function closeModal() {
@@ -205,6 +219,8 @@ function closeModal() {
   if (!modal) return;
   modal.hidden = true;
   modal.setAttribute("aria-hidden", "true");
+  const input = document.querySelector("#redeem-modal-input");
+  if (input) input.value = "";
   redeemState.selected = null;
 }
 
@@ -212,6 +228,13 @@ async function confirmRedeem() {
   const item = redeemState.selected;
   if (!item || redeemState.busy) return;
   const button = document.querySelector("#redeem-confirm");
+  const input = document.querySelector("#redeem-modal-input");
+  const userInput = item.inputRequired ? String(input?.value || "").trim() : "";
+  if (item.inputRequired && !userInput) {
+    setText("#redeem-modal-error", `Enter ${String(item.inputLabel || "request details").toLowerCase()} first.`);
+    input?.focus();
+    return;
+  }
   redeemState.busy = true;
   button.disabled = true;
   button.textContent = "Sending to Kiwi Birb…";
@@ -221,6 +244,7 @@ async function confirmRedeem() {
       method: "POST",
       body: JSON.stringify({
         redeemId: item.id,
+        userInput,
         idempotencyKey: `website-redeem:${redeemState.user.twitchUserId}:${item.id}:${crypto.randomUUID()}`,
       }),
     });
@@ -248,7 +272,7 @@ async function confirmRedeem() {
   } finally {
     redeemState.busy = false;
     button.disabled = false;
-    button.textContent = "Play on stream";
+    button.textContent = item.inputRequired ? "Queue song" : "Play on stream";
   }
 }
 

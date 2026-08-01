@@ -48,7 +48,7 @@
 
     <footer class="redeems-footer">
       <span>Redeems are charged only when the request is accepted.</span>
-      <span>If Kiwi Birb cannot queue the media, the charge is refunded automatically.</span>
+      <span>If Kiwi Birb cannot complete a request, the charge is refunded automatically.</span>
     </footer>
   </main>
 
@@ -60,6 +60,10 @@
       <p class="eyebrow">Confirm Stream Redeem</p>
       <h2 id="redeem-modal-title">Redeem</h2>
       <p id="redeem-modal-description"></p>
+      <label id="redeem-modal-input-wrap" class="redeem-modal-input" hidden>
+        <span id="redeem-modal-input-label">Request details</span>
+        <input id="redeem-modal-input" type="text" autocomplete="off" maxlength="200">
+      </label>
       <div class="redeem-modal-summary">
         <div><span>Current balance</span><strong id="redeem-modal-balance">—</strong></div>
         <div><span>Cost</span><strong id="redeem-modal-price">—</strong></div>
