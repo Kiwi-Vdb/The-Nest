@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29",
+  "updatedAt": "2026-07-31",
   "sections": [
     {
       "id": "viewer",
@@ -43,6 +43,15 @@
         {
           "usage": "!buy item",
           "description": "Buy an available shop item using its item ID or name."
+        },
+        {
+          "usage": "!hesalreadydead",
+          "description": "Spend 500 Shinies to play the He's Already Dead video on stream. This redeem has a 30-second global cooldown."
+        },
+        {
+          "usage": "!redeems",
+          "description": "Open the clickable Stream Redeems page on The Nest.",
+          "aliases": ["!rewards"]
         },
         {
           "usage": "!texteffects",

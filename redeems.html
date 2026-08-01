@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#08060a">
+  <meta name="description" content="Spend Kiwi Birb Shinies on stream redeems for itsVDB's Twitch stream.">
+  <title>Stream Redeems | The Nest</title>
+  <link rel="stylesheet" href="./css/redeems.css">
+</head>
+<body>
+  <main class="redeems-page">
+    <header class="redeems-hero">
+      <nav class="redeems-nav" aria-label="Redeems page navigation">
+        <a href="hub.html">← Return to The Nest</a>
+        <a href="commands.html">Chat Commands</a>
+        <a href="https://www.twitch.tv/itsvdb" target="_blank" rel="noopener noreferrer">Watch on Twitch</a>
+      </nav>
+
+      <div class="redeems-heading">
+        <div>
+          <p class="eyebrow">Kiwi Birb Stream Controls</p>
+          <h1>Stream Redeems</h1>
+          <p>Spend Shinies to trigger effects live on itsVDB's stream. Every button uses the same price and cooldown as its matching chat command.</p>
+        </div>
+        <section class="redeems-account" aria-label="Your redeem account">
+          <span>Your Shinies</span>
+          <strong id="redeems-balance">—</strong>
+          <div id="redeems-account-actions"></div>
+        </section>
+      </div>
+
+      <div id="redeems-service" class="redeems-service" role="status" aria-live="polite">Connecting to Kiwi Birb…</div>
+    </header>
+
+    <section class="redeems-list" aria-labelledby="redeems-list-title">
+      <div class="redeems-list-heading">
+        <div>
+          <p class="eyebrow">Available Effects</p>
+          <h2 id="redeems-list-title">Choose a redeem</h2>
+        </div>
+        <span>Chat commands work too</span>
+      </div>
+      <div id="redeems-grid" class="redeems-grid" aria-live="polite">
+        <div class="redeems-empty">Loading stream redeems…</div>
+      </div>
+    </section>
+
+    <footer class="redeems-footer">
+      <span>Redeems are charged only when the request is accepted.</span>
+      <span>If Kiwi Birb cannot queue the media, the charge is refunded automatically.</span>
+    </footer>
+  </main>
+
+  <div id="redeem-modal" class="redeem-modal" hidden aria-hidden="true">
+    <button class="redeem-modal-backdrop" type="button" data-redeem-close aria-label="Cancel redeem"></button>
+    <section class="redeem-modal-card" role="dialog" aria-modal="true" aria-labelledby="redeem-modal-title">
+      <button class="redeem-modal-close" type="button" data-redeem-close aria-label="Close">×</button>
+      <div class="redeem-modal-icon" aria-hidden="true">▶</div>
+      <p class="eyebrow">Confirm Stream Redeem</p>
+      <h2 id="redeem-modal-title">Redeem</h2>
+      <p id="redeem-modal-description"></p>
+      <div class="redeem-modal-summary">
+        <div><span>Current balance</span><strong id="redeem-modal-balance">—</strong></div>
+        <div><span>Cost</span><strong id="redeem-modal-price">—</strong></div>
+        <div><span>Balance after</span><strong id="redeem-modal-after">—</strong></div>
+      </div>
+      <div id="redeem-modal-error" class="redeem-modal-error" role="status"></div>
+      <div class="redeem-modal-actions">
+        <button type="button" class="secondary-button" data-redeem-close>Cancel</button>
+        <button type="button" id="redeem-confirm" class="primary-button">Play on stream</button>
+      </div>
+    </section>
+  </div>
+
+  <div id="redeems-toast" class="redeems-toast" role="status" aria-live="polite"></div>
+  <script src="./js/redeems.js"></script>
+</body>
+</html>
