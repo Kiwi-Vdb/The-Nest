@@ -9,14 +9,14 @@
     "lobbyName": "iyc - Private Battle",
     "lobbyTitle": "iyc - Private Battle",
     "mode": "",
-    "mapName": "Hades Ponds 1.1",
-    "mapFileName": "hades_ponds_1.1",
-    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
+    "mapName": "Eternal Consequences 1.2",
+    "mapFileName": "eternal_consequences_1.2",
+    "mapImage": "assets/maps/eternal-consequences-1-2-9ec163caf7.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 1,
-    "gameTime": 1214,
-    "updatedAt": "2026-08-01T18:52:44Z"
+    "gameTime": 1220,
+    "updatedAt": "2026-08-01T18:53:00Z"
   },
   "live": true,
   "viewers": 17,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785610362,
+  "statusUpdatedAt": 1785610393,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
