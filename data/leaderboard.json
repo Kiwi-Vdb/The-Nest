@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785617087,
+  "generatedAt": 1785617261,
   "totalViewers": 165,
-  "totalShinies": 785124,
+  "totalShinies": 785458,
   "pageSize": 100,
   "entries": [
     {
@@ -156,23 +156,23 @@
     },
     {
       "rank": 31,
+      "name": "heavywater00",
+      "shinies": 2918
+    },
+    {
+      "rank": 32,
       "name": "alishhk",
       "shinies": 2818
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "watchmedothis",
       "shinies": 2818
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "erevos187",
       "shinies": 2786
-    },
-    {
-      "rank": 34,
-      "name": "heavywater00",
-      "shinies": 2584
     },
     {
       "rank": 35,
