@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/gasbag-grabens-1-1-1-d7f7d689dd.webp",
     "players": 3,
     "maxPlayers": 16,
-    "spectators": 12,
+    "spectators": 13,
     "gameTime": 1486,
-    "updatedAt": "2026-08-01T19:27:06Z"
+    "updatedAt": "2026-08-01T19:28:40Z"
   },
   "live": true,
   "viewers": 11,
