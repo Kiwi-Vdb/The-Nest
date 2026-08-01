@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_game",
-    "statusLabel": "IN GAME",
+    "status": "in_lobby",
+    "statusLabel": "IN LOBBY",
     "playerName": "[APM]Vdb",
     "lobbyName": "iyc - Private Battle",
     "lobbyTitle": "iyc - Private Battle",
@@ -16,7 +16,7 @@
     "maxPlayers": 16,
     "spectators": 1,
     "gameTime": 0,
-    "updatedAt": "2026-08-01T18:06:00Z"
+    "updatedAt": "2026-08-01T18:06:16Z"
   },
   "live": true,
   "viewers": 23,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785607562,
+  "statusUpdatedAt": 1785607593,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
