@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785604551,
+  "generatedAt": 1785604615,
   "totalViewers": 103,
-  "totalShinies": 719332,
+  "totalShinies": 719816,
   "pageSize": 100,
   "entries": [
     {
@@ -121,18 +121,18 @@
     },
     {
       "rank": 24,
-      "name": "imth3apollo",
+      "name": "akiletia",
       "shinies": 3668
     },
     {
       "rank": 25,
-      "name": "oafsalot",
+      "name": "imth3apollo",
       "shinies": 3668
     },
     {
       "rank": 26,
-      "name": "akiletia",
-      "shinies": 3334
+      "name": "oafsalot",
+      "shinies": 3668
     },
     {
       "rank": 27,
@@ -231,23 +231,23 @@
     },
     {
       "rank": 46,
-      "name": "iyc2",
+      "name": "akumar67",
       "shinies": 818
     },
     {
       "rank": 47,
-      "name": "slicklikevik",
+      "name": "iyc2",
       "shinies": 818
     },
     {
       "rank": 48,
-      "name": "twintwonk",
+      "name": "slicklikevik",
       "shinies": 818
     },
     {
       "rank": 49,
-      "name": "akumar67",
-      "shinies": 668
+      "name": "twintwonk",
+      "shinies": 818
     },
     {
       "rank": 50,
