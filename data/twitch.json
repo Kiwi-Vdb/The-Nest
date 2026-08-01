@@ -15,11 +15,11 @@
     "players": 3,
     "maxPlayers": 16,
     "spectators": 12,
-    "gameTime": 180,
-    "updatedAt": "2026-08-01T17:44:32Z"
+    "gameTime": 213,
+    "updatedAt": "2026-08-01T17:45:04Z"
   },
   "live": true,
-  "viewers": 10,
+  "viewers": 12,
   "title": "JCP Tournament",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785606252,
+  "statusUpdatedAt": 1785606282,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
