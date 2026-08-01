@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785616195,
-  "totalViewers": 162,
-  "totalShinies": 781304,
+  "generatedAt": 1785616266,
+  "totalViewers": 163,
+  "totalShinies": 781972,
   "pageSize": 100,
   "entries": [
     {
@@ -216,42 +216,42 @@
     },
     {
       "rank": 43,
+      "name": "dog1isopen",
+      "shinies": 1668
+    },
+    {
+      "rank": 44,
       "name": "hells_hound_",
       "shinies": 1484
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "our_lord_and_savior_gonk",
       "shinies": 1484
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "taeze1000",
       "shinies": 1484
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "the_electron97",
       "shinies": 1484
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "mesaber",
       "shinies": 1452
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "chronopolis_sc",
       "shinies": 1334
     },
     {
-      "rank": 49,
-      "name": "dhisame",
-      "shinies": 1334
-    },
-    {
       "rank": 50,
-      "name": "dog1isopen",
+      "name": "dhisame",
       "shinies": 1334
     },
     {
@@ -741,76 +741,81 @@
     },
     {
       "rank": 148,
-      "name": "spoderfriend",
+      "name": "spacepirate_",
       "shinies": 334
     },
     {
       "rank": 149,
-      "name": "steffa92",
+      "name": "spoderfriend",
       "shinies": 334
     },
     {
       "rank": 150,
-      "name": "tallerofin",
+      "name": "steffa92",
       "shinies": 334
     },
     {
       "rank": 151,
-      "name": "tankmaster374",
+      "name": "tallerofin",
       "shinies": 334
     },
     {
       "rank": 152,
-      "name": "thrakei",
+      "name": "tankmaster374",
       "shinies": 334
     },
     {
       "rank": 153,
-      "name": "unfugpsy",
+      "name": "thrakei",
       "shinies": 334
     },
     {
       "rank": 154,
-      "name": "viral_lp",
+      "name": "unfugpsy",
       "shinies": 334
     },
     {
       "rank": 155,
-      "name": "visiblesighs",
+      "name": "viral_lp",
       "shinies": 334
     },
     {
       "rank": 156,
-      "name": "vlunom",
+      "name": "visiblesighs",
       "shinies": 334
     },
     {
       "rank": 157,
-      "name": "watermeloan135",
+      "name": "vlunom",
       "shinies": 334
     },
     {
       "rank": 158,
-      "name": "zeeburgapm",
+      "name": "watermeloan135",
       "shinies": 334
     },
     {
       "rank": 159,
-      "name": "zegarzaglady",
+      "name": "zeeburgapm",
       "shinies": 334
     },
     {
       "rank": 160,
-      "name": "zelderoth",
+      "name": "zegarzaglady",
       "shinies": 334
     },
     {
       "rank": 161,
-      "name": "zowdie",
+      "name": "zelderoth",
       "shinies": 334
     },
     {
       "rank": 162,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 163,
       "name": "zzzzzvh",
       "shinies": 334
     }
