@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 001",
     "lobbyTitle": "EU7 - 001",
     "mode": "",
-    "mapName": "Supreme Isthmus v2.1",
-    "mapFileName": "supreme_isthmus_v2.1",
-    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 6,
-    "gameTime": 175,
-    "updatedAt": "2026-08-01T20:58:15Z"
+    "gameTime": 181,
+    "updatedAt": "2026-08-01T20:58:47Z"
   },
   "live": true,
   "viewers": 30,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785617890,
+  "statusUpdatedAt": 1785617921,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
