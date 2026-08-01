@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_lobby",
-    "statusLabel": "IN LOBBY",
+    "status": "in_game",
+    "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
     "lobbyName": "TM_autopilot - Private Battle",
     "lobbyTitle": "TM_autopilot - Private Battle",
@@ -15,8 +15,8 @@
     "players": 3,
     "maxPlayers": 16,
     "spectators": 1,
-    "gameTime": 0,
-    "updatedAt": "2026-08-01T17:12:32Z"
+    "gameTime": 21,
+    "updatedAt": "2026-08-01T17:13:03Z"
   },
   "live": true,
   "viewers": 10,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785604335,
+  "statusUpdatedAt": 1785604366,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
