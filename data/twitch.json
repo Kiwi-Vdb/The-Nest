@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 001",
     "lobbyTitle": "EU7 - 001",
     "mode": "",
-    "mapName": "The Cold Place BAR v1.1",
-    "mapFileName": "the_cold_place_BAR_v1.1",
-    "mapImage": "assets/maps/the-cold-place-bar-v1-1-1ac333d2b1.webp",
+    "mapName": "Supreme Isthmus v1.7",
+    "mapFileName": "supreme_isthmus_v1.7",
+    "mapImage": "assets/maps/supreme-isthmus-v1-7-2548f362b3.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 6,
     "gameTime": 847,
-    "updatedAt": "2026-08-01T20:50:19Z"
+    "updatedAt": "2026-08-01T20:52:27Z"
   },
   "live": true,
   "viewers": 34,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785617493,
+  "statusUpdatedAt": 1785617523,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
