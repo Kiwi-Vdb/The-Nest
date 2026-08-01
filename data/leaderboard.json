@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785604615,
+  "generatedAt": 1785604643,
   "totalViewers": 103,
-  "totalShinies": 719816,
+  "totalShinies": 720300,
   "pageSize": 100,
   "entries": [
     {
@@ -176,43 +176,43 @@
     },
     {
       "rank": 35,
+      "name": "erevos187",
+      "shinies": 1786
+    },
+    {
+      "rank": 36,
       "name": "prunko",
       "shinies": 1668
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "tjallex",
       "shinies": 1668
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "our_lord_and_savior_gonk",
       "shinies": 1484
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "the_electron97",
       "shinies": 1484
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "mesaber",
       "shinies": 1452
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "dog1isopen",
       "shinies": 1334
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "ruphin",
       "shinies": 1334
-    },
-    {
-      "rank": 42,
-      "name": "erevos187",
-      "shinies": 1302
     },
     {
       "rank": 43,
