@@ -9,14 +9,14 @@
     "lobbyName": "iyc - Private Battle",
     "lobbyTitle": "iyc - Private Battle",
     "mode": "",
-    "mapName": "The Cold Place BAR v1.1",
-    "mapFileName": "the_cold_place_BAR_v1.1",
-    "mapImage": "assets/maps/the-cold-place-bar-v1-1-1ac333d2b1.webp",
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 1,
-    "gameTime": 1106,
-    "updatedAt": "2026-08-01T18:29:46Z"
+    "gameTime": 1116,
+    "updatedAt": "2026-08-01T18:30:19Z"
   },
   "live": true,
   "viewers": 13,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785608962,
+  "statusUpdatedAt": 1785608992,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
