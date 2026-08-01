@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785610167,
+  "generatedAt": 1785610355,
   "totalViewers": 126,
-  "totalShinies": 744006,
+  "totalShinies": 744340,
   "pageSize": 100,
   "entries": [
     {
@@ -101,23 +101,23 @@
     },
     {
       "rank": 20,
-      "name": "heltoff",
+      "name": "blzbrg",
       "shinies": 4302
     },
     {
       "rank": 21,
+      "name": "heltoff",
+      "shinies": 4302
+    },
+    {
+      "rank": 22,
       "name": "deverhr",
       "shinies": 4218
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "dreadyfire",
       "shinies": 4002
-    },
-    {
-      "rank": 23,
-      "name": "blzbrg",
-      "shinies": 3968
     },
     {
       "rank": 24,
