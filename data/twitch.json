@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
     "players": 3,
     "maxPlayers": 16,
-    "spectators": 13,
+    "spectators": 12,
     "gameTime": 742,
-    "updatedAt": "2026-08-01T19:46:17Z"
+    "updatedAt": "2026-08-01T19:47:51Z"
   },
   "live": true,
-  "viewers": 12,
+  "viewers": 13,
   "title": "JCP Tournament",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785613625,
+  "statusUpdatedAt": 1785613656,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
