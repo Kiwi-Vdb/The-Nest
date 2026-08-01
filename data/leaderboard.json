@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785612466,
+  "generatedAt": 1785612607,
   "totalViewers": 132,
-  "totalShinies": 752012,
+  "totalShinies": 752346,
   "pageSize": 100,
   "entries": [
     {
@@ -96,17 +96,17 @@
     },
     {
       "rank": 19,
+      "name": "heltoff",
+      "shinies": 4636
+    },
+    {
+      "rank": 20,
       "name": "axolotl_eu",
       "shinies": 4486
     },
     {
-      "rank": 20,
-      "name": "blzbrg",
-      "shinies": 4302
-    },
-    {
       "rank": 21,
-      "name": "heltoff",
+      "name": "blzbrg",
       "shinies": 4302
     },
     {
