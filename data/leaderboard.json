@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785615276,
+  "generatedAt": 1785615293,
   "totalViewers": 156,
-  "totalShinies": 775332,
+  "totalShinies": 776666,
   "pageSize": 100,
   "entries": [
     {
@@ -42,7 +42,7 @@
     {
       "rank": 8,
       "name": "crazypyronl",
-      "shinies": 23820
+      "shinies": 24820
     },
     {
       "rank": 9,
@@ -101,18 +101,18 @@
     },
     {
       "rank": 20,
+      "name": "deverhr",
+      "shinies": 4552
+    },
+    {
+      "rank": 21,
       "name": "axolotl_eu",
       "shinies": 4486
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "blzbrg",
       "shinies": 4302
-    },
-    {
-      "rank": 22,
-      "name": "deverhr",
-      "shinies": 4218
     },
     {
       "rank": 23,
