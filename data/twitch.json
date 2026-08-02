@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Ghenna Rising 4.0.1",
-    "mapFileName": "ghenna_rising_4.0.1",
-    "mapImage": "assets/maps/ghenna-rising-4-0-1-80ed9dd956.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
+    "spectators": 8,
     "gameTime": 1362,
-    "updatedAt": "2026-08-02T10:00:08Z"
+    "updatedAt": "2026-08-02T10:00:38Z"
   },
   "live": true,
   "viewers": 10,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785664792,
+  "statusUpdatedAt": 1785664823,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
