@@ -9,14 +9,14 @@
     "lobbyName": "[APM]Vdb - Private Battle",
     "lobbyTitle": "[APM]Vdb - Private Battle",
     "mode": "",
-    "mapName": "Comet Catcher Remake 1.8",
-    "mapFileName": "comet_catcher_remake_1.8",
-    "mapImage": "assets/maps/comet-catcher-remake-1-8-74f583b4af.webp",
+    "mapName": "The Cold Place BAR v1.1",
+    "mapFileName": "the_cold_place_BAR_v1.1",
+    "mapImage": "assets/maps/the-cold-place-bar-v1-1-1ac333d2b1.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 0,
-    "updatedAt": "2026-08-02T17:09:06Z"
+    "updatedAt": "2026-08-02T17:13:29Z"
   },
   "live": true,
   "viewers": 13,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785690804,
+  "statusUpdatedAt": 1785690834,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
