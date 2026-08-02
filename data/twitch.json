@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Seven Rivers v1.21",
-    "mapFileName": "seven_rivers_v1.21",
-    "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
+    "mapName": "Melting Glacier v1.1.2",
+    "mapFileName": "melting_glacier_v1.1.2",
+    "mapImage": "assets/maps/melting-glacier-v1-1-2-ef783c9343.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 23,
-    "gameTime": 1557,
-    "updatedAt": "2026-08-02T14:04:41Z"
+    "spectators": 22,
+    "gameTime": 1566,
+    "updatedAt": "2026-08-02T14:04:58Z"
   },
   "live": true,
   "viewers": 21,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785679461,
+  "statusUpdatedAt": 1785679492,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
