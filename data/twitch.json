@@ -15,8 +15,8 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 13,
-    "gameTime": 30,
-    "updatedAt": "2026-08-02T12:06:32Z"
+    "gameTime": 60,
+    "updatedAt": "2026-08-02T12:07:04Z"
   },
   "live": true,
   "viewers": 26,
