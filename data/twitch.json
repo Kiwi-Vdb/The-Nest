@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/koom-valley-3-3-1-31688bcab7.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 26,
-    "gameTime": 383,
-    "updatedAt": "2026-08-02T14:42:55Z"
+    "spectators": 25,
+    "gameTime": 413,
+    "updatedAt": "2026-08-02T14:43:26Z"
   },
   "live": true,
-  "viewers": 18,
+  "viewers": 17,
   "title": "Day 1 of actually learning the game",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785681774,
+  "statusUpdatedAt": 1785681805,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
