@@ -9,14 +9,14 @@
     "lobbyName": "[APM]Vdb - Private Battle",
     "lobbyTitle": "[APM]Vdb - Private Battle",
     "mode": "",
-    "mapName": "Gasbag Grabens 1.1.1",
-    "mapFileName": "gasbag_grabens_1.1.1",
-    "mapImage": "assets/maps/gasbag-grabens-1-1-1-d7f7d689dd.webp",
+    "mapName": "Cirolata 1.03",
+    "mapFileName": "cirolata_1.03",
+    "mapImage": "assets/maps/cirolata-1-03-4fd0ca4e23.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
-    "gameTime": 974,
-    "updatedAt": "2026-08-02T18:07:30Z"
+    "gameTime": 6,
+    "updatedAt": "2026-08-02T18:08:48Z"
   },
   "live": true,
   "viewers": 18,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785694091,
+  "statusUpdatedAt": 1785694122,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
