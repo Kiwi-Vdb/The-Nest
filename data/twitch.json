@@ -12,11 +12,11 @@
     "mapName": "Gasbag Grabens 1.1.1",
     "mapFileName": "gasbag_grabens_1.1.1",
     "mapImage": "assets/maps/gasbag-grabens-1-1-1-d7f7d689dd.webp",
-    "players": 2,
+    "players": 3,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 6,
     "gameTime": 974,
-    "updatedAt": "2026-08-02T17:59:55Z"
+    "updatedAt": "2026-08-02T18:01:45Z"
   },
   "live": true,
   "viewers": 19,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785693665,
+  "statusUpdatedAt": 1785693696,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
