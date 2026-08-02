@@ -1,7 +1,23 @@
 {
-  "generatedAt": 1785673395,
+  "generatedAt": 1785673659,
   "count": 50,
   "activities": [
+    {
+      "id": "283cae2a516e4c2c",
+      "type": "prediction",
+      "who": "deverhr",
+      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1785673658,
+      "amount": 1500
+    },
+    {
+      "id": "f135f5bb9f063ba4",
+      "type": "prediction",
+      "who": "hunbleeone",
+      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1785673658,
+      "amount": 1500
+    },
     {
       "id": "64cb1bbc3b95bbe8",
       "type": "unlock",
@@ -474,25 +490,6 @@
       "text": "won 170 Shinies playing Gamba",
       "timestamp": 1783964318,
       "amount": 170
-    },
-    {
-      "id": "b2c8ee003228cb33",
-      "type": "gift",
-      "who": "iamdibi",
-      "text": "gifted 10,000 Shinies to hunbleeone",
-      "timestamp": 1783963631,
-      "amount": 10000,
-      "target": "hunbleeone"
-    },
-    {
-      "id": "edde03fd3c9dc127",
-      "type": "unlock",
-      "who": "mesaber",
-      "text": "unlocked Wizards Hat",
-      "timestamp": 1783960165,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
