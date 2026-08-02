@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/serene-caldera-v1-3-cbdf20c520.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 24,
+    "spectators": 23,
     "gameTime": 722,
-    "updatedAt": "2026-08-02T14:48:45Z"
+    "updatedAt": "2026-08-02T14:49:16Z"
   },
   "live": true,
   "viewers": 17,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785682110,
+  "statusUpdatedAt": 1785682141,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
