@@ -12,11 +12,11 @@
     "mapName": "Moonshine Run v1.0.1",
     "mapFileName": "moonshine_run_v1.0.1",
     "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
     "spectators": 5,
     "gameTime": 1100,
-    "updatedAt": "2026-08-02T09:09:55Z"
+    "updatedAt": "2026-08-02T09:10:26Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785661780,
+  "statusUpdatedAt": 1785661810,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
