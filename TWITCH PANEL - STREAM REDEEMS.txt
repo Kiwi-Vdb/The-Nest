@@ -1,0 +1,20 @@
+STREAM REDEEMS TWITCH PANEL
+===========================
+
+Panel image:
+assets/twitch-panels/stream-redeems-panel.png
+
+Link this panel to:
+https://kiwi-vdb.github.io/The-Nest/redeems.html
+
+HOW TO ADD IT
+-------------
+1. Open your Twitch channel page.
+2. Open the About section beneath the stream.
+3. Turn on Edit Panels.
+4. Add a new image panel.
+5. Upload stream-redeems-panel.png.
+6. Paste the link above into the panel's Image Links To box.
+7. Save the panel and turn Edit Panels off.
+
+The supplied image is 320 x 120 pixels and under 1 MB, ready for Twitch.

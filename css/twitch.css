@@ -114,6 +114,48 @@ body { overflow-x: hidden; }
 .watch-hotspot { left: 20.7%; top: 50.2%; width: 11.8%; height: 5.5%; }
 .clips-hotspot { left: 81.5%; top: 84.4%; width: 10.7%; height: 4.1%; }
 
+/* Visible sidebar shortcut to the clickable Stream Redeems catalogue. */
+.twitch-redeems-link {
+  position: absolute;
+  left: 4.25%;
+  top: 75.1%;
+  z-index: 10;
+  display: flex;
+  width: 12.6%;
+  height: 4.85%;
+  align-items: center;
+  justify-content: center;
+  gap: .42em;
+  border: 1px solid rgba(210, 161, 95, .58);
+  border-radius: 8px;
+  color: #e8d0aa;
+  background:
+    linear-gradient(180deg, rgba(31, 22, 34, .96), rgba(10, 8, 12, .96));
+  box-shadow:
+    0 0 13px rgba(141, 85, 255, .24),
+    inset 0 0 10px rgba(141, 85, 255, .09);
+  font: 600 clamp(.4rem, .75vw, .86rem)/1 Georgia, "Times New Roman", serif;
+  letter-spacing: .045em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: border-color 180ms ease, box-shadow 180ms ease, color 180ms ease;
+}
+
+.twitch-redeems-link span {
+  color: #9f65ff;
+  text-shadow: 0 0 8px rgba(141, 85, 255, .9);
+}
+
+.twitch-redeems-link:hover,
+.twitch-redeems-link:focus-visible {
+  border-color: #a66eff;
+  color: #fff0d2;
+  outline: none;
+  box-shadow:
+    0 0 20px rgba(141, 85, 255, .5),
+    inset 0 0 12px rgba(210, 161, 95, .13);
+}
+
 /* The desk monitor shows the muted live stream and opens Twitch when clicked. */
 /* Paste this rule at the VERY BOTTOM of css/twitch.css.
    Do not replace the original selector block; this overrides position and size only. */

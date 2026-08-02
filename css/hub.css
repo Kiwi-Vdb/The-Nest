@@ -175,6 +175,48 @@ body { overflow-x: hidden; }
   filter: drop-shadow(0 0 18px rgba(141, 85, 255, .18));
 }
 
+/* Direct viewer route to the live redeem catalogue. */
+.hub-redeems-link {
+  position: absolute;
+  left: 42.35%;
+  top: 38.35%;
+  z-index: 7;
+  display: flex;
+  width: 15.3%;
+  min-height: 3.9%;
+  align-items: center;
+  justify-content: center;
+  gap: .45em;
+  border: 1px solid rgba(210, 161, 95, .72);
+  border-radius: 999px;
+  color: #f1d8ae;
+  background:
+    linear-gradient(180deg, rgba(35, 25, 39, .96), rgba(10, 7, 12, .96));
+  box-shadow:
+    0 0 16px rgba(141, 85, 255, .34),
+    inset 0 0 13px rgba(141, 85, 255, .12);
+  font: 600 clamp(.42rem, .86vw, .98rem)/1 Georgia, "Times New Roman", serif;
+  letter-spacing: .055em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.hub-redeems-link span {
+  color: #9f65ff;
+  text-shadow: 0 0 9px rgba(141, 85, 255, .88);
+}
+
+.hub-redeems-link:hover,
+.hub-redeems-link:focus-visible {
+  border-color: #b886ff;
+  outline: none;
+  box-shadow:
+    0 0 24px rgba(141, 85, 255, .58),
+    inset 0 0 16px rgba(210, 161, 95, .15);
+  transform: translateY(-2px);
+}
+
 .kiwi-reaction::after {
   content: attr(data-message);
   position: absolute;
