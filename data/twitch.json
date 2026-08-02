@@ -12,11 +12,11 @@
     "mapName": "Cells 1.2",
     "mapFileName": "cells_1.2",
     "mapImage": "assets/maps/cells-1-2-b2eb8b3f82.webp",
-    "players": 13,
+    "players": 14,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 1100,
-    "updatedAt": "2026-08-02T09:11:26Z"
+    "updatedAt": "2026-08-02T09:11:42Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785661871,
+  "statusUpdatedAt": 1785661901,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
