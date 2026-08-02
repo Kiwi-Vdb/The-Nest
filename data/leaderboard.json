@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785670541,
+  "generatedAt": 1785670549,
   "totalViewers": 201,
-  "totalShinies": 837690,
+  "totalShinies": 836890,
   "pageSize": 100,
   "entries": [
     {
@@ -91,23 +91,23 @@
     },
     {
       "rank": 18,
-      "name": "cozzwald",
-      "shinies": 5452
-    },
-    {
-      "rank": 19,
       "name": "thequetx",
       "shinies": 5302
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "heltoff",
       "shinies": 5120
     },
     {
-      "rank": 21,
+      "rank": 20,
       "name": "deverhr",
       "shinies": 4702
+    },
+    {
+      "rank": 21,
+      "name": "cozzwald",
+      "shinies": 4652
     },
     {
       "rank": 22,
