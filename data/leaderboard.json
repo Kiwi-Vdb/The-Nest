@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785693814,
+  "generatedAt": 1785693901,
   "totalViewers": 218,
-  "totalShinies": 936324,
+  "totalShinies": 938324,
   "pageSize": 100,
   "entries": [
     {
@@ -27,7 +27,7 @@
     {
       "rank": 5,
       "name": "iamdibi",
-      "shinies": 64322
+      "shinies": 65322
     },
     {
       "rank": 6,
@@ -126,23 +126,23 @@
     },
     {
       "rank": 25,
+      "name": "blodir",
+      "shinies": 5002
+    },
+    {
+      "rank": 26,
       "name": "axolotl_eu",
       "shinies": 4820
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "blzbrg",
       "shinies": 4302
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "bonghits4cthulhu",
       "shinies": 4152
-    },
-    {
-      "rank": 28,
-      "name": "blodir",
-      "shinies": 4002
     },
     {
       "rank": 29,
