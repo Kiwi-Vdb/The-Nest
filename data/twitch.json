@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
-    "gameTime": 255,
-    "updatedAt": "2026-08-02T13:42:59Z"
+    "spectators": 18,
+    "gameTime": 285,
+    "updatedAt": "2026-08-02T13:43:31Z"
   },
   "live": true,
   "viewers": 18,
