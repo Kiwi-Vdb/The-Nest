@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785690285,
+  "generatedAt": 1785690390,
   "totalViewers": 211,
-  "totalShinies": 924440,
+  "totalShinies": 925074,
   "pageSize": 100,
   "entries": [
     {
@@ -27,7 +27,7 @@
     {
       "rank": 5,
       "name": "iamdibi",
-      "shinies": 64172
+      "shinies": 64322
     },
     {
       "rank": 6,
@@ -301,32 +301,32 @@
     },
     {
       "rank": 60,
+      "name": "hells_hound_",
+      "shinies": 1968
+    },
+    {
+      "rank": 61,
       "name": "nebulanomad12",
       "shinies": 1820
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "snoopa_aoe",
       "shinies": 1818
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "bartender_11",
       "shinies": 1668
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "ionnerai",
       "shinies": 1668
     },
     {
-      "rank": 64,
-      "name": "franzdk_",
-      "shinies": 1484
-    },
-    {
       "rank": 65,
-      "name": "hells_hound_",
+      "name": "franzdk_",
       "shinies": 1484
     },
     {
