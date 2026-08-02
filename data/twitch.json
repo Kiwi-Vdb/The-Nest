@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 20,
-    "gameTime": 1890,
-    "updatedAt": "2026-08-02T13:03:12Z"
+    "gameTime": 1923,
+    "updatedAt": "2026-08-02T13:03:44Z"
   },
   "live": true,
-  "viewers": 21,
+  "viewers": 22,
   "title": "Day 1 of actually learning the game",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785675783,
+  "statusUpdatedAt": 1785675814,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
