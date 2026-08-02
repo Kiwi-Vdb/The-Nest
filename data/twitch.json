@@ -9,14 +9,14 @@
     "lobbyName": "[APM]Vdb - Private Battle",
     "lobbyTitle": "[APM]Vdb - Private Battle",
     "mode": "",
-    "mapName": "Cirolata 1.03",
-    "mapFileName": "cirolata_1.03",
-    "mapImage": "assets/maps/cirolata-1-03-4fd0ca4e23.webp",
+    "mapName": "Devil's Postpiles 1.1.1",
+    "mapFileName": "devil_s_postpiles_1.1.1",
+    "mapImage": "assets/maps/devil-s-postpiles-1-1-1-9fb74acccb.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 945,
-    "updatedAt": "2026-08-02T18:27:02Z"
+    "updatedAt": "2026-08-02T18:27:45Z"
   },
   "live": true,
   "viewers": 22,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785695247,
+  "statusUpdatedAt": 1785695278,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
