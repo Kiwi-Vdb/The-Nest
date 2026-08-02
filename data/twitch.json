@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
+    "mapName": "Red River Estuary v1.1",
+    "mapFileName": "red_river_estuary_v1.1",
+    "mapImage": "assets/maps/red-river-estuary-v1-1-4af83863e9.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 12,
-    "gameTime": 1269,
-    "updatedAt": "2026-08-02T10:29:10Z"
+    "gameTime": 1281,
+    "updatedAt": "2026-08-02T10:29:25Z"
   },
   "live": true,
   "viewers": 16,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785666555,
+  "statusUpdatedAt": 1785666585,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
