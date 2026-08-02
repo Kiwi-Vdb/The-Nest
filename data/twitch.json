@@ -9,14 +9,14 @@
     "lobbyName": "[APM]Vdb - Private Battle",
     "lobbyTitle": "[APM]Vdb - Private Battle",
     "mode": "",
-    "mapName": "The Cold Place BAR v1.1",
-    "mapFileName": "the_cold_place_BAR_v1.1",
-    "mapImage": "assets/maps/the-cold-place-bar-v1-1-1ac333d2b1.webp",
+    "mapName": "Gasbag Grabens 1.1.1",
+    "mapFileName": "gasbag_grabens_1.1.1",
+    "mapImage": "assets/maps/gasbag-grabens-1-1-1-d7f7d689dd.webp",
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
     "gameTime": 1220,
-    "updatedAt": "2026-08-02T17:38:45Z"
+    "updatedAt": "2026-08-02T17:39:00Z"
   },
   "live": true,
   "viewers": 16,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785692324,
+  "statusUpdatedAt": 1785692355,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
