@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
-    "gameTime": 192,
-    "updatedAt": "2026-08-02T13:41:55Z"
+    "spectators": 16,
+    "gameTime": 222,
+    "updatedAt": "2026-08-02T13:42:27Z"
   },
   "live": true,
-  "viewers": 17,
+  "viewers": 18,
   "title": "Day 1 of actually learning the game",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785678125,
+  "statusUpdatedAt": 1785678155,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
