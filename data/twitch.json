@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/devil-s-postpiles-1-1-1-9fb74acccb.webp",
     "players": 2,
     "maxPlayers": 16,
-    "spectators": 4,
+    "spectators": 3,
     "gameTime": 1435,
-    "updatedAt": "2026-08-02T18:54:30Z"
+    "updatedAt": "2026-08-02T18:56:37Z"
   },
   "live": true,
   "viewers": 22,
