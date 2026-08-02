@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785672343,
+  "generatedAt": 1785672359,
   "totalViewers": 202,
-  "totalShinies": 842576,
+  "totalShinies": 841776,
   "pageSize": 100,
   "entries": [
     {
@@ -116,23 +116,23 @@
     },
     {
       "rank": 23,
-      "name": "cozzwald",
-      "shinies": 4652
-    },
-    {
-      "rank": 24,
       "name": "blzbrg",
       "shinies": 4302
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "watchmedothis",
       "shinies": 4302
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "dreadyfire",
       "shinies": 4002
+    },
+    {
+      "rank": 26,
+      "name": "cozzwald",
+      "shinies": 3852
     },
     {
       "rank": 27,
