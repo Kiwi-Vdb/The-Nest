@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/melting-glacier-v1-1-2-ef783c9343.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 20,
+    "spectators": 18,
     "gameTime": 1566,
-    "updatedAt": "2026-08-02T14:05:29Z"
+    "updatedAt": "2026-08-02T14:06:31Z"
   },
   "live": true,
   "viewers": 23,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785679552,
+  "statusUpdatedAt": 1785679582,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
