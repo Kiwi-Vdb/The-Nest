@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Kings Assault v1.3",
-    "mapFileName": "kings_assault_v1.3",
-    "mapImage": "assets/maps/kings-assault-v1-3-d3888b5f17.webp",
+    "mapName": "Seven Rivers v1.21",
+    "mapFileName": "seven_rivers_v1.21",
+    "mapImage": "assets/maps/seven-rivers-v1-21-d38aa484ea.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 15,
-    "gameTime": 661,
-    "updatedAt": "2026-08-02T13:30:39Z"
+    "gameTime": 685,
+    "updatedAt": "2026-08-02T13:31:11Z"
   },
   "live": true,
   "viewers": 23,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785677424,
+  "statusUpdatedAt": 1785677455,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
