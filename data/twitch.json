@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
-    "gameTime": 601,
-    "updatedAt": "2026-08-02T11:32:33Z"
+    "spectators": 9,
+    "gameTime": 631,
+    "updatedAt": "2026-08-02T11:33:05Z"
   },
   "live": true,
   "viewers": 35,
