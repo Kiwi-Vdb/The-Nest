@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785669619,
+  "generatedAt": 1785669674,
   "totalViewers": 200,
-  "totalShinies": 835056,
+  "totalShinies": 836056,
   "pageSize": 100,
   "entries": [
     {
@@ -91,28 +91,28 @@
     },
     {
       "rank": 18,
+      "name": "cozzwald",
+      "shinies": 5452
+    },
+    {
+      "rank": 19,
       "name": "thequetx",
       "shinies": 5302
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "heltoff",
       "shinies": 4970
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "deverhr",
       "shinies": 4702
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "axolotl_eu",
       "shinies": 4486
-    },
-    {
-      "rank": 22,
-      "name": "cozzwald",
-      "shinies": 4452
     },
     {
       "rank": 23,
