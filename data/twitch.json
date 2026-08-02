@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/devil-s-postpiles-1-1-1-9fb74acccb.webp",
     "players": 2,
     "maxPlayers": 16,
-    "spectators": 5,
+    "spectators": 4,
     "gameTime": 1435,
-    "updatedAt": "2026-08-02T18:53:58Z"
+    "updatedAt": "2026-08-02T18:54:30Z"
   },
   "live": true,
   "viewers": 21,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785696864,
+  "statusUpdatedAt": 1785696894,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
