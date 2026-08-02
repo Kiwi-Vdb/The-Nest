@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785694240,
+  "generatedAt": 1785694487,
   "totalViewers": 218,
-  "totalShinies": 940624,
+  "totalShinies": 940958,
   "pageSize": 100,
   "entries": [
     {
@@ -241,18 +241,18 @@
     },
     {
       "rank": 48,
+      "name": "prunko",
+      "shinies": 2670
+    },
+    {
+      "rank": 49,
       "name": "elpoloow",
       "shinies": 2668
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "watchbehinddude",
       "shinies": 2484
-    },
-    {
-      "rank": 50,
-      "name": "prunko",
-      "shinies": 2336
     },
     {
       "rank": 51,
