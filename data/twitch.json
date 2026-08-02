@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Koom Valley 3 3.1",
-    "mapFileName": "koom_valley_3_3.1",
-    "mapImage": "assets/maps/koom-valley-3-3-1-31688bcab7.webp",
+    "mapName": "Serene Caldera v1.3",
+    "mapFileName": "serene_caldera_v1.3",
+    "mapImage": "assets/maps/serene-caldera-v1-3-cbdf20c520.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 24,
-    "gameTime": 701,
-    "updatedAt": "2026-08-02T14:48:13Z"
+    "gameTime": 722,
+    "updatedAt": "2026-08-02T14:48:45Z"
   },
   "live": true,
   "viewers": 17,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785682080,
+  "statusUpdatedAt": 1785682110,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
