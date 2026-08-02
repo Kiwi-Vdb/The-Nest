@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/kings-assault-v1-3-d3888b5f17.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
+    "spectators": 16,
     "gameTime": 2601,
-    "updatedAt": "2026-08-02T13:15:35Z"
+    "updatedAt": "2026-08-02T13:16:07Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785676543,
+  "statusUpdatedAt": 1785676573,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
