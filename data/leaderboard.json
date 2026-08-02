@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785678326,
-  "totalViewers": 205,
-  "totalShinies": 896464,
+  "generatedAt": 1785678451,
+  "totalViewers": 206,
+  "totalShinies": 896798,
   "pageSize": 100,
   "entries": [
     {
@@ -1021,11 +1021,16 @@
     },
     {
       "rank": 204,
-      "name": "zowdie",
+      "name": "zombie_brand",
       "shinies": 334
     },
     {
       "rank": 205,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 206,
       "name": "zzzzzvh",
       "shinies": 334
     }
