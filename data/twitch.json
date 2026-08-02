@@ -12,11 +12,11 @@
     "mapName": "Devil's Postpiles 1.1.1",
     "mapFileName": "devil_s_postpiles_1.1.1",
     "mapImage": "assets/maps/devil-s-postpiles-1-1-1-9fb74acccb.webp",
-    "players": 3,
+    "players": 2,
     "maxPlayers": 16,
-    "spectators": 4,
+    "spectators": 5,
     "gameTime": 1435,
-    "updatedAt": "2026-08-02T18:53:25Z"
+    "updatedAt": "2026-08-02T18:53:58Z"
   },
   "live": true,
   "viewers": 21,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785696802,
+  "statusUpdatedAt": 1785696833,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
