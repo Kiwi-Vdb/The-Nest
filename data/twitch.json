@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
-    "gameTime": 731,
-    "updatedAt": "2026-08-02T11:14:21Z"
+    "spectators": 8,
+    "gameTime": 760,
+    "updatedAt": "2026-08-02T11:14:52Z"
   },
   "live": true,
   "viewers": 15,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785669267,
+  "statusUpdatedAt": 1785669298,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
