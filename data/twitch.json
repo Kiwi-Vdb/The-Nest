@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/melting-glacier-v1-1-2-ef783c9343.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 22,
+    "spectators": 20,
     "gameTime": 1566,
-    "updatedAt": "2026-08-02T14:04:58Z"
+    "updatedAt": "2026-08-02T14:05:29Z"
   },
   "live": true,
-  "viewers": 21,
+  "viewers": 23,
   "title": "Day 1 of actually learning the game",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785679492,
+  "statusUpdatedAt": 1785679522,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
