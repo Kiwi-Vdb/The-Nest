@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785676510,
+  "generatedAt": 1785676635,
   "totalViewers": 205,
-  "totalShinies": 878312,
+  "totalShinies": 879312,
   "pageSize": 100,
   "entries": [
     {
@@ -31,13 +31,13 @@
     },
     {
       "rank": 6,
-      "name": "bar_outofmana",
-      "shinies": 32388
+      "name": "bot_kiwi_birb",
+      "shinies": 33006
     },
     {
       "rank": 7,
-      "name": "bot_kiwi_birb",
-      "shinies": 32006
+      "name": "bar_outofmana",
+      "shinies": 32388
     },
     {
       "rank": 8,
