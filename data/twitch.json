@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 007",
     "lobbyTitle": "EU7 - 007",
     "mode": "",
-    "mapName": "Twin Lakes Park Redux 1.2.2",
-    "mapFileName": "twin_lakes_park_redux_1.2.2",
-    "mapImage": "assets/maps/twin-lakes-park-redux-1-2-2-344041f342.webp",
+    "mapName": "Ghenna Rising 4.0.1",
+    "mapFileName": "ghenna_rising_4.0.1",
+    "mapImage": "assets/maps/ghenna-rising-4-0-1-80ed9dd956.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 10,
     "gameTime": 1362,
-    "updatedAt": "2026-08-02T09:58:36Z"
+    "updatedAt": "2026-08-02T09:59:06Z"
   },
   "live": true,
   "viewers": 9,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785664701,
+  "statusUpdatedAt": 1785664731,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
