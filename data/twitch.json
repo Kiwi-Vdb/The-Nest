@@ -3,8 +3,8 @@
     "provider": "bar",
     "available": true,
     "active": true,
-    "status": "in_lobby",
-    "statusLabel": "IN LOBBY",
+    "status": "in_game",
+    "statusLabel": "IN GAME",
     "playerName": "[APM]Vdb",
     "lobbyName": "[APM]Vdb - Private Battle",
     "lobbyTitle": "[APM]Vdb - Private Battle",
@@ -15,11 +15,11 @@
     "players": 3,
     "maxPlayers": 16,
     "spectators": 4,
-    "gameTime": 0,
-    "updatedAt": "2026-08-02T17:13:29Z"
+    "gameTime": 11,
+    "updatedAt": "2026-08-02T17:15:51Z"
   },
   "live": true,
-  "viewers": 13,
+  "viewers": 12,
   "title": "!!JCP Tournament Finals!!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785690895,
+  "statusUpdatedAt": 1785690925,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
