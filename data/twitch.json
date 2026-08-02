@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/red-river-estuary-v1-1-4af83863e9.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
-    "gameTime": 927,
-    "updatedAt": "2026-08-02T10:50:47Z"
+    "spectators": 14,
+    "gameTime": 957,
+    "updatedAt": "2026-08-02T10:51:18Z"
   },
   "live": true,
   "viewers": 14,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785667836,
+  "statusUpdatedAt": 1785667867,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
