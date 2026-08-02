@@ -12,14 +12,14 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 14,
+    "players": 13,
     "maxPlayers": 16,
-    "spectators": 16,
+    "spectators": 15,
     "gameTime": 1566,
-    "updatedAt": "2026-08-02T14:08:52Z"
+    "updatedAt": "2026-08-02T14:09:24Z"
   },
   "live": true,
-  "viewers": 23,
+  "viewers": 16,
   "title": "Day 1 of actually learning the game",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785679734,
+  "statusUpdatedAt": 1785679765,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
