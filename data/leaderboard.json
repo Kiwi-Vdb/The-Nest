@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785671654,
+  "generatedAt": 1785671878,
   "totalViewers": 201,
-  "totalShinies": 841558,
+  "totalShinies": 841892,
   "pageSize": 100,
   "entries": [
     {
@@ -106,18 +106,18 @@
     },
     {
       "rank": 21,
+      "name": "axolotl_eu",
+      "shinies": 4820
+    },
+    {
+      "rank": 22,
       "name": "hobbitsenlive",
       "shinies": 4668
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "cozzwald",
       "shinies": 4652
-    },
-    {
-      "rank": 23,
-      "name": "axolotl_eu",
-      "shinies": 4486
     },
     {
       "rank": 24,
