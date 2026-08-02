@@ -1,5 +1,5 @@
 {
-  "generated_at": 1785661992,
+  "generated_at": 1785662058,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -2386,7 +2386,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 63870,
+        "balance": 61870,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -2426,6 +2426,12 @@
           "rarity": "rare"
         },
         {
+          "id": "back:monarch wings",
+          "name": "Monarch Wings",
+          "category": "Back",
+          "rarity": "rare"
+        },
+        {
           "id": "emote:scav fog",
           "name": "Scav Fog",
           "category": "Emote",
@@ -2454,8 +2460,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 7,
+      "loot_boxes_opened": 8,
       "recent_unlocks": [
+        {
+          "name": "Monarch Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1785662052
+        },
         {
           "name": "Angel Wings",
           "category": "Back",
@@ -2471,22 +2485,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1782919443
-        },
-        {
-          "name": "Teal Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-teal",
-          "timestamp": 1782919423
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
         "text_effects_unlocked": 2,
         "text_effects_available": 20,
-        "recent_unlocks": 8
+        "recent_unlocks": 9
       }
     },
     "imth3apollo": {
