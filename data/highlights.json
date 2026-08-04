@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785697109,
-  "rotationGeneratedAt": 1785661448,
-  "nextRotationAt": 1785747848,
+  "generatedAt": 1785852009,
+  "rotationGeneratedAt": 1785852009,
+  "nextRotationAt": 1785938409,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
@@ -13,18 +13,18 @@
       "copy": "itsvdb leads the flock with 173,300 Shinies."
     },
     {
-      "category": "biggest_gift",
+      "category": "busiest_prediction",
       "group": "event",
-      "icon": "♥",
-      "title": "Biggest Gift",
-      "copy": "iamdibi gifted 10,000 Shinies to hunbleeone."
+      "icon": "●",
+      "title": "Biggest Prediction",
+      "copy": "5 viewers picked sides on “Will the VDB build pay off?”."
     },
     {
-      "category": "community_gifts",
+      "category": "community_gamba_wins",
       "group": "community",
-      "icon": "♥",
-      "title": "Shinies Shared",
-      "copy": "Viewers have sent 2 gifts worth 10,100 Shinies."
+      "icon": "◆",
+      "title": "Winning Spins",
+      "copy": "The community has landed 10 winning Gamba spins."
     }
   ]
 }
