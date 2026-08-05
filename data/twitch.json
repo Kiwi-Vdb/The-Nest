@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 1299,
-    "updatedAt": "2026-08-05T16:40:55Z"
+    "spectators": 8,
+    "gameTime": 1329,
+    "updatedAt": "2026-08-05T16:41:26Z"
   },
   "live": true,
-  "viewers": 7,
+  "viewers": 9,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785948044,
+  "statusUpdatedAt": 1785948074,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
