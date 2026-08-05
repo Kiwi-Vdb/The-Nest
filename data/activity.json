@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1785956767,
+  "generatedAt": 1785956806,
   "count": 50,
   "activities": [
+    {
+      "id": "08fc462ebb78a921",
+      "type": "gamba",
+      "who": "hunbleeone",
+      "text": "won 1,700 Shinies playing Gamba",
+      "timestamp": 1785956806,
+      "amount": 1700
+    },
     {
       "id": "283cae2a516e4c2c",
       "type": "prediction",
@@ -482,14 +490,6 @@
       "rarity": "legendary",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "a646ccaf2858f044",
-      "type": "gamba",
-      "who": "hunbleeone",
-      "text": "won 170 Shinies playing Gamba",
-      "timestamp": 1783964318,
-      "amount": 170
     }
   ]
 }
