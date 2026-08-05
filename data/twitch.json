@@ -9,17 +9,17 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Hellas Basin v1.4",
-    "mapFileName": "hellas_basin_v1.4",
-    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
+    "mapName": "Sector 318C v1.0",
+    "mapFileName": "sector_318c_v1.0",
+    "mapImage": "assets/maps/sector-318c-v1-0-1da546044e.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 1057,
-    "updatedAt": "2026-08-05T17:33:19Z"
+    "spectators": 13,
+    "gameTime": 1076,
+    "updatedAt": "2026-08-05T17:33:54Z"
   },
   "live": true,
-  "viewers": 20,
+  "viewers": 22,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785951184,
+  "statusUpdatedAt": 1785951214,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
