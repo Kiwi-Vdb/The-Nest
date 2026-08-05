@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
-    "gameTime": 164,
-    "updatedAt": "2026-08-05T17:14:51Z"
+    "spectators": 13,
+    "gameTime": 197,
+    "updatedAt": "2026-08-05T17:15:23Z"
   },
   "live": true,
-  "viewers": 9,
+  "viewers": 17,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785950087,
+  "statusUpdatedAt": 1785950118,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
