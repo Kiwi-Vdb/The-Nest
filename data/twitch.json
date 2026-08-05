@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Ice Scream v2.5.2",
-    "mapFileName": "ice_scream_v2.5.2",
-    "mapImage": "assets/maps/ice-scream-v2-5-2-57b9ebb3c5.webp",
-    "players": 15,
+    "mapName": "Ditched_V1",
+    "mapFileName": "Ditched_V1",
+    "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
+    "players": 13,
     "maxPlayers": 16,
-    "spectators": 13,
+    "spectators": 12,
     "gameTime": 1726,
-    "updatedAt": "2026-08-05T16:49:51Z"
+    "updatedAt": "2026-08-05T16:50:22Z"
   },
   "live": true,
   "viewers": 18,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785948563,
+  "statusUpdatedAt": 1785948594,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
