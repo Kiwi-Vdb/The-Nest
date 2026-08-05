@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 21,
-    "gameTime": 124,
-    "updatedAt": "2026-08-05T17:53:00Z"
+    "gameTime": 154,
+    "updatedAt": "2026-08-05T17:53:31Z"
   },
   "live": true,
-  "viewers": 24,
+  "viewers": 26,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785952369,
+  "statusUpdatedAt": 1785952400,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
