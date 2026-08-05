@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Supreme Isthmus v2.1",
-    "mapFileName": "supreme_isthmus_v2.1",
-    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
-    "players": 16,
+    "mapName": "White Fire Remake 1.3",
+    "mapFileName": "white_fire_remake_1.3",
+    "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
+    "players": 15,
     "maxPlayers": 16,
-    "spectators": 12,
+    "spectators": 13,
     "gameTime": 1076,
-    "updatedAt": "2026-08-05T17:34:24Z"
+    "updatedAt": "2026-08-05T17:34:55Z"
   },
   "live": true,
   "viewers": 22,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785951244,
+  "statusUpdatedAt": 1785951275,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
