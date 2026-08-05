@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Deeploria Fields v1.5.1",
-    "mapFileName": "deeploria_fields_v1.5.1",
-    "mapImage": "assets/maps/deeploria-fields-v1-5-1-7ab629cb69.webp",
+    "mapName": "Stronghold v5.0.1",
+    "mapFileName": "stronghold_v5.0.1",
+    "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 22,
+    "spectators": 23,
     "gameTime": 1442,
-    "updatedAt": "2026-08-05T18:18:35Z"
+    "updatedAt": "2026-08-05T18:19:06Z"
   },
   "live": true,
   "viewers": 29,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785953892,
+  "statusUpdatedAt": 1785953923,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
