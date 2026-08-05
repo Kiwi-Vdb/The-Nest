@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 883,
-    "updatedAt": "2026-08-05T17:30:27Z"
+    "spectators": 16,
+    "gameTime": 916,
+    "updatedAt": "2026-08-05T17:30:59Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785951031,
+  "statusUpdatedAt": 1785951062,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
