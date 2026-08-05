@@ -1,12 +1,23 @@
 {
-  "generatedAt": 1785946884,
-  "active": false,
-  "status": "inactive",
-  "id": null,
-  "question": "No prediction open",
-  "prize": 0,
-  "totalPicks": 0,
-  "startedAt": null,
+  "generatedAt": 1785957074,
+  "active": true,
+  "status": "open",
+  "id": 1785957057,
+  "question": "Will VDb wiN?",
+  "prize": 2000,
+  "totalPicks": 2,
+  "startedAt": 1785957057,
   "closedAt": null,
-  "options": []
+  "options": [
+    {
+      "label": "yes",
+      "votes": 1,
+      "percent": 50.0
+    },
+    {
+      "label": "no",
+      "votes": 1,
+      "percent": 50.0
+    }
+  ]
 }
