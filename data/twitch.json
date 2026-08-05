@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/salt-reef-1-1-726b37f6d1.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 18,
-    "gameTime": 482,
-    "updatedAt": "2026-08-05T19:17:54Z"
+    "spectators": 17,
+    "gameTime": 515,
+    "updatedAt": "2026-08-05T19:18:25Z"
   },
   "live": true,
-  "viewers": 27,
+  "viewers": 28,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785957482,
+  "statusUpdatedAt": 1785957513,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
