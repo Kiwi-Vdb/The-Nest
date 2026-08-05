@@ -1,7 +1,23 @@
 {
-  "generatedAt": 1785959206,
+  "generatedAt": 1785959237,
   "count": 50,
   "activities": [
+    {
+      "id": "c04a1a94d98b8ba2",
+      "type": "prediction",
+      "who": "sharpishdog",
+      "text": "won 2,000 Shinies in a prediction: Who wins?",
+      "timestamp": 1785959237,
+      "amount": 2000
+    },
+    {
+      "id": "12e612f978ebb89f",
+      "type": "prediction",
+      "who": "hunbleeone",
+      "text": "won 2,000 Shinies in a prediction: Who wins?",
+      "timestamp": 1785959236,
+      "amount": 2000
+    },
     {
       "id": "8772ee9421d7c7f8",
       "type": "prediction",
@@ -468,26 +484,6 @@
       "text": "won 1,000 Shinies in a prediction: Will VDB win?",
       "timestamp": 1784213633,
       "amount": 1000
-    },
-    {
-      "id": "9ee1dad467b2ea3a",
-      "type": "unlock",
-      "who": "lordjammacus",
-      "text": "unlocked Blue Text",
-      "timestamp": 1784202219,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "ef4fcf9558dfa087",
-      "type": "unlock",
-      "who": "lordjammacus",
-      "text": "unlocked Apprentice Hat",
-      "timestamp": 1784202204,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
