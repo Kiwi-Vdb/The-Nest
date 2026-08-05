@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1785950806,
+  "generatedAt": 1785950846,
   "totalViewers": 233,
-  "totalShinies": 959366,
+  "totalShinies": 960366,
   "pageSize": 100,
   "entries": [
     {
@@ -81,18 +81,18 @@
     },
     {
       "rank": 16,
+      "name": "lpalochka",
+      "shinies": 9004
+    },
+    {
+      "rank": 17,
       "name": "sasadal",
       "shinies": 8970
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "thequetx",
       "shinies": 8302
-    },
-    {
-      "rank": 18,
-      "name": "lpalochka",
-      "shinies": 8004
     },
     {
       "rank": 19,
