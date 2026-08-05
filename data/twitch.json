@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Azurite Shores 1.0.2",
-    "mapFileName": "azurite_shores_1.0.2",
-    "mapImage": "assets/maps/azurite-shores-1-0-2-db9fed85ee.webp",
+    "mapName": "Deeploria Fields v1.5.1",
+    "mapFileName": "deeploria_fields_v1.5.1",
+    "mapImage": "assets/maps/deeploria-fields-v1-5-1-7ab629cb69.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 22,
     "gameTime": 1442,
-    "updatedAt": "2026-08-05T18:18:04Z"
+    "updatedAt": "2026-08-05T18:18:35Z"
   },
   "live": true,
   "viewers": 29,
