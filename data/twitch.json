@@ -9,17 +9,17 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Silveridge v1.0.1",
-    "mapFileName": "silveridge_v1.0.1",
-    "mapImage": "assets/maps/silveridge-v1-0-1-1f282bdcf5.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
+    "spectators": 19,
     "gameTime": 818,
-    "updatedAt": "2026-08-05T18:39:52Z"
+    "updatedAt": "2026-08-05T18:40:39Z"
   },
   "live": true,
-  "viewers": 33,
+  "viewers": 37,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785955200,
+  "statusUpdatedAt": 1785955230,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
