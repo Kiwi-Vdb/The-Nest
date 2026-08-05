@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Melting Glacier v1.1.2",
-    "mapFileName": "melting_glacier_v1.1.2",
-    "mapImage": "assets/maps/melting-glacier-v1-1-2-ef783c9343.webp",
+    "mapName": "Hellas Basin v1.4",
+    "mapFileName": "hellas_basin_v1.4",
+    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
+    "spectators": 13,
     "gameTime": 623,
-    "updatedAt": "2026-08-05T17:09:58Z"
+    "updatedAt": "2026-08-05T17:10:44Z"
   },
   "live": true,
   "viewers": 14,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785949814,
+  "statusUpdatedAt": 1785949845,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
