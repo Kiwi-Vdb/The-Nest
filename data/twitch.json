@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 19,
-    "gameTime": 716,
-    "updatedAt": "2026-08-05T19:25:20Z"
+    "spectators": 18,
+    "gameTime": 19,
+    "updatedAt": "2026-08-05T19:25:52Z"
   },
   "live": true,
-  "viewers": 26,
+  "viewers": 27,
   "title": "Day 2 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785957910,
+  "statusUpdatedAt": 1785957940,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
