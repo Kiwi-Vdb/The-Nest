@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/salt-reef-1-1-726b37f6d1.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 18,
+    "spectators": 19,
     "gameTime": 1099,
-    "updatedAt": "2026-08-05T19:03:45Z"
+    "updatedAt": "2026-08-05T19:04:16Z"
   },
   "live": true,
   "viewers": 31,
