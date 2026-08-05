@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1785957747,
+  "generatedAt": 1785957790,
   "count": 50,
   "activities": [
+    {
+      "id": "8772ee9421d7c7f8",
+      "type": "prediction",
+      "who": "hunbleeone",
+      "text": "won 2,000 Shinies in a prediction: Will VDb wiN?",
+      "timestamp": 1785957790,
+      "amount": 2000
+    },
     {
       "id": "08fc462ebb78a921",
       "type": "gamba",
@@ -480,16 +488,6 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "8b4ab62f6ad2f798",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Glitch Sweep Text",
-      "timestamp": 1784040314,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }

@@ -1,23 +1,12 @@
 {
-  "generatedAt": 1785957117,
-  "active": true,
-  "status": "closed",
-  "id": 1785957057,
-  "question": "Will VDb wiN?",
-  "prize": 2000,
-  "totalPicks": 2,
-  "startedAt": 1785957057,
-  "closedAt": 1785957117,
-  "options": [
-    {
-      "label": "yes",
-      "votes": 1,
-      "percent": 50.0
-    },
-    {
-      "label": "no",
-      "votes": 1,
-      "percent": 50.0
-    }
-  ]
+  "generatedAt": 1785957790,
+  "active": false,
+  "status": "inactive",
+  "id": null,
+  "question": "No prediction open",
+  "prize": 0,
+  "totalPicks": 0,
+  "startedAt": null,
+  "closedAt": null,
+  "options": []
 }
