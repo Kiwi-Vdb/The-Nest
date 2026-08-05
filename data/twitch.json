@@ -12,11 +12,11 @@
     "mapName": "Ditched_V1",
     "mapFileName": "Ditched_V1",
     "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
-    "players": 13,
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 12,
     "gameTime": 1726,
-    "updatedAt": "2026-08-05T16:50:22Z"
+    "updatedAt": "2026-08-05T16:50:37Z"
   },
   "live": true,
   "viewers": 18,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785948594,
+  "statusUpdatedAt": 1785948624,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
