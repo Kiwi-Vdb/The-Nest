@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Glacial Gap v1.1",
-    "mapFileName": "glacial_gap_v1.1",
-    "mapImage": "assets/maps/glacial-gap-v1-1-031ea2ea80.webp",
+    "mapName": "Azurite Shores 1.0.2",
+    "mapFileName": "azurite_shores_1.0.2",
+    "mapImage": "assets/maps/azurite-shores-1-0-2-db9fed85ee.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
-    "gameTime": 1424,
-    "updatedAt": "2026-08-05T18:17:33Z"
+    "spectators": 22,
+    "gameTime": 1442,
+    "updatedAt": "2026-08-05T18:18:04Z"
   },
   "live": true,
   "viewers": 29,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785953862,
+  "statusUpdatedAt": 1785953892,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
