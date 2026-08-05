@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Stronghold v5.0.1",
-    "mapFileName": "stronghold_v5.0.1",
-    "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
+    "mapName": "Silveridge v1.0.1",
+    "mapFileName": "silveridge_v1.0.1",
+    "mapImage": "assets/maps/silveridge-v1-0-1-1f282bdcf5.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 17,
-    "gameTime": 813,
-    "updatedAt": "2026-08-05T18:39:05Z"
+    "gameTime": 818,
+    "updatedAt": "2026-08-05T18:39:37Z"
   },
   "live": true,
   "viewers": 33,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1785955139,
+  "statusUpdatedAt": 1785955169,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
