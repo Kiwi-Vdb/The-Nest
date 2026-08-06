@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786027861,
+  "generatedAt": 1786027925,
   "count": 50,
   "activities": [
+    {
+      "id": "f504994a0249827a",
+      "type": "unlock",
+      "who": "cozzwald",
+      "text": "unlocked Yellow Text",
+      "timestamp": 1786027925,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "c04a1a94d98b8ba2",
       "type": "prediction",
@@ -476,14 +486,6 @@
       "rarity": "rare",
       "category": "Back",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "395b9558015674db",
-      "type": "prediction",
-      "who": "kirinokirino",
-      "text": "won 1,000 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1784213633,
-      "amount": 1000
     }
   ]
 }

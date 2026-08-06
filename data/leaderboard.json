@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786027861,
+  "generatedAt": 1786027925,
   "totalViewers": 269,
-  "totalShinies": 1027246,
+  "totalShinies": 1025246,
   "pageSize": 100,
   "entries": [
     {
@@ -121,43 +121,43 @@
     },
     {
       "rank": 24,
-      "name": "cozzwald",
-      "shinies": 5836
-    },
-    {
-      "rank": 25,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "liarturil",
       "shinies": 5336
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "heltoff",
       "shinies": 5120
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "blzbrg",
       "shinies": 4970
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "tjallex",
       "shinies": 4336
     },
     {
-      "rank": 30,
+      "rank": 29,
       "name": "bonghits4cthulhu",
       "shinies": 4152
     },
     {
-      "rank": 31,
+      "rank": 30,
       "name": "dreadyfire",
       "shinies": 4002
+    },
+    {
+      "rank": 31,
+      "name": "cozzwald",
+      "shinies": 3836
     },
     {
       "rank": 32,

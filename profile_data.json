@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786027861,
+  "generated_at": 1786027925,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -1537,7 +1537,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 5836,
+        "balance": 3836,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -1561,8 +1561,16 @@
       ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
-      "loot_boxes_opened": 0,
+      "loot_boxes_opened": 1,
       "recent_unlocks": [
+        {
+          "name": "Yellow Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-yellow",
+          "timestamp": 1786027925
+        },
         {
           "name": "Party Hat Angle",
           "category": "Hat",
@@ -1585,7 +1593,7 @@
         "cosmetics_available": 24,
         "text_effects_unlocked": 0,
         "text_effects_available": 20,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "crazydude189": {
