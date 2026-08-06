@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
-    "gameTime": 137,
-    "updatedAt": "2026-08-06T14:48:57Z"
+    "spectators": 22,
+    "gameTime": 26,
+    "updatedAt": "2026-08-06T14:49:36Z"
   },
   "live": true,
-  "viewers": 11,
+  "viewers": 12,
   "title": "Day 3 of actually trying",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786027728,
+  "statusUpdatedAt": 1786027760,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
