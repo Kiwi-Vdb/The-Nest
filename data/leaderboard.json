@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786026409,
+  "generatedAt": 1786026661,
   "totalViewers": 268,
-  "totalShinies": 1025442,
+  "totalShinies": 1025592,
   "pageSize": 100,
   "entries": [
     {
@@ -381,22 +381,22 @@
     },
     {
       "rank": 76,
-      "name": "snoopa_aoe",
+      "name": "goobmilk",
       "shinies": 1818
     },
     {
       "rank": 77,
+      "name": "snoopa_aoe",
+      "shinies": 1818
+    },
+    {
+      "rank": 78,
       "name": "akumar67",
       "shinies": 1786
     },
     {
-      "rank": 78,
-      "name": "bartender_11",
-      "shinies": 1668
-    },
-    {
       "rank": 79,
-      "name": "goobmilk",
+      "name": "bartender_11",
       "shinies": 1668
     },
     {
