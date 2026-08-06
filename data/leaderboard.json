@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786033038,
+  "generatedAt": 1786033098,
   "totalViewers": 273,
-  "totalShinies": 1048782,
+  "totalShinies": 1049782,
   "pageSize": 100,
   "entries": [
     {
@@ -126,23 +126,23 @@
     },
     {
       "rank": 25,
+      "name": "cozzwald",
+      "shinies": 5836
+    },
+    {
+      "rank": 26,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "liarturil",
       "shinies": 5336
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "heltoff",
       "shinies": 5120
-    },
-    {
-      "rank": 28,
-      "name": "cozzwald",
-      "shinies": 4836
     },
     {
       "rank": 29,
