@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786027925,
+  "generated_at": 1786027932,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -1559,7 +1559,15 @@
           "rarity": "common"
         }
       ],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-yellow",
+          "name": "Yellow Text",
+          "rarity": "common",
+          "class_name": "text-yellow",
+          "equip_command": "!equiptext Yellow"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
@@ -1591,7 +1599,7 @@
       "totals": {
         "cosmetics_unlocked": 2,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 20,
         "recent_unlocks": 3
       }
