@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Starwatcher 1.0",
-    "mapFileName": "starwatcher_1.0",
-    "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
+    "mapName": "Flats and Forests v2.2",
+    "mapFileName": "flats_and_forests_v2.2",
+    "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 23,
     "gameTime": 1373,
-    "updatedAt": "2026-08-06T14:44:40Z"
+    "updatedAt": "2026-08-06T14:45:41Z"
   },
   "live": true,
   "viewers": 11,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786027511,
+  "statusUpdatedAt": 1786027542,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
