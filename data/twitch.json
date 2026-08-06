@@ -12,11 +12,11 @@
     "mapName": "Proving Grounds v1.0",
     "mapFileName": "proving_grounds_v1.0",
     "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 21,
+    "spectators": 22,
     "gameTime": 1384,
-    "updatedAt": "2026-08-06T16:28:13Z"
+    "updatedAt": "2026-08-06T16:29:14Z"
   },
   "live": true,
   "viewers": 18,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786033709,
+  "statusUpdatedAt": 1786033739,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
