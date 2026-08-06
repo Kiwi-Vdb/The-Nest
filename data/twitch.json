@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 004",
     "lobbyTitle": "EU6 - 004",
     "mode": "",
-    "mapName": "Proving Grounds v1.0",
-    "mapFileName": "proving_grounds_v1.0",
-    "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
+    "mapName": "Moonshine Run v1.0.1",
+    "mapFileName": "moonshine_run_v1.0.1",
+    "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
+    "spectators": 22,
     "gameTime": 577,
-    "updatedAt": "2026-08-06T16:42:32Z"
+    "updatedAt": "2026-08-06T16:43:03Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786034560,
+  "statusUpdatedAt": 1786034590,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
