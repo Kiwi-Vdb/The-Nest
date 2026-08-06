@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786030037,
+  "generatedAt": 1786030203,
   "totalViewers": 270,
-  "totalShinies": 1035856,
+  "totalShinies": 1036190,
   "pageSize": 100,
   "entries": [
     {
@@ -236,28 +236,28 @@
     },
     {
       "rank": 47,
+      "name": "franzdk_",
+      "shinies": 3152
+    },
+    {
+      "rank": 48,
       "name": "prunko",
       "shinies": 3004
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "justus541",
       "shinies": 3002
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "tiwaz42",
       "shinies": 3002
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "heavywater00",
       "shinies": 2918
-    },
-    {
-      "rank": 51,
-      "name": "franzdk_",
-      "shinies": 2818
     },
     {
       "rank": 52,
