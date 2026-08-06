@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786033458,
+  "generatedAt": 1786033518,
   "totalViewers": 273,
-  "totalShinies": 1052782,
+  "totalShinies": 1053782,
   "pageSize": 100,
   "entries": [
     {
@@ -111,18 +111,18 @@
     },
     {
       "rank": 22,
+      "name": "blzbrg",
+      "shinies": 6970
+    },
+    {
+      "rank": 23,
       "name": "freakofnature122",
       "shinies": 6668
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "blopson",
       "shinies": 6452
-    },
-    {
-      "rank": 24,
-      "name": "blzbrg",
-      "shinies": 5970
     },
     {
       "rank": 25,
