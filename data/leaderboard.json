@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786029814,
+  "generatedAt": 1786029917,
   "totalViewers": 270,
-  "totalShinies": 1033856,
+  "totalShinies": 1034856,
   "pageSize": 100,
   "entries": [
     {
@@ -121,23 +121,23 @@
     },
     {
       "rank": 24,
+      "name": "blzbrg",
+      "shinies": 5970
+    },
+    {
+      "rank": 25,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "liarturil",
       "shinies": 5336
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "heltoff",
       "shinies": 5120
-    },
-    {
-      "rank": 27,
-      "name": "blzbrg",
-      "shinies": 4970
     },
     {
       "rank": 28,
