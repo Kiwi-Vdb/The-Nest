@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
-    "gameTime": 8,
-    "updatedAt": "2026-08-06T14:46:43Z"
+    "spectators": 20,
+    "gameTime": 26,
+    "updatedAt": "2026-08-06T14:46:58Z"
   },
   "live": true,
   "viewers": 11,
