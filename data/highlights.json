@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1786032858,
-  "rotationGeneratedAt": 1785946513,
-  "nextRotationAt": 1786032913,
+  "generatedAt": 1786032976,
+  "rotationGeneratedAt": 1786032976,
+  "nextRotationAt": 1786119376,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "loot_box_champion",
+      "category": "most_generous_viewer",
       "group": "viewer",
-      "icon": "◇",
-      "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 35 loot boxes."
+      "icon": "♥",
+      "title": "Most Generous",
+      "copy": "deverhr has gifted 100 Shinies to the flock."
     },
     {
-      "category": "latest_unlock",
+      "category": "biggest_gift",
       "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "cozzwald unlocked Yellow Text (Common)."
+      "icon": "♥",
+      "title": "Biggest Gift",
+      "copy": "deverhr gifted 100 Shinies to heavywater00."
     },
     {
-      "category": "community_unlocks",
+      "category": "community_shiny_total",
       "group": "community",
-      "icon": "♛",
-      "title": "Unlock Collection",
-      "copy": "Viewers have collected 131 cosmetics and text effects."
+      "icon": "✦",
+      "title": "Community Fortune",
+      "copy": "The flock currently holds 1,047,782 Shinies."
     }
   ]
 }
