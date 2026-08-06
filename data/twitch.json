@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/hera-planum-0-9-2-c722a22e38.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
+    "spectators": 24,
     "gameTime": 1268,
-    "updatedAt": "2026-08-06T15:33:51Z"
+    "updatedAt": "2026-08-06T15:34:38Z"
   },
   "live": true,
   "viewers": 28,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786030451,
+  "statusUpdatedAt": 1786030481,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
