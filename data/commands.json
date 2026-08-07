@@ -56,7 +56,7 @@
         {
           "usage": "!redeems",
           "description": "Open the clickable Stream Redeems page on The Nest.",
-          "aliases": ["!rewards"]
+          "aliases": ["!redeem", "!list", "!rewards"]
         },
         {
           "usage": "!texteffects",
