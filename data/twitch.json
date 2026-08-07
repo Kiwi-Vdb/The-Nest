@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Red River Estuary v1.1",
-    "mapFileName": "red_river_estuary_v1.1",
-    "mapImage": "assets/maps/red-river-estuary-v1-1-4af83863e9.webp",
+    "mapName": "Delta Siege Dry v5.7.1",
+    "mapFileName": "delta_siege_dry_v5.7.1",
+    "mapImage": "assets/maps/delta-siege-dry-v5-7-1-2ae47590ed.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 11,
     "gameTime": 521,
-    "updatedAt": "2026-08-07T20:30:18Z"
+    "updatedAt": "2026-08-07T20:30:33Z"
   },
   "live": true,
   "viewers": 1,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786134614,
+  "statusUpdatedAt": 1786134644,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
