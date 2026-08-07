@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Azurite Shores 1.0.2",
-    "mapFileName": "azurite_shores_1.0.2",
-    "mapImage": "assets/maps/azurite-shores-1-0-2-db9fed85ee.webp",
-    "players": 15,
+    "mapName": "Plains and Passes v1.0",
+    "mapFileName": "plains_and_passes_v1.0",
+    "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 12,
+    "spectators": 14,
     "gameTime": 478,
-    "updatedAt": "2026-08-07T20:42:43Z"
+    "updatedAt": "2026-08-07T20:43:14Z"
   },
   "live": true,
   "viewers": 5,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786135344,
+  "statusUpdatedAt": 1786135374,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
