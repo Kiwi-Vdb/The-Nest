@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/azurite-shores-1-0-2-db9fed85ee.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 288,
-    "updatedAt": "2026-08-07T20:39:18Z"
+    "spectators": 10,
+    "gameTime": 318,
+    "updatedAt": "2026-08-07T20:39:49Z"
   },
   "live": true,
   "viewers": 5,
