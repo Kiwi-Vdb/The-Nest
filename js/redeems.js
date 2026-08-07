@@ -156,7 +156,8 @@ function renderRedeemCards() {
   const focusId = new URL(location.href).searchParams.get("redeem");
   grid.innerHTML = redeemState.redeems.map((item) => {
     const state = availability(item);
-    const commandLabel = item.inputRequired ? `${item.command} <song>` : item.command;
+    const inputHint = item.actionType === "song_request" ? "<song>" : "<message>";
+    const commandLabel = item.inputRequired ? `${item.command} ${inputHint}` : item.command;
     return `
       <article class="redeem-card ${focusId === item.id ? "is-focused" : ""}" data-redeem-card="${escapeAttr(item.id)}">
         <div class="redeem-card-icon" aria-hidden="true">▶</div>
