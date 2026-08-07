@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786134256,
+  "generatedAt": 1786134631,
   "count": 50,
   "activities": [
+    {
+      "id": "a71d0ac7d450f548",
+      "type": "unlock",
+      "who": "lordjammacus",
+      "text": "unlocked Black Hole Text",
+      "timestamp": 1786134631,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "8594505d281aec92",
       "type": "unlock",
@@ -476,16 +486,6 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "1f33abc84110f1f6",
-      "type": "unlock",
-      "who": "lordjammacus",
-      "text": "unlocked Yellow Text",
-      "timestamp": 1784375392,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
