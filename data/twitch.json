@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 856,
-    "updatedAt": "2026-08-07T23:28:32Z"
+    "spectators": 9,
+    "gameTime": 859,
+    "updatedAt": "2026-08-07T23:29:03Z"
   },
   "live": true,
   "viewers": 7,
