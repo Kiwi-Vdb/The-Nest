@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786145352,
+  "generatedAt": 1786145594,
   "totalViewers": 285,
-  "totalShinies": 1083758,
+  "totalShinies": 1084758,
   "pageSize": 100,
   "entries": [
     {
@@ -146,23 +146,23 @@
     },
     {
       "rank": 29,
+      "name": "chuffingbear",
+      "shinies": 5002
+    },
+    {
+      "rank": 30,
       "name": "tjallex",
       "shinies": 4336
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "bonghits4cthulhu",
       "shinies": 4152
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "franzdk_",
       "shinies": 4152
-    },
-    {
-      "rank": 32,
-      "name": "chuffingbear",
-      "shinies": 4002
     },
     {
       "rank": 33,
