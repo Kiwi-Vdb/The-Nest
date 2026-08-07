@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Project SD-129 v1.0",
-    "mapFileName": "project_sd-129_v1.0",
-    "mapImage": "assets/maps/project-sd-129-v1-0-137df3e649.webp",
+    "mapName": "Hellas Basin v1.4",
+    "mapFileName": "hellas_basin_v1.4",
+    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
+    "spectators": 16,
     "gameTime": 1353,
-    "updatedAt": "2026-08-07T21:45:27Z"
+    "updatedAt": "2026-08-07T21:46:13Z"
   },
   "live": true,
   "viewers": 11,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786139118,
+  "statusUpdatedAt": 1786139149,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
