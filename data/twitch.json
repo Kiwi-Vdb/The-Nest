@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Salmiakki 1.3",
-    "mapFileName": "salmiakki_1.3",
-    "mapImage": "assets/maps/salmiakki-1-3-a49bba5e4a.webp",
-    "players": 15,
+    "mapName": "Pawn Retreat 1.2",
+    "mapFileName": "pawn_retreat_1.2",
+    "mapImage": "assets/maps/pawn-retreat-1-2-4823324523.webp",
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 18,
+    "spectators": 19,
     "gameTime": 603,
-    "updatedAt": "2026-08-07T22:51:08Z"
+    "updatedAt": "2026-08-07T22:51:55Z"
   },
   "live": true,
   "viewers": 10,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786143076,
+  "statusUpdatedAt": 1786143106,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
