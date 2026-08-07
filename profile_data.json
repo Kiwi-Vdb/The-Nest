@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786132996,
+  "generated_at": 1786133019,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -3764,7 +3764,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 162500,
+        "balance": 160500,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -4037,6 +4037,13 @@
           "rarity": "legendary",
           "class_name": "text-animated-rainbow",
           "equip_command": "!equiptext Animated Rainbow"
+        },
+        {
+          "id": "text-gold-sparkle",
+          "name": "Gold Sparkle Text",
+          "rarity": "legendary",
+          "class_name": "text-gold-sparkle",
+          "equip_command": "!equiptext Gold Sparkle"
         }
       ],
       "current_text_effect": {
@@ -4045,8 +4052,24 @@
         "rarity": "common",
         "class_name": "text-blue"
       },
-      "loot_boxes_opened": 36,
+      "loot_boxes_opened": 38,
       "recent_unlocks": [
+        {
+          "name": "Gold Sparkle Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-gold-sparkle",
+          "timestamp": 1786133013
+        },
+        {
+          "name": "Gold Sparkle Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-gold-sparkle",
+          "timestamp": 1786133012
+        },
         {
           "name": "Animated Rainbow Text",
           "category": "Text Effect",
@@ -4054,28 +4077,12 @@
           "type": "text_effect",
           "text_effect": "text-animated-rainbow",
           "timestamp": 1786132988
-        },
-        {
-          "name": "Glitch Sweep Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-glitch-sweep",
-          "timestamp": 1784040314
-        },
-        {
-          "name": "Portal Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-portal",
-          "timestamp": 1783114820
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 17,
+        "text_effects_unlocked": 18,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }

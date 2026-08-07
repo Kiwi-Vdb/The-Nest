@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1786132996,
+  "generatedAt": 1786133019,
   "count": 50,
   "activities": [
+    {
+      "id": "01c75c54354b0b6b",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Gold Sparkle Text",
+      "timestamp": 1786133013,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "4d8c7d8b9160da87",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Gold Sparkle Text",
+      "timestamp": 1786133012,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "c3f086cf0c71a2ba",
       "type": "unlock",
@@ -463,26 +483,6 @@
       "who": "cozzwald",
       "text": "unlocked Bday Hat",
       "timestamp": 1784375192,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "253dac182e82dab8",
-      "type": "unlock",
-      "who": "lordjammacus",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784375168,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "1687e8b712cc600a",
-      "type": "unlock",
-      "who": "lordjammacus",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784375166,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
