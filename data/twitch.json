@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Baryon Tar Lake v1.1",
-    "mapFileName": "baryon_tar_lake_v1.1",
-    "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 10,
     "gameTime": 859,
-    "updatedAt": "2026-08-07T23:29:03Z"
+    "updatedAt": "2026-08-07T23:30:05Z"
   },
   "live": true,
   "viewers": 7,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786145357,
+  "statusUpdatedAt": 1786145387,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
