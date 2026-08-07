@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
-    "gameTime": 647,
-    "updatedAt": "2026-08-07T22:02:20Z"
+    "spectators": 14,
+    "gameTime": 677,
+    "updatedAt": "2026-08-07T22:02:52Z"
   },
   "live": true,
-  "viewers": 10,
+  "viewers": 11,
   "title": "Day 4 of actually trying - today we Macro!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786140120,
+  "statusUpdatedAt": 1786140150,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
