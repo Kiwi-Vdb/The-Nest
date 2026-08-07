@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1786134837,
+  "generatedAt": 1786134949,
   "active": true,
-  "status": "open",
+  "status": "closed",
   "id": 1786134829,
   "question": "Will VDB titl?",
   "prize": 2000,
   "totalPicks": 1,
   "startedAt": 1786134829,
-  "closedAt": null,
+  "closedAt": 1786134949,
   "options": [
     {
       "label": "yes",
