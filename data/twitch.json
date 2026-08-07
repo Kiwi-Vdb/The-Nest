@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/sunderance-v1-3-fde5209903.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
+    "spectators": 19,
     "gameTime": 1551,
-    "updatedAt": "2026-08-07T19:54:48Z"
+    "updatedAt": "2026-08-07T19:55:34Z"
   },
   "live": true,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786132483,
+  "statusUpdatedAt": 1786132513,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
