@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Sunderance V1.3",
-    "mapFileName": "Sunderance V1.3",
-    "mapImage": "assets/maps/sunderance-v1-3-fde5209903.webp",
+    "mapName": "Sector 318C v1.0",
+    "mapFileName": "sector_318c_v1.0",
+    "mapImage": "assets/maps/sector-318c-v1-0-1da546044e.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
+    "spectators": 15,
     "gameTime": 1551,
-    "updatedAt": "2026-08-07T19:56:36Z"
+    "updatedAt": "2026-08-07T19:56:51Z"
   },
   "live": true,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786132574,
+  "statusUpdatedAt": 1786132604,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
