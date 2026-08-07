@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/pawn-retreat-1-2-4823324523.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 12,
-    "gameTime": 3,
-    "updatedAt": "2026-08-07T20:17:06Z"
+    "spectators": 13,
+    "gameTime": 42,
+    "updatedAt": "2026-08-07T20:17:42Z"
   },
   "live": true,
   "viewers": 1,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786133835,
+  "statusUpdatedAt": 1786133866,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
