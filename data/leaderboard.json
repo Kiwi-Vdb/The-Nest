@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786138693,
+  "generatedAt": 1786139115,
   "totalViewers": 281,
-  "totalShinies": 1057300,
+  "totalShinies": 1063300,
   "pageSize": 100,
   "entries": [
     {
@@ -37,7 +37,7 @@
     {
       "rank": 7,
       "name": "bar_outofmana",
-      "shinies": 41324
+      "shinies": 43324
     },
     {
       "rank": 8,
@@ -61,18 +61,18 @@
     },
     {
       "rank": 12,
+      "name": "lpalochka",
+      "shinies": 15972
+    },
+    {
+      "rank": 13,
       "name": "professor_bar",
       "shinies": 15150
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "massivemankey",
       "shinies": 14670
-    },
-    {
-      "rank": 14,
-      "name": "lpalochka",
-      "shinies": 13972
     },
     {
       "rank": 15,
@@ -86,28 +86,28 @@
     },
     {
       "rank": 17,
+      "name": "axolotl_eu",
+      "shinies": 10272
+    },
+    {
+      "rank": 18,
       "name": "thequetx",
       "shinies": 9786
     },
     {
-      "rank": 18,
+      "rank": 19,
       "name": "watchmedothis",
       "shinies": 9604
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "deverhr",
       "shinies": 9020
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "sasadal",
       "shinies": 8970
-    },
-    {
-      "rank": 21,
-      "name": "axolotl_eu",
-      "shinies": 8272
     },
     {
       "rank": 22,

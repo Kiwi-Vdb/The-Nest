@@ -1,7 +1,31 @@
 {
-  "generatedAt": 1786138693,
+  "generatedAt": 1786139115,
   "count": 50,
   "activities": [
+    {
+      "id": "d203934d9a792597",
+      "type": "prediction",
+      "who": "lpalochka",
+      "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
+      "timestamp": 1786139115,
+      "amount": 2000
+    },
+    {
+      "id": "52ff7bf12d0d6c6b",
+      "type": "prediction",
+      "who": "bar_outofmana",
+      "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
+      "timestamp": 1786139114,
+      "amount": 2000
+    },
+    {
+      "id": "651ead0e4da2bf8a",
+      "type": "prediction",
+      "who": "axolotl_eu",
+      "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
+      "timestamp": 1786139114,
+      "amount": 2000
+    },
     {
       "id": "17c670d056dfebc7",
       "type": "prediction",
@@ -451,36 +475,6 @@
       "who": "bar_outofmana",
       "text": "unlocked Bday Hat",
       "timestamp": 1784394879,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "9aa7d4af3cdfd783",
-      "type": "unlock",
-      "who": "bar_outofmana",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784394877,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "bd75f37a6551c91c",
-      "type": "unlock",
-      "who": "sharpishdog",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784394864,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "e1b2abf212daf316",
-      "type": "unlock",
-      "who": "sharpishdog",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784394858,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"

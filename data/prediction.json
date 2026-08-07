@@ -1,23 +1,12 @@
 {
-  "generatedAt": 1786137774,
-  "active": true,
-  "status": "closed",
-  "id": 1786137594,
-  "question": "Will game last >10 mins?",
-  "prize": 2000,
-  "totalPicks": 4,
-  "startedAt": 1786137594,
-  "closedAt": 1786137774,
-  "options": [
-    {
-      "label": "yes",
-      "votes": 3,
-      "percent": 75.0
-    },
-    {
-      "label": "no",
-      "votes": 1,
-      "percent": 25.0
-    }
-  ]
+  "generatedAt": 1786139115,
+  "active": false,
+  "status": "inactive",
+  "id": null,
+  "question": "No prediction open",
+  "prize": 0,
+  "totalPicks": 0,
+  "startedAt": null,
+  "closedAt": null,
+  "options": []
 }
