@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786133791,
+  "generatedAt": 1786133877,
   "count": 50,
   "activities": [
+    {
+      "id": "8594505d281aec92",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Black Hole Text",
+      "timestamp": 1786133877,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "17be9c3e9db6d0ea",
       "type": "unlock",
@@ -476,16 +486,6 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "f16757eb5e0c71cb",
-      "type": "unlock",
-      "who": "cozzwald",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784375200,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
