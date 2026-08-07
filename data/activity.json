@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786132452,
+  "generatedAt": 1786132996,
   "count": 50,
   "activities": [
+    {
+      "id": "c3f086cf0c71a2ba",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Animated Rainbow Text",
+      "timestamp": 1786132988,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "f504994a0249827a",
       "type": "unlock",
@@ -475,16 +485,6 @@
       "timestamp": 1784375166,
       "rarity": "common",
       "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "d725387e19f7dccc",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Angel Wings",
-      "timestamp": 1784372600,
-      "rarity": "rare",
-      "category": "Back",
       "rewardType": "cosmetic"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786132452,
+  "generated_at": 1786132996,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -4030,6 +4030,13 @@
           "rarity": "legendary",
           "class_name": "text-glitch-sweep",
           "equip_command": "!equiptext Glitch Sweep"
+        },
+        {
+          "id": "text-animated-rainbow",
+          "name": "Animated Rainbow Text",
+          "rarity": "legendary",
+          "class_name": "text-animated-rainbow",
+          "equip_command": "!equiptext Animated Rainbow"
         }
       ],
       "current_text_effect": {
@@ -4038,8 +4045,16 @@
         "rarity": "common",
         "class_name": "text-blue"
       },
-      "loot_boxes_opened": 35,
+      "loot_boxes_opened": 36,
       "recent_unlocks": [
+        {
+          "name": "Animated Rainbow Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-animated-rainbow",
+          "timestamp": 1786132988
+        },
         {
           "name": "Glitch Sweep Text",
           "category": "Text Effect",
@@ -4055,20 +4070,12 @@
           "type": "text_effect",
           "text_effect": "text-portal",
           "timestamp": 1783114820
-        },
-        {
-          "name": "Rainbow Comet Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-rainbow-comet",
-          "timestamp": 1783114796
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 16,
+        "text_effects_unlocked": 17,
         "text_effects_available": 20,
         "recent_unlocks": 20
       }
