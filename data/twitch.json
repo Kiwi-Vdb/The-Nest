@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/pawn-retreat-1-2-4823324523.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
-    "gameTime": 245,
-    "updatedAt": "2026-08-07T20:24:02Z"
+    "spectators": 13,
+    "gameTime": 278,
+    "updatedAt": "2026-08-07T20:24:37Z"
   },
   "live": true,
-  "viewers": 2,
+  "viewers": 1,
   "title": "Day 4 of actually trying - today we Macro!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786134236,
+  "statusUpdatedAt": 1786134267,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
