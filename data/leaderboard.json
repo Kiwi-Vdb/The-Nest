@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786136079,
-  "totalViewers": 276,
-  "totalShinies": 1049024,
+  "generatedAt": 1786136208,
+  "totalViewers": 277,
+  "totalShinies": 1049842,
   "pageSize": 100,
   "entries": [
     {
@@ -107,7 +107,7 @@
     {
       "rank": 21,
       "name": "axolotl_eu",
-      "shinies": 7788
+      "shinies": 8272
     },
     {
       "rank": 22,
@@ -1321,66 +1321,71 @@
     },
     {
       "rank": 264,
-      "name": "victor__pitic",
+      "name": "victhaur77",
       "shinies": 334
     },
     {
       "rank": 265,
-      "name": "viral_lp",
+      "name": "victor__pitic",
       "shinies": 334
     },
     {
       "rank": 266,
-      "name": "visiblesighs",
+      "name": "viral_lp",
       "shinies": 334
     },
     {
       "rank": 267,
-      "name": "vlunom",
+      "name": "visiblesighs",
       "shinies": 334
     },
     {
       "rank": 268,
-      "name": "volkvoltny",
+      "name": "vlunom",
       "shinies": 334
     },
     {
       "rank": 269,
-      "name": "yamchiiir",
+      "name": "volkvoltny",
       "shinies": 334
     },
     {
       "rank": 270,
-      "name": "yankuch1",
+      "name": "yamchiiir",
       "shinies": 334
     },
     {
       "rank": 271,
-      "name": "yomikachi",
+      "name": "yankuch1",
       "shinies": 334
     },
     {
       "rank": 272,
-      "name": "zeeburgapm",
+      "name": "yomikachi",
       "shinies": 334
     },
     {
       "rank": 273,
-      "name": "zeflinggaming",
+      "name": "zeeburgapm",
       "shinies": 334
     },
     {
       "rank": 274,
-      "name": "zombie_brand",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 275,
-      "name": "zowdie",
+      "name": "zombie_brand",
       "shinies": 334
     },
     {
       "rank": 276,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 277,
       "name": "zursen",
       "shinies": 334
     }
