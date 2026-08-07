@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Thermal Shock v1.1",
-    "mapFileName": "thermal_shock_v1.1",
-    "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
+    "mapName": "Sunderance V1.3",
+    "mapFileName": "Sunderance V1.3",
+    "mapImage": "assets/maps/sunderance-v1-3-fde5209903.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
-    "gameTime": 1201,
-    "updatedAt": "2026-08-07T12:31:47Z"
+    "spectators": 16,
+    "gameTime": 1353,
+    "updatedAt": "2026-08-07T19:51:27Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786105920,
+  "statusUpdatedAt": 1786132271,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
