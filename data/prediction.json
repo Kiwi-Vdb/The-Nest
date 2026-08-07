@@ -1,23 +1,23 @@
 {
-  "generatedAt": 1786137603,
+  "generatedAt": 1786137631,
   "active": true,
   "status": "open",
   "id": 1786137594,
   "question": "Will game last >10 mins?",
   "prize": 2000,
-  "totalPicks": 1,
+  "totalPicks": 4,
   "startedAt": 1786137594,
   "closedAt": null,
   "options": [
     {
       "label": "yes",
-      "votes": 1,
-      "percent": 100.0
+      "votes": 3,
+      "percent": 75.0
     },
     {
       "label": "no",
-      "votes": 0,
-      "percent": 0.0
+      "votes": 1,
+      "percent": 25.0
     }
   ]
 }
