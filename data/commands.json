@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31",
+  "updatedAt": "2026-08-07",
   "sections": [
     {
       "id": "viewer",
@@ -47,6 +47,11 @@
         {
           "usage": "!hesalreadydead",
           "description": "Spend 500 Shinies to play the He's Already Dead video on stream. This redeem has a 30-second global cooldown."
+        },
+        {
+          "usage": "!copypasta",
+          "description": "Spend 500 Shinies to post a random copy pasta in Twitch chat.",
+          "aliases": ["!pasta", "!copy", "!cp"]
         },
         {
           "usage": "!redeems",
