@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786134804,
+  "generatedAt": 1786134868,
   "count": 50,
   "activities": [
+    {
+      "id": "f972f96d318420f8",
+      "type": "unlock",
+      "who": "siven12",
+      "text": "unlocked Pink Text",
+      "timestamp": 1786134868,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "a71d0ac7d450f548",
       "type": "unlock",
@@ -473,16 +483,6 @@
       "who": "sasadal",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1784377075,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "5fbc21c6729ee145",
-      "type": "unlock",
-      "who": "sasadal",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784377069,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"

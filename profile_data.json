@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786134804,
+  "generated_at": 1786134868,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6821,16 +6821,33 @@
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-pink",
+          "name": "Pink Text",
+          "rarity": "common",
+          "class_name": "text-pink",
+          "equip_command": "!equiptext Pink"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "recent_unlocks": [
+        {
+          "name": "Pink Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-pink",
+          "timestamp": 1786134868
+        }
+      ],
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 20,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     },
     "skvonchboyz": {
