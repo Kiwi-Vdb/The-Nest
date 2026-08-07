@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Sector 318C v1.0",
-    "mapFileName": "sector_318c_v1.0",
-    "mapImage": "assets/maps/sector-318c-v1-0-1da546044e.webp",
+    "mapName": "Kolmogorov Remake 3.0.1",
+    "mapFileName": "kolmogorov_remake_3.0.1",
+    "mapImage": "assets/maps/kolmogorov-remake-3-0-1-421745cedf.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
+    "spectators": 12,
     "gameTime": 587,
-    "updatedAt": "2026-08-07T20:13:40Z"
+    "updatedAt": "2026-08-07T20:14:11Z"
   },
   "live": true,
   "viewers": 1,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786133621,
+  "statusUpdatedAt": 1786133651,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
