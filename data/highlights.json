@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786133110,
+  "generatedAt": 1786133682,
   "rotationGeneratedAt": 1786132271,
   "nextRotationAt": 1786218671,
   "rotationHours": 24,
@@ -10,7 +10,7 @@
       "group": "viewer",
       "icon": "◇",
       "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 38 loot boxes."
+      "copy": "itsvdb has opened 39 loot boxes."
     },
     {
       "category": "highest_gamba_win",
@@ -24,7 +24,7 @@
       "group": "community",
       "icon": "◇",
       "title": "Boxes Opened",
-      "copy": "The community has opened 85 loot boxes."
+      "copy": "The community has opened 86 loot boxes."
     }
   ]
 }
