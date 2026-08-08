@@ -252,10 +252,18 @@ function renderCatalogueSections() {
   content.querySelectorAll("[data-catalogue-buy]").forEach((button) => {
     button.addEventListener("click", () => openCataloguePurchase(button.dataset.catalogueBuy));
   });
+  content.querySelectorAll("[data-catalogue-equip]").forEach((button) => {
+    button.addEventListener("click", () => equipCatalogueTextEffect(button.dataset.catalogueEquip));
+  });
 }
 
 function catalogueCardHtml(item) {
   const availability = catalogueAvailability(item);
+  const isOwnedTextEffect = catalogueState.kind === "text-effect" && catalogueOwns(item);
+  const isEquipped = isOwnedTextEffect && catalogueState.user?.equippedTextEffect === item.rewardId;
+  const action = isOwnedTextEffect
+    ? `<button type="button" class="catalogue-buy catalogue-equip${isEquipped ? " is-equipped" : ""}" data-catalogue-equip="${escapeCatalogueAttr(item.id)}" ${isEquipped || catalogueState.busy ? "disabled" : ""}>${isEquipped ? "Equipped" : "Equip"}</button>`
+    : `<button type="button" class="catalogue-buy" data-catalogue-buy="${escapeCatalogueAttr(item.id)}" ${availability.disabled ? "disabled" : ""}>${escapeCatalogueHtml(availability.label)}</button>`;
   const visual = catalogueVisualHtml(item);
   const badges = availability.code === "owned"
     ? `<span class="catalogue-owned-badge">OWNED</span>`
@@ -277,10 +285,36 @@ function catalogueCardHtml(item) {
           <span class="catalogue-price">${Number(item.price || 0).toLocaleString()} ✦</span>
           ${item.oldPrice ? `<span class="catalogue-old-price">${Number(item.oldPrice).toLocaleString()} ✦</span>` : ""}
         </div>
-        <button type="button" class="catalogue-buy" data-catalogue-buy="${escapeCatalogueAttr(item.id)}" ${availability.disabled ? "disabled" : ""}>${escapeCatalogueHtml(availability.label)}</button>
+        ${action}
       </div>
     </article>
   `;
+}
+
+async function equipCatalogueTextEffect(productId) {
+  if (catalogueState.busy) return;
+  if (!catalogueState.user) {
+    catalogueLogin();
+    return;
+  }
+  const item = findCatalogueProduct(productId);
+  if (!item || !catalogueOwns(item) || String(item.type).toLowerCase() !== "text effect") return;
+  catalogueState.busy = true;
+  renderCatalogueSections();
+  try {
+    const result = await catalogueApiRequest("/api/equip-text-effect", {
+      method: "POST",
+      body: JSON.stringify({ rewardId: item.rewardId }),
+    });
+    catalogueState.user.equippedTextEffect = result.request?.rewardId || item.rewardId;
+    catalogueState.user.equipStatus = result.request?.status || "pending";
+    catalogueToast(`${item.name} queued for equipping. Kiwi Birb will apply it automatically.`);
+  } catch (error) {
+    catalogueToast(error.message || catalogueFriendlyError(error.code) || "That text effect could not be equipped.", true);
+  } finally {
+    catalogueState.busy = false;
+    renderCatalogueSections();
+  }
 }
 
 function catalogueVisualHtml(item) {
@@ -449,6 +483,7 @@ function catalogueFriendlyError(code) {
     PRICE_CHANGED: "The price changed. Refresh the catalogue and try again.",
     INSUFFICIENT_BALANCE: "You do not have enough Shinies for this item.",
     PRODUCT_UNAVAILABLE: "That item is not currently available.",
+    TEXT_EFFECT_NOT_OWNED: "You do not own that text effect.",
   })[code] || "";
 }
 

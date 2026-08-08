@@ -416,6 +416,8 @@
   text-transform: uppercase;
 }
 .catalogue-buy:disabled { opacity: .45; cursor: default; transform: none; }
+.catalogue-equip:not(:disabled) { background: linear-gradient(135deg, #72e7b8, #3dbb91); color: #10271f; }
+.catalogue-equip.is-equipped { background: rgba(114, 231, 184, .18); border-color: rgba(114, 231, 184, .55); color: #baf5dc; opacity: 1; }
 .catalogue-owned-badge,
 .catalogue-sold-badge {
   position: absolute;
