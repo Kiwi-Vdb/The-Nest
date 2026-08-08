@@ -12,11 +12,11 @@
     "mapName": "Rosetta 1.4.4",
     "mapFileName": "rosetta_1.4.4",
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 13,
+    "players": 12,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 1581,
-    "updatedAt": "2026-08-08T00:43:56Z"
+    "updatedAt": "2026-08-08T00:44:27Z"
   },
   "live": true,
   "viewers": 11,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786149826,
+  "statusUpdatedAt": 1786149856,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
