@@ -12,14 +12,14 @@
     "mapName": "Thermal Shock v1.1",
     "mapFileName": "thermal_shock_v1.1",
     "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
-    "players": 10,
+    "players": 7,
     "maxPlayers": 16,
     "spectators": 9,
     "gameTime": 1581,
-    "updatedAt": "2026-08-08T00:40:52Z"
+    "updatedAt": "2026-08-08T00:41:23Z"
   },
   "live": true,
-  "viewers": 10,
+  "viewers": 11,
   "title": "Day 4 of actually trying - today we Macro!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786149644,
+  "statusUpdatedAt": 1786149675,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
