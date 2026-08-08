@@ -9,14 +9,14 @@
     "lobbyName": "US1 - 001",
     "lobbyTitle": "US1 - 001",
     "mode": "",
-    "mapName": "Baryon Tar Lake v1.1",
-    "mapFileName": "baryon_tar_lake_v1.1",
-    "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
-    "players": 14,
+    "mapName": "Bismuth Valley v2.4.1",
+    "mapFileName": "bismuth_valley_v2.4.1",
+    "mapImage": "assets/maps/bismuth-valley-v2-4-1-60b6b5a0e2.webp",
+    "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 9,
     "gameTime": 902,
-    "updatedAt": "2026-08-08T00:08:29Z"
+    "updatedAt": "2026-08-08T00:09:00Z"
   },
   "live": true,
   "viewers": 10,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786147698,
+  "statusUpdatedAt": 1786147728,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
