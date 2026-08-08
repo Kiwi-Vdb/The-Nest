@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786148557,
+  "generatedAt": 1786149194,
   "totalViewers": 290,
-  "totalShinies": 1094096,
+  "totalShinies": 1095096,
   "pageSize": 100,
   "entries": [
     {
@@ -131,23 +131,23 @@
     },
     {
       "rank": 26,
+      "name": "chuffingbear",
+      "shinies": 6002
+    },
+    {
+      "rank": 27,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "liarturil",
       "shinies": 5336
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "heltoff",
       "shinies": 5120
-    },
-    {
-      "rank": 29,
-      "name": "chuffingbear",
-      "shinies": 5002
     },
     {
       "rank": 30,
