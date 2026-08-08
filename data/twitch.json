@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
-    "gameTime": 656,
-    "updatedAt": "2026-08-08T00:01:59Z"
+    "gameTime": 689,
+    "updatedAt": "2026-08-08T00:02:30Z"
   },
   "live": true,
-  "viewers": 8,
+  "viewers": 9,
   "title": "Day 4 of actually trying - today we Macro!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786147304,
+  "statusUpdatedAt": 1786147334,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
