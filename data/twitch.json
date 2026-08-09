@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/swirly-rock-v1-1-103e96c923.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 22,
-    "gameTime": 744,
-    "updatedAt": "2026-08-09T11:32:34Z"
+    "spectators": 21,
+    "gameTime": 774,
+    "updatedAt": "2026-08-09T11:33:05Z"
   },
   "live": true,
   "viewers": 36,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786275161,
+  "statusUpdatedAt": 1786275191,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
