@@ -9,14 +9,14 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "Baryon Tar Lake v1.1",
-    "mapFileName": "baryon_tar_lake_v1.1",
-    "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 25,
+    "spectators": 26,
     "gameTime": 2363,
-    "updatedAt": "2026-08-09T13:04:35Z"
+    "updatedAt": "2026-08-09T13:05:52Z"
   },
   "live": true,
   "viewers": 46,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786280702,
+  "statusUpdatedAt": 1786280732,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
