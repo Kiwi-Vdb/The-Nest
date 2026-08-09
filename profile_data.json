@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786260939,
+  "generated_at": 1786260999,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -4243,10 +4243,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-black-hole",
-        "name": "Black Hole Text",
+        "id": "text-portal",
+        "name": "Portal Text",
         "rarity": "legendary",
-        "class_name": "text-black-hole"
+        "class_name": "text-portal"
       },
       "loot_boxes_opened": 39,
       "recent_unlocks": [
