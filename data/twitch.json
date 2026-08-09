@@ -9,14 +9,14 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "Starwatcher 1.0",
-    "mapFileName": "starwatcher_1.0",
-    "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
+    "mapName": "Ice Scream v2.5.2",
+    "mapFileName": "ice_scream_v2.5.2",
+    "mapImage": "assets/maps/ice-scream-v2-5-2-57b9ebb3c5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
+    "spectators": 12,
     "gameTime": 1128,
-    "updatedAt": "2026-08-09T09:59:45Z"
+    "updatedAt": "2026-08-09T10:00:16Z"
   },
   "live": true,
   "viewers": 32,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786269567,
+  "statusUpdatedAt": 1786269597,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
