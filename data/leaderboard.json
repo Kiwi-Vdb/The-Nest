@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786277654,
-  "totalViewers": 329,
-  "totalShinies": 1210202,
+  "generatedAt": 1786277778,
+  "totalViewers": 330,
+  "totalShinies": 1210536,
   "pageSize": 100,
   "entries": [
     {
@@ -1556,96 +1556,101 @@
     },
     {
       "rank": 311,
-      "name": "thrakei",
+      "name": "tebeer",
       "shinies": 334
     },
     {
       "rank": 312,
-      "name": "twc_jups",
+      "name": "thrakei",
       "shinies": 334
     },
     {
       "rank": 313,
-      "name": "unm0le",
+      "name": "twc_jups",
       "shinies": 334
     },
     {
       "rank": 314,
-      "name": "victhaur77",
+      "name": "unm0le",
       "shinies": 334
     },
     {
       "rank": 315,
-      "name": "victor__pitic",
+      "name": "victhaur77",
       "shinies": 334
     },
     {
       "rank": 316,
-      "name": "vighthart",
+      "name": "victor__pitic",
       "shinies": 334
     },
     {
       "rank": 317,
-      "name": "viral_lp",
+      "name": "vighthart",
       "shinies": 334
     },
     {
       "rank": 318,
-      "name": "visiblesighs",
+      "name": "viral_lp",
       "shinies": 334
     },
     {
       "rank": 319,
-      "name": "vlunom",
+      "name": "visiblesighs",
       "shinies": 334
     },
     {
       "rank": 320,
-      "name": "volkvoltny",
+      "name": "vlunom",
       "shinies": 334
     },
     {
       "rank": 321,
-      "name": "wimples193",
+      "name": "volkvoltny",
       "shinies": 334
     },
     {
       "rank": 322,
-      "name": "yamchiiir",
+      "name": "wimples193",
       "shinies": 334
     },
     {
       "rank": 323,
-      "name": "yankuch1",
+      "name": "yamchiiir",
       "shinies": 334
     },
     {
       "rank": 324,
-      "name": "yomikachi",
+      "name": "yankuch1",
       "shinies": 334
     },
     {
       "rank": 325,
-      "name": "zeeburgapm",
+      "name": "yomikachi",
       "shinies": 334
     },
     {
       "rank": 326,
-      "name": "zeflinggaming",
+      "name": "zeeburgapm",
       "shinies": 334
     },
     {
       "rank": 327,
-      "name": "zombie_brand",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 328,
-      "name": "zowdie",
+      "name": "zombie_brand",
       "shinies": 334
     },
     {
       "rank": 329,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 330,
       "name": "zursen",
       "shinies": 334
     }
