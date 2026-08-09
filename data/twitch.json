@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/riverrun-v1-eb454a3c97.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
-    "gameTime": 554,
-    "updatedAt": "2026-08-09T10:58:38Z"
+    "spectators": 7,
+    "gameTime": 587,
+    "updatedAt": "2026-08-09T10:59:08Z"
   },
   "live": true,
   "viewers": 31,
