@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/the-rock-jungle-2-1-1-95de7c2e79.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
-    "gameTime": 646,
-    "updatedAt": "2026-08-09T10:13:56Z"
+    "spectators": 8,
+    "gameTime": 676,
+    "updatedAt": "2026-08-09T10:14:27Z"
   },
   "live": true,
-  "viewers": 28,
+  "viewers": 30,
   "title": "Do your best, forget the rest!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786270419,
+  "statusUpdatedAt": 1786270449,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
