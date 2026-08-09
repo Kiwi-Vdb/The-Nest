@@ -12,11 +12,11 @@
     "mapName": "Tempest_V3",
     "mapFileName": "Tempest_V3",
     "mapImage": "assets/maps/tempest-v3-bebe9e1058.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 5,
     "gameTime": 4005,
-    "updatedAt": "2026-08-09T18:43:18Z"
+    "updatedAt": "2026-08-09T18:43:49Z"
   },
   "live": true,
   "viewers": 12,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786301000,
+  "statusUpdatedAt": 1786301030,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
