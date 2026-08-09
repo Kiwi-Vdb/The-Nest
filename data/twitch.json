@@ -12,11 +12,11 @@
     "mapName": "Riverrun_V1",
     "mapFileName": "Riverrun_V1",
     "mapImage": "assets/maps/riverrun-v1-eb454a3c97.webp",
-    "players": 13,
+    "players": 12,
     "maxPlayers": 16,
-    "spectators": 11,
+    "spectators": 13,
     "gameTime": 1413,
-    "updatedAt": "2026-08-09T11:13:34Z"
+    "updatedAt": "2026-08-09T11:14:20Z"
   },
   "live": true,
   "viewers": 30,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786274036,
+  "statusUpdatedAt": 1786274066,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
