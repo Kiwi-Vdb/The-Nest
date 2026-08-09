@@ -9,17 +9,17 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "Rosetta 1.4.4",
-    "mapFileName": "rosetta_1.4.4",
-    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
-    "players": 14,
+    "mapName": "The Tartar Steppe v1.1",
+    "mapFileName": "the_tartar_steppe_v1.1",
+    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
+    "players": 13,
     "maxPlayers": 16,
-    "spectators": 21,
+    "spectators": 22,
     "gameTime": 2318,
-    "updatedAt": "2026-08-09T13:49:57Z"
+    "updatedAt": "2026-08-09T13:50:27Z"
   },
   "live": true,
-  "viewers": 40,
+  "viewers": 45,
   "title": "Do your best, forget the rest!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786283381,
+  "statusUpdatedAt": 1786283411,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
