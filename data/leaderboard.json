@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786308074,
+  "generatedAt": 1786308138,
   "totalViewers": 367,
-  "totalShinies": 1344236,
+  "totalShinies": 1344720,
   "pageSize": 100,
   "entries": [
     {
@@ -162,7 +162,7 @@
     {
       "rank": 32,
       "name": "watchbehinddude",
-      "shinies": 6636
+      "shinies": 6786
     },
     {
       "rank": 33,
@@ -171,27 +171,27 @@
     },
     {
       "rank": 34,
+      "name": "muhmonkey",
+      "shinies": 6002
+    },
+    {
+      "rank": 35,
       "name": "warriot",
       "shinies": 5968
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "rowanmorseyt",
       "shinies": 5818
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "cozzwald",
       "shinies": 5804
     },
     {
-      "rank": 37,
-      "name": "goliathmaroof",
-      "shinies": 5668
-    },
-    {
       "rank": 38,
-      "name": "muhmonkey",
+      "name": "goliathmaroof",
       "shinies": 5668
     },
     {
