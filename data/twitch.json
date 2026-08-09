@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 19,
-    "gameTime": 975,
-    "updatedAt": "2026-08-09T08:49:59Z"
+    "spectators": 20,
+    "gameTime": 990,
+    "updatedAt": "2026-08-09T08:50:30Z"
   },
   "live": true,
-  "viewers": 27,
+  "viewers": 24,
   "title": "Do your best, forget the rest!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786265401,
+  "statusUpdatedAt": 1786265431,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
