@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786305879,
+  "generatedAt": 1786305913,
   "totalViewers": 360,
-  "totalShinies": 1327806,
+  "totalShinies": 1328806,
   "pageSize": 100,
   "entries": [
     {
@@ -141,27 +141,27 @@
     },
     {
       "rank": 28,
+      "name": "chuffingbear",
+      "shinies": 7336
+    },
+    {
+      "rank": 29,
       "name": "blzbrg",
       "shinies": 7304
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "blopson",
       "shinies": 7270
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "freakofnature122",
       "shinies": 7002
     },
     {
-      "rank": 31,
-      "name": "axoim_",
-      "shinies": 6336
-    },
-    {
       "rank": 32,
-      "name": "chuffingbear",
+      "name": "axoim_",
       "shinies": 6336
     },
     {
