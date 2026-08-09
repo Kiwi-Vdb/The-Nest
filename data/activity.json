@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786270205,
+  "generatedAt": 1786270444,
   "count": 50,
   "activities": [
     {
@@ -181,14 +181,6 @@
       "rarity": "rare",
       "category": "Back",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "2fe7043981e784cd",
-      "type": "prediction",
-      "who": "deverhr",
-      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1785417389,
-      "amount": 1500
     },
     {
       "id": "71523485ba63f995",
@@ -476,6 +468,16 @@
       "who": "bar_outofmana",
       "text": "unlocked Bday Hat",
       "timestamp": 1784394879,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "9aa7d4af3cdfd783",
+      "type": "unlock",
+      "who": "bar_outofmana",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784394877,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
