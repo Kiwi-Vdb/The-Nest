@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 022",
     "lobbyTitle": "EU6 - 022",
     "mode": "",
-    "mapName": "Kolmogorov Remake 3.0.1",
-    "mapFileName": "kolmogorov_remake_3.0.1",
-    "mapImage": "assets/maps/kolmogorov-remake-3-0-1-421745cedf.webp",
+    "mapName": "Hellas Basin v1.4",
+    "mapFileName": "hellas_basin_v1.4",
+    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 9,
     "gameTime": 1162,
-    "updatedAt": "2026-08-09T19:53:58Z"
+    "updatedAt": "2026-08-09T19:54:29Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786305228,
+  "statusUpdatedAt": 1786305259,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
