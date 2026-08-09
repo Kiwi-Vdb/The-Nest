@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786282947,
+  "generatedAt": 1786283048,
   "totalViewers": 339,
-  "totalShinies": 1262514,
+  "totalShinies": 1264514,
   "pageSize": 100,
   "entries": [
     {
@@ -76,18 +76,18 @@
     },
     {
       "rank": 15,
+      "name": "watchmedothis",
+      "shinies": 16088
+    },
+    {
+      "rank": 16,
       "name": "hobbitsenlive",
       "shinies": 16004
     },
     {
-      "rank": 16,
+      "rank": 17,
       "name": "professor_bar",
       "shinies": 15150
-    },
-    {
-      "rank": 17,
-      "name": "watchmedothis",
-      "shinies": 15088
     },
     {
       "rank": 18,
@@ -156,57 +156,57 @@
     },
     {
       "rank": 31,
-      "name": "rikkler",
+      "name": "muhmonkey",
       "shinies": 5668
     },
     {
       "rank": 32,
+      "name": "rikkler",
+      "shinies": 5668
+    },
+    {
+      "rank": 33,
       "name": "snoopa_aoe",
       "shinies": 5636
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "warriot",
       "shinies": 5484
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "liarturil",
       "shinies": 5336
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "heltoff",
       "shinies": 5120
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "axoim_",
       "shinies": 5002
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "philaeux",
       "shinies": 5002
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "oumuamua_i1",
       "shinies": 4968
     },
     {
-      "rank": 40,
-      "name": "goliathmaroof",
-      "shinies": 4668
-    },
-    {
       "rank": 41,
-      "name": "muhmonkey",
+      "name": "goliathmaroof",
       "shinies": 4668
     },
     {
