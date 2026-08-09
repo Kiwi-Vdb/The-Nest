@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1786301375,
+  "generatedAt": 1786301477,
   "count": 50,
   "activities": [
+    {
+      "id": "796ec3731b855147",
+      "type": "gamba",
+      "who": "itsvdb",
+      "text": "won 1,700 Shinies playing Gamba",
+      "timestamp": 1786301458,
+      "amount": 1700
+    },
     {
       "id": "da495569f9ff7c1c",
       "type": "unlock",
@@ -468,16 +476,6 @@
       "who": "bar_outofmana",
       "text": "unlocked Bday Hat",
       "timestamp": 1784394879,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "9aa7d4af3cdfd783",
-      "type": "unlock",
-      "who": "bar_outofmana",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784394877,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
