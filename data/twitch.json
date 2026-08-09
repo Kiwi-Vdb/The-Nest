@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/swirly-rock-v1-1-103e96c923.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
-    "gameTime": 774,
-    "updatedAt": "2026-08-09T11:33:05Z"
+    "spectators": 22,
+    "gameTime": 807,
+    "updatedAt": "2026-08-09T11:33:37Z"
   },
   "live": true,
   "viewers": 36,
