@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786260999,
+  "generated_at": 1786261057,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -4243,10 +4243,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-portal",
-        "name": "Portal Text",
+        "id": "text-gift-box-surprise",
+        "name": "Gift Box Surprise Text",
         "rarity": "legendary",
-        "class_name": "text-portal"
+        "class_name": "text-gift-box-surprise"
       },
       "loot_boxes_opened": 39,
       "recent_unlocks": [
