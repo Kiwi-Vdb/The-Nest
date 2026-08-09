@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786277030,
+  "generatedAt": 1786277046,
   "totalViewers": 325,
-  "totalShinies": 1200046,
+  "totalShinies": 1201046,
   "pageSize": 100,
   "entries": [
     {
@@ -136,18 +136,18 @@
     },
     {
       "rank": 27,
+      "name": "kiddorox",
+      "shinies": 6668
+    },
+    {
+      "rank": 28,
       "name": "blopson",
       "shinies": 6452
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "chuffingbear",
       "shinies": 6002
-    },
-    {
-      "rank": 29,
-      "name": "kiddorox",
-      "shinies": 5668
     },
     {
       "rank": 30,
