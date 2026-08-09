@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786261837,
+  "generatedAt": 1786261880,
   "count": 50,
   "activities": [
+    {
+      "id": "da495569f9ff7c1c",
+      "type": "unlock",
+      "who": "cozzwald",
+      "text": "unlocked Portal Text",
+      "timestamp": 1786261878,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "d203934d9a792597",
       "type": "prediction",
@@ -467,16 +477,6 @@
       "timestamp": 1784394896,
       "rarity": "rare",
       "category": "Back",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "574e902bebf3943b",
-      "type": "unlock",
-      "who": "bar_outofmana",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784394879,
-      "rarity": "common",
-      "category": "Hat",
       "rewardType": "cosmetic"
     }
   ]
