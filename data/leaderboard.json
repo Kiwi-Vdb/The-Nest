@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786307526,
+  "generatedAt": 1786307654,
   "totalViewers": 363,
-  "totalShinies": 1337932,
+  "totalShinies": 1339266,
   "pageSize": 100,
   "entries": [
     {
@@ -171,38 +171,38 @@
     },
     {
       "rank": 34,
+      "name": "warriot",
+      "shinies": 5818
+    },
+    {
+      "rank": 35,
       "name": "cozzwald",
       "shinies": 5804
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "goliathmaroof",
       "shinies": 5668
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "muhmonkey",
       "shinies": 5668
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "rikkler",
       "shinies": 5668
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "snoopa_aoe",
       "shinies": 5636
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "watchbehinddude",
       "shinies": 5636
-    },
-    {
-      "rank": 40,
-      "name": "warriot",
-      "shinies": 5484
     },
     {
       "rank": 41,
@@ -241,53 +241,53 @@
     },
     {
       "rank": 48,
+      "name": "chrisgw",
+      "shinies": 4820
+    },
+    {
+      "rank": 49,
       "name": "kwbr_",
       "shinies": 4668
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "onemotionsc2",
       "shinies": 4668
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "hamoodlovespoop",
       "shinies": 4388
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "dreadyfire",
       "shinies": 4336
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "tjallex",
       "shinies": 4336
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "rovender",
       "shinies": 4334
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "hells_hound_",
       "shinies": 4302
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "franzdk_",
       "shinies": 4152
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "akkaiiie",
       "shinies": 4002
-    },
-    {
-      "rank": 57,
-      "name": "chrisgw",
-      "shinies": 3820
     },
     {
       "rank": 58,
