@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/bismuth-valley-v2-4-1-60b6b5a0e2.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 13,
-    "gameTime": 3255,
-    "updatedAt": "2026-08-09T18:30:34Z"
+    "spectators": 12,
+    "gameTime": 3288,
+    "updatedAt": "2026-08-09T18:31:07Z"
   },
   "live": true,
   "viewers": 15,
