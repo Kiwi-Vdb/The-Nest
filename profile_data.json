@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786261199,
+  "generated_at": 1786261212,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -3946,7 +3946,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 147500,
+        "balance": 146000,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -4243,10 +4243,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-gift-box-surprise",
-        "name": "Gift Box Surprise Text",
-        "rarity": "legendary",
-        "class_name": "text-gift-box-surprise"
+        "id": "text-wavy",
+        "name": "Wavy Text",
+        "rarity": "rare",
+        "class_name": "text-wavy"
       },
       "loot_boxes_opened": 39,
       "recent_unlocks": [
