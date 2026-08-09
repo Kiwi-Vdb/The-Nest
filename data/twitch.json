@@ -9,17 +9,17 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "Nuclear Winter Bar 1.4",
-    "mapFileName": "NuclearWinterR",
-    "mapImage": "assets/maps/nuclearwinterr-50fab6e5ff.webp",
+    "mapName": "Riverrun_V1",
+    "mapFileName": "Riverrun_V1",
+    "mapImage": "assets/maps/riverrun-v1-eb454a3c97.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 9,
+    "spectators": 8,
     "gameTime": 672,
-    "updatedAt": "2026-08-09T10:39:38Z"
+    "updatedAt": "2026-08-09T10:40:24Z"
   },
   "live": true,
-  "viewers": 30,
+  "viewers": 29,
   "title": "Do your best, forget the rest!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786271999,
+  "statusUpdatedAt": 1786272029,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
