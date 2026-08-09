@@ -9,14 +9,14 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "Riverrun_V1",
-    "mapFileName": "Riverrun_V1",
-    "mapImage": "assets/maps/riverrun-v1-eb454a3c97.webp",
+    "mapName": "Swirly Rock v1.1",
+    "mapFileName": "swirly_rock_v1.1",
+    "mapImage": "assets/maps/swirly-rock-v1-1-103e96c923.webp",
     "players": 13,
     "maxPlayers": 16,
     "spectators": 13,
     "gameTime": 1413,
-    "updatedAt": "2026-08-09T11:14:36Z"
+    "updatedAt": "2026-08-09T11:15:22Z"
   },
   "live": true,
   "viewers": 30,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786274096,
+  "statusUpdatedAt": 1786274127,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
