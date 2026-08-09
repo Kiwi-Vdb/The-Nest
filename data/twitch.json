@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 022",
     "lobbyTitle": "EU6 - 022",
     "mode": "",
-    "mapName": "Starwatcher 1.0",
-    "mapFileName": "starwatcher_1.0",
-    "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
+    "mapName": "Kolmogorov Remake 3.0.1",
+    "mapFileName": "kolmogorov_remake_3.0.1",
+    "mapImage": "assets/maps/kolmogorov-remake-3-0-1-421745cedf.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 1153,
-    "updatedAt": "2026-08-09T19:53:27Z"
+    "spectators": 9,
+    "gameTime": 1162,
+    "updatedAt": "2026-08-09T19:53:58Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786305198,
+  "statusUpdatedAt": 1786305228,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
