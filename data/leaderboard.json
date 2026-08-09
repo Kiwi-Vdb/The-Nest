@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786264743,
+  "generatedAt": 1786264863,
   "totalViewers": 298,
-  "totalShinies": 1110758,
+  "totalShinies": 1111758,
   "pageSize": 100,
   "entries": [
     {
@@ -96,18 +96,18 @@
     },
     {
       "rank": 19,
+      "name": "thequetx",
+      "shinies": 9770
+    },
+    {
+      "rank": 20,
       "name": "deverhr",
       "shinies": 9354
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "sasadal",
       "shinies": 9304
-    },
-    {
-      "rank": 21,
-      "name": "thequetx",
-      "shinies": 8770
     },
     {
       "rank": 22,
