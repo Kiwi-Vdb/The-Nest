@@ -12,11 +12,11 @@
     "mapName": "Eight Horses 1.2",
     "mapFileName": "eight_horses_1.2",
     "mapImage": "assets/maps/eight-horses-1-2-628d6a7a7b.webp",
-    "players": 10,
+    "players": 8,
     "maxPlayers": 16,
-    "spectators": 11,
+    "spectators": 10,
     "gameTime": 1162,
-    "updatedAt": "2026-08-09T19:56:18Z"
+    "updatedAt": "2026-08-09T19:56:49Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786305380,
+  "statusUpdatedAt": 1786305410,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
