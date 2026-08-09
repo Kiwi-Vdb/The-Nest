@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/bismuth-valley-v2-4-1-60b6b5a0e2.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 11,
-    "gameTime": 3636,
-    "updatedAt": "2026-08-09T18:36:56Z"
+    "spectators": 12,
+    "gameTime": 3669,
+    "updatedAt": "2026-08-09T18:37:28Z"
   },
   "live": true,
-  "viewers": 13,
+  "viewers": 14,
   "title": "Wife napping, so here I am trying my hardest",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786300605,
+  "statusUpdatedAt": 1786300635,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
