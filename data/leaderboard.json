@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786277827,
+  "generatedAt": 1786278066,
   "totalViewers": 330,
-  "totalShinies": 1211536,
+  "totalShinies": 1212536,
   "pageSize": 100,
   "entries": [
     {
@@ -111,23 +111,23 @@
     },
     {
       "rank": 22,
+      "name": "jigglyjake22",
+      "shinies": 7670
+    },
+    {
+      "rank": 23,
       "name": "colonp",
       "shinies": 7152
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "blzbrg",
       "shinies": 6970
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "dog1isopen",
       "shinies": 6820
-    },
-    {
-      "rank": 25,
-      "name": "jigglyjake22",
-      "shinies": 6670
     },
     {
       "rank": 26,
