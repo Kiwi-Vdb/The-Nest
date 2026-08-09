@@ -9,14 +9,14 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "Salt Reef 1.1",
-    "mapFileName": "salt_reef_1.1",
-    "mapImage": "assets/maps/salt-reef-1-1-726b37f6d1.webp",
+    "mapName": "Baryon Tar Lake v1.1",
+    "mapFileName": "baryon_tar_lake_v1.1",
+    "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 23,
-    "gameTime": 743,
-    "updatedAt": "2026-08-09T12:18:37Z"
+    "gameTime": 749,
+    "updatedAt": "2026-08-09T12:19:09Z"
   },
   "live": true,
   "viewers": 40,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786277899,
+  "statusUpdatedAt": 1786277930,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
