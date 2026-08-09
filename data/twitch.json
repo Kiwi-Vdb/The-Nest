@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 11,
-    "gameTime": 592,
-    "updatedAt": "2026-08-09T19:44:06Z"
+    "gameTime": 625,
+    "updatedAt": "2026-08-09T19:44:38Z"
   },
   "live": true,
-  "viewers": 24,
+  "viewers": 25,
   "title": "Wife napping, so here I am trying my hardest",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786304650,
+  "statusUpdatedAt": 1786304680,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
