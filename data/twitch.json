@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 022",
     "lobbyTitle": "EU6 - 022",
     "mode": "",
-    "mapName": "Hellas Basin v1.4",
-    "mapFileName": "hellas_basin_v1.4",
-    "mapImage": "assets/maps/hellas-basin-v1-4-d4896f253f.webp",
-    "players": 15,
+    "mapName": "Eight Horses 1.2",
+    "mapFileName": "eight_horses_1.2",
+    "mapImage": "assets/maps/eight-horses-1-2-628d6a7a7b.webp",
+    "players": 10,
     "maxPlayers": 16,
     "spectators": 11,
     "gameTime": 1162,
-    "updatedAt": "2026-08-09T19:56:02Z"
+    "updatedAt": "2026-08-09T19:56:18Z"
   },
   "live": true,
   "viewers": 20,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786305349,
+  "statusUpdatedAt": 1786305380,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
