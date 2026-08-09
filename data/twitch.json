@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 022",
     "lobbyTitle": "EU6 - 022",
     "mode": "",
-    "mapName": "Eight Horses 1.2",
-    "mapFileName": "eight_horses_1.2",
-    "mapImage": "assets/maps/eight-horses-1-2-628d6a7a7b.webp",
-    "players": 10,
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
+    "players": 12,
     "maxPlayers": 16,
     "spectators": 10,
     "gameTime": 1162,
-    "updatedAt": "2026-08-09T19:57:50Z"
+    "updatedAt": "2026-08-09T19:58:21Z"
   },
   "live": true,
   "viewers": 27,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786305471,
+  "statusUpdatedAt": 1786305501,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
