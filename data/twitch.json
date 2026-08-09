@@ -12,11 +12,11 @@
     "mapName": "Starwatcher 1.0",
     "mapFileName": "starwatcher_1.0",
     "mapImage": "assets/maps/starwatcher-1-0-5ad7881d71.webp",
-    "players": 14,
+    "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 5,
     "gameTime": 2181,
-    "updatedAt": "2026-08-09T19:28:00Z"
+    "updatedAt": "2026-08-09T19:28:16Z"
   },
   "live": true,
   "viewers": 29,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786303679,
+  "statusUpdatedAt": 1786303709,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
