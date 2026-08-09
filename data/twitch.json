@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 8,
-    "gameTime": 1209,
-    "updatedAt": "2026-08-09T19:11:41Z"
+    "spectators": 7,
+    "gameTime": 1239,
+    "updatedAt": "2026-08-09T19:12:12Z"
   },
   "live": true,
-  "viewers": 18,
+  "viewers": 20,
   "title": "Wife napping, so here I am trying my hardest",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786302703,
+  "statusUpdatedAt": 1786302733,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
