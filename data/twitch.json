@@ -9,14 +9,14 @@
     "lobbyName": "EU2 - 003",
     "lobbyTitle": "EU2 - 003",
     "mode": "",
-    "mapName": "The Rock Jungle 2.1.1",
-    "mapFileName": "the_rock_jungle_2.1.1",
-    "mapImage": "assets/maps/the-rock-jungle-2-1-1-95de7c2e79.webp",
+    "mapName": "Nuclear Winter Bar 1.4",
+    "mapFileName": "NuclearWinterR",
+    "mapImage": "assets/maps/nuclearwinterr-50fab6e5ff.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 9,
     "gameTime": 1156,
-    "updatedAt": "2026-08-09T10:23:19Z"
+    "updatedAt": "2026-08-09T10:23:50Z"
   },
   "live": true,
   "viewers": 30,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786270996,
+  "statusUpdatedAt": 1786271026,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
