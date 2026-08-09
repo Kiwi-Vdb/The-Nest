@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786270775,
+  "generatedAt": 1786270865,
   "totalViewers": 312,
-  "totalShinies": 1152180,
+  "totalShinies": 1153180,
   "pageSize": 100,
   "entries": [
     {
@@ -131,37 +131,37 @@
     },
     {
       "rank": 26,
+      "name": "jigglyjake22",
+      "shinies": 5670
+    },
+    {
+      "rank": 27,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "liarturil",
       "shinies": 5336
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "colonp",
       "shinies": 5152
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "heltoff",
       "shinies": 5120
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "oumuamua_i1",
       "shinies": 4968
     },
     {
-      "rank": 31,
-      "name": "dog1isopen",
-      "shinies": 4670
-    },
-    {
       "rank": 32,
-      "name": "jigglyjake22",
+      "name": "dog1isopen",
       "shinies": 4670
     },
     {
