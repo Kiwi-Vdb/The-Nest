@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786277407,
+  "generatedAt": 1786277450,
   "totalViewers": 325,
-  "totalShinies": 1206196,
+  "totalShinies": 1206530,
   "pageSize": 100,
   "entries": [
     {
@@ -186,18 +186,18 @@
     },
     {
       "rank": 37,
+      "name": "bonghits4cthulhu",
+      "shinies": 4486
+    },
+    {
+      "rank": 38,
       "name": "hamoodlovespoop",
       "shinies": 4388
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "tjallex",
       "shinies": 4336
-    },
-    {
-      "rank": 39,
-      "name": "bonghits4cthulhu",
-      "shinies": 4152
     },
     {
       "rank": 40,
