@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1786260875,
+  "generatedAt": 1786260939,
   "totalViewers": 293,
-  "totalShinies": 1104434,
+  "totalShinies": 1104752,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "itsvdb",
-      "shinies": 148000
+      "shinies": 147500
     },
     {
       "rank": 2,
@@ -116,18 +116,18 @@
     },
     {
       "rank": 23,
+      "name": "cozzwald",
+      "shinies": 6804
+    },
+    {
+      "rank": 24,
       "name": "freakofnature122",
       "shinies": 6668
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "blopson",
       "shinies": 6452
-    },
-    {
-      "rank": 25,
-      "name": "cozzwald",
-      "shinies": 6320
     },
     {
       "rank": 26,
@@ -336,57 +336,57 @@
     },
     {
       "rank": 67,
+      "name": "snoopa_aoe",
+      "shinies": 2486
+    },
+    {
+      "rank": 68,
       "name": "dhisame",
       "shinies": 2336
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "goliathmaroof",
       "shinies": 2334
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "kiddorox",
       "shinies": 2334
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "muhmonkey",
       "shinies": 2334
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "primalgamingnexus",
       "shinies": 2334
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "victorxii",
       "shinies": 2334
     },
     {
-      "rank": 73,
+      "rank": 74,
       "name": "our_lord_and_savior_gonk",
       "shinies": 2302
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "primetime94",
       "shinies": 2302
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "maratus0612",
       "shinies": 2152
     },
     {
-      "rank": 76,
-      "name": "slicklikevik",
-      "shinies": 2152
-    },
-    {
       "rank": 77,
-      "name": "snoopa_aoe",
+      "name": "slicklikevik",
       "shinies": 2152
     },
     {
