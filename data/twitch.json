@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 24,
-    "gameTime": 569,
-    "updatedAt": "2026-08-09T12:33:17Z"
+    "spectators": 25,
+    "gameTime": 599,
+    "updatedAt": "2026-08-09T12:33:49Z"
   },
   "live": true,
   "viewers": 39,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786278781,
+  "statusUpdatedAt": 1786278812,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
