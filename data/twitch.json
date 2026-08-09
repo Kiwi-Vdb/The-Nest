@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 13,
     "maxPlayers": 16,
-    "spectators": 22,
+    "spectators": 20,
     "gameTime": 2318,
-    "updatedAt": "2026-08-09T13:52:30Z"
+    "updatedAt": "2026-08-09T13:53:01Z"
   },
   "live": true,
-  "viewers": 45,
+  "viewers": 43,
   "title": "Do your best, forget the rest!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786283563,
+  "statusUpdatedAt": 1786283593,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {

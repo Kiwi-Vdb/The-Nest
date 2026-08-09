@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786283467,
-  "totalViewers": 340,
-  "totalShinies": 1266848,
+  "generatedAt": 1786283588,
+  "totalViewers": 341,
+  "totalShinies": 1269182,
   "pageSize": 100,
   "entries": [
     {
@@ -52,7 +52,7 @@
     {
       "rank": 10,
       "name": "sharpishdog",
-      "shinies": 21222
+      "shinies": 22222
     },
     {
       "rank": 11,
@@ -92,7 +92,7 @@
     {
       "rank": 18,
       "name": "oafsalot",
-      "shinies": 13672
+      "shinies": 14672
     },
     {
       "rank": 19,
@@ -1616,91 +1616,96 @@
     },
     {
       "rank": 323,
-      "name": "thrakei",
+      "name": "thebluetigah",
       "shinies": 334
     },
     {
       "rank": 324,
-      "name": "twc_jups",
+      "name": "thrakei",
       "shinies": 334
     },
     {
       "rank": 325,
-      "name": "unm0le",
+      "name": "twc_jups",
       "shinies": 334
     },
     {
       "rank": 326,
-      "name": "victhaur77",
+      "name": "unm0le",
       "shinies": 334
     },
     {
       "rank": 327,
-      "name": "victor__pitic",
+      "name": "victhaur77",
       "shinies": 334
     },
     {
       "rank": 328,
-      "name": "vighthart",
+      "name": "victor__pitic",
       "shinies": 334
     },
     {
       "rank": 329,
-      "name": "viral_lp",
+      "name": "vighthart",
       "shinies": 334
     },
     {
       "rank": 330,
-      "name": "visiblesighs",
+      "name": "viral_lp",
       "shinies": 334
     },
     {
       "rank": 331,
-      "name": "vlunom",
+      "name": "visiblesighs",
       "shinies": 334
     },
     {
       "rank": 332,
-      "name": "volkvoltny",
+      "name": "vlunom",
       "shinies": 334
     },
     {
       "rank": 333,
-      "name": "yamchiiir",
+      "name": "volkvoltny",
       "shinies": 334
     },
     {
       "rank": 334,
-      "name": "yankuch1",
+      "name": "yamchiiir",
       "shinies": 334
     },
     {
       "rank": 335,
-      "name": "yomikachi",
+      "name": "yankuch1",
       "shinies": 334
     },
     {
       "rank": 336,
-      "name": "zeeburgapm",
+      "name": "yomikachi",
       "shinies": 334
     },
     {
       "rank": 337,
-      "name": "zeflinggaming",
+      "name": "zeeburgapm",
       "shinies": 334
     },
     {
       "rank": 338,
-      "name": "zombie_brand",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 339,
-      "name": "zowdie",
+      "name": "zombie_brand",
       "shinies": 334
     },
     {
       "rank": 340,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 341,
       "name": "zursen",
       "shinies": 334
     }
