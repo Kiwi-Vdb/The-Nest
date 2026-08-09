@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 8,
-    "gameTime": 100,
-    "updatedAt": "2026-08-09T10:26:39Z"
+    "gameTime": 130,
+    "updatedAt": "2026-08-09T10:27:09Z"
   },
   "live": true,
-  "viewers": 30,
+  "viewers": 29,
   "title": "Do your best, forget the rest!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786271208,
+  "statusUpdatedAt": 1786271238,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
