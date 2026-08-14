@@ -363,12 +363,22 @@
 .effect-portal { color: #b787ff; animation: cataloguePortal 1.8s ease-in-out infinite; }
 .effect-black-hole { color: #dfc8ff; text-shadow: 0 0 7px #000, 0 0 16px #8f55ff; }
 .effect-gift-box-surprise { color: #ff87c8; animation: catalogueBounce 1.4s ease-in-out infinite; }
+.effect-aurora-drift { background: linear-gradient(90deg,#70ffd6,#72b8ff,#c889ff,#70ffd6); background-size:260% 100%; color:transparent; -webkit-background-clip:text; background-clip:text; animation:catalogueAurora 4s ease-in-out infinite; }
+.effect-electric-arc { color:#e6fdff; text-shadow:0 0 7px #00d9ff,2px 0 8px #714cff; animation:catalogueElectric 2.4s steps(1) infinite; }
+.effect-frozen-shatter { color:#eaffff; text-shadow:0 0 7px #fff,0 0 14px #54cfff; animation:catalogueIce 3s ease-in-out infinite; }
+.effect-plasma-pulse { color:#fff0ff; text-shadow:0 0 8px #ff36e4,0 0 18px #6f2cff; animation:cataloguePlasma 1.8s ease-in-out infinite; }
+.effect-supernova { background:linear-gradient(90deg,#fff,#fff4a5,#ff8a35,#ff3d89,#fff); background-size:240% 100%; color:transparent; -webkit-background-clip:text; background-clip:text; animation:catalogueSupernova 2.8s ease-in-out infinite; }
 
 @keyframes catalogueRainbow { to { background-position: 220% 0; } }
 @keyframes catalogueSparkle { from { filter: brightness(.9); } to { filter: brightness(1.45) drop-shadow(0 0 7px currentColor); } }
 @keyframes catalogueWave { 0%,100% { transform: translateY(0) rotate(-1deg); } 50% { transform: translateY(-7px) rotate(1deg); } }
 @keyframes catalogueGlitch { 0%,100% { transform: translate(0); } 33% { transform: translate(2px,-1px); } 66% { transform: translate(-2px,1px); } }
 @keyframes cataloguePortal { 0%,100% { transform: scale(1); filter: drop-shadow(0 0 3px #8d55ff); } 50% { transform: scale(1.06); filter: drop-shadow(0 0 13px #8d55ff); } }
+@keyframes catalogueAurora { 0%,100% { background-position:0 50%; } 50% { background-position:100% 50%; } }
+@keyframes catalogueElectric { 0%,88%,94%,100% { transform:translate(0); } 89% { transform:translate(2px,-1px); } 91% { transform:translate(-1px,1px); } }
+@keyframes catalogueIce { 0%,100% { filter:brightness(1); } 50% { filter:brightness(1.5); } }
+@keyframes cataloguePlasma { 0%,100% { filter:brightness(1); } 50% { filter:brightness(1.5) saturate(1.4); } }
+@keyframes catalogueSupernova { 0%,100% { background-position:0 50%; filter:drop-shadow(0 0 4px #ff7b35); } 50% { background-position:100% 50%; filter:drop-shadow(0 0 12px #fff06a); } }
 @keyframes catalogueBounce { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
 
 .catalogue-card-head { margin-top: 14px; }
