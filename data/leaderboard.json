@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786711982,
+  "generatedAt": 1786712238,
   "totalViewers": 380,
-  "totalShinies": 1373400,
+  "totalShinies": 1373734,
   "pageSize": 100,
   "entries": [
     {
@@ -226,28 +226,28 @@
     },
     {
       "rank": 45,
+      "name": "bonghits4cthulhu",
+      "shinies": 5154
+    },
+    {
+      "rank": 46,
       "name": "heltoff",
       "shinies": 5120
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "philaeux",
       "shinies": 5002
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "oumuamua_i1",
       "shinies": 4968
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "alishhk",
       "shinies": 4954
-    },
-    {
-      "rank": 49,
-      "name": "bonghits4cthulhu",
-      "shinies": 4820
     },
     {
       "rank": 50,
