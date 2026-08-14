@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 000",
     "lobbyTitle": "EU7 - 000",
     "mode": "",
-    "mapName": "Hyperion Shale 1.0.2",
-    "mapFileName": "hyperion_shale_1.0.2",
-    "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 7,
+    "spectators": 4,
     "gameTime": 803,
-    "updatedAt": "2026-08-14T13:30:29Z"
+    "updatedAt": "2026-08-14T13:31:14Z"
   },
   "live": true,
   "viewers": 31,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786714234,
+  "statusUpdatedAt": 1786714265,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
