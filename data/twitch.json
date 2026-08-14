@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
+    "spectators": 7,
     "gameTime": 763,
-    "updatedAt": "2026-08-14T13:13:04Z"
+    "updatedAt": "2026-08-14T13:13:19Z"
   },
   "live": true,
-  "viewers": 31,
+  "viewers": 30,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786713168,
+  "statusUpdatedAt": 1786713198,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
