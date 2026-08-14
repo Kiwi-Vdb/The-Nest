@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786712494,
+  "generatedAt": 1786712617,
   "totalViewers": 382,
-  "totalShinies": 1377070,
+  "totalShinies": 1377220,
   "pageSize": 100,
   "entries": [
     {
@@ -216,18 +216,18 @@
     },
     {
       "rank": 43,
+      "name": "bonghits4cthulhu",
+      "shinies": 5304
+    },
+    {
+      "rank": 44,
       "name": "goobmilk",
       "shinies": 5302
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "tallerofin",
       "shinies": 5270
-    },
-    {
-      "rank": 45,
-      "name": "bonghits4cthulhu",
-      "shinies": 5154
     },
     {
       "rank": 46,
