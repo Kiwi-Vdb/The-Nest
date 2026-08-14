@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786707771,
+  "generatedAt": 1786707902,
   "count": 50,
   "activities": [
     {
@@ -163,14 +163,6 @@
       "text": "won 1,700 Shinies playing Gamba",
       "timestamp": 1785956806,
       "amount": 1700
-    },
-    {
-      "id": "283cae2a516e4c2c",
-      "type": "prediction",
-      "who": "deverhr",
-      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1785673658,
-      "amount": 1500
     },
     {
       "id": "f135f5bb9f063ba4",
@@ -476,6 +468,16 @@
       "who": "bar_outofmana",
       "text": "unlocked Bday Hat",
       "timestamp": 1784394879,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "9aa7d4af3cdfd783",
+      "type": "unlock",
+      "who": "bar_outofmana",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784394877,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
