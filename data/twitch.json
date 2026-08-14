@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 054",
     "lobbyTitle": "EU7 - 054",
     "mode": "",
-    "mapName": "White Fire Remake 1.3",
-    "mapFileName": "white_fire_remake_1.3",
-    "mapImage": "assets/maps/white-fire-remake-1-3-34531173ff.webp",
+    "mapName": "Carrot Mountains v2.0",
+    "mapFileName": "carrot_mountains_v2.0",
+    "mapImage": "assets/maps/carrot-mountains-v2-0-754b5c58ff.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 20,
-    "gameTime": 749,
-    "updatedAt": "2026-08-14T11:48:53Z"
+    "spectators": 17,
+    "gameTime": 758,
+    "updatedAt": "2026-08-14T11:49:24Z"
   },
   "live": true,
   "viewers": 21,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786708144,
+  "statusUpdatedAt": 1786708174,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
