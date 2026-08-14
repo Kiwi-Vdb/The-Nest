@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 000",
     "lobbyTitle": "EU7 - 000",
     "mode": "",
-    "mapName": "Hades Ponds 1.1",
-    "mapFileName": "hades_ponds_1.1",
-    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
+    "mapName": "Ditched_V1",
+    "mapFileName": "Ditched_V1",
+    "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
+    "spectators": 15,
     "gameTime": 1410,
-    "updatedAt": "2026-08-14T13:58:48Z"
+    "updatedAt": "2026-08-14T14:00:04Z"
   },
   "live": true,
   "viewers": 34,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786715969,
+  "statusUpdatedAt": 1786716000,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
