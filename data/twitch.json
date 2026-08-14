@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 5,
-    "gameTime": 151,
-    "updatedAt": "2026-08-14T13:15:55Z"
+    "gameTime": 9,
+    "updatedAt": "2026-08-14T13:16:27Z"
   },
   "live": true,
-  "viewers": 30,
+  "viewers": 27,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786713350,
+  "statusUpdatedAt": 1786713380,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
