@@ -9,17 +9,17 @@
     "lobbyName": "EU7 - 054",
     "lobbyTitle": "EU7 - 054",
     "mode": "",
-    "mapName": "Supreme Isthmus v2.1",
-    "mapFileName": "supreme_isthmus_v2.1",
-    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
+    "mapName": "Rosetta 1.4.4",
+    "mapFileName": "rosetta_1.4.4",
+    "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
+    "spectators": 16,
     "gameTime": 2000,
-    "updatedAt": "2026-08-14T12:26:15Z"
+    "updatedAt": "2026-08-14T12:26:46Z"
   },
   "live": true,
-  "viewers": 21,
+  "viewers": 19,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786710366,
+  "statusUpdatedAt": 1786710396,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
