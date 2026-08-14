@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786716649,
+  "generatedAt": 1786716680,
   "totalViewers": 410,
-  "totalShinies": 1436200,
+  "totalShinies": 1436684,
   "pageSize": 100,
   "entries": [
     {
@@ -146,23 +146,23 @@
     },
     {
       "rank": 29,
+      "name": "blopson",
+      "shinies": 7754
+    },
+    {
+      "rank": 30,
       "name": "zhadeoak",
       "shinies": 7668
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "chuffingbear",
       "shinies": 7336
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "blzbrg",
       "shinies": 7304
-    },
-    {
-      "rank": 32,
-      "name": "blopson",
-      "shinies": 7270
     },
     {
       "rank": 33,
