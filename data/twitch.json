@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/rosetta-1-4-4-122a3a9526.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 557,
-    "updatedAt": "2026-08-14T12:58:17Z"
+    "spectators": 13,
+    "gameTime": 590,
+    "updatedAt": "2026-08-14T12:58:50Z"
   },
   "live": true,
-  "viewers": 27,
+  "viewers": 26,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786712286,
+  "statusUpdatedAt": 1786712316,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
