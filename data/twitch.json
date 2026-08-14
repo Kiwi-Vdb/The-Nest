@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
-    "gameTime": 560,
-    "updatedAt": "2026-08-14T14:13:43Z"
+    "spectators": 12,
+    "gameTime": 593,
+    "updatedAt": "2026-08-14T14:14:14Z"
   },
   "live": true,
-  "viewers": 38,
+  "viewers": 39,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786716823,
+  "statusUpdatedAt": 1786716853,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
