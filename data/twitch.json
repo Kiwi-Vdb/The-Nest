@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 054",
     "lobbyTitle": "EU7 - 054",
     "mode": "",
-    "mapName": "Stronghold v5.0.1",
-    "mapFileName": "stronghold_v5.0.1",
-    "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
+    "mapName": "Flats and Forests v2.2",
+    "mapFileName": "flats_and_forests_v2.2",
+    "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
+    "spectators": 16,
     "gameTime": 564,
-    "updatedAt": "2026-08-14T10:54:36Z"
+    "updatedAt": "2026-08-14T10:55:06Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786704860,
+  "statusUpdatedAt": 1786704890,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
