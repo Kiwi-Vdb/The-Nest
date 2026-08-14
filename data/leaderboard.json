@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786712419,
-  "totalViewers": 380,
-  "totalShinies": 1376068,
+  "generatedAt": 1786712421,
+  "totalViewers": 381,
+  "totalShinies": 1376402,
   "pageSize": 100,
   "entries": [
     {
@@ -1856,51 +1856,56 @@
     },
     {
       "rank": 371,
-      "name": "yamchiiir",
+      "name": "xixfr",
       "shinies": 334
     },
     {
       "rank": 372,
-      "name": "yankuch1",
+      "name": "yamchiiir",
       "shinies": 334
     },
     {
       "rank": 373,
-      "name": "yomikachi",
+      "name": "yankuch1",
       "shinies": 334
     },
     {
       "rank": 374,
-      "name": "zeeburgapm",
+      "name": "yomikachi",
       "shinies": 334
     },
     {
       "rank": 375,
-      "name": "zeflinggaming",
+      "name": "zeeburgapm",
       "shinies": 334
     },
     {
       "rank": 376,
-      "name": "zergsostronk",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 377,
-      "name": "zmnfilippo",
+      "name": "zergsostronk",
       "shinies": 334
     },
     {
       "rank": 378,
-      "name": "zombie_brand",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 379,
-      "name": "zowdie",
+      "name": "zombie_brand",
       "shinies": 334
     },
     {
       "rank": 380,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 381,
       "name": "zursen",
       "shinies": 334
     }
