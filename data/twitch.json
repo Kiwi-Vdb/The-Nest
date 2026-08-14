@@ -9,17 +9,17 @@
     "lobbyName": "EU7 - 000",
     "lobbyTitle": "EU7 - 000",
     "mode": "",
-    "mapName": "Ditched_V1",
-    "mapFileName": "Ditched_V1",
-    "mapImage": "assets/maps/ditched-v1-c59fe897af.webp",
+    "mapName": "The Tartar Steppe v1.1",
+    "mapFileName": "the_tartar_steppe_v1.1",
+    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
+    "spectators": 13,
     "gameTime": 1410,
-    "updatedAt": "2026-08-14T14:00:04Z"
+    "updatedAt": "2026-08-14T14:00:35Z"
   },
   "live": true,
-  "viewers": 34,
+  "viewers": 30,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786716000,
+  "statusUpdatedAt": 1786716030,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
