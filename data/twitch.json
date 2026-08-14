@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 054",
     "lobbyTitle": "EU7 - 054",
     "mode": "",
-    "mapName": "Carrot Mountains v2.0",
-    "mapFileName": "carrot_mountains_v2.0",
-    "mapImage": "assets/maps/carrot-mountains-v2-0-754b5c58ff.webp",
+    "mapName": "Supreme Isthmus v2.1",
+    "mapFileName": "supreme_isthmus_v2.1",
+    "mapImage": "assets/maps/supreme-isthmus-v2-1-af93f6e20f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 18,
-    "gameTime": 1985,
-    "updatedAt": "2026-08-14T12:25:44Z"
+    "spectators": 17,
+    "gameTime": 2000,
+    "updatedAt": "2026-08-14T12:26:15Z"
   },
   "live": true,
   "viewers": 21,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786710336,
+  "statusUpdatedAt": 1786710366,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
