@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/carrot-mountains-v2-0-754b5c58ff.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
-    "gameTime": 1340,
-    "updatedAt": "2026-08-14T12:14:59Z"
+    "spectators": 18,
+    "gameTime": 1373,
+    "updatedAt": "2026-08-14T12:15:30Z"
   },
   "live": true,
   "viewers": 16,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786709696,
+  "statusUpdatedAt": 1786709727,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
