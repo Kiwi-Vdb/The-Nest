@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 1021,
-    "updatedAt": "2026-08-14T13:52:13Z"
+    "spectators": 14,
+    "gameTime": 1052,
+    "updatedAt": "2026-08-14T13:52:45Z"
   },
   "live": true,
-  "viewers": 31,
+  "viewers": 34,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786715512,
+  "statusUpdatedAt": 1786715543,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
