@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/carrot-mountains-v2-0-754b5c58ff.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
-    "gameTime": 1229,
-    "updatedAt": "2026-08-14T12:13:10Z"
+    "spectators": 16,
+    "gameTime": 1250,
+    "updatedAt": "2026-08-14T12:13:26Z"
   },
   "live": true,
-  "viewers": 21,
+  "viewers": 16,
   "title": "Sneaky Pre Weekend Strim! <3",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786709574,
+  "statusUpdatedAt": 1786709605,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
