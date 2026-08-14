@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 15,
+    "spectators": 14,
     "gameTime": 564,
-    "updatedAt": "2026-08-14T10:54:06Z"
+    "updatedAt": "2026-08-14T10:54:36Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786704829,
+  "statusUpdatedAt": 1786704860,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
