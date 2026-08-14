@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786705946,
+  "generatedAt": 1786706022,
   "totalViewers": 368,
-  "totalShinies": 1348026,
+  "totalShinies": 1348176,
   "pageSize": 100,
   "entries": [
     {
@@ -276,22 +276,22 @@
     },
     {
       "rank": 55,
-      "name": "hells_hound_",
+      "name": "goobmilk",
       "shinies": 4302
     },
     {
       "rank": 56,
+      "name": "hells_hound_",
+      "shinies": 4302
+    },
+    {
+      "rank": 57,
       "name": "tallerofin",
       "shinies": 4270
     },
     {
-      "rank": 57,
-      "name": "franzdk_",
-      "shinies": 4152
-    },
-    {
       "rank": 58,
-      "name": "goobmilk",
+      "name": "franzdk_",
       "shinies": 4152
     },
     {
