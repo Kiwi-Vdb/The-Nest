@@ -9,14 +9,14 @@
     "lobbyName": "EU7 - 054",
     "lobbyTitle": "EU7 - 054",
     "mode": "",
-    "mapName": "Plains and Passes v1.0",
-    "mapFileName": "plains_and_passes_v1.0",
-    "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
+    "mapName": "Stronghold v5.0.1",
+    "mapFileName": "stronghold_v5.0.1",
+    "mapImage": "assets/maps/stronghold-v5-0-1-c6de5222ce.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
+    "spectators": 17,
     "gameTime": 564,
-    "updatedAt": "2026-08-14T10:51:50Z"
+    "updatedAt": "2026-08-14T10:52:20Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786704709,
+  "statusUpdatedAt": 1786704739,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
