@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786717939,
+  "generatedAt": 1786718059,
   "totalViewers": 412,
-  "totalShinies": 1452740,
+  "totalShinies": 1453740,
   "pageSize": 100,
   "entries": [
     {
@@ -71,18 +71,18 @@
     },
     {
       "rank": 14,
+      "name": "watchmedothis",
+      "shinies": 19906
+    },
+    {
+      "rank": 15,
       "name": "massivemankey",
       "shinies": 19338
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "streamelements",
       "shinies": 19336
-    },
-    {
-      "rank": 16,
-      "name": "watchmedothis",
-      "shinies": 18906
     },
     {
       "rank": 17,
