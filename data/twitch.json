@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/plains-and-passes-v1-0-cb37df7668.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 16,
-    "gameTime": 417,
-    "updatedAt": "2026-08-14T10:49:03Z"
+    "spectators": 15,
+    "gameTime": 444,
+    "updatedAt": "2026-08-14T10:49:33Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786704527,
+  "statusUpdatedAt": 1786704558,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
