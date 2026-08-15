@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/proving-grounds-v1-0-d73a6cbc41.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 21,
-    "gameTime": 38,
-    "updatedAt": "2026-08-15T15:04:52Z"
+    "spectators": 20,
+    "gameTime": 68,
+    "updatedAt": "2026-08-15T15:05:23Z"
   },
   "live": true,
-  "viewers": 19,
+  "viewers": 17,
   "title": "Finally back in my own home! Darn this heat!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786806293,
+  "statusUpdatedAt": 1786806323,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
