@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 22,
-    "gameTime": 1894,
-    "updatedAt": "2026-08-15T16:37:19Z"
+    "gameTime": 1924,
+    "updatedAt": "2026-08-15T16:37:50Z"
   },
   "live": true,
-  "viewers": 39,
+  "viewers": 38,
   "title": "Finally back in my own home! Darn this heat!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786811833,
+  "statusUpdatedAt": 1786811864,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
