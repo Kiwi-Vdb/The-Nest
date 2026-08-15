@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/glacial-gap-v1-1-031ea2ea80.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 6,
+    "spectators": 7,
     "gameTime": 2561,
-    "updatedAt": "2026-08-15T13:12:20Z"
+    "updatedAt": "2026-08-15T13:13:05Z"
   },
   "live": false,
   "viewers": 0,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786799540,
+  "statusUpdatedAt": 1786799570,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
