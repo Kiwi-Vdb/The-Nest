@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 007",
     "lobbyTitle": "EU8 - 007",
     "mode": "",
-    "mapName": "Sunderance V1.3",
-    "mapFileName": "Sunderance V1.3",
-    "mapImage": "assets/maps/sunderance-v1-3-fde5209903.webp",
+    "mapName": "Hades Ponds 1.1",
+    "mapFileName": "hades_ponds_1.1",
+    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 1079,
-    "updatedAt": "2026-08-15T13:55:40Z"
+    "updatedAt": "2026-08-15T13:56:41Z"
   },
   "live": true,
   "viewers": 5,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786802186,
+  "statusUpdatedAt": 1786802216,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {

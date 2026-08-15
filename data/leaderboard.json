@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786801774,
+  "generatedAt": 1786802213,
   "totalViewers": 418,
-  "totalShinies": 1463012,
+  "totalShinies": 1463680,
   "pageSize": 100,
   "entries": [
     {
@@ -77,7 +77,7 @@
     {
       "rank": 15,
       "name": "massivemankey",
-      "shinies": 19338
+      "shinies": 19672
     },
     {
       "rank": 16,
@@ -186,18 +186,18 @@
     },
     {
       "rank": 37,
+      "name": "bonghits4cthulhu",
+      "shinies": 6638
+    },
+    {
+      "rank": 38,
       "name": "franzdk_",
       "shinies": 6636
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "axoim_",
       "shinies": 6336
-    },
-    {
-      "rank": 39,
-      "name": "bonghits4cthulhu",
-      "shinies": 6304
     },
     {
       "rank": 40,
