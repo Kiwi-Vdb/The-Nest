@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1786718576,
-  "rotationGeneratedAt": 1786702315,
-  "nextRotationAt": 1786788715,
+  "generatedAt": 1786799443,
+  "rotationGeneratedAt": 1786799443,
+  "nextRotationAt": 1786885843,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "loot_box_champion",
+      "category": "gamba_champion",
       "group": "viewer",
-      "icon": "◇",
-      "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 39 loot boxes."
+      "icon": "◆",
+      "title": "Gamba High Roller",
+      "copy": "hunbleeone has collected 1,700 Shinies from winning spins."
     },
     {
-      "category": "biggest_prediction_prize",
+      "category": "highest_gamba_win",
       "group": "event",
-      "icon": "✓",
-      "title": "Biggest Prediction Prize",
-      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
+      "icon": "◆",
+      "title": "Biggest Gamba Win",
+      "copy": "itsvdb won 1,700 Shinies in one spin."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_gamba_wins",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 86 loot boxes."
+      "icon": "◆",
+      "title": "Winning Spins",
+      "copy": "The community has landed 2 winning Gamba spins."
     }
   ]
 }
