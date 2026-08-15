@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786803437,
+  "generatedAt": 1786803867,
   "totalViewers": 419,
-  "totalShinies": 1466834,
+  "totalShinies": 1467168,
   "pageSize": 100,
   "entries": [
     {
@@ -321,27 +321,27 @@
     },
     {
       "rank": 64,
+      "name": "sashkorin",
+      "shinies": 4002
+    },
+    {
+      "rank": 65,
       "name": "erevos187",
       "shinies": 3786
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "akiletia",
       "shinies": 3668
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "imth3apollo",
       "shinies": 3668
     },
     {
-      "rank": 67,
-      "name": "oss76",
-      "shinies": 3668
-    },
-    {
       "rank": 68,
-      "name": "sashkorin",
+      "name": "oss76",
       "shinies": 3668
     },
     {
