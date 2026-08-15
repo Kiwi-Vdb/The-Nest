@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/moonshine-run-v1-0-1-c1a35b4a1f.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 22,
-    "gameTime": 653,
-    "updatedAt": "2026-08-15T14:54:45Z"
+    "spectators": 21,
+    "gameTime": 668,
+    "updatedAt": "2026-08-15T14:55:00Z"
   },
   "live": true,
   "viewers": 16,
