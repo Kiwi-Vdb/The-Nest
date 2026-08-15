@@ -12,11 +12,11 @@
     "mapName": "Glacial Gap v1.1",
     "mapFileName": "glacial_gap_v1.1",
     "mapImage": "assets/maps/glacial-gap-v1-1-031ea2ea80.webp",
-    "players": 15,
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 8,
+    "spectators": 7,
     "gameTime": 797,
-    "updatedAt": "2026-08-15T13:31:25Z"
+    "updatedAt": "2026-08-15T13:31:56Z"
   },
   "live": true,
   "viewers": 2,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786800664,
+  "statusUpdatedAt": 1786800694,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
