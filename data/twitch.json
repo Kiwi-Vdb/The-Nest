@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 007",
     "lobbyTitle": "EU8 - 007",
     "mode": "",
-    "mapName": "Hades Ponds 1.1",
-    "mapFileName": "hades_ponds_1.1",
-    "mapImage": "assets/maps/hades-ponds-1-1-c33b84a3a5.webp",
+    "mapName": "Pawn Retreat 1.2",
+    "mapFileName": "pawn_retreat_1.2",
+    "mapImage": "assets/maps/pawn-retreat-1-2-4823324523.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 9,
     "gameTime": 911,
-    "updatedAt": "2026-08-15T14:16:21Z"
+    "updatedAt": "2026-08-15T14:16:52Z"
   },
   "live": true,
   "viewers": 6,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786803373,
+  "statusUpdatedAt": 1786803403,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
