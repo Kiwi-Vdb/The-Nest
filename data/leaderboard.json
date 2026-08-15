@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786806082,
+  "generatedAt": 1786806362,
   "totalViewers": 423,
-  "totalShinies": 1473478,
+  "totalShinies": 1473628,
   "pageSize": 100,
   "entries": [
     {
@@ -146,18 +146,18 @@
     },
     {
       "rank": 29,
+      "name": "warriot",
+      "shinies": 7786
+    },
+    {
+      "rank": 30,
       "name": "blopson",
       "shinies": 7754
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "zhadeoak",
       "shinies": 7668
-    },
-    {
-      "rank": 31,
-      "name": "warriot",
-      "shinies": 7636
     },
     {
       "rank": 32,
