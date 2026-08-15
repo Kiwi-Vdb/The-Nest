@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786809422,
+  "generatedAt": 1786809629,
   "count": 50,
   "activities": [
     {
@@ -138,14 +138,6 @@
       "who": "sharpishdog",
       "text": "won 2,000 Shinies in a prediction: Who wins?",
       "timestamp": 1785959237,
-      "amount": 2000
-    },
-    {
-      "id": "12e612f978ebb89f",
-      "type": "prediction",
-      "who": "hunbleeone",
-      "text": "won 2,000 Shinies in a prediction: Who wins?",
-      "timestamp": 1785959236,
       "amount": 2000
     },
     {
@@ -484,6 +476,16 @@
       "who": "sasadal",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1784377075,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "5fbc21c6729ee145",
+      "type": "unlock",
+      "who": "sasadal",
+      "text": "unlocked Bday Hat",
+      "timestamp": 1784377069,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
