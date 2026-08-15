@@ -9,14 +9,14 @@
     "lobbyName": "EU6 - 016",
     "lobbyTitle": "EU6 - 016",
     "mode": "",
-    "mapName": "The Halite Maze v1.4",
-    "mapFileName": "the_halite_maze_v1.4",
-    "mapImage": "assets/maps/the-halite-maze-v1-4-2c143637f6.webp",
+    "mapName": "The Tartar Steppe v1.1",
+    "mapFileName": "the_tartar_steppe_v1.1",
+    "mapImage": "assets/maps/the-tartar-steppe-v1-1-2163152325.webp",
     "players": 0,
     "maxPlayers": 16,
     "spectators": 2,
     "gameTime": 215,
-    "updatedAt": "2026-08-15T16:43:03Z"
+    "updatedAt": "2026-08-15T16:43:34Z"
   },
   "live": true,
   "viewers": 42,
