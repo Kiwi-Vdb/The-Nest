@@ -9,14 +9,14 @@
     "lobbyName": "EU8 - 007",
     "lobbyTitle": "EU8 - 007",
     "mode": "",
-    "mapName": "Glacial Gap v1.1",
-    "mapFileName": "glacial_gap_v1.1",
-    "mapImage": "assets/maps/glacial-gap-v1-1-031ea2ea80.webp",
-    "players": 14,
+    "mapName": "Flats and Forests v2.2",
+    "mapFileName": "flats_and_forests_v2.2",
+    "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
+    "players": 15,
     "maxPlayers": 16,
     "spectators": 7,
     "gameTime": 797,
-    "updatedAt": "2026-08-15T13:31:56Z"
+    "updatedAt": "2026-08-15T13:32:11Z"
   },
   "live": true,
   "viewers": 2,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786800694,
+  "statusUpdatedAt": 1786800724,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
