@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786808141,
+  "generatedAt": 1786808249,
   "rotationGeneratedAt": 1786799443,
   "nextRotationAt": 1786885843,
   "rotationHours": 24,
@@ -10,7 +10,7 @@
       "group": "viewer",
       "icon": "◆",
       "title": "Gamba High Roller",
-      "copy": "hunbleeone has collected 1,700 Shinies from winning spins."
+      "copy": "itsvdb has collected 1,700 Shinies from winning spins."
     },
     {
       "category": "highest_gamba_win",
@@ -24,7 +24,7 @@
       "group": "community",
       "icon": "◆",
       "title": "Winning Spins",
-      "copy": "The community has landed 2 winning Gamba spins."
+      "copy": "The community has landed 1 winning Gamba spin."
     }
   ]
 }
