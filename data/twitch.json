@@ -14,12 +14,12 @@
     "mapImage": "assets/maps/pawn-retreat-1-2-4823324523.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
-    "gameTime": 821,
-    "updatedAt": "2026-08-15T14:36:58Z"
+    "spectators": 15,
+    "gameTime": 830,
+    "updatedAt": "2026-08-15T14:37:28Z"
   },
   "live": true,
-  "viewers": 14,
+  "viewers": 18,
   "title": "Finally back in my own home! Darn this heat!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786804620,
+  "statusUpdatedAt": 1786804651,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
