@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786809629,
+  "generatedAt": 1786809688,
   "count": 50,
   "activities": [
     {
@@ -131,14 +131,6 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "c04a1a94d98b8ba2",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 2,000 Shinies in a prediction: Who wins?",
-      "timestamp": 1785959237,
-      "amount": 2000
     },
     {
       "id": "64cb1bbc3b95bbe8",
@@ -489,6 +481,16 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
+    },
+    {
+      "id": "1f33abc84110f1f6",
+      "type": "unlock",
+      "who": "lordjammacus",
+      "text": "unlocked Yellow Text",
+      "timestamp": 1784375392,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
     }
   ]
 }
