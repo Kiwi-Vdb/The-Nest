@@ -1,23 +1,12 @@
 {
-  "generatedAt": 1786870055,
-  "active": true,
-  "status": "open",
-  "id": 1786870005,
-  "question": "Will VDB win?",
-  "prize": 200,
-  "totalPicks": 3,
-  "startedAt": 1786870005,
+  "generatedAt": 1786871033,
+  "active": false,
+  "status": "inactive",
+  "id": null,
+  "question": "No prediction open",
+  "prize": 0,
+  "totalPicks": 0,
+  "startedAt": null,
   "closedAt": null,
-  "options": [
-    {
-      "label": "yes",
-      "votes": 2,
-      "percent": 66.7
-    },
-    {
-      "label": "no",
-      "votes": 1,
-      "percent": 33.3
-    }
-  ]
+  "options": []
 }
