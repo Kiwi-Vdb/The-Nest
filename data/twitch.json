@@ -14,9 +14,9 @@
     "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 14,
-    "gameTime": 96,
-    "updatedAt": "2026-08-16T08:01:53Z"
+    "spectators": 15,
+    "gameTime": 126,
+    "updatedAt": "2026-08-16T08:02:25Z"
   },
   "live": true,
   "viewers": 36,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786867305,
+  "statusUpdatedAt": 1786867336,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786867314,
+  "generatedAt": 1786867330,
   "count": 50,
   "activities": [
     {
@@ -42,14 +42,6 @@
       "who": "axolotl_eu",
       "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
       "timestamp": 1786139114,
-      "amount": 2000
-    },
-    {
-      "id": "17c670d056dfebc7",
-      "type": "prediction",
-      "who": "bar_outofmana",
-      "text": "won 2,000 Shinies in a prediction: Will VDB titl?",
-      "timestamp": 1786135684,
       "amount": 2000
     },
     {
@@ -491,6 +483,16 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
+    },
+    {
+      "id": "f16757eb5e0c71cb",
+      "type": "unlock",
+      "who": "cozzwald",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784375200,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
     }
   ]
 }
