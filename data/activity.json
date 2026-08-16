@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786869694,
+  "generatedAt": 1786869796,
   "count": 50,
   "activities": [
     {
@@ -26,14 +26,6 @@
       "who": "lpalochka",
       "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
       "timestamp": 1786139115,
-      "amount": 2000
-    },
-    {
-      "id": "52ff7bf12d0d6c6b",
-      "type": "prediction",
-      "who": "bar_outofmana",
-      "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
-      "timestamp": 1786139114,
       "amount": 2000
     },
     {
@@ -490,6 +482,16 @@
       "who": "cozzwald",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1784375200,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "458340b7f739e8ef",
+      "type": "unlock",
+      "who": "cozzwald",
+      "text": "unlocked Bday Hat",
+      "timestamp": 1784375192,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
