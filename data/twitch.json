@@ -9,14 +9,14 @@
     "lobbyName": "US5 - 020",
     "lobbyTitle": "US5 - 020",
     "mode": "",
-    "mapName": "Hyperion Shale 1.0.2",
-    "mapFileName": "hyperion_shale_1.0.2",
-    "mapImage": "assets/maps/hyperion-shale-1-0-2-0b4a627de2.webp",
+    "mapName": "Ascendancy v2.2",
+    "mapFileName": "ascendancy_v2.2",
+    "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 10,
-    "gameTime": 1014,
-    "updatedAt": "2026-08-16T08:21:31Z"
+    "spectators": 8,
+    "gameTime": 1017,
+    "updatedAt": "2026-08-16T08:22:01Z"
   },
   "live": true,
   "viewers": 36,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786868463,
+  "statusUpdatedAt": 1786868494,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
