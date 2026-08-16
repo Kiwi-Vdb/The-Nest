@@ -1,23 +1,12 @@
 {
-  "generatedAt": 1786872461,
-  "active": true,
-  "status": "closed",
-  "id": 1786872401,
-  "question": "Who wins?",
-  "prize": 2000,
-  "totalPicks": 1,
-  "startedAt": 1786872401,
-  "closedAt": 1786872461,
-  "options": [
-    {
-      "label": "red",
-      "votes": 1,
-      "percent": 100.0
-    },
-    {
-      "label": "blue",
-      "votes": 0,
-      "percent": 0.0
-    }
-  ]
+  "generatedAt": 1786873498,
+  "active": false,
+  "status": "inactive",
+  "id": null,
+  "question": "No prediction open",
+  "prize": 0,
+  "totalPicks": 0,
+  "startedAt": null,
+  "closedAt": null,
+  "options": []
 }
