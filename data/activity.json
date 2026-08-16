@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1786872329,
+  "generatedAt": 1786872387,
   "count": 50,
   "activities": [
+    {
+      "id": "f3336e6052999ab7",
+      "type": "prediction",
+      "who": "literallylilacc",
+      "text": "won 2,000 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1786872385,
+      "amount": 2000
+    },
     {
       "id": "5afe2505b3f7876a",
       "type": "prediction",
@@ -483,16 +491,6 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "f16757eb5e0c71cb",
-      "type": "unlock",
-      "who": "cozzwald",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784375200,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
