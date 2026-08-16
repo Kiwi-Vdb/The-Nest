@@ -9,14 +9,14 @@
     "lobbyName": "US5 - 020",
     "lobbyTitle": "US5 - 020",
     "mode": "",
-    "mapName": "Baryon Tar Lake v1.1",
-    "mapFileName": "baryon_tar_lake_v1.1",
-    "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
+    "mapName": "Flats and Forests v2.2",
+    "mapFileName": "flats_and_forests_v2.2",
+    "mapImage": "assets/maps/flats-and-forests-v2-2-9119714675.webp",
     "players": 15,
     "maxPlayers": 16,
-    "spectators": 17,
+    "spectators": 15,
     "gameTime": 662,
-    "updatedAt": "2026-08-16T08:38:36Z"
+    "updatedAt": "2026-08-16T08:39:06Z"
   },
   "live": true,
   "viewers": 35,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786869498,
+  "statusUpdatedAt": 1786869529,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
