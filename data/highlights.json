@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786899649,
+  "generatedAt": 1786899701,
   "rotationGeneratedAt": 1786897305,
   "nextRotationAt": 1786983705,
   "rotationHours": 24,
@@ -17,7 +17,7 @@
       "group": "event",
       "icon": "✧",
       "title": "Fresh Unlock",
-      "copy": "professor_bar unlocked Wizards Hat (Common)."
+      "copy": "professor_bar unlocked Electric Arc Text (Rare)."
     },
     {
       "category": "community_shiny_total",

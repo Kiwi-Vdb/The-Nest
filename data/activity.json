@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786899649,
+  "generatedAt": 1786899701,
   "count": 50,
   "activities": [
+    {
+      "id": "635f78ad31ddda25",
+      "type": "unlock",
+      "who": "professor_bar",
+      "text": "unlocked Electric Arc Text",
+      "timestamp": 1786899701,
+      "rarity": "rare",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "96f8cb8ff3f2f956",
       "type": "unlock",
@@ -190,16 +200,6 @@
       "timestamp": 1786899634,
       "rarity": "common",
       "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "53bd46465db474e8",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Batty",
-      "timestamp": 1786899634,
-      "rarity": "rare",
-      "category": "Pets",
       "rewardType": "cosmetic"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786899649,
+  "generated_at": 1786899701,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -10099,10 +10099,26 @@
           "rarity": "legendary"
         }
       ],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-electric-arc",
+          "name": "Electric Arc Text",
+          "rarity": "rare",
+          "class_name": "text-electric-arc",
+          "equip_command": "!equiptext Electric Arc"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
+        {
+          "name": "Electric Arc Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-electric-arc",
+          "timestamp": 1786899701
+        },
         {
           "name": "Wizards Hat",
           "category": "Hat",
@@ -10118,20 +10134,12 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1786899647
-        },
-        {
-          "name": "Sword",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1786899646
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 25,
         "recent_unlocks": 20
       }
