@@ -9,14 +9,14 @@
     "lobbyName": "US5 - 020",
     "lobbyTitle": "US5 - 020",
     "mode": "",
-    "mapName": "Ascendancy v2.2",
-    "mapFileName": "ascendancy_v2.2",
-    "mapImage": "assets/maps/ascendancy-v2-2-5b80d887ca.webp",
+    "mapName": "Baryon Tar Lake v1.1",
+    "mapFileName": "baryon_tar_lake_v1.1",
+    "mapImage": "assets/maps/baryon-tar-lake-v1-1-c354231c52.webp",
     "players": 15,
     "maxPlayers": 16,
     "spectators": 17,
-    "gameTime": 656,
-    "updatedAt": "2026-08-16T08:37:35Z"
+    "gameTime": 662,
+    "updatedAt": "2026-08-16T08:37:50Z"
   },
   "live": true,
   "viewers": 35,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786869438,
+  "statusUpdatedAt": 1786869468,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
