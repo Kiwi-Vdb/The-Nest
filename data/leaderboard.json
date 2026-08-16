@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786874188,
+  "generatedAt": 1786874308,
   "totalViewers": 478,
-  "totalShinies": 1597762,
+  "totalShinies": 1598762,
   "pageSize": 100,
   "entries": [
     {
@@ -151,28 +151,28 @@
     },
     {
       "rank": 30,
+      "name": "goliathmaroof",
+      "shinies": 8636
+    },
+    {
+      "rank": 31,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "blopson",
       "shinies": 8238
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "skvonchboyz",
       "shinies": 8002
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "zhadeoak",
       "shinies": 7668
-    },
-    {
-      "rank": 34,
-      "name": "goliathmaroof",
-      "shinies": 7636
     },
     {
       "rank": 35,
