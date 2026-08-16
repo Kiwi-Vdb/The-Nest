@@ -9,14 +9,14 @@
     "lobbyName": "US5 - 020",
     "lobbyTitle": "US5 - 020",
     "mode": "",
-    "mapName": "Swirly Rock v1.1",
-    "mapFileName": "swirly_rock_v1.1",
-    "mapImage": "assets/maps/swirly-rock-v1-1-103e96c923.webp",
-    "players": 15,
+    "mapName": "Thermal Shock v1.1",
+    "mapFileName": "thermal_shock_v1.1",
+    "mapImage": "assets/maps/thermal-shock-v1-1-fbc139a53d.webp",
+    "players": 14,
     "maxPlayers": 16,
-    "spectators": 13,
-    "gameTime": 786,
-    "updatedAt": "2026-08-16T09:21:47Z"
+    "spectators": 11,
+    "gameTime": 804,
+    "updatedAt": "2026-08-16T09:22:18Z"
   },
   "live": true,
   "viewers": 34,
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786872090,
+  "statusUpdatedAt": 1786872120,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
