@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1786872597,
+  "generatedAt": 1786872645,
   "count": 50,
   "activities": [
+    {
+      "id": "f1afea13e7284dc1",
+      "type": "unlock",
+      "who": "professor_bar",
+      "text": "unlocked Santa Beard",
+      "timestamp": 1786872638,
+      "rarity": "rare",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "d47b5ec397870212",
       "type": "unlock",
@@ -478,16 +488,6 @@
       "who": "sasadal",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1784377075,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "5fbc21c6729ee145",
-      "type": "unlock",
-      "who": "sasadal",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784377069,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
