@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786869869,
+  "generatedAt": 1786870003,
   "totalViewers": 475,
-  "totalShinies": 1553402,
+  "totalShinies": 1555402,
   "pageSize": 100,
   "entries": [
     {
@@ -56,18 +56,18 @@
     },
     {
       "rank": 11,
+      "name": "axolotl_eu",
+      "shinies": 22908
+    },
+    {
+      "rank": 12,
       "name": "watchmedothis",
       "shinies": 22874
     },
     {
-      "rank": 12,
+      "rank": 13,
       "name": "massivemankey",
       "shinies": 21006
-    },
-    {
-      "rank": 13,
-      "name": "axolotl_eu",
-      "shinies": 20908
     },
     {
       "rank": 14,

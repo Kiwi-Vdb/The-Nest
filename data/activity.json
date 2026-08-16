@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1786869869,
+  "generatedAt": 1786870003,
   "count": 50,
   "activities": [
+    {
+      "id": "1f9c3387658362a9",
+      "type": "prediction",
+      "who": "axolotl_eu",
+      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
+      "timestamp": 1786870002,
+      "amount": 2000
+    },
     {
       "id": "796ec3731b855147",
       "type": "gamba",
@@ -486,16 +494,6 @@
       "who": "lordjammacus",
       "text": "unlocked Bday Hat",
       "timestamp": 1784375168,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "1687e8b712cc600a",
-      "type": "unlock",
-      "who": "lordjammacus",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784375166,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
