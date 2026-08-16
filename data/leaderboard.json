@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786867064,
+  "generatedAt": 1786867124,
   "totalViewers": 441,
-  "totalShinies": 1529858,
+  "totalShinies": 1530342,
   "pageSize": 100,
   "entries": [
     {
@@ -151,33 +151,33 @@
     },
     {
       "rank": 30,
+      "name": "cozzwald",
+      "shinies": 8056
+    },
+    {
+      "rank": 31,
       "name": "skvonchboyz",
       "shinies": 8002
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "zhadeoak",
       "shinies": 7668
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "goliathmaroof",
       "shinies": 7636
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "goobmilk",
       "shinies": 7636
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "snoopa_aoe",
       "shinies": 7604
-    },
-    {
-      "rank": 35,
-      "name": "cozzwald",
-      "shinies": 7572
     },
     {
       "rank": 36,
