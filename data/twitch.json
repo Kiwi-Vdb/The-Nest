@@ -15,11 +15,11 @@
     "players": 15,
     "maxPlayers": 16,
     "spectators": 12,
-    "gameTime": 1236,
-    "updatedAt": "2026-08-16T07:46:06Z"
+    "gameTime": 1269,
+    "updatedAt": "2026-08-16T07:46:38Z"
   },
   "live": true,
-  "viewers": 1,
+  "viewers": 2,
   "title": "+5 OS and climbing baby!",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -28,7 +28,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1786866365,
+  "statusUpdatedAt": 1786866396,
   "clipsUpdatedAt": 1785512848,
   "clips": [
     {
