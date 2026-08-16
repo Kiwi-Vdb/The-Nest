@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786877016,
+  "generatedAt": 1786877114,
   "totalViewers": 490,
-  "totalShinies": 1636714,
+  "totalShinies": 1636864,
   "pageSize": 100,
   "entries": [
     {
@@ -1156,17 +1156,17 @@
     },
     {
       "rank": 231,
+      "name": "tyguybar",
+      "shinies": 1302
+    },
+    {
+      "rank": 232,
       "name": "autopilot1337",
       "shinies": 1152
     },
     {
-      "rank": 232,
-      "name": "laskdfe",
-      "shinies": 1152
-    },
-    {
       "rank": 233,
-      "name": "tyguybar",
+      "name": "laskdfe",
       "shinies": 1152
     },
     {
