@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786872507,
+  "generated_at": 1786872597,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -5960,7 +5960,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 139700,
+        "balance": 137700,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6254,6 +6254,13 @@
           "rarity": "legendary",
           "class_name": "text-black-hole",
           "equip_command": "!equiptext Black Hole"
+        },
+        {
+          "id": "text-aurora-drift",
+          "name": "Aurora Drift Text",
+          "rarity": "rare",
+          "class_name": "text-aurora-drift",
+          "equip_command": "!equiptext Aurora Drift"
         }
       ],
       "current_text_effect": {
@@ -6262,8 +6269,16 @@
         "rarity": "legendary",
         "class_name": "text-black-hole"
       },
-      "loot_boxes_opened": 39,
+      "loot_boxes_opened": 40,
       "recent_unlocks": [
+        {
+          "name": "Aurora Drift Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-aurora-drift",
+          "timestamp": 1786872589
+        },
         {
           "name": "Black Hole Text",
           "category": "Text Effect",
@@ -6279,20 +6294,12 @@
           "type": "text_effect",
           "text_effect": "text-gift-box-surprise",
           "timestamp": 1786133675
-        },
-        {
-          "name": "Gold Sparkle Text",
-          "category": "Text Effect",
-          "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-gold-sparkle",
-          "timestamp": 1786133013
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 20,
+        "text_effects_unlocked": 21,
         "text_effects_available": 25,
         "recent_unlocks": 20
       }
