@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1786869796,
+  "generatedAt": 1786869869,
   "totalViewers": 475,
-  "totalShinies": 1553752,
+  "totalShinies": 1553402,
   "pageSize": 100,
   "entries": [
     {
@@ -112,7 +112,7 @@
     {
       "rank": 22,
       "name": "watchbehinddude",
-      "shinies": 9938
+      "shinies": 10088
     },
     {
       "rank": 23,
@@ -181,27 +181,27 @@
     },
     {
       "rank": 36,
-      "name": "goliathmaroof",
-      "shinies": 7136
-    },
-    {
-      "rank": 37,
       "name": "freakofnature122",
       "shinies": 7002
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "slicklikevik",
       "shinies": 6970
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "bonghits4cthulhu",
       "shinies": 6638
     },
     {
-      "rank": 40,
+      "rank": 39,
       "name": "franzdk_",
+      "shinies": 6636
+    },
+    {
+      "rank": 40,
+      "name": "goliathmaroof",
       "shinies": 6636
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1786869796,
+  "generatedAt": 1786869869,
   "count": 50,
   "activities": [
     {
@@ -19,22 +19,6 @@
       "rarity": "legendary",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "d203934d9a792597",
-      "type": "prediction",
-      "who": "lpalochka",
-      "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
-      "timestamp": 1786139115,
-      "amount": 2000
-    },
-    {
-      "id": "651ead0e4da2bf8a",
-      "type": "prediction",
-      "who": "axolotl_eu",
-      "text": "won 2,000 Shinies in a prediction: Will game last >10 mins?",
-      "timestamp": 1786139114,
-      "amount": 2000
     },
     {
       "id": "f972f96d318420f8",
@@ -492,6 +476,26 @@
       "who": "cozzwald",
       "text": "unlocked Bday Hat",
       "timestamp": 1784375192,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "253dac182e82dab8",
+      "type": "unlock",
+      "who": "lordjammacus",
+      "text": "unlocked Bday Hat",
+      "timestamp": 1784375168,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "1687e8b712cc600a",
+      "type": "unlock",
+      "who": "lordjammacus",
+      "text": "unlocked Party Hat Angle",
+      "timestamp": 1784375166,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
