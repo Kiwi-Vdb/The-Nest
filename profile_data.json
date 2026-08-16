@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786875809,
+  "generated_at": 1786875942,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -5195,6 +5195,32 @@
         "recent_unlocks": 0
       }
     },
+    "hindooo": {
+      "username": "hindooo",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
     "hioide_": {
       "username": "hioide_",
       "shinies": {
@@ -5561,6 +5587,32 @@
         "available": true,
         "label": "Shinies",
         "balance": 1484,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 24,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
+    "iambasicc": {
+      "username": "iambasicc",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -10589,7 +10641,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 15122,
+        "balance": 16122,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
