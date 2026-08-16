@@ -1,5 +1,5 @@
 {
-  "generated_at": 1786871137,
+  "generated_at": 1786871158,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6231,10 +6231,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-wavy",
-        "name": "Wavy Text",
-        "rarity": "rare",
-        "class_name": "text-wavy"
+        "id": "text-black-hole",
+        "name": "Black Hole Text",
+        "rarity": "legendary",
+        "class_name": "text-black-hole"
       },
       "loot_boxes_opened": 39,
       "recent_unlocks": [
