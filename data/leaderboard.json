@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787072561,
+  "generatedAt": 1787072741,
   "totalViewers": 515,
-  "totalShinies": 1715720,
+  "totalShinies": 1716720,
   "pageSize": 100,
   "entries": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "rank": 25,
+      "name": "axoim_",
+      "shinies": 10670
+    },
+    {
+      "rank": 26,
       "name": "cozzwald",
       "shinies": 10540
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "freakofnature122",
       "shinies": 10336
-    },
-    {
-      "rank": 27,
-      "name": "axoim_",
-      "shinies": 9670
     },
     {
       "rank": 28,
