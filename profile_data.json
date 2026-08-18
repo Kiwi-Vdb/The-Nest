@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787069943,
+  "generated_at": 1787070167,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -1046,7 +1046,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 31892,
+        "balance": 28692,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -1153,16 +1153,31 @@
           "rarity": "common",
           "class_name": "text-red",
           "equip_command": "!equiptext Red"
+        },
+        {
+          "id": "text-aurora-drift",
+          "name": "Aurora Drift Text",
+          "rarity": "rare",
+          "class_name": "text-aurora-drift",
+          "equip_command": "!equiptext Aurora Drift"
         }
       ],
       "current_text_effect": {
-        "id": "text-pink",
-        "name": "Pink Text",
-        "rarity": "common",
-        "class_name": "text-pink"
+        "id": "text-aurora-drift",
+        "name": "Aurora Drift Text",
+        "rarity": "rare",
+        "class_name": "text-aurora-drift"
       },
       "loot_boxes_opened": 14,
       "recent_unlocks": [
+        {
+          "name": "Aurora Drift Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-aurora-drift",
+          "timestamp": 1787070165
+        },
         {
           "name": "Party Hat Angle",
           "category": "Hat",
@@ -1178,22 +1193,14 @@
           "type": "text_effect",
           "text_effect": "text-red",
           "timestamp": 1782919498
-        },
-        {
-          "name": "Brown Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-brown",
-          "timestamp": 1782919486
         }
       ],
       "totals": {
         "cosmetics_unlocked": 8,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 7,
+        "text_effects_unlocked": 8,
         "text_effects_available": 25,
-        "recent_unlocks": 15
+        "recent_unlocks": 16
       }
     },
     "baas_h": {
