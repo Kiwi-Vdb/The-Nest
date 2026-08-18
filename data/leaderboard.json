@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787068846,
+  "generatedAt": 1787068960,
   "totalViewers": 504,
-  "totalShinies": 1709442,
+  "totalShinies": 1710442,
   "pageSize": 100,
   "entries": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "rank": 25,
+      "name": "warriot",
+      "shinies": 10120
+    },
+    {
+      "rank": 26,
       "name": "colonp",
       "shinies": 9486
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "freakofnature122",
       "shinies": 9336
-    },
-    {
-      "rank": 27,
-      "name": "warriot",
-      "shinies": 9120
     },
     {
       "rank": 28,
