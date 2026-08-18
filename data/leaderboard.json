@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787060086,
-  "totalViewers": 496,
-  "totalShinies": 1659602,
+  "generatedAt": 1787060282,
+  "totalViewers": 497,
+  "totalShinies": 1659936,
   "pageSize": 100,
   "entries": [
     {
@@ -2476,11 +2476,16 @@
     },
     {
       "rank": 495,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 496,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 497,
       "name": "zursen",
       "shinies": 334
     }
