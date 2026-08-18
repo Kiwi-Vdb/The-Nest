@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1787067384,
+  "generatedAt": 1787067530,
   "count": 50,
   "activities": [
+    {
+      "id": "eb7a5736f731b703",
+      "type": "prediction",
+      "who": "sharpishdog",
+      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
+      "timestamp": 1787067529,
+      "amount": 2000
+    },
     {
       "id": "e99a20adf200f62d",
       "type": "prediction",
@@ -467,16 +475,6 @@
       "rarity": "rare",
       "category": "Back",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "71523485ba63f995",
-      "type": "unlock",
-      "who": "mesaber",
-      "text": "unlocked Blue Text",
-      "timestamp": 1785167641,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
