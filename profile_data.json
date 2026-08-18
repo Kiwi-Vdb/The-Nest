@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787053148,
+  "generated_at": 1787053360,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -5382,7 +5382,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 46097,
+        "balance": 46581,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -5690,7 +5690,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 69594,
+        "balance": 67594,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -5756,6 +5756,13 @@
           "rarity": "common",
           "class_name": "text-teal",
           "equip_command": "!equiptext Teal"
+        },
+        {
+          "id": "text-red",
+          "name": "Red Text",
+          "rarity": "common",
+          "class_name": "text-red",
+          "equip_command": "!equiptext Red"
         }
       ],
       "current_text_effect": {
@@ -5764,8 +5771,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 8,
+      "loot_boxes_opened": 9,
       "recent_unlocks": [
+        {
+          "name": "Red Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-red",
+          "timestamp": 1787053351
+        },
         {
           "name": "Monarch Wings",
           "category": "Back",
@@ -5781,22 +5796,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784372600
-        },
-        {
-          "name": "Poesidon Staff",
-          "category": "Hand",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1782919443
         }
       ],
       "totals": {
         "cosmetics_unlocked": 7,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 2,
+        "text_effects_unlocked": 3,
         "text_effects_available": 25,
-        "recent_unlocks": 9
+        "recent_unlocks": 10
       }
     },
     "iamketpain": {

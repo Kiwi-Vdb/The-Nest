@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787053148,
+  "generatedAt": 1787053360,
   "count": 50,
   "activities": [
+    {
+      "id": "7b7681cb54f8e3db",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Red Text",
+      "timestamp": 1787053351,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "016ced209386a529",
       "type": "unlock",
@@ -478,16 +488,6 @@
       "who": "axolotl_eu",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1784394958,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "39fc63469ea75a34",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Witch Hat",
-      "timestamp": 1784394902,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
