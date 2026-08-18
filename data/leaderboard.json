@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787070203,
+  "generatedAt": 1787070220,
   "totalViewers": 513,
-  "totalShinies": 1710068,
+  "totalShinies": 1706068,
   "pageSize": 100,
   "entries": [
     {
@@ -76,33 +76,33 @@
     },
     {
       "rank": 15,
-      "name": "axolotl_eu",
-      "shinies": 19692
-    },
-    {
-      "rank": 16,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "thequetx",
-      "shinies": 17906
+      "shinies": 18906
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "dog1isopen",
       "shinies": 17606
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "sasadal",
       "shinies": 16122
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "deverhr",
       "shinies": 14838
+    },
+    {
+      "rank": 20,
+      "name": "axolotl_eu",
+      "shinies": 14692
     },
     {
       "rank": 21,

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787070203,
+  "generated_at": 1787070220,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -1046,7 +1046,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 19692,
+        "balance": 14692,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -1101,6 +1101,12 @@
           "id": "emote:quiz hat",
           "name": "Quiz Hat",
           "category": "Emote",
+          "rarity": "rare"
+        },
+        {
+          "id": "back:angel wings",
+          "name": "Angel Wings",
+          "category": "Back",
           "rarity": "rare"
         },
         {
@@ -1177,6 +1183,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Angel Wings",
+          "category": "Back",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787070217
+        },
+        {
           "name": "Sun Beam",
           "category": "Emote",
           "rarity": "legendary",
@@ -1191,22 +1205,14 @@
           "type": "text_effect",
           "text_effect": "text-aurora-drift",
           "timestamp": 1787070165
-        },
-        {
-          "name": "Party Hat Angle",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394958
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 9,
+        "cosmetics_unlocked": 10,
         "cosmetics_available": 24,
         "text_effects_unlocked": 8,
         "text_effects_available": 25,
-        "recent_unlocks": 17
+        "recent_unlocks": 18
       }
     },
     "baas_h": {
@@ -13248,7 +13254,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 17906,
+        "balance": 18906,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {

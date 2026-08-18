@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787070203,
+  "generatedAt": 1787070220,
   "count": 50,
   "activities": [
+    {
+      "id": "87cfcdf60cd64693",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Angel Wings",
+      "timestamp": 1787070217,
+      "rarity": "rare",
+      "category": "Back",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "98614f1ce58627d1",
       "type": "unlock",
@@ -458,16 +468,6 @@
       "who": "itsvdb",
       "text": "unlocked Gift Box Surprise Text",
       "timestamp": 1786133675,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "01c75c54354b0b6b",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Gold Sparkle Text",
-      "timestamp": 1786133013,
       "rarity": "legendary",
       "category": "Text Effect",
       "rewardType": "text effect"
