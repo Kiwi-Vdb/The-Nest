@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787086562,
+  "generatedAt": 1787086601,
   "count": 50,
   "activities": [
+    {
+      "id": "4e5da7df69b3c7a4",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Amber Scarf",
+      "timestamp": 1787086600,
+      "rarity": "common",
+      "category": "Kiwi Neck",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "e425f538666043f2",
       "type": "prediction",
@@ -456,16 +466,6 @@
       "who": "lordjammacus",
       "text": "unlocked Black Hole Text",
       "timestamp": 1786134631,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "8594505d281aec92",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Black Hole Text",
-      "timestamp": 1786133877,
       "rarity": "legendary",
       "category": "Text Effect",
       "rewardType": "text effect"

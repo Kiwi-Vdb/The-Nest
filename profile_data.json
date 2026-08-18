@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787086562,
+  "generated_at": 1787086601,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6660,6 +6660,14 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
+          "name": "Amber Scarf",
+          "category": "Kiwi Neck",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787086600
+        },
+        {
           "name": "Supernova Text",
           "category": "Text Effect",
           "rarity": "legendary",
@@ -6674,14 +6682,6 @@
           "type": "text_effect",
           "text_effect": "text-plasma-pulse",
           "timestamp": 1787051354
-        },
-        {
-          "name": "Frozen Shatter Text",
-          "category": "Text Effect",
-          "rarity": "epic",
-          "type": "text_effect",
-          "text_effect": "text-frozen-shatter",
-          "timestamp": 1787051353
         }
       ],
       "totals": {
