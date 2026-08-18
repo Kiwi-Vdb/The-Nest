@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787051316,
+  "generated_at": 1787051356,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6391,6 +6391,34 @@
           "rarity": "rare",
           "class_name": "text-aurora-drift",
           "equip_command": "!equiptext Aurora Drift"
+        },
+        {
+          "id": "text-electric-arc",
+          "name": "Electric Arc Text",
+          "rarity": "rare",
+          "class_name": "text-electric-arc",
+          "equip_command": "!equiptext Electric Arc"
+        },
+        {
+          "id": "text-frozen-shatter",
+          "name": "Frozen Shatter Text",
+          "rarity": "epic",
+          "class_name": "text-frozen-shatter",
+          "equip_command": "!equiptext Frozen Shatter"
+        },
+        {
+          "id": "text-plasma-pulse",
+          "name": "Plasma Pulse Text",
+          "rarity": "epic",
+          "class_name": "text-plasma-pulse",
+          "equip_command": "!equiptext Plasma Pulse"
+        },
+        {
+          "id": "text-supernova",
+          "name": "Supernova Text",
+          "rarity": "legendary",
+          "class_name": "text-supernova",
+          "equip_command": "!equiptext Supernova"
         }
       ],
       "current_text_effect": {
@@ -6402,34 +6430,34 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
-          "name": "Aurora Drift Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-aurora-drift",
-          "timestamp": 1786872589
-        },
-        {
-          "name": "Black Hole Text",
+          "name": "Supernova Text",
           "category": "Text Effect",
           "rarity": "legendary",
           "type": "text_effect",
-          "text_effect": "text-black-hole",
-          "timestamp": 1786133877
+          "text_effect": "text-supernova",
+          "timestamp": 1787051356
         },
         {
-          "name": "Gift Box Surprise Text",
+          "name": "Plasma Pulse Text",
           "category": "Text Effect",
-          "rarity": "legendary",
+          "rarity": "epic",
           "type": "text_effect",
-          "text_effect": "text-gift-box-surprise",
-          "timestamp": 1786133675
+          "text_effect": "text-plasma-pulse",
+          "timestamp": 1787051354
+        },
+        {
+          "name": "Frozen Shatter Text",
+          "category": "Text Effect",
+          "rarity": "epic",
+          "type": "text_effect",
+          "text_effect": "text-frozen-shatter",
+          "timestamp": 1787051353
         }
       ],
       "totals": {
         "cosmetics_unlocked": 24,
         "cosmetics_available": 24,
-        "text_effects_unlocked": 21,
+        "text_effects_unlocked": 25,
         "text_effects_available": 25,
         "recent_unlocks": 20
       }

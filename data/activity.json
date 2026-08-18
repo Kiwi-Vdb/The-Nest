@@ -1,7 +1,47 @@
 {
-  "generatedAt": 1787051316,
+  "generatedAt": 1787051356,
   "count": 50,
   "activities": [
+    {
+      "id": "016ced209386a529",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Supernova Text",
+      "timestamp": 1787051356,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "b9ade2b4cfd72fc5",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Plasma Pulse Text",
+      "timestamp": 1787051354,
+      "rarity": "epic",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "4fd2fafb059c2965",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Frozen Shatter Text",
+      "timestamp": 1787051353,
+      "rarity": "epic",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "35f90c20c2e2828c",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Electric Arc Text",
+      "timestamp": 1787051351,
+      "rarity": "rare",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "635f78ad31ddda25",
       "type": "unlock",
@@ -449,46 +489,6 @@
       "text": "unlocked Witch Hat",
       "timestamp": 1784394902,
       "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "7087853b0a5f3084",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Wizards Hat",
-      "timestamp": 1784394902,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "e87ce665f803c662",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Sword",
-      "timestamp": 1784394902,
-      "rarity": "common",
-      "category": "Hand",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "0c9119e0d309114f",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Sun Beam",
-      "timestamp": 1784394901,
-      "rarity": "legendary",
-      "category": "Emote",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "da1146e7401c4940",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Sultans Hat",
-      "timestamp": 1784394901,
-      "rarity": "rare",
       "category": "Hat",
       "rewardType": "cosmetic"
     }
