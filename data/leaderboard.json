@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787070167,
+  "generatedAt": 1787070203,
   "totalViewers": 513,
-  "totalShinies": 1719068,
+  "totalShinies": 1710068,
   "pageSize": 100,
   "entries": [
     {
@@ -56,28 +56,28 @@
     },
     {
       "rank": 11,
-      "name": "axolotl_eu",
-      "shinies": 28692
-    },
-    {
-      "rank": 12,
       "name": "watchmedothis",
       "shinies": 26858
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "hobbitsenlive",
       "shinies": 25340
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "lpalochka",
       "shinies": 23642
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "massivemankey",
       "shinies": 23006
+    },
+    {
+      "rank": 15,
+      "name": "axolotl_eu",
+      "shinies": 19692
     },
     {
       "rank": 16,

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787070167,
+  "generated_at": 1787070203,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -1046,7 +1046,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 28692,
+        "balance": 19692,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -1102,6 +1102,12 @@
           "name": "Quiz Hat",
           "category": "Emote",
           "rarity": "rare"
+        },
+        {
+          "id": "emote:sun beam",
+          "name": "Sun Beam",
+          "category": "Emote",
+          "rarity": "legendary"
         }
       ],
       "text_effects_unlocked": [
@@ -1171,6 +1177,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Sun Beam",
+          "category": "Emote",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787070203
+        },
+        {
           "name": "Aurora Drift Text",
           "category": "Text Effect",
           "rarity": "rare",
@@ -1185,22 +1199,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784394958
-        },
-        {
-          "name": "Red Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-red",
-          "timestamp": 1782919498
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 8,
+        "cosmetics_unlocked": 9,
         "cosmetics_available": 24,
         "text_effects_unlocked": 8,
         "text_effects_available": 25,
-        "recent_unlocks": 16
+        "recent_unlocks": 17
       }
     },
     "baas_h": {
