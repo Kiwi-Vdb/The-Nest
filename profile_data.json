@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787055574,
+  "generated_at": 1787055637,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -4954,7 +4954,12 @@
           "equip_command": "!equiptext Glitch Sweep"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-glitch-sweep",
+        "name": "Glitch Sweep Text",
+        "rarity": "legendary",
+        "class_name": "text-glitch-sweep"
+      },
       "loot_boxes_opened": 0,
       "recent_unlocks": [
         {
@@ -7261,7 +7266,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 668,
+        "balance": 1336,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
