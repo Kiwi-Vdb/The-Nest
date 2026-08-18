@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787055388,
+  "generatedAt": 1787055543,
   "count": 50,
   "activities": [
+    {
+      "id": "686f3d450c9a7bd6",
+      "type": "unlock",
+      "who": "halfyourlife",
+      "text": "unlocked Glitch Sweep Text",
+      "timestamp": 1787055543,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "7b7681cb54f8e3db",
       "type": "unlock",
@@ -478,16 +488,6 @@
       "who": "rosiescarlet",
       "text": "unlocked Bday Hat",
       "timestamp": 1784394985,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "c1be1e4dfaa098ae",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784394958,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
