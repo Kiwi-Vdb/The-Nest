@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787059178,
+  "generatedAt": 1787059358,
   "totalViewers": 496,
-  "totalShinies": 1655766,
+  "totalShinies": 1656766,
   "pageSize": 100,
   "entries": [
     {
@@ -66,18 +66,18 @@
     },
     {
       "rank": 13,
+      "name": "hobbitsenlive",
+      "shinies": 23340
+    },
+    {
+      "rank": 14,
       "name": "massivemankey",
       "shinies": 23006
     },
     {
-      "rank": 14,
+      "rank": 15,
       "name": "lpalochka",
       "shinies": 22642
-    },
-    {
-      "rank": 15,
-      "name": "hobbitsenlive",
-      "shinies": 22340
     },
     {
       "rank": 16,
