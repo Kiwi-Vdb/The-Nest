@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1787061999,
+  "generatedAt": 1787062032,
   "totalViewers": 497,
-  "totalShinies": 1670920,
+  "totalShinies": 1669754,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "itsvdb",
-      "shinies": 136700
+      "shinies": 135200
     },
     {
       "rank": 2,
@@ -181,18 +181,18 @@
     },
     {
       "rank": 36,
+      "name": "goobmilk",
+      "shinies": 7970
+    },
+    {
+      "rank": 37,
       "name": "halfyourlife",
       "shinies": 7754
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "axoim_",
       "shinies": 7670
-    },
-    {
-      "rank": 38,
-      "name": "goobmilk",
-      "shinies": 7636
     },
     {
       "rank": 39,
