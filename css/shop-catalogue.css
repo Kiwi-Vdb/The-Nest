@@ -322,7 +322,8 @@
   object-fit: contain;
 }
 .catalogue-kiwi-preview { width: 88%; height: 94%; display: grid; place-items: center; }
-.catalogue-kiwi-preview .nest-kiwi-svg { width: 100%; height: 100%; overflow: visible; }
+.catalogue-kiwi-preview .kiwi-avatar-png { position: relative; display: block; width: 100%; height: 100%; }
+.catalogue-kiwi-preview .kiwi-avatar-layer { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
 .catalogue-icon {
   color: var(--catalog-purple);
   font-size: 3rem;

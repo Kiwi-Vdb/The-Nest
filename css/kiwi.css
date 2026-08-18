@@ -67,7 +67,9 @@ h2 { font-size: clamp(1.35rem, 3vw, 2rem); }
   background: radial-gradient(circle at 50% 38%, rgba(109, 65, 147, .36), rgba(11, 9, 14, .4) 68%);
 }
 .kiwi-preview::after { content: ""; position: absolute; left: 15%; right: 15%; bottom: 11%; height: 8%; border-radius: 50%; background: rgba(0, 0, 0, .46); filter: blur(12px); }
-.kiwi-preview .nest-kiwi-svg { position: relative; z-index: 1; width: 88%; height: 88%; filter: drop-shadow(0 12px 10px rgba(0,0,0,.35)); }
+.kiwi-preview .kiwi-avatar-png { position: relative; z-index: 1; width: 88%; height: 88%; filter: drop-shadow(0 12px 10px rgba(0,0,0,.35)); }
+.kiwi-avatar-png { position: relative; display: block; }
+.kiwi-avatar-layer { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: contain; pointer-events: none; user-select: none; }
 .kiwi-equip-status { min-height: 1.3em; margin: 8px 0 16px; color: var(--muted); text-align: center; }
 .kiwi-equip-status.is-pending { color: var(--amber); }
 .kiwi-preview-actions { display: flex; justify-content: center; gap: 8px; }
@@ -88,7 +90,7 @@ h2 { font-size: clamp(1.35rem, 3vw, 2rem); }
 .kiwi-owned-card[data-rarity="rare"] { border-color: rgba(93, 159, 255, .36); }
 .kiwi-owned-card[data-rarity="epic"] { border-color: rgba(193, 92, 255, .42); }
 .kiwi-owned-card[data-rarity="legendary"] { border-color: rgba(224, 150, 75, .46); }
-.kiwi-owned-card .nest-kiwi-svg { width: 120px; height: 120px; }
+.kiwi-owned-card .kiwi-avatar-png { width: 120px; height: 120px; }
 .kiwi-owned-name { font-weight: 800; }
 .kiwi-owned-meta { margin-top: 4px; color: var(--muted); font-size: .72rem; text-transform: uppercase; }
 .kiwi-empty { grid-column: 1 / -1; color: var(--muted); }
