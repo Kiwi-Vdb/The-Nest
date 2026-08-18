@@ -1,7 +1,23 @@
 {
-  "generatedAt": 1787063227,
+  "generatedAt": 1787063379,
   "count": 50,
   "activities": [
+    {
+      "id": "fa20f262358f8b46",
+      "type": "prediction",
+      "who": "roaminincherno",
+      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
+      "timestamp": 1787063379,
+      "amount": 2000
+    },
+    {
+      "id": "d8fc65849955c1e8",
+      "type": "prediction",
+      "who": "axolotl_eu",
+      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
+      "timestamp": 1787063377,
+      "amount": 2000
+    },
     {
       "id": "103860c2616bc292",
       "type": "prediction",
@@ -462,26 +478,6 @@
       "who": "watchmedothis",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1784398390,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "5d50b3d256aadb05",
-      "type": "unlock",
-      "who": "watchmedothis",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1784398384,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "92d1d0cd285b249b",
-      "type": "unlock",
-      "who": "hamoodlovespoop",
-      "text": "unlocked Party Hat Angle",
-      "timestamp": 1784395021,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
