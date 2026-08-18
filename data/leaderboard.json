@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787072477,
+  "generatedAt": 1787072561,
   "totalViewers": 515,
-  "totalShinies": 1714720,
+  "totalShinies": 1715720,
   "pageSize": 100,
   "entries": [
     {
@@ -121,18 +121,18 @@
     },
     {
       "rank": 24,
+      "name": "warriot",
+      "shinies": 11120
+    },
+    {
+      "rank": 25,
       "name": "cozzwald",
       "shinies": 10540
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "freakofnature122",
       "shinies": 10336
-    },
-    {
-      "rank": 26,
-      "name": "warriot",
-      "shinies": 10120
     },
     {
       "rank": 27,
