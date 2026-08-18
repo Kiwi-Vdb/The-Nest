@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787086601,
+  "generated_at": 1787086675,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6660,28 +6660,28 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
-          "name": "Amber Scarf",
-          "category": "Kiwi Neck",
-          "rarity": "common",
+          "name": "Violet Feathers",
+          "category": "Kiwi Body",
+          "rarity": "rare",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787086600
+          "timestamp": 1787086674
         },
         {
-          "name": "Supernova Text",
-          "category": "Text Effect",
+          "name": "Leaf Crown",
+          "category": "Kiwi Head",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787086668
+        },
+        {
+          "name": "Golden Feathers",
+          "category": "Kiwi Body",
           "rarity": "legendary",
-          "type": "text_effect",
-          "text_effect": "text-supernova",
-          "timestamp": 1787051356
-        },
-        {
-          "name": "Plasma Pulse Text",
-          "category": "Text Effect",
-          "rarity": "epic",
-          "type": "text_effect",
-          "text_effect": "text-plasma-pulse",
-          "timestamp": 1787051354
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787086665
         }
       ],
       "totals": {
