@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787061171,
+  "generatedAt": 1787061344,
   "totalViewers": 497,
-  "totalShinies": 1667586,
+  "totalShinies": 1667920,
   "pageSize": 100,
   "entries": [
     {
@@ -281,18 +281,18 @@
     },
     {
       "rank": 56,
+      "name": "alishhk",
+      "shinies": 5288
+    },
+    {
+      "rank": 57,
       "name": "globe2deag",
       "shinies": 5154
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "7voodoodragon",
       "shinies": 5002
-    },
-    {
-      "rank": 58,
-      "name": "alishhk",
-      "shinies": 4954
     },
     {
       "rank": 59,
