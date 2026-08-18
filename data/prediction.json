@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1787072215,
+  "generatedAt": 1787072315,
   "active": true,
-  "status": "open",
+  "status": "closed",
   "id": 1787072195,
   "question": "Does VDB win?",
   "prize": 1000,
   "totalPicks": 1,
   "startedAt": 1787072195,
-  "closedAt": null,
+  "closedAt": 1787072315,
   "options": [
     {
       "label": "yes",
