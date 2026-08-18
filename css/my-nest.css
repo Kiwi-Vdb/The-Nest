@@ -334,6 +334,19 @@ button { font: inherit; }
   white-space: nowrap;
 }
 
+.my-kiwi-button {
+  margin-left: auto;
+  border: 1px solid rgba(131, 220, 99, .42);
+  border-radius: 999px;
+  padding: .55em .85em;
+  color: #dff6cc;
+  background: rgba(55, 103, 43, .2);
+  text-decoration: none;
+  font-size: clamp(.36rem, .56vw, .68rem);
+  white-space: nowrap;
+}
+.my-kiwi-button:hover { border-color: rgba(131, 220, 99, .82); background: rgba(55, 103, 43, .34); }
+
 .stat-grid {
   height: 74%;
   display: grid;
@@ -484,6 +497,9 @@ button { font: inherit; }
   object-fit: contain;
   filter: drop-shadow(0 0 .42vw rgba(141, 85, 255, .24));
 }
+
+.kiwi-collection-preview { display: grid; place-items: center; height: 4.25vw; }
+.kiwi-collection-preview .nest-kiwi-svg { width: 100%; height: 100%; overflow: visible; }
 
 .collection-icon {
   display: grid;

@@ -322,6 +322,9 @@ function catalogueVisualHtml(item) {
     const effectClass = `effect-${String(item.rewardId || "").replace(/^text-/, "").replace(/[^a-z0-9-]/g, "")}`;
     return `<span class="catalogue-text-preview ${escapeCatalogueAttr(effectClass)}">KiwiBirb</span>`;
   }
+  if (String(item.rewardId || "").startsWith("kiwi:") && window.KiwiAvatarRenderer) {
+    return `<div class="catalogue-kiwi-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId)}</div>`;
+  }
   if (item.image) {
     return `<img class="catalogue-image" src="${escapeCatalogueAttr(item.image)}" alt="${escapeCatalogueAttr(item.name)}" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'catalogue-icon',textContent:'${escapeCatalogueJs(item.icon || "✦")}'}))">`;
   }

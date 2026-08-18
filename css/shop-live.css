@@ -110,6 +110,8 @@
 }
 
 .shop-card-image { padding: 4%; }
+.kiwi-product-preview { display: grid; place-items: center; }
+.kiwi-product-preview .nest-kiwi-svg { width: 100%; height: 100%; overflow: visible; }
 
 .shop-card-icon {
   display: grid;
@@ -530,4 +532,3 @@
   .shop-daily .daily-special-name { font-size: clamp(.62rem, 1.05vw, 1.18rem); }
   .shop-sellers .seller-row { font-size: clamp(.46rem, .82vw, .88rem); }
 }
-

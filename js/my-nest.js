@@ -279,9 +279,12 @@ function renderCollection(data) {
   grid.scrollTop = 0;
   grid.innerHTML = visibleItems.map((item) => {
     const isEquipped = key === "textEffects" && equipped && equipped === item.rewardId;
-    const visual = item.image
-      ? `<img class="collection-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'collection-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`
-      : `<div class="collection-icon" aria-hidden="true">${escapeHtml(item.icon || "✦")}</div>`;
+    const isKiwi = String(item.rewardId || "").startsWith("kiwi:");
+    const visual = isKiwi && window.KiwiAvatarRenderer
+      ? `<div class="collection-image kiwi-collection-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId)}</div>`
+      : item.image
+        ? `<img class="collection-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'collection-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`
+        : `<div class="collection-icon" aria-hidden="true">${escapeHtml(item.icon || "✦")}</div>`;
     return `
       <article class="collection-card" data-rarity="${escapeAttr(String(item.rarity || "common").toLowerCase())}" title="${escapeAttr(item.description || item.name)}">
         ${isEquipped ? `<span class="collection-equipped">Equipped</span>` : ""}

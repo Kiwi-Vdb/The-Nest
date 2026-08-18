@@ -257,9 +257,12 @@ function renderItems(items) {
 function productCardHtml(item) {
   const availability = productAvailability(item);
   const rarity = String(item.rarity || "common").toLowerCase();
-  const visual = item.image
-    ? `<img class="shop-card-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'shop-card-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`
-    : `<div class="shop-card-icon" aria-hidden="true">${escapeHtml(item.icon || "✦")}</div>`;
+  const isKiwi = String(item.rewardId || "").startsWith("kiwi:");
+  const visual = isKiwi && window.KiwiAvatarRenderer
+    ? `<div class="shop-card-image kiwi-product-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId)}</div>`
+    : item.image
+      ? `<img class="shop-card-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'shop-card-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`
+      : `<div class="shop-card-icon" aria-hidden="true">${escapeHtml(item.icon || "✦")}</div>`;
   const classNames = ["shop-card"];
   if (availability.code === "owned") classNames.push("is-owned");
   if (availability.code === "soldout") classNames.push("is-sold-out");
