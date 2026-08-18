@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787051356,
+  "generated_at": 1787051439,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6422,10 +6422,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-black-hole",
-        "name": "Black Hole Text",
+        "id": "text-supernova",
+        "name": "Supernova Text",
         "rarity": "legendary",
-        "class_name": "text-black-hole"
+        "class_name": "text-supernova"
       },
       "loot_boxes_opened": 40,
       "recent_unlocks": [
