@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787063379,
+  "generatedAt": 1787063420,
   "totalViewers": 498,
-  "totalShinies": 1681906,
+  "totalShinies": 1682724,
   "pageSize": 100,
   "entries": [
     {
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "betterstrategy",
-      "shinies": 70002
+      "shinies": 70336
     },
     {
       "rank": 4,
@@ -212,7 +212,7 @@
     {
       "rank": 42,
       "name": "bonghits4cthulhu",
-      "shinies": 6972
+      "shinies": 7122
     },
     {
       "rank": 43,
@@ -426,57 +426,57 @@
     },
     {
       "rank": 85,
+      "name": "prunko",
+      "shinies": 3338
+    },
+    {
+      "rank": 86,
       "name": "tiwaz42",
       "shinies": 3336
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "aidannaut",
       "shinies": 3334
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "kazmazel",
       "shinies": 3334
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "mathwiz247",
       "shinies": 3334
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "the_joker1337",
       "shinies": 3334
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "travelingman",
       "shinies": 3334
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "destrinite",
       "shinies": 3302
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "lordjammacus",
       "shinies": 3302
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "xflame",
       "shinies": 3120
     },
     {
-      "rank": 94,
-      "name": "esebian_",
-      "shinies": 3004
-    },
-    {
       "rank": 95,
-      "name": "prunko",
+      "name": "esebian_",
       "shinies": 3004
     },
     {
