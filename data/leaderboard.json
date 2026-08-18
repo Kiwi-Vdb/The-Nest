@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787069380,
+  "generatedAt": 1787069429,
   "totalViewers": 505,
-  "totalShinies": 1717276,
+  "totalShinies": 1715276,
   "pageSize": 100,
   "entries": [
     {
@@ -51,13 +51,13 @@
     },
     {
       "rank": 10,
-      "name": "sharpishdog",
-      "shinies": 32674
+      "name": "axolotl_eu",
+      "shinies": 30892
     },
     {
       "rank": 11,
-      "name": "axolotl_eu",
-      "shinies": 30892
+      "name": "sharpishdog",
+      "shinies": 30674
     },
     {
       "rank": 12,
