@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787051439,
+  "generated_at": 1787051510,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6422,10 +6422,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-supernova",
-        "name": "Supernova Text",
-        "rarity": "legendary",
-        "class_name": "text-supernova"
+        "id": "text-frozen-shatter",
+        "name": "Frozen Shatter Text",
+        "rarity": "epic",
+        "class_name": "text-frozen-shatter"
       },
       "loot_boxes_opened": 40,
       "recent_unlocks": [
