@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787055543,
+  "generated_at": 1787055574,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6472,10 +6472,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-frozen-shatter",
-        "name": "Frozen Shatter Text",
-        "rarity": "epic",
-        "class_name": "text-frozen-shatter"
+        "id": "text-glitch-sweep",
+        "name": "Glitch Sweep Text",
+        "rarity": "legendary",
+        "class_name": "text-glitch-sweep"
       },
       "loot_boxes_opened": 40,
       "recent_unlocks": [
@@ -13818,7 +13818,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 24874,
+        "balance": 25358,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
