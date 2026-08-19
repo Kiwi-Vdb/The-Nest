@@ -255,15 +255,32 @@ function renderCatalogueSections() {
   content.querySelectorAll("[data-catalogue-equip]").forEach((button) => {
     button.addEventListener("click", () => equipCatalogueTextEffect(button.dataset.catalogueEquip));
   });
+  content.querySelectorAll("[data-catalogue-kiwi-equip]").forEach((button) => {
+    button.addEventListener("click", () => equipCatalogueKiwi(button.dataset.catalogueKiwiEquip));
+  });
 }
 
 function catalogueCardHtml(item) {
   const availability = catalogueAvailability(item);
   const isOwnedTextEffect = catalogueState.kind === "text-effect" && catalogueOwns(item);
-  const isEquipped = isOwnedTextEffect && catalogueState.user?.equippedTextEffect === item.rewardId;
-  const action = isOwnedTextEffect
-    ? `<button type="button" class="catalogue-buy catalogue-equip${isEquipped ? " is-equipped" : ""}" data-catalogue-equip="${escapeCatalogueAttr(item.id)}" ${isEquipped || catalogueState.busy ? "disabled" : ""}>${isEquipped ? "Equipped" : "Equip"}</button>`
-    : `<button type="button" class="catalogue-buy" data-catalogue-buy="${escapeCatalogueAttr(item.id)}" ${availability.disabled ? "disabled" : ""}>${escapeCatalogueHtml(availability.label)}</button>`;
+  const isOwnedKiwi = catalogueState.kind === "cosmetic"
+    && catalogueOwns(item)
+    && String(item.rewardId || "").startsWith("kiwi:")
+    && Boolean(window.KiwiAvatarRenderer);
+  const kiwiSlot = isOwnedKiwi ? window.KiwiAvatarRenderer.slotForReward(item.rewardId) : "";
+  const kiwiLoadout = window.KiwiAvatarRenderer
+    ? window.KiwiAvatarRenderer.normalise(catalogueState.user?.kiwi?.equipped || {})
+    : {};
+  const isEquippedText = isOwnedTextEffect && catalogueState.user?.equippedTextEffect === item.rewardId;
+  const isEquippedKiwi = isOwnedKiwi && kiwiSlot && kiwiLoadout[kiwiSlot] === item.rewardId;
+  let action;
+  if (isOwnedTextEffect) {
+    action = `<button type="button" class="catalogue-buy catalogue-equip${isEquippedText ? " is-equipped" : ""}" data-catalogue-equip="${escapeCatalogueAttr(item.id)}" ${isEquippedText || catalogueState.busy ? "disabled" : ""}>${isEquippedText ? "Equipped" : "Equip"}</button>`;
+  } else if (isOwnedKiwi && kiwiSlot) {
+    action = `<button type="button" class="catalogue-buy catalogue-equip${isEquippedKiwi ? " is-equipped" : ""}" data-catalogue-kiwi-equip="${escapeCatalogueAttr(item.id)}" ${isEquippedKiwi || catalogueState.busy ? "disabled" : ""}>${isEquippedKiwi ? "Equipped" : "Equip"}</button>`;
+  } else {
+    action = `<button type="button" class="catalogue-buy" data-catalogue-buy="${escapeCatalogueAttr(item.id)}" ${availability.disabled ? "disabled" : ""}>${escapeCatalogueHtml(availability.label)}</button>`;
+  }
   const visual = catalogueVisualHtml(item);
   const badges = availability.code === "owned"
     ? `<span class="catalogue-owned-badge">OWNED</span>`
@@ -311,6 +328,32 @@ async function equipCatalogueTextEffect(productId) {
     catalogueToast(`${item.name} queued for equipping. Kiwi Birb will apply it automatically.`);
   } catch (error) {
     catalogueToast(error.message || catalogueFriendlyError(error.code) || "That text effect could not be equipped.", true);
+  } finally {
+    catalogueState.busy = false;
+    renderCatalogueSections();
+  }
+}
+
+async function equipCatalogueKiwi(productId) {
+  if (catalogueState.busy) return;
+  if (!catalogueState.user) {
+    catalogueLogin();
+    return;
+  }
+  const item = findCatalogueProduct(productId);
+  const slot = window.KiwiAvatarRenderer?.slotForReward(item?.rewardId || "");
+  if (!item || !catalogueOwns(item) || !slot || !String(item.rewardId || "").startsWith("kiwi:")) return;
+  catalogueState.busy = true;
+  renderCatalogueSections();
+  try {
+    const result = await catalogueApiRequest("/api/equip-kiwi", {
+      method: "POST",
+      body: JSON.stringify({ slot, rewardId: item.rewardId }),
+    });
+    catalogueState.user.kiwi = result.kiwi || { equipped: { [slot]: item.rewardId }, statuses: { [slot]: "pending" } };
+    catalogueToast(`${item.name} equipped. Kiwi Birb will apply it automatically.`);
+  } catch (error) {
+    catalogueToast(error.message || catalogueFriendlyError(error.code) || "That Kiwi cosmetic could not be equipped.", true);
   } finally {
     catalogueState.busy = false;
     renderCatalogueSections();
@@ -487,6 +530,8 @@ function catalogueFriendlyError(code) {
     INSUFFICIENT_BALANCE: "You do not have enough Shinies for this item.",
     PRODUCT_UNAVAILABLE: "That item is not currently available.",
     TEXT_EFFECT_NOT_OWNED: "You do not own that text effect.",
+    KIWI_EQUIP_SLOT_INVALID: "That cosmetic cannot be equipped in this Kiwi slot.",
+    KIWI_EQUIP_NOT_OWNED: "You do not own that Kiwi cosmetic.",
   })[code] || "";
 }
 
