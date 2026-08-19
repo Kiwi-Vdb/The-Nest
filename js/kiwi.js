@@ -1,6 +1,6 @@
 const KIWI_TOKEN_KEY = "the-nest-shop-token";
 const KIWI_DEFAULT_CONFIG = { enabled: false, apiBase: "" };
-const KIWI_SLOTS = ["body", "head", "neck", "back", "hand"];
+const KIWI_SLOTS = ["body", "head", "eyes", "neck", "hat", "feet", "beak", "back", "hand"];
 const KIWI_DEFAULT_BODY = { rewardId: "kiwi:body:brown", name: "Classic Brown", rarity: "default", category: "Kiwi Body" };
 
 const kiwiState = { config: KIWI_DEFAULT_CONFIG, data: null, busy: false };
@@ -116,9 +116,13 @@ function renderKiwi() {
 }
 
 function slotItems(slot) {
-  const items = ownedKiwiItems().filter((item) => String(item.rewardId).startsWith(`kiwi:${slot}:`));
+  const items = ownedKiwiItems().filter((item) => window.KiwiAvatarRenderer.slotForReward(item.rewardId) === slot);
   if (slot === "body") return [KIWI_DEFAULT_BODY, ...items];
-  return [{ rewardId: "", name: "None", rarity: "default", category: `Kiwi ${slot}` }, ...items];
+  return [{ rewardId: "", name: "None", rarity: "default", category: `Kiwi ${kiwiSlotLabel(slot)}` }, ...items];
+}
+
+function kiwiSlotLabel(slot) {
+  return slot === "head" ? "Full Head" : String(slot || "").replace(/^./, (letter) => letter.toUpperCase());
 }
 
 function renderKiwiSlots() {
@@ -126,7 +130,7 @@ function renderKiwiSlots() {
   const slots = document.querySelector("#kiwi-slots");
   slots.innerHTML = KIWI_SLOTS.map((slot) => `
     <article class="kiwi-slot">
-      <div class="kiwi-slot-label">${escapeKiwi(slot)}</div>
+      <div class="kiwi-slot-label">${escapeKiwi(kiwiSlotLabel(slot))}</div>
       <div class="kiwi-options">
         ${slotItems(slot).map((item) => {
           const equipped = String(loadout[slot] || "") === String(item.rewardId || "");
@@ -152,7 +156,7 @@ function renderOwnedKiwis() {
     <article class="kiwi-owned-card" data-rarity="${escapeKiwi(String(item.rarity || "common").toLowerCase())}">
       ${window.KiwiAvatarRenderer.previewReward(item.rewardId)}
       <div class="kiwi-owned-name">${escapeKiwi(item.name || item.rewardId)}</div>
-      <div class="kiwi-owned-meta">${escapeKiwi(item.rarity || "common")} · ${escapeKiwi(item.category || "Kiwi")}</div>
+      <div class="kiwi-owned-meta">${escapeKiwi(item.rarity || "common")} · ${escapeKiwi(`Kiwi ${kiwiSlotLabel(window.KiwiAvatarRenderer.slotForReward(item.rewardId))}`)}</div>
     </article>`).join("");
 }
 
