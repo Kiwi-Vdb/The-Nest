@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787160548,
+  "generated_at": 1787161237,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6027,7 +6027,68 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:body:forest",
+          "name": "Forest Feathers",
+          "category": "Kiwi Body",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:body:violet",
+          "name": "Violet Feathers",
+          "category": "Kiwi Body",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:body:golden",
+          "name": "Golden Feathers",
+          "category": "Kiwi Body",
+          "rarity": "legendary"
+        },
+        {
+          "id": "kiwi:eyes:aviators",
+          "name": "Aviators",
+          "category": "Kiwi Eyes",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:head:leaf-crown",
+          "name": "Leaf Crown",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:head:aviator-cap",
+          "name": "Aviator Cap",
+          "category": "Kiwi Hat",
+          "rarity": "epic"
+        },
+        {
+          "id": "kiwi:neck:amber-scarf",
+          "name": "Amber Scarf",
+          "category": "Kiwi Neck",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:beak:curly-moustache",
+          "name": "Curly Moustache",
+          "category": "Kiwi Beak",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:back:explorer-pack",
+          "name": "Explorer Pack",
+          "category": "Kiwi Back",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:back:jetpack",
+          "name": "Jetpack",
+          "category": "Kiwi Back",
+          "rarity": "legendary"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-red",
@@ -6239,7 +6300,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 10,
         "cosmetics_available": 16,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
@@ -14352,97 +14413,97 @@
   "catalog": {
     "cosmetics": [
       {
-        "id": "kiwi body:forest feathers",
+        "id": "kiwi:body:forest",
         "name": "Forest Feathers",
         "category": "Kiwi Body",
         "rarity": "common"
       },
       {
-        "id": "kiwi body:violet feathers",
+        "id": "kiwi:body:violet",
         "name": "Violet Feathers",
         "category": "Kiwi Body",
         "rarity": "rare"
       },
       {
-        "id": "kiwi body:golden feathers",
+        "id": "kiwi:body:golden",
         "name": "Golden Feathers",
         "category": "Kiwi Body",
         "rarity": "legendary"
       },
       {
-        "id": "kiwi full head:space helmet",
+        "id": "kiwi:head:space-helmet",
         "name": "Space Helmet",
         "category": "Kiwi Full Head",
         "rarity": "legendary"
       },
       {
-        "id": "kiwi eyes:aviators",
+        "id": "kiwi:eyes:aviators",
         "name": "Aviators",
         "category": "Kiwi Eyes",
         "rarity": "rare"
       },
       {
-        "id": "kiwi eyes:ski goggles",
+        "id": "kiwi:eyes:ski-goggles",
         "name": "Ski Goggles",
         "category": "Kiwi Eyes",
         "rarity": "epic"
       },
       {
-        "id": "kiwi hat:leaf crown",
+        "id": "kiwi:head:leaf-crown",
         "name": "Leaf Crown",
         "category": "Kiwi Hat",
         "rarity": "rare"
       },
       {
-        "id": "kiwi hat:aviator cap",
+        "id": "kiwi:head:aviator-cap",
         "name": "Aviator Cap",
         "category": "Kiwi Hat",
         "rarity": "epic"
       },
       {
-        "id": "kiwi hat:santa hat",
+        "id": "kiwi:hat:santa-hat",
         "name": "Santa Hat",
         "category": "Kiwi Hat",
         "rarity": "rare"
       },
       {
-        "id": "kiwi neck:amber scarf",
+        "id": "kiwi:neck:amber-scarf",
         "name": "Amber Scarf",
         "category": "Kiwi Neck",
         "rarity": "common"
       },
       {
-        "id": "kiwi neck:santa beard",
+        "id": "kiwi:neck:santa-beard",
         "name": "Santa Beard",
         "category": "Kiwi Neck",
         "rarity": "epic"
       },
       {
-        "id": "kiwi feet:red gumboots",
+        "id": "kiwi:feet:red-gumboots",
         "name": "Red Gumboots",
         "category": "Kiwi Feet",
         "rarity": "common"
       },
       {
-        "id": "kiwi beak:curly moustache",
+        "id": "kiwi:beak:curly-moustache",
         "name": "Curly Moustache",
         "category": "Kiwi Beak",
         "rarity": "rare"
       },
       {
-        "id": "kiwi back:explorer pack",
+        "id": "kiwi:back:explorer-pack",
         "name": "Explorer Pack",
         "category": "Kiwi Back",
         "rarity": "rare"
       },
       {
-        "id": "kiwi back:jetpack",
+        "id": "kiwi:back:jetpack",
         "name": "Jetpack",
         "category": "Kiwi Back",
         "rarity": "legendary"
       },
       {
-        "id": "kiwi hand:zen staff",
+        "id": "kiwi:hand:zen-staff",
         "name": "Zen Staff",
         "category": "Kiwi Hand",
         "rarity": "epic"
