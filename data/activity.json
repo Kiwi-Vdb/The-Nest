@@ -1,7 +1,67 @@
 {
-  "generatedAt": 1787161237,
+  "generatedAt": 1787161254,
   "count": 50,
   "activities": [
+    {
+      "id": "4b905b7e94c092d0",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Zen Staff",
+      "timestamp": 1787161254,
+      "rarity": "epic",
+      "category": "Kiwi Hand",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c06c26908ff7f17a",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Space Helmet",
+      "timestamp": 1787161253,
+      "rarity": "legendary",
+      "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c58385b1f3595b18",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Ski Goggles",
+      "timestamp": 1787161251,
+      "rarity": "epic",
+      "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "69ce370e6506bdc3",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Hat",
+      "timestamp": 1787161250,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "b891da2c4ed12152",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Beard",
+      "timestamp": 1787161248,
+      "rarity": "epic",
+      "category": "Kiwi Neck",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "59449f1bd984e4dd",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Red Gumboots",
+      "timestamp": 1787161247,
+      "rarity": "common",
+      "category": "Kiwi Feet",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "c82f8148abc292d9",
       "type": "unlock",
@@ -416,66 +476,6 @@
       "who": "professor_bar",
       "text": "unlocked Party Hat Angle",
       "timestamp": 1786899639,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "56246e346b03447a",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Fire Aura",
-      "timestamp": 1786899638,
-      "rarity": "legendary",
-      "category": "Emote",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "46d68898c847001a",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Deinosuchus",
-      "timestamp": 1786899637,
-      "rarity": "legendary",
-      "category": "Pets",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "37727d01679eb0b0",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Deadeye Wings",
-      "timestamp": 1786899636,
-      "rarity": "rare",
-      "category": "Back",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "6ea92cd818dce4a1",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Cow",
-      "timestamp": 1786899636,
-      "rarity": "legendary",
-      "category": "Pets",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "d324de11ce91f41b",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Blood Wings",
-      "timestamp": 1786899635,
-      "rarity": "rare",
-      "category": "Back",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "1acc05cc9c5981c7",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Bday Hat",
-      "timestamp": 1786899634,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"

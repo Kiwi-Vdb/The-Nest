@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787161237,
+  "generated_at": 1787161254,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6047,10 +6047,22 @@
           "rarity": "legendary"
         },
         {
+          "id": "kiwi:head:space-helmet",
+          "name": "Space Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "legendary"
+        },
+        {
           "id": "kiwi:eyes:aviators",
           "name": "Aviators",
           "category": "Kiwi Eyes",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:eyes:ski-goggles",
+          "name": "Ski Goggles",
+          "category": "Kiwi Eyes",
+          "rarity": "epic"
         },
         {
           "id": "kiwi:head:leaf-crown",
@@ -6065,9 +6077,27 @@
           "rarity": "epic"
         },
         {
+          "id": "kiwi:hat:santa-hat",
+          "name": "Santa Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
           "id": "kiwi:neck:amber-scarf",
           "name": "Amber Scarf",
           "category": "Kiwi Neck",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:neck:santa-beard",
+          "name": "Santa Beard",
+          "category": "Kiwi Neck",
+          "rarity": "epic"
+        },
+        {
+          "id": "kiwi:feet:red-gumboots",
+          "name": "Red Gumboots",
+          "category": "Kiwi Feet",
           "rarity": "common"
         },
         {
@@ -6087,6 +6117,12 @@
           "name": "Jetpack",
           "category": "Kiwi Back",
           "rarity": "legendary"
+        },
+        {
+          "id": "kiwi:hand:zen-staff",
+          "name": "Zen Staff",
+          "category": "Kiwi Hand",
+          "rarity": "epic"
         }
       ],
       "text_effects_unlocked": [
@@ -6275,32 +6311,32 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
-          "name": "Jetpack",
-          "category": "Kiwi Back",
+          "name": "Zen Staff",
+          "category": "Kiwi Hand",
+          "rarity": "epic",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787161254
+        },
+        {
+          "name": "Space Helmet",
+          "category": "Kiwi Full Head",
           "rarity": "legendary",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787160548
+          "timestamp": 1787161253
         },
         {
-          "name": "Curly Moustache",
-          "category": "Kiwi Beak",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787160536
-        },
-        {
-          "name": "Aviators",
+          "name": "Ski Goggles",
           "category": "Kiwi Eyes",
-          "rarity": "rare",
+          "rarity": "epic",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787160516
+          "timestamp": 1787161251
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 10,
+        "cosmetics_unlocked": 16,
         "cosmetics_available": 16,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
