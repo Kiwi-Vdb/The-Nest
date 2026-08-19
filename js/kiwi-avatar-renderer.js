@@ -36,6 +36,7 @@
     "kiwi:hand:zen-staff": "hand-zen-staff.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.22.2");
 
   function slotForReward(rewardId) {
     const reward = String(rewardId || "").trim().toLowerCase();
@@ -62,7 +63,7 @@
   }
 
   function imageLayer(filename, className) {
-    return `<img class="kiwi-avatar-layer ${className}" src="${ASSET_ROOT}/${filename}" alt="" aria-hidden="true" draggable="false">`;
+    return `<img class="kiwi-avatar-layer ${className}" src="${ASSET_ROOT}/${filename}?v=${encodeURIComponent(ASSET_VERSION)}" alt="" aria-hidden="true" draggable="false">`;
   }
 
   function render(loadout, options = {}) {
@@ -70,9 +71,12 @@
     const requestedExpression = String(options.expression || "normal").toLowerCase();
     const expression = ["happy", "excited"].includes(requestedExpression) ? "happy" : "normal";
     const bodyName = clean.body.split(":").pop();
-    const layers = [imageLayer(`body-${bodyName}-${expression}.png`, "kiwi-body-layer")];
+    const layers = [];
+    const backFilename = REWARD_FILES[clean.back];
+    if (backFilename) layers.push(imageLayer(backFilename, "kiwi-back-layer"));
+    layers.push(imageLayer(`body-${bodyName}-${expression}.png`, "kiwi-body-layer"));
 
-    ["back", "feet", "neck", "beak", "eyes", "hat", "head", "hand"].forEach((slot) => {
+    ["feet", "neck", "beak", "eyes", "hat", "head", "hand"].forEach((slot) => {
       const filename = REWARD_FILES[clean[slot]];
       if (filename) layers.push(imageLayer(filename, `kiwi-${slot}-layer`));
     });
