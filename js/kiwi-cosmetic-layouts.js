@@ -70,9 +70,9 @@ window.KIWI_COSMETIC_LAYOUTS = {
     },
     "kiwi:neck:amber-scarf": {
       "layer": "front",
-      "scale": 1.0,
-      "x": 46,
-      "y": 25
+      "scale": 0.98,
+      "x": 64,
+      "y": 7
     },
     "kiwi:neck:santa-beard": {
       "layer": "front",
@@ -81,6 +81,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
       "y": -20
     }
   },
-  "revision": "20260819185503288115",
+  "revision": "20260819192913066646",
   "version": 1
 };
