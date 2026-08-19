@@ -53,8 +53,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
     "kiwi:head:aviator-cap": {
       "layer": "front",
       "scale": 1.04,
-      "x": 50,
-      "y": 0
+      "x": 45,
+      "y": -5
     },
     "kiwi:head:leaf-crown": {
       "layer": "front",
@@ -81,6 +81,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
       "y": -20
     }
   },
-  "revision": "20260819184414886970",
+  "revision": "20260819185503288115",
   "version": 1
 };

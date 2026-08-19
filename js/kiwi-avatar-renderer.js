@@ -37,9 +37,10 @@
   };
   const REWARD_REAR_FILES = {
     "kiwi:head:aviator-cap": "head-aviator-cap-rear.png",
+    "kiwi:neck:amber-scarf": "neck-amber-scarf-rear.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.23.1");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.23.2");
   const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
     ? global.KIWI_COSMETIC_LAYOUTS
     : {};
