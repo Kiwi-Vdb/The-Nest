@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1787160449,
+  "generatedAt": 1787160536,
   "rotationGeneratedAt": 1787160447,
   "nextRotationAt": 1787246847,
   "rotationHours": 24,
@@ -10,7 +10,7 @@
       "group": "viewer",
       "icon": "♛",
       "title": "Nest Collector",
-      "copy": "itsvdb owns 56 cosmetics and text effects."
+      "copy": "itsvdb owns 58 cosmetics and text effects."
     },
     {
       "category": "biggest_prediction_prize",
@@ -24,7 +24,7 @@
       "group": "community",
       "icon": "♛",
       "title": "Unlock Collection",
-      "copy": "Viewers have collected 180 cosmetics and text effects."
+      "copy": "Viewers have collected 182 cosmetics and text effects."
     }
   ]
 }
