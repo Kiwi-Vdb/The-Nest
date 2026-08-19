@@ -4,21 +4,21 @@ window.KIWI_COSMETIC_LAYOUTS = {
   "items": {
     "kiwi:back:explorer-pack": {
       "layer": "behind",
-      "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "scale": 1.22,
+      "x": 88,
+      "y": 38
     },
     "kiwi:back:jetpack": {
       "layer": "behind",
       "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "x": -41,
+      "y": -41
     },
     "kiwi:beak:curly-moustache": {
       "layer": "front",
       "scale": 1.0,
       "x": 0,
-      "y": 0
+      "y": -46
     },
     "kiwi:eyes:aviators": {
       "layer": "front",
@@ -28,39 +28,39 @@ window.KIWI_COSMETIC_LAYOUTS = {
     },
     "kiwi:eyes:ski-goggles": {
       "layer": "front",
-      "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "scale": 1.28,
+      "x": -37,
+      "y": 46
     },
     "kiwi:feet:red-gumboots": {
       "layer": "front",
       "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "x": -14,
+      "y": -5
     },
     "kiwi:hand:zen-staff": {
       "layer": "front",
       "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "x": 117,
+      "y": 71
     },
     "kiwi:hat:santa-hat": {
       "layer": "front",
-      "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "scale": 1.18,
+      "x": -36,
+      "y": 23
     },
     "kiwi:head:aviator-cap": {
       "layer": "front",
-      "scale": 1.0,
-      "x": 0,
+      "scale": 1.04,
+      "x": 50,
       "y": 0
     },
     "kiwi:head:leaf-crown": {
       "layer": "front",
-      "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "scale": 0.92,
+      "x": 36,
+      "y": -14
     },
     "kiwi:head:space-helmet": {
       "layer": "front",
@@ -71,16 +71,16 @@ window.KIWI_COSMETIC_LAYOUTS = {
     "kiwi:neck:amber-scarf": {
       "layer": "front",
       "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "x": 46,
+      "y": 25
     },
     "kiwi:neck:santa-beard": {
       "layer": "front",
       "scale": 1.0,
-      "x": 0,
-      "y": 0
+      "x": 32,
+      "y": -20
     }
   },
-  "revision": "20260819181552637244",
+  "revision": "20260819184414886970",
   "version": 1
 };
