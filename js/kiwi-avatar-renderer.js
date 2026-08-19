@@ -36,7 +36,15 @@
     "kiwi:hand:zen-staff": "hand-zen-staff.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.22.2");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.23.0");
+  const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
+    ? global.KIWI_COSMETIC_LAYOUTS
+    : {};
+  const LAYOUT_ITEMS = LAYOUT_CONFIG.items && typeof LAYOUT_CONFIG.items === "object"
+    ? LAYOUT_CONFIG.items
+    : LAYOUT_CONFIG;
+  const LAYOUT_CANVAS_SIZE = Math.max(1, Number(LAYOUT_CONFIG.canvasSize) || 960);
+  const COSMETIC_SLOT_ORDER = ["back", "feet", "neck", "beak", "eyes", "hat", "head", "hand"];
 
   function slotForReward(rewardId) {
     const reward = String(rewardId || "").trim().toLowerCase();
@@ -62,8 +70,35 @@
     return clean;
   }
 
-  function imageLayer(filename, className) {
-    return `<img class="kiwi-avatar-layer ${className}" src="${ASSET_ROOT}/${filename}?v=${encodeURIComponent(ASSET_VERSION)}" alt="" aria-hidden="true" draggable="false">`;
+  function clampNumber(value, fallback, minimum, maximum) {
+    const number = Number(value);
+    return Number.isFinite(number) ? Math.max(minimum, Math.min(maximum, number)) : fallback;
+  }
+
+  function layoutForReward(rewardId, slot = slotForReward(rewardId)) {
+    const saved = LAYOUT_ITEMS[String(rewardId || "")] || {};
+    const scale = clampNumber(saved.scale, 1, 0.1, 3);
+    return {
+      x: clampNumber(saved.x, 0, -1920, 1920),
+      y: clampNumber(saved.y, 0, -1920, 1920),
+      scale,
+      layer: saved.layer === "behind" || saved.layer === "front"
+        ? saved.layer
+        : (slot === "back" ? "behind" : "front"),
+    };
+  }
+
+  function layoutStyle(layout) {
+    const width = layout.scale * 100;
+    const left = ((100 - width) / 2) + ((layout.x / LAYOUT_CANVAS_SIZE) * 100);
+    const top = ((100 - width) / 2) + ((layout.y / LAYOUT_CANVAS_SIZE) * 100);
+    return `left:${left.toFixed(4)}%;top:${top.toFixed(4)}%;right:auto;bottom:auto;width:${width.toFixed(4)}%;height:${width.toFixed(4)}%;`;
+  }
+
+  function imageLayer(filename, className, rewardId = "") {
+    const layout = rewardId ? layoutForReward(rewardId) : null;
+    const style = layout ? ` style="${layoutStyle(layout)}" data-reward-id="${rewardId}"` : "";
+    return `<img class="kiwi-avatar-layer ${className}" src="${ASSET_ROOT}/${filename}?v=${encodeURIComponent(ASSET_VERSION)}"${style} alt="" aria-hidden="true" draggable="false">`;
   }
 
   function render(loadout, options = {}) {
@@ -71,15 +106,19 @@
     const requestedExpression = String(options.expression || "normal").toLowerCase();
     const expression = ["happy", "excited"].includes(requestedExpression) ? "happy" : "normal";
     const bodyName = clean.body.split(":").pop();
-    const layers = [];
-    const backFilename = REWARD_FILES[clean.back];
-    if (backFilename) layers.push(imageLayer(backFilename, "kiwi-back-layer"));
+    const cosmetics = COSMETIC_SLOT_ORDER.map((slot) => ({
+      slot,
+      rewardId: clean[slot],
+      filename: REWARD_FILES[clean[slot]],
+      layout: layoutForReward(clean[slot], slot),
+    })).filter((item) => item.rewardId && item.filename);
+    const layers = cosmetics
+      .filter((item) => item.layout.layer === "behind")
+      .map((item) => imageLayer(item.filename, `kiwi-${item.slot}-layer`, item.rewardId));
     layers.push(imageLayer(`body-${bodyName}-${expression}.png`, "kiwi-body-layer"));
-
-    ["feet", "neck", "beak", "eyes", "hat", "head", "hand"].forEach((slot) => {
-      const filename = REWARD_FILES[clean[slot]];
-      if (filename) layers.push(imageLayer(filename, `kiwi-${slot}-layer`));
-    });
+    cosmetics
+      .filter((item) => item.layout.layer === "front")
+      .forEach((item) => layers.push(imageLayer(item.filename, `kiwi-${item.slot}-layer`, item.rewardId)));
 
     return `<span class="kiwi-avatar-png" role="img" aria-label="Cartoon kiwi bird" data-expression="${expression}">${layers.join("")}</span>`;
   }
@@ -97,6 +136,7 @@
     previewReward,
     normalise,
     slotForReward,
+    layoutForReward,
     SLOTS: [...SLOTS],
     DEFAULT_LOADOUT: { ...DEFAULT_LOADOUT },
   };
