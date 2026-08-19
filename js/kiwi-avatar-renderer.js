@@ -22,6 +22,9 @@
   };
   const REWARD_FILES = {
     "kiwi:head:space-helmet": "head-space-helmet.png",
+    "kiwi:head:armet-helmet": "head-armet-helmet.png",
+    "kiwi:head:motorcycle-helmet": "head-motorcycle-helmet.png",
+    "kiwi:head:wwii-gas-mask": "head-wwii-gas-mask.png",
     "kiwi:eyes:aviators": "eyes-aviators.png",
     "kiwi:eyes:ski-goggles": "eyes-ski-goggles.png",
     "kiwi:head:leaf-crown": "head-leaf-crown.png",
@@ -40,7 +43,7 @@
     "kiwi:neck:amber-scarf": "neck-amber-scarf-rear.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.23.4");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.24.0");
   const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
     ? global.KIWI_COSMETIC_LAYOUTS
     : {};

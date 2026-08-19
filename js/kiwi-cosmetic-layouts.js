@@ -2,85 +2,103 @@
 window.KIWI_COSMETIC_LAYOUTS = {
   "canvasSize": 960,
   "items": {
+    "kiwi:head:armet-helmet": {
+      "layer": "front",
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
+    },
+    "kiwi:head:motorcycle-helmet": {
+      "layer": "front",
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
+    },
     "kiwi:back:explorer-pack": {
       "layer": "behind",
-      "scale": 1.22,
-      "x": 88,
-      "y": 38
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:back:jetpack": {
       "layer": "behind",
       "scale": 1.0,
-      "x": -41,
-      "y": -41
+      "x": 0,
+      "y": 0
     },
     "kiwi:beak:curly-moustache": {
       "layer": "front",
       "scale": 1.0,
       "x": 0,
-      "y": -46
+      "y": 0
     },
     "kiwi:eyes:aviators": {
       "layer": "front",
-      "scale": 1.17,
-      "x": 6,
-      "y": 33
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:eyes:ski-goggles": {
       "layer": "front",
-      "scale": 1.28,
-      "x": -37,
-      "y": 46
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:feet:red-gumboots": {
       "layer": "front",
       "scale": 1.0,
-      "x": -14,
-      "y": -5
+      "x": 0,
+      "y": 0
     },
     "kiwi:hand:zen-staff": {
       "layer": "front",
       "scale": 1.0,
-      "x": 117,
-      "y": 71
+      "x": 0,
+      "y": 0
     },
     "kiwi:hat:santa-hat": {
       "layer": "front",
-      "scale": 1.18,
-      "x": -36,
-      "y": 23
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:head:aviator-cap": {
       "layer": "front",
-      "scale": 1.04,
-      "x": 45,
-      "y": -5
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:head:leaf-crown": {
       "layer": "front",
-      "scale": 0.92,
-      "x": 36,
-      "y": -14
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:head:space-helmet": {
       "layer": "front",
       "scale": 1.0,
-      "x": 9,
-      "y": 5
+      "x": 0,
+      "y": 0
+    },
+    "kiwi:head:wwii-gas-mask": {
+      "layer": "front",
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:neck:amber-scarf": {
       "layer": "front",
-      "scale": 0.98,
-      "x": 64,
-      "y": 7
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
     },
     "kiwi:neck:santa-beard": {
       "layer": "front",
       "scale": 1.0,
-      "x": 32,
-      "y": -20
+      "x": 0,
+      "y": 0
     }
   },
-  "revision": "20260819192913066646",
+  "revision": "20260819223000000000",
   "version": 1
 };
