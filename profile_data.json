@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787160536,
+  "generated_at": 1787160548,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6019,7 +6019,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 130800,
+        "balance": 121800,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6214,6 +6214,14 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
+          "name": "Jetpack",
+          "category": "Kiwi Back",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787160548
+        },
+        {
           "name": "Curly Moustache",
           "category": "Kiwi Beak",
           "rarity": "rare",
@@ -6228,14 +6236,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787160516
-        },
-        {
-          "name": "Violet Feathers",
-          "category": "Kiwi Body",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787086674
         }
       ],
       "totals": {

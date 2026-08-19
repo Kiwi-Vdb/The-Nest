@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787160536,
+  "generatedAt": 1787160548,
   "count": 50,
   "activities": [
+    {
+      "id": "c82f8148abc292d9",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Jetpack",
+      "timestamp": 1787160548,
+      "rarity": "legendary",
+      "category": "Kiwi Back",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "1297dde601a0b8ee",
       "type": "unlock",
@@ -469,16 +479,6 @@
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "d47b5ec397870212",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Aurora Drift Text",
-      "timestamp": 1786872589,
-      "rarity": "rare",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
