@@ -21,10 +21,19 @@
     "kiwi:head:aviator-cap": "hat",
   };
   const REWARD_FILES = {
+    "kiwi:head:space-helmet": "head-space-helmet.png",
+    "kiwi:eyes:aviators": "eyes-aviators.png",
+    "kiwi:eyes:ski-goggles": "eyes-ski-goggles.png",
     "kiwi:head:leaf-crown": "head-leaf-crown.png",
     "kiwi:head:aviator-cap": "head-aviator-cap.png",
+    "kiwi:hat:santa-hat": "hat-santa-hat.png",
     "kiwi:neck:amber-scarf": "neck-amber-scarf.png",
+    "kiwi:neck:santa-beard": "neck-santa-beard.png",
+    "kiwi:feet:red-gumboots": "feet-red-gumboots.png",
+    "kiwi:beak:curly-moustache": "beak-curly-moustache.png",
     "kiwi:back:explorer-pack": "back-explorer-pack.png",
+    "kiwi:back:jetpack": "back-jetpack.png",
+    "kiwi:hand:zen-staff": "hand-zen-staff.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
 
