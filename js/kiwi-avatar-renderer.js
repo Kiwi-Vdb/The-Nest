@@ -40,7 +40,7 @@
     "kiwi:neck:amber-scarf": "neck-amber-scarf-rear.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.23.2");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.23.3");
   const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
     ? global.KIWI_COSMETIC_LAYOUTS
     : {};
@@ -121,12 +121,18 @@
       .filter((item) => item.rearFilename)
       .map((item) => imageLayer(item.rearFilename, `kiwi-${item.slot}-rear-layer`, item.rewardId));
     cosmetics
-      .filter((item) => !item.rearFilename && item.layout.layer === "behind")
+      .filter((item) => item.slot !== "beak" && !item.rearFilename && item.layout.layer === "behind")
       .forEach((item) => layers.push(imageLayer(item.filename, `kiwi-${item.slot}-layer`, item.rewardId)));
     layers.push(imageLayer(`body-${bodyName}-${expression}.png`, "kiwi-body-layer"));
     cosmetics
-      .filter((item) => item.rearFilename || item.layout.layer === "front")
+      .filter((item) => item.slot !== "beak" && (item.rearFilename || item.layout.layer === "front"))
       .forEach((item) => layers.push(imageLayer(item.filename, `kiwi-${item.slot}-layer`, item.rewardId)));
+    if (!clean.head && cosmetics.some((item) => item.slot !== "beak")) {
+      layers.push(imageLayer(`natural-beak-${bodyName}-${expression}.png`, "kiwi-natural-beak-layer"));
+    }
+    cosmetics
+      .filter((item) => item.slot === "beak")
+      .forEach((item) => layers.push(imageLayer(item.filename, "kiwi-beak-layer", item.rewardId)));
 
     return `<span class="kiwi-avatar-png" role="img" aria-label="Cartoon kiwi bird" data-expression="${expression}">${layers.join("")}</span>`;
   }
