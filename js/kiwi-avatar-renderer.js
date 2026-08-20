@@ -21,7 +21,7 @@
     "kiwi:neck:amber-scarf": "neck-amber-scarf-rear.png",
   };
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.25.0");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.25.1");
   const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
     ? global.KIWI_COSMETIC_LAYOUTS : {};
   const LAYOUT_ITEMS = LAYOUT_CONFIG.items && typeof LAYOUT_CONFIG.items === "object"
@@ -159,7 +159,7 @@
 
     const headLayout = clean.head ? layoutForReward(clean.head, "head") : null;
     const bodyFilename = clean.head
-      ? `body-${bodyName}-${expression}-${headLayout && headLayout.hideBaseHead ? "full-head" : "head"}.png`
+      ? `body-${bodyName}-${expression}-${headLayout && headLayout.hideBaseHead ? "full-full-head" : "head"}.png`
       : `body-${bodyName}-${expression}.png`;
     layers.push(imageLayer(bodyFilename, "kiwi-body-layer"));
 
