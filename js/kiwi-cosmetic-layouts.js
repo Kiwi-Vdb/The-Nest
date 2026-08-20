@@ -2,18 +2,6 @@
 window.KIWI_COSMETIC_LAYOUTS = {
   "canvasSize": 960,
   "items": {
-    "kiwi:head:armet-helmet": {
-      "layer": "front",
-      "scale": 1.0,
-      "x": 0,
-      "y": 0
-    },
-    "kiwi:head:motorcycle-helmet": {
-      "layer": "front",
-      "scale": 1.0,
-      "x": 0,
-      "y": 0
-    },
     "kiwi:back:explorer-pack": {
       "layer": "behind",
       "scale": 1.0,
@@ -62,6 +50,12 @@ window.KIWI_COSMETIC_LAYOUTS = {
       "x": 0,
       "y": 0
     },
+    "kiwi:head:armet-helmet": {
+      "layer": "front",
+      "scale": 1.0,
+      "x": 0,
+      "y": 0
+    },
     "kiwi:head:aviator-cap": {
       "layer": "front",
       "scale": 1.0,
@@ -74,11 +68,17 @@ window.KIWI_COSMETIC_LAYOUTS = {
       "x": 0,
       "y": 0
     },
-    "kiwi:head:space-helmet": {
+    "kiwi:head:motorcycle-helmet": {
       "layer": "front",
       "scale": 1.0,
       "x": 0,
       "y": 0
+    },
+    "kiwi:head:space-helmet": {
+      "layer": "front",
+      "scale": 0.88,
+      "x": 46,
+      "y": -75
     },
     "kiwi:head:wwii-gas-mask": {
       "layer": "front",
@@ -99,6 +99,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
       "y": 0
     }
   },
-  "revision": "20260819223000000000",
+  "revision": "20260819212750464647",
   "version": 1
 };
