@@ -1,7 +1,7 @@
 const KIWI_TOKEN_KEY = "the-nest-shop-token";
 const KIWI_DEFAULT_CONFIG = { enabled: false, apiBase: "" };
 const KIWI_SLOTS = ["body", "head", "eyes", "neck", "hat", "feet", "beak", "back", "hand"];
-const KIWI_DEFAULT_BODY = { rewardId: "kiwi:body:brown", name: "Classic Brown", rarity: "default", category: "Kiwi Body" };
+const KIWI_DEFAULT_BODY = { rewardId: "", name: "None", rarity: "default", category: "Kiwi Body" };
 
 const kiwiState = { config: KIWI_DEFAULT_CONFIG, data: null, busy: false };
 let kiwiToastTimer = null;
@@ -91,7 +91,7 @@ async function loadKiwi() {
 function renderKiwiSignedOut() {
   document.querySelector("#kiwi-signed-out").hidden = false;
   document.querySelector("#kiwi-builder").hidden = true;
-  document.querySelector("#kiwi-owned").innerHTML = `<p class="kiwi-empty">Sign in to see the kiwi cosmetics you own.</p>`;
+  document.querySelector("#kiwi-owned").innerHTML = `<p class="kiwi-empty">Sign in to view Audience Avatar cosmetics when the new artwork catalogue is ready.</p>`;
 }
 
 function ownedKiwiItems() {
@@ -149,7 +149,7 @@ function renderOwnedKiwis() {
   const grid = document.querySelector("#kiwi-owned");
   const items = ownedKiwiItems();
   if (!items.length) {
-    grid.innerHTML = `<p class="kiwi-empty">You have the Classic Brown kiwi. Visit the Cosmetics Shop to unlock more colours and equipment.</p>`;
+    grid.innerHTML = `<p class="kiwi-empty">The previous avatar artwork has been retired. This collection is intentionally empty while the new art direction is built.</p>`;
     return;
   }
   grid.innerHTML = items.map((item) => `
@@ -164,7 +164,7 @@ function renderEquipStatus() {
   const statuses = Object.values(kiwiState.data?.kiwi?.statuses || {});
   const status = document.querySelector("#kiwi-equip-status");
   const pending = statuses.includes("pending");
-  status.textContent = pending ? "Saved — waiting for Kiwi Birb to apply this equipment." : "Your saved equipment is ready.";
+  status.textContent = pending ? "Saved — waiting for Kiwi Birb to apply this equipment." : "Artwork reset active — no avatar cosmetics are currently equipped.";
   status.classList.toggle("is-pending", pending);
 }
 

@@ -1,8 +1,9 @@
 (function attachKiwiAvatarRenderer(global) {
   "use strict";
 
+  const ARTWORK_ENABLED = false;
   const DEFAULT_LOADOUT = {
-    body: "kiwi:body:brown", head: "", eyes: "", neck: "", hat: "",
+    body: "", head: "", eyes: "", neck: "", hat: "",
     feet: "", beak: "", back: "", hand: "",
   };
   const SLOTS = ["body", "head", "eyes", "neck", "hat", "feet", "beak", "back", "hand"];
@@ -37,6 +38,7 @@
   }
 
   function normalise(loadout) {
+    if (!ARTWORK_ENABLED) return { ...DEFAULT_LOADOUT };
     const source = loadout && typeof loadout === "object" ? loadout : {};
     const bodyName = String(source.body || "").split(":").pop();
     const clean = {
@@ -144,6 +146,9 @@
   }
 
   function render(loadout, options = {}) {
+    if (!ARTWORK_ENABLED) {
+      return `<span class="kiwi-avatar-png kiwi-avatar-placeholder" role="img" aria-label="Audience avatar artwork placeholder"><span>AVATAR</span></span>`;
+    }
     const clean = normalise(loadout);
     const requestedExpression = String(options.expression || "normal").toLowerCase();
     const expression = ["happy", "excited"].includes(requestedExpression) ? "happy" : "normal";

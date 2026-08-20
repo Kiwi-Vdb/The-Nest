@@ -69,6 +69,20 @@ h2 { font-size: clamp(1.35rem, 3vw, 2rem); }
 .kiwi-preview::after { content: ""; position: absolute; left: 15%; right: 15%; bottom: 11%; height: 8%; border-radius: 50%; background: rgba(0, 0, 0, .46); filter: blur(12px); }
 .kiwi-preview .kiwi-avatar-png { position: relative; z-index: 1; width: 88%; height: 88%; filter: drop-shadow(0 12px 10px rgba(0,0,0,.35)); }
 .kiwi-avatar-png { position: relative; display: block; }
+
+.kiwi-avatar-placeholder {
+  display: grid;
+  place-items: center;
+  border: 2px dashed rgba(220, 220, 230, .36);
+  border-radius: 22%;
+  background: rgba(255, 255, 255, .025);
+  color: var(--muted);
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .16em;
+  text-indent: .16em;
+}
+
 .kiwi-avatar-layer { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: contain; pointer-events: none; user-select: none; }
 .kiwi-equip-status { min-height: 1.3em; margin: 8px 0 16px; color: var(--muted); text-align: center; }
 .kiwi-equip-status.is-pending { color: var(--amber); }
