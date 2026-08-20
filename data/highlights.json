@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1787244181,
-  "rotationGeneratedAt": 1787160447,
-  "nextRotationAt": 1787246847,
+  "generatedAt": 1787250409,
+  "rotationGeneratedAt": 1787250409,
+  "nextRotationAt": 1787336809,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "collection_champion",
+      "category": "prediction_champion",
       "group": "viewer",
-      "icon": "♛",
-      "title": "Nest Collector",
-      "copy": "itsvdb owns 25 cosmetics and text effects."
-    },
-    {
-      "category": "biggest_prediction_prize",
-      "group": "event",
       "icon": "✓",
-      "title": "Biggest Prediction Prize",
-      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
+      "title": "Prediction Champion",
+      "copy": "sharpishdog has won 7 predictions."
     },
     {
-      "category": "community_unlocks",
+      "category": "latest_unlock",
+      "group": "event",
+      "icon": "✧",
+      "title": "Fresh Unlock",
+      "copy": "itsvdb unlocked Zen Staff (Epic)."
+    },
+    {
+      "category": "community_shiny_total",
       "group": "community",
-      "icon": "♛",
-      "title": "Unlock Collection",
-      "copy": "Viewers have collected 57 cosmetics and text effects."
+      "icon": "✦",
+      "title": "Community Fortune",
+      "copy": "The flock currently holds 1,709,154 Shinies."
     }
   ]
 }
