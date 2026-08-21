@@ -1,7 +1,7 @@
 const KIWI_TOKEN_KEY = "the-nest-shop-token";
 const KIWI_DEFAULT_CONFIG = { enabled: false, apiBase: "" };
-const KIWI_SLOTS = ["body", "head", "eyes", "neck", "hat", "feet", "beak", "back", "hand"];
-const KIWI_DEFAULT_BODY = { rewardId: "", name: "None", rarity: "default", category: "Kiwi Body" };
+const KIWI_SLOTS = ["body", "head", "iris", "eyes", "hat", "feet", "beak", "wings", "aura"];
+const KIWI_DEFAULT_BODY = { rewardId: "kiwi:body:brown", name: "Classic Pixel Kiwi", rarity: "default", category: "Kiwi Body" };
 
 const kiwiState = { config: KIWI_DEFAULT_CONFIG, data: null, busy: false };
 let kiwiToastTimer = null;
@@ -91,7 +91,7 @@ async function loadKiwi() {
 function renderKiwiSignedOut() {
   document.querySelector("#kiwi-signed-out").hidden = false;
   document.querySelector("#kiwi-builder").hidden = true;
-  document.querySelector("#kiwi-owned").innerHTML = `<p class="kiwi-empty">Sign in to view Audience Avatar cosmetics when the new artwork catalogue is ready.</p>`;
+  document.querySelector("#kiwi-owned").innerHTML = `<p class="kiwi-empty">Sign in to view and equip your Kiwi Pixel cosmetics.</p>`;
 }
 
 function ownedKiwiItems() {
@@ -122,7 +122,14 @@ function slotItems(slot) {
 }
 
 function kiwiSlotLabel(slot) {
-  return slot === "head" ? "Full Head" : String(slot || "").replace(/^./, (letter) => letter.toUpperCase());
+  const labels = {
+    head: "Full Head",
+    iris: "Eye Colour",
+    feet: "Boots / Shoes",
+    wings: "Wings / Held Objects",
+    aura: "Aura",
+  };
+  return labels[slot] || String(slot || "").replace(/^./, (letter) => letter.toUpperCase());
 }
 
 function renderKiwiSlots() {
@@ -149,7 +156,7 @@ function renderOwnedKiwis() {
   const grid = document.querySelector("#kiwi-owned");
   const items = ownedKiwiItems();
   if (!items.length) {
-    grid.innerHTML = `<p class="kiwi-empty">The previous avatar artwork has been retired. This collection is intentionally empty while the new art direction is built.</p>`;
+    grid.innerHTML = `<p class="kiwi-empty">You do not own any Kiwi Pixel cosmetics yet. Visit the shop or open a Loot Chest to find one.</p>`;
     return;
   }
   grid.innerHTML = items.map((item) => `
@@ -164,7 +171,7 @@ function renderEquipStatus() {
   const statuses = Object.values(kiwiState.data?.kiwi?.statuses || {});
   const status = document.querySelector("#kiwi-equip-status");
   const pending = statuses.includes("pending");
-  status.textContent = pending ? "Saved — waiting for Kiwi Birb to apply this equipment." : "Artwork reset active — no avatar cosmetics are currently equipped.";
+  status.textContent = pending ? "Saved — waiting for Kiwi Birb to apply this equipment." : "Your modular pixel Kiwi is ready.";
   status.classList.toggle("is-pending", pending);
 }
 

@@ -20,26 +20,6 @@
       "rarity": "rare",
       "price": 2500,
       "icon": "🌈"
-    },
-    {
-      "id": "kiwi-forest-feathers",
-      "name": "Forest Feathers",
-      "description": "A leafy green feather colour for your Kiwi Audience avatar.",
-      "type": "Kiwi Cosmetic",
-      "rewardId": "kiwi:body:forest",
-      "rarity": "common",
-      "price": 1200,
-      "icon": "●"
-    },
-    {
-      "id": "kiwi-leaf-crown",
-      "name": "Leaf Crown",
-      "description": "A fresh forest crown fitted to your kiwi's head.",
-      "type": "Kiwi Cosmetic",
-      "rewardId": "kiwi:head:leaf-crown",
-      "rarity": "rare",
-      "price": 4000,
-      "icon": "♛"
     }
   ],
   "dailySpecial": {
@@ -54,8 +34,17 @@
     "icon": "◉"
   },
   "topSellers": [
-    { "id": "red-text", "name": "Red Text", "price": 100, "sold": 0 },
-    { "id": "rainbow-text", "name": "Rainbow Text", "price": 2500, "sold": 0 },
-    { "id": "kiwi-forest-feathers", "name": "Forest Feathers", "price": 1200, "sold": 0 }
+    {
+      "id": "red-text",
+      "name": "Red Text",
+      "price": 100,
+      "sold": 0
+    },
+    {
+      "id": "rainbow-text",
+      "name": "Rainbow Text",
+      "price": 2500,
+      "sold": 0
+    }
   ]
 }

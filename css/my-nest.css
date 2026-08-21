@@ -500,7 +500,7 @@ button { font: inherit; }
 
 .kiwi-collection-preview { display: grid; place-items: center; height: 4.25vw; }
 .kiwi-collection-preview .kiwi-avatar-png { position: relative; display: block; width: 100%; height: 100%; }
-.kiwi-collection-preview .kiwi-avatar-layer { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
+.kiwi-collection-preview .kiwi-avatar-layer { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; image-rendering: pixelated; image-rendering: crisp-edges; }
 
 .collection-icon {
   display: grid;

@@ -1,0 +1,36 @@
+{
+  "id": "kiwi-pixel-v1",
+  "logicalCanvas": 240,
+  "exportCanvas": 960,
+  "exportScale": 4,
+  "alpha": "hard",
+  "resampling": "nearest-neighbour",
+  "mouth": false,
+  "palette": {
+    "outline": "#1f0a01",
+    "deepBrown": "#371407",
+    "brownDark": "#693922",
+    "brownShadow": "#8f5231",
+    "brownBase": "#b16d41",
+    "brownLight": "#c2804e",
+    "orange": "#f29100",
+    "yellow": "#ffb900",
+    "yellowLight": "#ffcf23",
+    "irisDark": "#266900",
+    "irisGreen": "#45ac00",
+    "white": "#ffffff"
+  },
+  "baseLayers": [
+    "base-leg-left.png",
+    "base-leg-right.png",
+    "base-body.png",
+    "base-head.png",
+    "base-irises-green.png",
+    "base-eyes.png",
+    "base-beak.png",
+    "base-wing-left.png",
+    "base-wing-right.png",
+    "base-foot-left.png",
+    "base-foot-right.png"
+  ]
+}
