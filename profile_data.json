@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787389949,
+  "generated_at": 1787389971,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6041,6 +6041,18 @@
           "rarity": "rare"
         },
         {
+          "id": "kiwi:eyes:pixel-blue-irises",
+          "name": "Blue Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:eyes:pixel-amber-irises",
+          "name": "Amber Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:wings:pixel-simple-sword",
           "name": "Simple Sword",
           "category": "Kiwi Wings / Held Objects",
@@ -6049,6 +6061,24 @@
         {
           "id": "kiwi:feet:pixel-red-gumboots",
           "name": "Red Gumboots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-blue-beanie",
+          "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:body:pixel-blue-hoodie",
+          "name": "Blue Hoodie",
+          "category": "Kiwi Body",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-blue-sneakers",
+          "name": "Blue Sneakers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common"
         }
@@ -6239,32 +6269,32 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
-          "name": "Detailed Space Helmet",
-          "category": "Kiwi Full Head",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787364425
-        },
-        {
-          "name": "Simple Sword",
-          "category": "Kiwi Wings / Held Objects",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787364424
-        },
-        {
-          "name": "Red Gumboots",
+          "name": "Blue Sneakers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787364329
+          "timestamp": 1787389970
+        },
+        {
+          "name": "Blue Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787389969
+        },
+        {
+          "name": "Blue Hoodie",
+          "category": "Kiwi Body",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787389967
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 4,
+        "cosmetics_unlocked": 9,
         "cosmetics_available": 39,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
