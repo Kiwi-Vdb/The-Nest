@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1787364329,
+  "generatedAt": 1787364425,
   "count": 50,
   "activities": [
+    {
+      "id": "61518912b41672f7",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Detailed Space Helmet",
+      "timestamp": 1787364425,
+      "rarity": "legendary",
+      "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "e193725b1b1b90d9",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Simple Sword",
+      "timestamp": 1787364424,
+      "rarity": "rare",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "6d76ca32466330ea",
       "type": "unlock",
@@ -317,26 +337,6 @@
       "text": "unlocked Red Text",
       "timestamp": 1787053351,
       "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "016ced209386a529",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Supernova Text",
-      "timestamp": 1787051356,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "b9ade2b4cfd72fc5",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Plasma Pulse Text",
-      "timestamp": 1787051354,
-      "rarity": "epic",
       "category": "Text Effect",
       "rewardType": "text effect"
     },

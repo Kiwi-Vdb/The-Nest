@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787364329,
+  "generated_at": 1787364425,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6019,7 +6019,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 121800,
+        "balance": 108800,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6029,9 +6029,21 @@
       },
       "cosmetics_unlocked": [
         {
+          "id": "kiwi:head:pixel-space-helmet",
+          "name": "Detailed Space Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "legendary"
+        },
+        {
           "id": "kiwi:hat:pixel-cowboy",
           "name": "Cowboy Hat",
           "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:wings:pixel-simple-sword",
+          "name": "Simple Sword",
+          "category": "Kiwi Wings / Held Objects",
           "rarity": "rare"
         },
         {
@@ -6227,32 +6239,32 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
+          "name": "Detailed Space Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787364425
+        },
+        {
+          "name": "Simple Sword",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787364424
+        },
+        {
           "name": "Red Gumboots",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787364329
-        },
-        {
-          "name": "Cowboy Hat",
-          "category": "Kiwi Hat",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787364327
-        },
-        {
-          "name": "Zen Staff",
-          "category": "Kiwi Hand",
-          "rarity": "epic",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787161254
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 4,
         "cosmetics_available": 11,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
