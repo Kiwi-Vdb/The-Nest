@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1787364304,
+  "generatedAt": 1787364329,
   "count": 50,
   "activities": [
+    {
+      "id": "6d76ca32466330ea",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Red Gumboots",
+      "timestamp": 1787364329,
+      "rarity": "common",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "0d9934494d807bf0",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Cowboy Hat",
+      "timestamp": 1787364327,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "4b905b7e94c092d0",
       "type": "unlock",
@@ -317,26 +337,6 @@
       "text": "unlocked Plasma Pulse Text",
       "timestamp": 1787051354,
       "rarity": "epic",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "4fd2fafb059c2965",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Frozen Shatter Text",
-      "timestamp": 1787051353,
-      "rarity": "epic",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "35f90c20c2e2828c",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Electric Arc Text",
-      "timestamp": 1787051351,
-      "rarity": "rare",
       "category": "Text Effect",
       "rewardType": "text effect"
     },
