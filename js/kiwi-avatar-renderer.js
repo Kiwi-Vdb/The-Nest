@@ -11,7 +11,7 @@
   const FULL_HEAD_DETAIL_SLOTS = ["hat", "eyes", "iris", "beak"];
   const WING_MODES = new Set(["viewer-left", "viewer-right", "both"]);
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.29.1");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.30.0");
   const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
     ? global.KIWI_COSMETIC_LAYOUTS : {};
   const LAYOUT_ITEMS = LAYOUT_CONFIG.items && typeof LAYOUT_CONFIG.items === "object"
