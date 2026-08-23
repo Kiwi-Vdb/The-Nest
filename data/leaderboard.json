@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787476462,
+  "generatedAt": 1787476604,
   "totalViewers": 531,
-  "totalShinies": 1729006,
+  "totalShinies": 1729490,
   "pageSize": 100,
   "entries": [
     {
@@ -166,37 +166,37 @@
     },
     {
       "rank": 33,
+      "name": "halfyourlife",
+      "shinies": 8722
+    },
+    {
+      "rank": 34,
       "name": "chuffingbear",
       "shinies": 8670
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "muhmonkey",
       "shinies": 8670
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "goliathmaroof",
       "shinies": 8620
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "slicklikevik",
       "shinies": 8304
     },
     {
-      "rank": 38,
-      "name": "blopson",
-      "shinies": 8238
-    },
-    {
       "rank": 39,
-      "name": "halfyourlife",
+      "name": "blopson",
       "shinies": 8238
     },
     {
