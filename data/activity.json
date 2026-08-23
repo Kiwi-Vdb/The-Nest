@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787482016,
+  "generatedAt": 1787482077,
   "count": 50,
   "activities": [
+    {
+      "id": "4729188065d62c49",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Pirate Hat",
+      "timestamp": 1787482077,
+      "rarity": "uncommon",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "5af6c43e45f5e879",
       "type": "unlock",
@@ -467,16 +477,6 @@
       "text": "unlocked Ranger Cap",
       "timestamp": 1786899642,
       "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "91eb7c0a4fa1be74",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Pumpkin",
-      "timestamp": 1786899641,
-      "rarity": "rare",
       "category": "Hat",
       "rewardType": "cosmetic"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787482016,
+  "generated_at": 1787482077,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -5863,7 +5863,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 62812,
+        "balance": 60612,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -5877,6 +5877,12 @@
           "name": "Ruby Irises",
           "category": "Kiwi Eye Colour",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:hat:pixel-pirate",
+          "name": "Pirate Hat",
+          "category": "Kiwi Hat",
+          "rarity": "uncommon"
         },
         {
           "id": "kiwi:wings:pixel-coffee-mug",
@@ -5917,6 +5923,14 @@
       "loot_boxes_opened": 9,
       "recent_unlocks": [
         {
+          "name": "Pirate Hat",
+          "category": "Kiwi Hat",
+          "rarity": "uncommon",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787482077
+        },
+        {
           "name": "Coffee Mug",
           "category": "Kiwi Wings / Held Objects",
           "rarity": "common",
@@ -5931,22 +5945,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787481733
-        },
-        {
-          "name": "Red Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-red",
-          "timestamp": 1787053351
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 39,
         "text_effects_unlocked": 3,
         "text_effects_available": 25,
-        "recent_unlocks": 12
+        "recent_unlocks": 13
       }
     },
     "iamketpain": {
