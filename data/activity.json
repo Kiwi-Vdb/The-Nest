@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787481737,
+  "generatedAt": 1787482016,
   "count": 50,
   "activities": [
+    {
+      "id": "5af6c43e45f5e879",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Coffee Mug",
+      "timestamp": 1787482015,
+      "rarity": "common",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "439312c4bc4d6e41",
       "type": "unlock",
@@ -468,16 +478,6 @@
       "timestamp": 1786899641,
       "rarity": "rare",
       "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "f3aa46d614b6aef9",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Quiz Hat",
-      "timestamp": 1786899641,
-      "rarity": "rare",
-      "category": "Emote",
       "rewardType": "cosmetic"
     }
   ]
