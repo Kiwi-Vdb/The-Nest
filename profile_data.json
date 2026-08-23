@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787481643,
+  "generated_at": 1787481737,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -5863,7 +5863,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 67812,
+        "balance": 63812,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -5871,7 +5871,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:eyes:pixel-ruby-irises",
+          "name": "Ruby Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "rare"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-brown",
@@ -5904,6 +5911,14 @@
       "loot_boxes_opened": 9,
       "recent_unlocks": [
         {
+          "name": "Ruby Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787481733
+        },
+        {
           "name": "Red Text",
           "category": "Text Effect",
           "rarity": "common",
@@ -5918,22 +5933,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1785662052
-        },
-        {
-          "name": "Angel Wings",
-          "category": "Back",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784372600
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 39,
         "text_effects_unlocked": 3,
         "text_effects_available": 25,
-        "recent_unlocks": 10
+        "recent_unlocks": 11
       }
     },
     "iamketpain": {
@@ -6253,7 +6260,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 107800,
+        "balance": 104300,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6297,6 +6304,12 @@
           "name": "Red Gumboots",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:head:pixel-knight-helmet",
+          "name": "Knight Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "rare"
         },
         {
           "id": "kiwi:hat:pixel-blue-beanie",
@@ -6503,6 +6516,14 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
+          "name": "Knight Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787481736
+        },
+        {
           "name": "Blue Sneakers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common",
@@ -6517,18 +6538,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787389969
-        },
-        {
-          "name": "Blue Hoodie",
-          "category": "Kiwi Body",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787389967
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 9,
+        "cosmetics_unlocked": 10,
         "cosmetics_available": 39,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
