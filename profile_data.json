@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787481510,
+  "generated_at": 1787481636,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -12501,7 +12501,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 70222,
+        "balance": 67722,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -12512,8 +12512,24 @@
       "cosmetics_unlocked": [],
       "text_effects_unlocked": [],
       "current_text_effect": null,
-      "loot_boxes_opened": 1,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Round Glasses",
+          "category": "Kiwi Eyes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787481635
+        },
+        {
+          "name": "Round Glasses",
+          "category": "Kiwi Eyes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787481633
+        },
         {
           "name": "Ash Wings",
           "category": "Back",
@@ -12528,7 +12544,7 @@
         "cosmetics_available": 39,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 1
+        "recent_unlocks": 3
       }
     },
     "stzerorm1n": {
@@ -13741,7 +13757,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 1334,
+        "balance": 2334,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
