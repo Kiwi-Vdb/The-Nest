@@ -51,7 +51,7 @@ async function exchangeKiwiAuthCode() {
   try {
     const result = await kiwiApi("/api/auth/exchange", { method: "POST", body: JSON.stringify({ code }) });
     localStorage.setItem(KIWI_TOKEN_KEY, result.token);
-    kiwiToast("Welcome to your Kiwi Builder.");
+    kiwiToast("Welcome to your Audience Avatar Builder.");
   } catch (error) {
     kiwiToast(error.message || "Twitch sign-in failed.", true);
   } finally {
@@ -102,17 +102,42 @@ function equippedLoadout() {
   return window.KiwiAvatarRenderer.normalise(kiwiState.data?.kiwi?.equipped || {});
 }
 
+function selectedAvatarId() {
+  const requested = String(kiwiState.data?.kiwi?.avatarId || window.KiwiAvatarRenderer.DEFAULT_AVATAR_ID || "kiwi");
+  return window.KiwiAvatarRenderer.AVATAR_IDS.includes(requested)
+    ? requested : window.KiwiAvatarRenderer.DEFAULT_AVATAR_ID;
+}
+
 function renderKiwi() {
   const data = kiwiState.data;
   if (!data) return renderKiwiSignedOut();
   document.querySelector("#kiwi-signed-out").hidden = true;
   document.querySelector("#kiwi-builder").hidden = false;
-  document.querySelector("#kiwi-owner").textContent = `${data.user?.displayName || data.user?.login || "Viewer"}'s Kiwi`;
+  document.querySelector("#kiwi-owner").textContent = `${data.user?.displayName || data.user?.login || "Viewer"}'s Avatar`;
   document.querySelector("#kiwi-balance").textContent = `${Number(data.user?.balance || 0).toLocaleString()} Shinies`;
-  document.querySelector("#kiwi-preview").innerHTML = window.KiwiAvatarRenderer.render(equippedLoadout());
+  document.querySelector("#kiwi-preview").innerHTML = window.KiwiAvatarRenderer.render(
+    equippedLoadout(), { avatarId: selectedAvatarId() },
+  );
+  renderAvatarBases();
   renderKiwiSlots();
   renderOwnedKiwis();
   renderEquipStatus();
+}
+
+function renderAvatarBases() {
+  const container = document.querySelector("#kiwi-avatar-bases");
+  if (!container) return;
+  const selected = selectedAvatarId();
+  container.innerHTML = window.KiwiAvatarRenderer.AVATAR_IDS.map((avatarId) => {
+    const avatar = window.KiwiAvatarRenderer.avatarDefinition(avatarId);
+    return `<button class="kiwi-option${selected === avatarId ? " is-equipped" : ""}" type="button"
+      data-avatar-id="${escapeKiwi(avatarId)}" ${kiwiState.busy ? "disabled" : ""}>
+      ${escapeKiwi(avatar.name || avatarId)}
+    </button>`;
+  }).join("");
+  container.querySelectorAll("[data-avatar-id]").forEach((button) => {
+    button.addEventListener("click", () => equipAvatar(button.dataset.avatarId));
+  });
 }
 
 function slotItems(slot) {
@@ -161,18 +186,40 @@ function renderOwnedKiwis() {
   }
   grid.innerHTML = items.map((item) => `
     <article class="kiwi-owned-card" data-rarity="${escapeKiwi(String(item.rarity || "common").toLowerCase())}">
-      ${window.KiwiAvatarRenderer.previewReward(item.rewardId)}
+      ${window.KiwiAvatarRenderer.previewReward(item.rewardId, { avatarId: selectedAvatarId() })}
       <div class="kiwi-owned-name">${escapeKiwi(item.name || item.rewardId)}</div>
       <div class="kiwi-owned-meta">${escapeKiwi(item.rarity || "common")} · ${escapeKiwi(`Kiwi ${kiwiSlotLabel(window.KiwiAvatarRenderer.slotForReward(item.rewardId))}`)}</div>
     </article>`).join("");
 }
 
 function renderEquipStatus() {
-  const statuses = Object.values(kiwiState.data?.kiwi?.statuses || {});
+  const statuses = [
+    ...Object.values(kiwiState.data?.kiwi?.statuses || {}),
+    kiwiState.data?.kiwi?.avatarStatus || "",
+  ];
   const status = document.querySelector("#kiwi-equip-status");
   const pending = statuses.includes("pending");
   status.textContent = pending ? "Saved — waiting for Kiwi Birb to apply this equipment." : "Your modular pixel Kiwi is ready.";
   status.classList.toggle("is-pending", pending);
+}
+
+async function equipAvatar(avatarId) {
+  if (kiwiState.busy || selectedAvatarId() === avatarId) return;
+  kiwiState.busy = true;
+  renderAvatarBases();
+  try {
+    const result = await kiwiApi("/api/equip-avatar", {
+      method: "POST", body: JSON.stringify({ avatarId }),
+    });
+    kiwiState.data.kiwi = result.kiwi;
+    renderKiwi();
+    kiwiToast("Audience avatar saved.");
+  } catch (error) {
+    kiwiToast(error.message || "That avatar could not be selected.", true);
+  } finally {
+    kiwiState.busy = false;
+    renderAvatarBases();
+  }
 }
 
 async function equipKiwi(slot, rewardId) {

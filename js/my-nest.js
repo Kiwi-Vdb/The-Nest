@@ -281,7 +281,7 @@ function renderCollection(data) {
     const isEquipped = key === "textEffects" && equipped && equipped === item.rewardId;
     const isKiwi = String(item.rewardId || "").startsWith("kiwi:");
     const visual = isKiwi && window.KiwiAvatarRenderer
-      ? `<div class="collection-image kiwi-collection-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId)}</div>`
+      ? `<div class="collection-image kiwi-collection-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId, { avatarId: data.kiwi?.avatarId })}</div>`
       : item.image
         ? `<img class="collection-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'collection-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`
         : `<div class="collection-icon" aria-hidden="true">${escapeHtml(item.icon || "✦")}</div>`;

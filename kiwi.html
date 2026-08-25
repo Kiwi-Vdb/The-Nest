@@ -3,15 +3,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My Kiwi | The Nest</title>
+  <title>My Audience Avatar | The Nest</title>
   <link rel="stylesheet" href="./css/kiwi.css?v=3.27.0">
 </head>
 <body>
   <main class="kiwi-page">
     <header class="kiwi-header">
       <div>
-        <p class="kiwi-kicker">Kiwi Audience</p>
-        <h1>Build Your Kiwi</h1>
+        <p class="kiwi-kicker">Audience Avatars</p>
+        <h1>Build Your Avatar</h1>
         <p class="kiwi-subtitle">Choose the appearance that pops up on stream when you chat, vote or celebrate.</p>
       </div>
       <nav class="kiwi-nav" aria-label="Kiwi page navigation">
@@ -23,8 +23,8 @@
 
     <section id="kiwi-signed-out" class="kiwi-signin">
       <div>
-        <p class="kiwi-kicker">Your personal channel kiwi</p>
-        <h2>Sign in to customise your kiwi</h2>
+        <p class="kiwi-kicker">Your personal stream character</p>
+        <h2>Sign in to customise your avatar</h2>
         <p>Your purchases and equipped items use the same Twitch account and Shinies as The Nest Shop.</p>
       </div>
       <button id="kiwi-login" type="button">Sign in with Twitch</button>
@@ -35,7 +35,7 @@
         <div class="preview-heading">
           <div>
             <p class="kiwi-kicker">Live appearance</p>
-            <h2 id="kiwi-owner">Your Kiwi</h2>
+            <h2 id="kiwi-owner">Your Avatar</h2>
           </div>
           <strong id="kiwi-balance">0 Shinies</strong>
         </div>
@@ -52,6 +52,10 @@
           <div><p class="kiwi-kicker">Equipment</p><h2>Choose each layer</h2></div>
           <span>Changes normally reach Kiwi Birb within 10 seconds.</span>
         </div>
+        <article class="kiwi-slot kiwi-avatar-base-slot">
+          <div class="kiwi-slot-label">Avatar Base</div>
+          <div id="kiwi-avatar-bases" class="kiwi-options" aria-label="Choose an audience avatar base"></div>
+        </article>
         <div id="kiwi-slots" class="kiwi-slots" aria-live="polite"></div>
       </section>
     </section>
@@ -66,8 +70,8 @@
     <div id="kiwi-toast" class="kiwi-toast" role="status" aria-live="polite"></div>
   </main>
   <script src="./js/main.js"></script>
-  <script src="./js/kiwi-cosmetic-layouts.js?v=20260821145337370142"></script>
-  <script src="./js/kiwi-avatar-renderer.js?v=3.30.0"></script>
-  <script src="./js/kiwi.js?v=3.28.1"></script>
+  <script src="./js/kiwi-cosmetic-layouts.js?v=20260825123846539088"></script>
+  <script src="./js/kiwi-avatar-renderer.js?v=3.31.1"></script>
+  <script src="./js/kiwi.js?v=3.31.0"></script>
 </body>
 </html>
