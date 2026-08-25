@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787487108,
-  "rotationGeneratedAt": 1787473587,
-  "nextRotationAt": 1787559987,
+  "generatedAt": 1787663609,
+  "rotationGeneratedAt": 1787663609,
+  "nextRotationAt": 1787750009,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
@@ -13,18 +13,18 @@
       "copy": "itsvdb has opened 40 loot boxes."
     },
     {
-      "category": "biggest_prediction_prize",
+      "category": "latest_unlock",
       "group": "event",
-      "icon": "✓",
-      "title": "Biggest Prediction Prize",
-      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
+      "icon": "✧",
+      "title": "Fresh Unlock",
+      "copy": "iamdibi unlocked Pirate Hat (Uncommon)."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_shiny_total",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 91 loot boxes."
+      "icon": "✦",
+      "title": "Community Fortune",
+      "copy": "The flock currently holds 1,757,024 Shinies."
     }
   ]
 }
