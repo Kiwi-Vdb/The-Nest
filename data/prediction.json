@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1787756333,
+  "generatedAt": 1787756393,
   "active": true,
-  "status": "open",
+  "status": "closed",
   "id": 1787756333,
   "question": "Who Wins?",
   "prize": 1000,
   "totalPicks": 0,
   "startedAt": 1787756333,
-  "closedAt": null,
+  "closedAt": 1787756393,
   "options": [
     {
       "label": "blue",
