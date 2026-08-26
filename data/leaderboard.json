@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787757824,
+  "generatedAt": 1787757883,
   "totalViewers": 545,
-  "totalShinies": 1808550,
+  "totalShinies": 1809550,
   "pageSize": 100,
   "entries": [
     {
@@ -61,18 +61,18 @@
     },
     {
       "rank": 12,
+      "name": "sharpishdog",
+      "shinies": 27158
+    },
+    {
+      "rank": 13,
       "name": "hobbitsenlive",
       "shinies": 26674
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "massivemankey",
       "shinies": 26340
-    },
-    {
-      "rank": 14,
-      "name": "sharpishdog",
-      "shinies": 26158
     },
     {
       "rank": 15,
