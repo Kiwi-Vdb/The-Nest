@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787745633,
+  "generatedAt": 1787745762,
   "totalViewers": 542,
-  "totalShinies": 1757118,
+  "totalShinies": 1757452,
   "pageSize": 100,
   "entries": [
     {
@@ -151,23 +151,23 @@
     },
     {
       "rank": 30,
+      "name": "kiddorox",
+      "shinies": 9336
+    },
+    {
+      "rank": 31,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "jigglyjake22",
       "shinies": 9004
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "muhmonkey",
       "shinies": 9004
-    },
-    {
-      "rank": 33,
-      "name": "kiddorox",
-      "shinies": 9002
     },
     {
       "rank": 34,
