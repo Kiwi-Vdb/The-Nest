@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787743222,
+  "generatedAt": 1787743490,
   "totalViewers": 541,
-  "totalShinies": 1752326,
+  "totalShinies": 1752660,
   "pageSize": 100,
   "entries": [
     {
@@ -161,27 +161,27 @@
     },
     {
       "rank": 32,
+      "name": "muhmonkey",
+      "shinies": 9004
+    },
+    {
+      "rank": 33,
       "name": "kiddorox",
       "shinies": 9002
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "slicklikevik",
       "shinies": 8788
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "halfyourlife",
       "shinies": 8722
     },
     {
-      "rank": 35,
-      "name": "chuffingbear",
-      "shinies": 8670
-    },
-    {
       "rank": 36,
-      "name": "muhmonkey",
+      "name": "chuffingbear",
       "shinies": 8670
     },
     {
