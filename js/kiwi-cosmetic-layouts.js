@@ -5,6 +5,21 @@ window.KIWI_COSMETIC_LAYOUTS = {
     "kiwi": {
       "artStyle": "kiwi-pixel-v1",
       "assetRoot": "assets/kiwi",
+      "baseZ": {
+        "beak": 10,
+        "body": 3,
+        "eyes": 6,
+        "foot-left": 7,
+        "foot-right": 7,
+        "head": 4,
+        "holding-wing-left": 9,
+        "holding-wing-right": 9,
+        "irises": 5,
+        "leg-left": 2,
+        "leg-right": 2,
+        "wing-left": 7,
+        "wing-right": 7
+      },
       "description": "The original modular pixel Kiwi.",
       "holdingWings": {
         "viewer-left": "base-holding-wing-left.png",
@@ -40,7 +55,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -77,7 +93,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -114,7 +131,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -151,7 +169,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -188,7 +207,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -225,7 +245,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": -16,
-              "y": -16
+              "y": -16,
+              "zLevel": 1
             }
           ],
           "scale": 1.0,
@@ -262,7 +283,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 1
             }
           ],
           "scale": 1.0,
@@ -299,7 +321,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": -8,
-              "y": -24
+              "y": -24,
+              "zLevel": 1
             }
           ],
           "scale": 1.0,
@@ -336,7 +359,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 1
             }
           ],
           "scale": 1.0,
@@ -373,7 +397,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 1
             }
           ],
           "scale": 1.0,
@@ -410,7 +435,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -447,7 +473,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -484,7 +511,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -521,7 +549,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -558,7 +587,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -595,7 +625,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -632,7 +663,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -669,7 +701,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -706,7 +739,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -743,7 +777,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -780,7 +815,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -817,7 +853,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -854,7 +891,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -891,7 +929,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 48
+              "y": 48,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -928,7 +967,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -965,7 +1005,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": -4,
-              "y": 40
+              "y": 40,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -1002,7 +1043,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -1039,7 +1081,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": -8,
-              "y": 144
+              "y": 144,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -1076,7 +1119,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -1113,7 +1157,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 68,
-              "y": -136
+              "y": -136,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1150,7 +1195,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 64,
-              "y": -148
+              "y": -148,
+              "zLevel": 10
             }
           ],
           "scale": 1.0,
@@ -1187,7 +1233,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": -4,
-              "y": 8
+              "y": 8,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1224,7 +1271,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 4,
-              "y": -8
+              "y": -8,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1261,7 +1309,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 28
+              "y": 28,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1298,7 +1347,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1335,7 +1385,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1372,7 +1423,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1409,7 +1461,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1446,7 +1499,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1483,7 +1537,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1520,7 +1575,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0
+              "y": 0,
+              "zLevel": 8
             }
           ],
           "scale": 1.0,
@@ -1577,7 +1633,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -1614,7 +1671,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -1651,7 +1709,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -1688,7 +1747,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -1725,7 +1785,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -1762,7 +1823,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": -16,
-          "y": -16
+          "y": -16,
+          "zLevel": 1
         }
       ],
       "scale": 1.0,
@@ -1799,7 +1861,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 1
         }
       ],
       "scale": 1.0,
@@ -1836,7 +1899,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": -8,
-          "y": -24
+          "y": -24,
+          "zLevel": 1
         }
       ],
       "scale": 1.0,
@@ -1873,7 +1937,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 1
         }
       ],
       "scale": 1.0,
@@ -1910,7 +1975,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 1
         }
       ],
       "scale": 1.0,
@@ -1947,7 +2013,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -1984,7 +2051,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2021,7 +2089,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2058,7 +2127,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2095,7 +2165,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2132,7 +2203,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2169,7 +2241,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2206,7 +2279,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2243,7 +2317,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2280,7 +2355,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2317,7 +2393,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2354,7 +2431,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2391,7 +2469,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2428,7 +2507,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 48
+          "y": 48,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2465,7 +2545,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -2502,7 +2583,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": -4,
-          "y": 40
+          "y": 40,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -2539,7 +2621,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -2576,7 +2659,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": -8,
-          "y": 144
+          "y": 144,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -2613,7 +2697,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -2650,7 +2735,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 68,
-          "y": -136
+          "y": -136,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2687,7 +2773,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 64,
-          "y": -148
+          "y": -148,
+          "zLevel": 10
         }
       ],
       "scale": 1.0,
@@ -2724,7 +2811,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": -4,
-          "y": 8
+          "y": 8,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2761,7 +2849,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 4,
-          "y": -8
+          "y": -8,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2798,7 +2887,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 28
+          "y": 28,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2835,7 +2925,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2872,7 +2963,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2909,7 +3001,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2946,7 +3039,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -2983,7 +3077,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -3020,7 +3115,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -3057,7 +3153,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0
+          "y": 0,
+          "zLevel": 8
         }
       ],
       "scale": 1.0,
@@ -3069,6 +3166,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
   },
   "logicalCanvas": 240,
   "pixelScale": 4,
-  "revision": "20260825132026486781",
-  "version": 7
+  "revision": "20260826111411277717",
+  "version": 8
 };
