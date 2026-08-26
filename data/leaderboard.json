@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787755367,
+  "generatedAt": 1787755531,
   "totalViewers": 545,
-  "totalShinies": 1798294,
+  "totalShinies": 1796794,
   "pageSize": 100,
   "entries": [
     {
@@ -111,13 +111,13 @@
     },
     {
       "rank": 22,
-      "name": "cozzwald",
-      "shinies": 14042
+      "name": "professor_bar",
+      "shinies": 13634
     },
     {
       "rank": 23,
-      "name": "professor_bar",
-      "shinies": 13634
+      "name": "cozzwald",
+      "shinies": 12542
     },
     {
       "rank": 24,
