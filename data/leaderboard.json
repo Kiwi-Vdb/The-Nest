@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787752783,
+  "generatedAt": 1787753079,
   "totalViewers": 544,
-  "totalShinies": 1788956,
+  "totalShinies": 1789956,
   "pageSize": 100,
   "entries": [
     {
@@ -131,23 +131,23 @@
     },
     {
       "rank": 26,
+      "name": "kiddorox",
+      "shinies": 11336
+    },
+    {
+      "rank": 27,
       "name": "warriot",
       "shinies": 11120
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "muhmonkey",
       "shinies": 11004
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "axoim_",
       "shinies": 10670
-    },
-    {
-      "rank": 29,
-      "name": "kiddorox",
-      "shinies": 10336
     },
     {
       "rank": 30,
