@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1787755883,
-  "clipsUpdatedAt": 1785512848,
+  "statusUpdatedAt": 1787755914,
+  "clipsUpdatedAt": 1787755923,
   "clips": [
+    {
+      "id": "BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
+      "title": "just one more afus bro. i promise bro just one more afus and i'll come online bro. it's just another",
+      "url": "https://www.twitch.tv/itsvdb/clip/BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cbe15578-3dd0-4c91-9a52-50cf96b658a9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 4,
+      "duration": 52.8,
+      "createdAt": "2026-08-26T14:44:04Z"
+    },
     {
       "id": "SecretiveApatheticHornetTTours-Hk26-Mnua2g7jMcJ",
       "title": "Do What Did Done It",
@@ -69,16 +79,6 @@
       "views": 19,
       "duration": 37.2,
       "createdAt": "2026-06-04T18:09:12Z"
-    },
-    {
-      "id": "NeighborlyBoringTomatoFloof-HgRYc94SCm0QTgCb",
-      "title": "66.67% winrate against Best BAR player",
-      "url": "https://www.twitch.tv/itsvdb/clip/NeighborlyBoringTomatoFloof-HgRYc94SCm0QTgCb",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=NeighborlyBoringTomatoFloof-HgRYc94SCm0QTgCb",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/bf274de5-baf1-4c78-b672-d227690272aa/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 5,
-      "duration": 30.0,
-      "createdAt": "2026-05-20T15:42:39Z"
     }
   ]
 }
