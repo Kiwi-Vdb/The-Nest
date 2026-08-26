@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787761862,
+  "generatedAt": 1787761922,
   "totalViewers": 553,
-  "totalShinies": 1840668,
+  "totalShinies": 1841668,
   "pageSize": 100,
   "entries": [
     {
@@ -111,18 +111,18 @@
     },
     {
       "rank": 22,
+      "name": "muhmonkey",
+      "shinies": 14004
+    },
+    {
+      "rank": 23,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "cozzwald",
       "shinies": 13542
-    },
-    {
-      "rank": 24,
-      "name": "muhmonkey",
-      "shinies": 13004
     },
     {
       "rank": 25,
