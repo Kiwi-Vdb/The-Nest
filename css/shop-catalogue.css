@@ -326,8 +326,8 @@
   height: 88%;
   object-fit: contain;
 }
-.catalogue-kiwi-preview { width: 88%; height: 94%; display: grid; place-items: center; }
-.catalogue-kiwi-preview .kiwi-avatar-png { position: relative; display: block; width: 100%; height: 100%; }
+.catalogue-kiwi-preview { width: 88%; max-width: 148px; aspect-ratio: 1; display: grid; place-items: center; }
+.catalogue-kiwi-preview .kiwi-avatar-png { position: relative; display: block; width: 100%; height: 100%; aspect-ratio: 1; }
 .catalogue-kiwi-preview .kiwi-avatar-layer { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; image-rendering: pixelated; image-rendering: crisp-edges; }
 .catalogue-icon {
   color: var(--catalog-purple);

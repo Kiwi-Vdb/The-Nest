@@ -254,12 +254,18 @@ function renderItems(items) {
   });
 }
 
+function shopPreviewAvatarId() {
+  return shopState.user?.kiwi?.avatarId
+    || window.KiwiAvatarRenderer?.DEFAULT_AVATAR_ID
+    || "kiwi";
+}
+
 function productCardHtml(item) {
   const availability = productAvailability(item);
   const rarity = String(item.rarity || "common").toLowerCase();
   const isKiwi = String(item.rewardId || "").startsWith("kiwi:");
   const visual = isKiwi && window.KiwiAvatarRenderer
-    ? `<div class="shop-card-image kiwi-product-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId)}</div>`
+    ? `<div class="shop-card-image kiwi-product-preview">${window.KiwiAvatarRenderer.previewReward(item.rewardId, { avatarId: shopPreviewAvatarId() })}</div>`
     : item.image
       ? `<img class="shop-card-image" src="${escapeAttr(item.image)}" alt="${escapeAttr(item.name)}" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'shop-card-icon',textContent:'${escapeJs(item.icon || "✦")}'}))">`
       : `<div class="shop-card-icon" aria-hidden="true">${escapeHtml(item.icon || "✦")}</div>`;
