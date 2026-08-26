@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787742802,
+  "generated_at": 1787742963,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -6272,7 +6272,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 104300,
+        "balance": 98300,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6340,6 +6340,12 @@
           "name": "Blue Sneakers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-santa-beard",
+          "name": "Santa Beard",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
         }
       ],
       "text_effects_unlocked": [
@@ -6528,6 +6534,14 @@
       "loot_boxes_opened": 40,
       "recent_unlocks": [
         {
+          "name": "Santa Beard",
+          "category": "Kiwi Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787742962
+        },
+        {
           "name": "Knight Helmet",
           "category": "Kiwi Full Head",
           "rarity": "rare",
@@ -6542,18 +6556,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787389970
-        },
-        {
-          "name": "Blue Irises",
-          "category": "Kiwi Eye Colour",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787389969
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 10,
+        "cosmetics_unlocked": 11,
         "cosmetics_available": 41,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,

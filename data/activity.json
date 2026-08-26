@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787742802,
+  "generatedAt": 1787742963,
   "count": 50,
   "activities": [
+    {
+      "id": "654fbaae5df306ee",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Beard",
+      "timestamp": 1787742962,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "4729188065d62c49",
       "type": "unlock",
@@ -240,16 +250,6 @@
       "timestamp": 1787160516,
       "rarity": "rare",
       "category": "Kiwi Eyes",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "da861c0f4fd6d65e",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Violet Feathers",
-      "timestamp": 1787086674,
-      "rarity": "rare",
-      "category": "Kiwi Body",
       "rewardType": "cosmetic"
     },
     {

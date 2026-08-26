@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1787742802,
+  "generatedAt": 1787742963,
   "rotationGeneratedAt": 1787663609,
   "nextRotationAt": 1787750009,
   "rotationHours": 24,
@@ -17,14 +17,14 @@
       "group": "event",
       "icon": "✧",
       "title": "Fresh Unlock",
-      "copy": "iamdibi unlocked Pirate Hat (Uncommon)."
+      "copy": "itsvdb unlocked Santa Beard (Rare)."
     },
     {
       "category": "community_shiny_total",
       "group": "community",
       "icon": "✦",
       "title": "Community Fortune",
-      "copy": "The flock currently holds 1,757,358 Shinies."
+      "copy": "The flock currently holds 1,751,358 Shinies."
     }
   ]
 }
