@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787746251,
+  "generatedAt": 1787746652,
   "totalViewers": 542,
-  "totalShinies": 1759270,
+  "totalShinies": 1759604,
   "pageSize": 100,
   "entries": [
     {
@@ -236,18 +236,18 @@
     },
     {
       "rank": 47,
+      "name": "chrisgw",
+      "shinies": 6488
+    },
+    {
+      "rank": 48,
       "name": "oumuamua_i1",
       "shinies": 6302
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "our_lord_and_savior_gonk",
       "shinies": 6254
-    },
-    {
-      "rank": 49,
-      "name": "chrisgw",
-      "shinies": 6154
     },
     {
       "rank": 50,
