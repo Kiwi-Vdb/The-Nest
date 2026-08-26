@@ -1,7 +1,23 @@
 {
-  "generatedAt": 1787756256,
+  "generatedAt": 1787756331,
   "count": 50,
   "activities": [
+    {
+      "id": "4c0bbb230dc30b0f",
+      "type": "prediction",
+      "who": "hunbleeone",
+      "text": "won 2,000 Shinies in a prediction: Who wins?",
+      "timestamp": 1787756330,
+      "amount": 2000
+    },
+    {
+      "id": "5e1e0b4b588e09a4",
+      "type": "prediction",
+      "who": "elronoce",
+      "text": "won 2,000 Shinies in a prediction: Who wins?",
+      "timestamp": 1787756329,
+      "amount": 2000
+    },
     {
       "id": "37cbead583d82e1d",
       "type": "prediction",
@@ -456,26 +472,6 @@
       "timestamp": 1786899644,
       "rarity": "rare",
       "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "38cb7889f8eaf4d2",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Santa Hat",
-      "timestamp": 1786899643,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "6eb0bb7ae5196ca1",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Scav Fog",
-      "timestamp": 1786899643,
-      "rarity": "legendary",
-      "category": "Emote",
       "rewardType": "cosmetic"
     }
   ]
