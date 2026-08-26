@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787756513,
+  "generatedAt": 1787756736,
   "totalViewers": 545,
-  "totalShinies": 1800580,
+  "totalShinies": 1801580,
   "pageSize": 100,
   "entries": [
     {
@@ -126,17 +126,17 @@
     },
     {
       "rank": 25,
+      "name": "kiddorox",
+      "shinies": 12336
+    },
+    {
+      "rank": 26,
       "name": "muhmonkey",
       "shinies": 12004
     },
     {
-      "rank": 26,
-      "name": "freakofnature122",
-      "shinies": 11336
-    },
-    {
       "rank": 27,
-      "name": "kiddorox",
+      "name": "freakofnature122",
       "shinies": 11336
     },
     {
