@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787750653,
+  "generatedAt": 1787750798,
   "totalViewers": 544,
-  "totalShinies": 1773016,
+  "totalShinies": 1774016,
   "pageSize": 100,
   "entries": [
     {
@@ -136,18 +136,18 @@
     },
     {
       "rank": 27,
+      "name": "muhmonkey",
+      "shinies": 11004
+    },
+    {
+      "rank": 28,
       "name": "axoim_",
       "shinies": 10670
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "kiddorox",
       "shinies": 10336
-    },
-    {
-      "rank": 29,
-      "name": "muhmonkey",
-      "shinies": 10004
     },
     {
       "rank": 30,
