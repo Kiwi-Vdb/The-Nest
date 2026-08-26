@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787749307,
+  "generatedAt": 1787749478,
   "totalViewers": 544,
-  "totalShinies": 1768346,
+  "totalShinies": 1769346,
   "pageSize": 100,
   "entries": [
     {
@@ -141,23 +141,23 @@
     },
     {
       "rank": 28,
+      "name": "kiddorox",
+      "shinies": 10336
+    },
+    {
+      "rank": 29,
       "name": "muhmonkey",
       "shinies": 10004
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "colonp",
       "shinies": 9486
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "literallylilacc",
       "shinies": 9352
-    },
-    {
-      "rank": 31,
-      "name": "kiddorox",
-      "shinies": 9336
     },
     {
       "rank": 32,
