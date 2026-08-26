@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787758004,
+  "generatedAt": 1787758184,
   "totalViewers": 545,
-  "totalShinies": 1809884,
+  "totalShinies": 1810884,
   "pageSize": 100,
   "entries": [
     {
@@ -116,23 +116,23 @@
     },
     {
       "rank": 23,
+      "name": "muhmonkey",
+      "shinies": 13004
+    },
+    {
+      "rank": 24,
       "name": "watchbehinddude",
       "shinies": 12756
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "cozzwald",
       "shinies": 12542
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "kiddorox",
       "shinies": 12336
-    },
-    {
-      "rank": 26,
-      "name": "muhmonkey",
-      "shinies": 12004
     },
     {
       "rank": 27,
