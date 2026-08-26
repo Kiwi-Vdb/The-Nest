@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787752599,
+  "generatedAt": 1787752723,
   "totalViewers": 544,
-  "totalShinies": 1788288,
+  "totalShinies": 1788622,
   "pageSize": 100,
   "entries": [
     {
@@ -171,18 +171,18 @@
     },
     {
       "rank": 34,
+      "name": "slicklikevik",
+      "shinies": 9122
+    },
+    {
+      "rank": 35,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "jigglyjake22",
       "shinies": 9004
-    },
-    {
-      "rank": 36,
-      "name": "slicklikevik",
-      "shinies": 8788
     },
     {
       "rank": 37,
