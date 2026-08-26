@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787746225,
+  "generatedAt": 1787746251,
   "totalViewers": 542,
-  "totalShinies": 1758786,
+  "totalShinies": 1759270,
   "pageSize": 100,
   "entries": [
     {
@@ -156,28 +156,28 @@
     },
     {
       "rank": 31,
+      "name": "halfyourlife",
+      "shinies": 9206
+    },
+    {
+      "rank": 32,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "jigglyjake22",
       "shinies": 9004
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "muhmonkey",
       "shinies": 9004
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "slicklikevik",
       "shinies": 8788
-    },
-    {
-      "rank": 35,
-      "name": "halfyourlife",
-      "shinies": 8722
     },
     {
       "rank": 36,
