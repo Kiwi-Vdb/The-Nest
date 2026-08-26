@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787755658,
+  "generatedAt": 1787755805,
   "totalViewers": 545,
-  "totalShinies": 1795778,
+  "totalShinies": 1794278,
   "pageSize": 100,
   "entries": [
     {
@@ -56,23 +56,23 @@
     },
     {
       "rank": 11,
-      "name": "sharpishdog",
-      "shinies": 27658
-    },
-    {
-      "rank": 12,
       "name": "lpalochka",
       "shinies": 27310
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "hobbitsenlive",
       "shinies": 26674
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "massivemankey",
       "shinies": 26340
+    },
+    {
+      "rank": 14,
+      "name": "sharpishdog",
+      "shinies": 26158
     },
     {
       "rank": 15,
