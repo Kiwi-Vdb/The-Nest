@@ -3166,6 +3166,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
   },
   "logicalCanvas": 240,
   "pixelScale": 4,
-  "revision": "20260826111411277717",
+  "revision": "20260826111646559850",
   "version": 8
 };
