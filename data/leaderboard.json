@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787754875,
+  "generatedAt": 1787754995,
   "totalViewers": 545,
-  "totalShinies": 1797642,
+  "totalShinies": 1798976,
   "pageSize": 100,
   "entries": [
     {
@@ -61,18 +61,18 @@
     },
     {
       "rank": 12,
+      "name": "lpalochka",
+      "shinies": 27310
+    },
+    {
+      "rank": 13,
       "name": "hobbitsenlive",
       "shinies": 26674
     },
     {
-      "rank": 13,
+      "rank": 14,
       "name": "massivemankey",
       "shinies": 26340
-    },
-    {
-      "rank": 14,
-      "name": "lpalochka",
-      "shinies": 26310
     },
     {
       "rank": 15,
@@ -411,58 +411,58 @@
     },
     {
       "rank": 82,
+      "name": "bizzyrex",
+      "shinies": 3865
+    },
+    {
+      "rank": 83,
       "name": "dhisame",
       "shinies": 3672
     },
     {
-      "rank": 83,
+      "rank": 84,
       "name": "akiletia",
       "shinies": 3668
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "alanvh13",
       "shinies": 3668
     },
     {
-      "rank": 85,
+      "rank": 86,
       "name": "d_roi_d",
       "shinies": 3668
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "dzikimg",
       "shinies": 3668
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "ibonbe",
       "shinies": 3668
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "imth3apollo",
       "shinies": 3668
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "kingbenjai21",
       "shinies": 3668
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "oss76",
       "shinies": 3668
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "skipp2skipp",
       "shinies": 3668
-    },
-    {
-      "rank": 92,
-      "name": "bizzyrex",
-      "shinies": 3531
     },
     {
       "rank": 93,
