@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1787753499,
+  "generatedAt": 1787753549,
   "count": 50,
   "activities": [
+    {
+      "id": "37cbead583d82e1d",
+      "type": "prediction",
+      "who": "elronoce",
+      "text": "won 2,000 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1787753548,
+      "amount": 2000
+    },
     {
       "id": "654fbaae5df306ee",
       "type": "unlock",
@@ -468,16 +476,6 @@
       "timestamp": 1786899643,
       "rarity": "legendary",
       "category": "Emote",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "fc10ba4e8a126ce3",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Ranger Cap",
-      "timestamp": 1786899642,
-      "rarity": "common",
-      "category": "Hat",
       "rewardType": "cosmetic"
     }
   ]
