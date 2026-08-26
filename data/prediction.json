@@ -1,12 +1,23 @@
 {
-  "generatedAt": 1787753548,
-  "active": false,
-  "status": "inactive",
-  "id": null,
-  "question": "No prediction open",
-  "prize": 0,
+  "generatedAt": 1787753571,
+  "active": true,
+  "status": "open",
+  "id": 1787753571,
+  "question": "Who wins?",
+  "prize": 2000,
   "totalPicks": 0,
-  "startedAt": null,
+  "startedAt": 1787753571,
   "closedAt": null,
-  "options": []
+  "options": [
+    {
+      "label": "red",
+      "votes": 0,
+      "percent": 0
+    },
+    {
+      "label": "blue",
+      "votes": 0,
+      "percent": 0
+    }
+  ]
 }
