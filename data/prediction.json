@@ -1,23 +1,23 @@
 {
-  "generatedAt": 1787753571,
+  "generatedAt": 1787753595,
   "active": true,
   "status": "open",
   "id": 1787753571,
   "question": "Who wins?",
   "prize": 2000,
-  "totalPicks": 0,
+  "totalPicks": 4,
   "startedAt": 1787753571,
   "closedAt": null,
   "options": [
     {
       "label": "red",
-      "votes": 0,
-      "percent": 0
+      "votes": 2,
+      "percent": 50.0
     },
     {
       "label": "blue",
-      "votes": 0,
-      "percent": 0
+      "votes": 2,
+      "percent": 50.0
     }
   ]
 }
