@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787843383,
+  "generatedAt": 1787843475,
   "totalViewers": 579,
-  "totalShinies": 1900944,
+  "totalShinies": 1901094,
   "pageSize": 100,
   "entries": [
     {
@@ -831,18 +831,18 @@
     },
     {
       "rank": 166,
+      "name": "hasinfefa",
+      "shinies": 2302
+    },
+    {
+      "rank": 167,
       "name": "akumar67",
       "shinies": 2270
     },
     {
-      "rank": 167,
+      "rank": 168,
       "name": "twintwonk",
       "shinies": 2270
-    },
-    {
-      "rank": 168,
-      "name": "hasinfefa",
-      "shinies": 2152
     },
     {
       "rank": 169,
