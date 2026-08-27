@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787854628,
+  "generatedAt": 1787854689,
   "totalViewers": 594,
-  "totalShinies": 1987014,
+  "totalShinies": 1988014,
   "pageSize": 100,
   "entries": [
     {
@@ -91,23 +91,23 @@
     },
     {
       "rank": 18,
+      "name": "muhmonkey",
+      "shinies": 18338
+    },
+    {
+      "rank": 19,
       "name": "sasadal",
       "shinies": 18124
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "oafsalot",
       "shinies": 18006
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "deverhr",
       "shinies": 17506
-    },
-    {
-      "rank": 21,
-      "name": "muhmonkey",
-      "shinies": 17338
     },
     {
       "rank": 22,
