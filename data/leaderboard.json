@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787851932,
+  "generatedAt": 1787851972,
   "totalViewers": 589,
-  "totalShinies": 1954406,
+  "totalShinies": 1954556,
   "pageSize": 100,
   "entries": [
     {
@@ -316,18 +316,18 @@
     },
     {
       "rank": 63,
+      "name": "florio_bar",
+      "shinies": 5936
+    },
+    {
+      "rank": 64,
       "name": "philaeux",
       "shinies": 5820
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "rowanmorseyt",
       "shinies": 5818
-    },
-    {
-      "rank": 65,
-      "name": "florio_bar",
-      "shinies": 5786
     },
     {
       "rank": 66,
