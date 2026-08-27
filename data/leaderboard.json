@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787851568,
+  "generatedAt": 1787851748,
   "totalViewers": 589,
-  "totalShinies": 1952072,
+  "totalShinies": 1953072,
   "pageSize": 100,
   "entries": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "rank": 25,
+      "name": "elronoce",
+      "shinies": 13970
+    },
+    {
+      "rank": 26,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "axoim_",
       "shinies": 13004
-    },
-    {
-      "rank": 27,
-      "name": "elronoce",
-      "shinies": 12970
     },
     {
       "rank": 28,
