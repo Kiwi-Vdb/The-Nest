@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787850185,
+  "generatedAt": 1787850187,
   "totalViewers": 588,
-  "totalShinies": 1937068,
+  "totalShinies": 1937402,
   "pageSize": 100,
   "entries": [
     {
@@ -181,18 +181,18 @@
     },
     {
       "rank": 36,
+      "name": "slicklikevik",
+      "shinies": 9606
+    },
+    {
+      "rank": 37,
       "name": "goliathmaroof",
       "shinies": 9438
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "literallylilacc",
       "shinies": 9352
-    },
-    {
-      "rank": 38,
-      "name": "slicklikevik",
-      "shinies": 9272
     },
     {
       "rank": 39,
