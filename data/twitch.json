@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1787844053,
-  "clipsUpdatedAt": 1787755923,
+  "statusUpdatedAt": 1787844083,
+  "clipsUpdatedAt": 1787844090,
   "clips": [
+    {
+      "id": "PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
+      "title": "As a 1v1 tryhard sweat this made me lmfao xD",
+      "url": "https://www.twitch.tv/itsvdb/clip/PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f07ecea9-9d65-400e-8862-8c3d5ab16c02/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 5.2,
+      "createdAt": "2026-08-27T15:12:38Z"
+    },
     {
       "id": "BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
       "title": "just one more afus bro. i promise bro just one more afus and i'll come online bro. it's just another",
@@ -69,16 +79,6 @@
       "views": 14,
       "duration": 27.9,
       "createdAt": "2026-06-04T19:17:27Z"
-    },
-    {
-      "id": "TenderPuzzledChickenOpieOP-N5jhvhHSfx7orKP_",
-      "title": "VDB is a master of macro",
-      "url": "https://www.twitch.tv/itsvdb/clip/TenderPuzzledChickenOpieOP-N5jhvhHSfx7orKP_",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=TenderPuzzledChickenOpieOP-N5jhvhHSfx7orKP_",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5c8dd147-3ace-408c-8999-b302008cd056/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 19,
-      "duration": 37.2,
-      "createdAt": "2026-06-04T18:09:12Z"
     }
   ]
 }
