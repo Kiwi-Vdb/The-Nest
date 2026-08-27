@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787842301,
+  "generatedAt": 1787842319,
   "totalViewers": 576,
-  "totalShinies": 1890956,
+  "totalShinies": 1891956,
   "pageSize": 100,
   "entries": [
     {
@@ -141,18 +141,18 @@
     },
     {
       "rank": 28,
+      "name": "elronoce",
+      "shinies": 11970
+    },
+    {
+      "rank": 29,
       "name": "warriot",
       "shinies": 11454
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "freakofnature122",
       "shinies": 11336
-    },
-    {
-      "rank": 30,
-      "name": "elronoce",
-      "shinies": 10970
     },
     {
       "rank": 31,
