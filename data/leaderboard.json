@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787834389,
+  "generatedAt": 1787834451,
   "totalViewers": 553,
-  "totalShinies": 1841668,
+  "totalShinies": 1842336,
   "pageSize": 100,
   "entries": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "bot_kiwi_birb",
-      "shinies": 83682
+      "shinies": 84016
     },
     {
       "rank": 3,
@@ -241,18 +241,18 @@
     },
     {
       "rank": 48,
+      "name": "esebian_",
+      "shinies": 7006
+    },
+    {
+      "rank": 49,
       "name": "tallerofin",
       "shinies": 6938
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "our_lord_and_savior_gonk",
       "shinies": 6738
-    },
-    {
-      "rank": 50,
-      "name": "esebian_",
-      "shinies": 6672
     },
     {
       "rank": 51,
