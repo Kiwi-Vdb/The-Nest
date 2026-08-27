@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787851271,
+  "generatedAt": 1787851413,
   "totalViewers": 589,
-  "totalShinies": 1950404,
+  "totalShinies": 1950738,
   "pageSize": 100,
   "entries": [
     {
@@ -441,18 +441,18 @@
     },
     {
       "rank": 88,
+      "name": "dhisame",
+      "shinies": 4006
+    },
+    {
+      "rank": 89,
       "name": "bartender_11",
       "shinies": 4004
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "jermeis7er",
       "shinies": 4002
-    },
-    {
-      "rank": 90,
-      "name": "dhisame",
-      "shinies": 3672
     },
     {
       "rank": 91,
