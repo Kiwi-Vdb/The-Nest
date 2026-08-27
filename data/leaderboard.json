@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787836038,
+  "generatedAt": 1787836412,
   "totalViewers": 553,
-  "totalShinies": 1846276,
+  "totalShinies": 1846760,
   "pageSize": 100,
   "entries": [
     {
@@ -196,18 +196,18 @@
     },
     {
       "rank": 39,
+      "name": "goobmilk",
+      "shinies": 8788
+    },
+    {
+      "rank": 40,
       "name": "blopson",
       "shinies": 8722
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "snoopa_aoe",
       "shinies": 8604
-    },
-    {
-      "rank": 41,
-      "name": "goobmilk",
-      "shinies": 8304
     },
     {
       "rank": 42,
