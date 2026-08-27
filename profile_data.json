@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787841982,
+  "generated_at": 1787841999,
   "viewers": {
     "01shimbo": {
       "username": "01shimbo",
@@ -10026,7 +10026,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 2672,
+        "balance": 3006,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -10921,7 +10921,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 5670,
+        "balance": 6004,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -15421,6 +15421,32 @@
     },
     "wuzz0ck": {
       "username": "wuzz0ck",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 41,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
+    "xamkoz": {
+      "username": "xamkoz",
       "shinies": {
         "available": true,
         "label": "Shinies",
