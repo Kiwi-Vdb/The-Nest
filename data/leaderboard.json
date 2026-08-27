@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787838108,
+  "generatedAt": 1787838172,
   "totalViewers": 559,
-  "totalShinies": 1856862,
+  "totalShinies": 1858862,
   "pageSize": 100,
   "entries": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "bot_kiwi_birb",
-      "shinies": 84350
+      "shinies": 85350
     },
     {
       "rank": 3,
@@ -211,33 +211,33 @@
     },
     {
       "rank": 42,
+      "name": "esebian_",
+      "shinies": 8340
+    },
+    {
+      "rank": 43,
       "name": "blzbrg",
       "shinies": 8288
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "skvonchboyz",
       "shinies": 8002
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "bonghits4cthulhu",
       "shinies": 7940
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "coffeeconceder",
       "shinies": 7936
-    },
-    {
-      "rank": 47,
-      "name": "esebian_",
-      "shinies": 7340
     },
     {
       "rank": 48,
