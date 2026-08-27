@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787843475,
+  "generatedAt": 1787843623,
   "totalViewers": 579,
-  "totalShinies": 1901094,
+  "totalShinies": 1901578,
   "pageSize": 100,
   "entries": [
     {
@@ -276,18 +276,18 @@
     },
     {
       "rank": 55,
+      "name": "liarturil",
+      "shinies": 6488
+    },
+    {
+      "rank": 56,
       "name": "globe2deag",
       "shinies": 6156
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "pownage227",
       "shinies": 6154
-    },
-    {
-      "rank": 57,
-      "name": "liarturil",
-      "shinies": 6004
     },
     {
       "rank": 58,
