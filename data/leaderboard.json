@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787852868,
+  "generatedAt": 1787852993,
   "totalViewers": 589,
-  "totalShinies": 1966526,
+  "totalShinies": 1966860,
   "pageSize": 100,
   "entries": [
     {
@@ -306,33 +306,33 @@
     },
     {
       "rank": 61,
+      "name": "frydac",
+      "shinies": 6002
+    },
+    {
+      "rank": 62,
       "name": "hells_hound_",
       "shinies": 5970
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "revanxfl",
       "shinies": 5970
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "florio_bar",
       "shinies": 5936
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "philaeux",
       "shinies": 5820
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "rowanmorseyt",
       "shinies": 5818
-    },
-    {
-      "rank": 66,
-      "name": "frydac",
-      "shinies": 5668
     },
     {
       "rank": 67,
