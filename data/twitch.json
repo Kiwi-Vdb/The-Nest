@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1787844356,
-  "clipsUpdatedAt": 1787844090,
+  "statusUpdatedAt": 1787844387,
+  "clipsUpdatedAt": 1787844394,
   "clips": [
     {
       "id": "PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
       "embedUrl": "https://clips.twitch.tv/embed?clip=PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f07ecea9-9d65-400e-8862-8c3d5ab16c02/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 8,
       "duration": 5.2,
       "createdAt": "2026-08-27T15:12:38Z"
     },
