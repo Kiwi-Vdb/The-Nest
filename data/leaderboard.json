@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787835347,
+  "generatedAt": 1787835607,
   "totalViewers": 553,
-  "totalShinies": 1844306,
+  "totalShinies": 1844790,
   "pageSize": 100,
   "entries": [
     {
@@ -196,23 +196,23 @@
     },
     {
       "rank": 39,
+      "name": "blopson",
+      "shinies": 8722
+    },
+    {
+      "rank": 40,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "goobmilk",
       "shinies": 8304
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "blzbrg",
       "shinies": 8288
-    },
-    {
-      "rank": 42,
-      "name": "blopson",
-      "shinies": 8238
     },
     {
       "rank": 43,
