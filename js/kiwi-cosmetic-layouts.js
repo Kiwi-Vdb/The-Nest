@@ -1408,7 +1408,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "cropLeft": 0,
               "cropRight": 0,
               "cropTop": 0,
-              "file": "wings-coffee-mug.png",
+              "file": "custom-kiwi-wings-pixel-coffee-mug-wings-coffee-mug.png",
               "flipX": false,
               "flipY": false,
               "id": "main",
@@ -1422,8 +1422,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": -80,
+              "y": 148,
               "zLevel": 8
             }
           ],
@@ -2986,7 +2986,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "cropLeft": 0,
           "cropRight": 0,
           "cropTop": 0,
-          "file": "wings-coffee-mug.png",
+          "file": "custom-kiwi-wings-pixel-coffee-mug-wings-coffee-mug.png",
           "flipX": false,
           "flipY": false,
           "id": "main",
@@ -3000,8 +3000,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": -80,
+          "y": 148,
           "zLevel": 8
         }
       ],
@@ -3166,6 +3166,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
   },
   "logicalCanvas": 240,
   "pixelScale": 4,
-  "revision": "20260826111646559850",
+  "revision": "20260827115756070371",
   "version": 8
 };
