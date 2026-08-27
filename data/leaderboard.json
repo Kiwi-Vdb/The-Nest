@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787854400,
+  "generatedAt": 1787854510,
   "totalViewers": 594,
-  "totalShinies": 1984014,
+  "totalShinies": 1986014,
   "pageSize": 100,
   "entries": [
     {
@@ -41,13 +41,13 @@
     },
     {
       "rank": 8,
-      "name": "bar_outofmana",
-      "shinies": 50978
+      "name": "crazypyronl",
+      "shinies": 51496
     },
     {
       "rank": 9,
-      "name": "crazypyronl",
-      "shinies": 50496
+      "name": "bar_outofmana",
+      "shinies": 50978
     },
     {
       "rank": 10,
@@ -126,18 +126,18 @@
     },
     {
       "rank": 25,
+      "name": "axoim_",
+      "shinies": 14004
+    },
+    {
+      "rank": 26,
       "name": "elronoce",
       "shinies": 13970
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "professor_bar",
       "shinies": 13634
-    },
-    {
-      "rank": 27,
-      "name": "axoim_",
-      "shinies": 13004
     },
     {
       "rank": 28,
