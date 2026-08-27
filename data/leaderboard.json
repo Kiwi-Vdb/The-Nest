@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787850728,
+  "generatedAt": 1787850786,
   "totalViewers": 589,
-  "totalShinies": 1943736,
+  "totalShinies": 1944070,
   "pageSize": 100,
   "entries": [
     {
@@ -366,23 +366,23 @@
     },
     {
       "rank": 73,
+      "name": "hexu0x",
+      "shinies": 5004
+    },
+    {
+      "rank": 74,
       "name": "7voodoodragon",
       "shinies": 5002
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "bloodypage1",
       "shinies": 4968
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "aidannaut",
       "shinies": 4818
-    },
-    {
-      "rank": 76,
-      "name": "hexu0x",
-      "shinies": 4670
     },
     {
       "rank": 77,
