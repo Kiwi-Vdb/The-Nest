@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787852993,
+  "generatedAt": 1787853070,
   "totalViewers": 589,
-  "totalShinies": 1966860,
+  "totalShinies": 1968860,
   "pageSize": 100,
   "entries": [
     {
@@ -37,7 +37,7 @@
     {
       "rank": 7,
       "name": "hunbleeone",
-      "shinies": 59501
+      "shinies": 60501
     },
     {
       "rank": 8,
@@ -236,23 +236,23 @@
     },
     {
       "rank": 47,
+      "name": "liarturil",
+      "shinies": 8488
+    },
+    {
+      "rank": 48,
       "name": "esebian_",
       "shinies": 8340
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "blzbrg",
       "shinies": 8288
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "zhadeoak",
       "shinies": 8002
-    },
-    {
-      "rank": 50,
-      "name": "liarturil",
-      "shinies": 7488
     },
     {
       "rank": 51,
