@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787845546,
+  "generatedAt": 1787845570,
   "totalViewers": 580,
-  "totalShinies": 1914686,
+  "totalShinies": 1914836,
   "pageSize": 100,
   "entries": [
     {
@@ -331,22 +331,22 @@
     },
     {
       "rank": 66,
+      "name": "hellzi3",
+      "shinies": 5422
+    },
+    {
+      "rank": 67,
       "name": "mesaber",
       "shinies": 5408
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 68,
-      "name": "alishhk",
-      "shinies": 5272
-    },
-    {
       "rank": 69,
-      "name": "hellzi3",
+      "name": "alishhk",
       "shinies": 5272
     },
     {
