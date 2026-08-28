@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787935451,
+  "generatedAt": 1787935484,
   "totalViewers": 612,
-  "totalShinies": 2109218,
+  "totalShinies": 2110218,
   "pageSize": 100,
   "entries": [
     {
@@ -296,28 +296,28 @@
     },
     {
       "rank": 59,
+      "name": "dhisame",
+      "shinies": 7490
+    },
+    {
+      "rank": 60,
       "name": "pownage227",
       "shinies": 7154
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "florio_bar",
       "shinies": 6936
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "akkaiiie",
       "shinies": 6670
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "oumuamua_i1",
       "shinies": 6636
-    },
-    {
-      "rank": 63,
-      "name": "dhisame",
-      "shinies": 6490
     },
     {
       "rank": 64,
