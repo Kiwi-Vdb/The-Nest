@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1787932787,
+  "generatedAt": 1787932964,
   "count": 50,
   "activities": [
     {
@@ -464,12 +464,14 @@
       "amount": 2000
     },
     {
-      "id": "38f647326c4b7edd",
-      "type": "prediction",
-      "who": "deverhr",
-      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787061170,
-      "amount": 2000
+      "id": "686f3d450c9a7bd6",
+      "type": "unlock",
+      "who": "halfyourlife",
+      "text": "unlocked Glitch Sweep Text",
+      "timestamp": 1787055543,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
     }
   ]
 }
