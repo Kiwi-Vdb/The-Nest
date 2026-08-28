@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787936760,
+  "generated_at": 1787936789,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -6628,6 +6628,12 @@
           "name": "Coffee Mug",
           "category": "Kiwi Wings / Held Objects",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-pink-slippers",
+          "name": "Pink Slippers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [
@@ -6687,7 +6693,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 3,
+        "cosmetics_unlocked": 4,
         "cosmetics_available": 41,
         "text_effects_unlocked": 3,
         "text_effects_available": 25,
@@ -16146,7 +16152,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 12756,
+        "balance": 13090,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
