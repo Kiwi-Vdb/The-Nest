@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787936586,
+  "generated_at": 1787936760,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -2286,7 +2286,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 668,
+        "balance": 1668,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6602,7 +6602,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 65564,
+        "balance": 63564,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6659,8 +6659,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 9,
+      "loot_boxes_opened": 10,
       "recent_unlocks": [
+        {
+          "name": "Pink Slippers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787936759
+        },
         {
           "name": "Pirate Hat",
           "category": "Kiwi Hat",
@@ -6676,14 +6684,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787482015
-        },
-        {
-          "name": "Ruby Irises",
-          "category": "Kiwi Eye Colour",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787481733
         }
       ],
       "totals": {
@@ -6691,7 +6691,7 @@
         "cosmetics_available": 41,
         "text_effects_unlocked": 3,
         "text_effects_available": 25,
-        "recent_unlocks": 13
+        "recent_unlocks": 14
       }
     },
     "iamketpain": {

@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787936586,
+  "generatedAt": 1787936760,
   "count": 50,
   "activities": [
+    {
+      "id": "f10c0622265e1dc2",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Pink Slippers",
+      "timestamp": 1787936759,
+      "rarity": "common",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "84013c4ca5204027",
       "type": "prediction",
@@ -467,16 +477,6 @@
       "who": "professor_bar",
       "text": "unlocked Wizards Hat",
       "timestamp": 1786899649,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "9ab4a9f139168108",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Witch Hat",
-      "timestamp": 1786899647,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
