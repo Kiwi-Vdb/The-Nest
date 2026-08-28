@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1787934164,
+  "generatedAt": 1787934224,
   "count": 50,
   "activities": [
     {
@@ -440,14 +440,6 @@
       "amount": 2000
     },
     {
-      "id": "d8fc65849955c1e8",
-      "type": "prediction",
-      "who": "axolotl_eu",
-      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787063377,
-      "amount": 2000
-    },
-    {
       "id": "686f3d450c9a7bd6",
       "type": "unlock",
       "who": "halfyourlife",
@@ -476,6 +468,16 @@
       "rarity": "rare",
       "category": "Text Effect",
       "rewardType": "text effect"
+    },
+    {
+      "id": "96f8cb8ff3f2f956",
+      "type": "unlock",
+      "who": "professor_bar",
+      "text": "unlocked Wizards Hat",
+      "timestamp": 1786899649,
+      "rarity": "common",
+      "category": "Hat",
+      "rewardType": "cosmetic"
     }
   ]
 }

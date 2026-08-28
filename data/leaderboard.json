@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787934164,
+  "generatedAt": 1787934224,
   "totalViewers": 608,
-  "totalShinies": 2088714,
+  "totalShinies": 2089714,
   "pageSize": 100,
   "entries": [
     {
@@ -151,23 +151,23 @@
     },
     {
       "rank": 30,
+      "name": "laggyaskittens",
+      "shinies": 12452
+    },
+    {
+      "rank": 31,
       "name": "coffeeconceder",
       "shinies": 12420
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "axolotl_eu",
       "shinies": 12010
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "warriot",
       "shinies": 11454
-    },
-    {
-      "rank": 33,
-      "name": "laggyaskittens",
-      "shinies": 11452
     },
     {
       "rank": 34,
