@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787931035,
+  "generatedAt": 1787931164,
   "totalViewers": 606,
-  "totalShinies": 2059820,
+  "totalShinies": 2060970,
   "pageSize": 100,
   "entries": [
     {
@@ -37,7 +37,7 @@
     {
       "rank": 7,
       "name": "hunbleeone",
-      "shinies": 61985
+      "shinies": 62985
     },
     {
       "rank": 8,
@@ -166,18 +166,18 @@
     },
     {
       "rank": 33,
+      "name": "coffeeconceder",
+      "shinies": 11420
+    },
+    {
+      "rank": 34,
       "name": "freakofnature122",
       "shinies": 11336
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "goobmilk",
       "shinies": 11272
-    },
-    {
-      "rank": 35,
-      "name": "coffeeconceder",
-      "shinies": 11270
     },
     {
       "rank": 36,
