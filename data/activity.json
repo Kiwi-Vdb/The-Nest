@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1787935037,
+  "generatedAt": 1787935079,
   "count": 50,
   "activities": [
+    {
+      "id": "1a56b4000d695b0d",
+      "type": "prediction",
+      "who": "tallerofin",
+      "text": "won 1,000 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1787935078,
+      "amount": 1000
+    },
     {
       "id": "388c39bd2c70084d",
       "type": "gift",
@@ -467,16 +475,6 @@
       "who": "professor_bar",
       "text": "unlocked Wizards Hat",
       "timestamp": 1786899649,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "9ab4a9f139168108",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Witch Hat",
-      "timestamp": 1786899647,
       "rarity": "common",
       "category": "Hat",
       "rewardType": "cosmetic"
