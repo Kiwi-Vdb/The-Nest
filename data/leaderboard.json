@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787931947,
+  "generatedAt": 1787932048,
   "totalViewers": 606,
-  "totalShinies": 2072322,
+  "totalShinies": 2071822,
   "pageSize": 100,
   "entries": [
     {
@@ -201,38 +201,38 @@
     },
     {
       "rank": 40,
-      "name": "goliathmaroof",
-      "shinies": 9422
-    },
-    {
-      "rank": 41,
       "name": "literallylilacc",
       "shinies": 9352
     },
     {
-      "rank": 42,
+      "rank": 41,
       "name": "skvonchboyz",
       "shinies": 9336
     },
     {
-      "rank": 43,
+      "rank": 42,
       "name": "tallerofin",
       "shinies": 9256
     },
     {
-      "rank": 44,
+      "rank": 43,
       "name": "blopson",
       "shinies": 9206
     },
     {
-      "rank": 45,
+      "rank": 44,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 46,
+      "rank": 45,
       "name": "jigglyjake22",
       "shinies": 9004
+    },
+    {
+      "rank": 46,
+      "name": "goliathmaroof",
+      "shinies": 8922
     },
     {
       "rank": 47,
