@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787931729,
+  "generatedAt": 1787931765,
   "totalViewers": 606,
-  "totalShinies": 2068654,
+  "totalShinies": 2069988,
   "pageSize": 100,
   "entries": [
     {
@@ -127,7 +127,7 @@
     {
       "rank": 25,
       "name": "axoim_",
-      "shinies": 14004
+      "shinies": 14338
     },
     {
       "rank": 26,
@@ -251,43 +251,43 @@
     },
     {
       "rank": 50,
+      "name": "hells_hound_",
+      "shinies": 8454
+    },
+    {
+      "rank": 51,
       "name": "esebian_",
       "shinies": 8340
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "blzbrg",
       "shinies": 8288
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "ibonbe",
       "shinies": 8002
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "rikkler",
       "shinies": 8002
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "zeeburgapm",
       "shinies": 7754
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "globe2deag",
       "shinies": 7640
-    },
-    {
-      "rank": 57,
-      "name": "hells_hound_",
-      "shinies": 7454
     },
     {
       "rank": 58,
