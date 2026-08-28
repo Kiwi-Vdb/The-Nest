@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787926874,
+  "generatedAt": 1787926977,
   "totalViewers": 603,
-  "totalShinies": 2029558,
+  "totalShinies": 2029892,
   "pageSize": 100,
   "entries": [
     {
@@ -171,23 +171,23 @@
     },
     {
       "rank": 34,
+      "name": "laggyaskittens",
+      "shinies": 10302
+    },
+    {
+      "rank": 35,
       "name": "goobmilk",
       "shinies": 10272
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "coffeeconceder",
       "shinies": 10270
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "chuffingbear",
       "shinies": 10004
-    },
-    {
-      "rank": 37,
-      "name": "laggyaskittens",
-      "shinies": 9968
     },
     {
       "rank": 38,
