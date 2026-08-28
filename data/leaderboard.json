@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787930264,
+  "generatedAt": 1787930381,
   "totalViewers": 605,
-  "totalShinies": 2055200,
+  "totalShinies": 2055534,
   "pageSize": 100,
   "entries": [
     {
@@ -281,18 +281,18 @@
     },
     {
       "rank": 56,
+      "name": "imth3apollo",
+      "shinies": 7486
+    },
+    {
+      "rank": 57,
       "name": "hells_hound_",
       "shinies": 7454
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "pownage227",
       "shinies": 7154
-    },
-    {
-      "rank": 58,
-      "name": "imth3apollo",
-      "shinies": 7152
     },
     {
       "rank": 59,
