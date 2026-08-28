@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1787932964,
+  "generatedAt": 1787933107,
   "count": 50,
   "activities": [
     {
@@ -448,28 +448,32 @@
       "amount": 2000
     },
     {
-      "id": "103860c2616bc292",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787061171,
-      "amount": 2000
-    },
-    {
-      "id": "02225c990d3baddb",
-      "type": "prediction",
-      "who": "halfyourlife",
-      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787061170,
-      "amount": 2000
-    },
-    {
       "id": "686f3d450c9a7bd6",
       "type": "unlock",
       "who": "halfyourlife",
       "text": "unlocked Glitch Sweep Text",
       "timestamp": 1787055543,
       "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "7b7681cb54f8e3db",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Red Text",
+      "timestamp": 1787053351,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "635f78ad31ddda25",
+      "type": "unlock",
+      "who": "professor_bar",
+      "text": "unlocked Electric Arc Text",
+      "timestamp": 1786899701,
+      "rarity": "rare",
       "category": "Text Effect",
       "rewardType": "text effect"
     }
