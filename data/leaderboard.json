@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787923714,
+  "generatedAt": 1787923980,
   "totalViewers": 600,
-  "totalShinies": 2011648,
+  "totalShinies": 2011982,
   "pageSize": 100,
   "entries": [
     {
@@ -306,28 +306,28 @@
     },
     {
       "rank": 61,
+      "name": "hells_hound_",
+      "shinies": 6304
+    },
+    {
+      "rank": 62,
       "name": "globe2deag",
       "shinies": 6156
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "hexu0x",
       "shinies": 6004
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "frydac",
       "shinies": 6002
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "jermeis7er",
       "shinies": 6002
-    },
-    {
-      "rank": 65,
-      "name": "hells_hound_",
-      "shinies": 5970
     },
     {
       "rank": 66,
