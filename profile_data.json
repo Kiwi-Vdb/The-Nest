@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787926977,
+  "generated_at": 1787927102,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -1228,7 +1228,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 15510,
+        "balance": 12010,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -1241,6 +1241,12 @@
           "id": "kiwi:hat:pixel-cowboy",
           "name": "Cowboy Hat",
           "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:head:pixel-knight-helmet",
+          "name": "Knight Helmet",
+          "category": "Kiwi Full Head",
           "rarity": "rare"
         },
         {
@@ -1335,6 +1341,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Knight Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787927101
+        },
+        {
           "name": "Blue Beanie",
           "category": "Kiwi Hat",
           "rarity": "common",
@@ -1349,18 +1363,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787926768
-        },
-        {
-          "name": "Blue Sneakers",
-          "category": "Kiwi Boots / Shoes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787926765
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 5,
+        "cosmetics_unlocked": 6,
         "cosmetics_available": 41,
         "text_effects_unlocked": 8,
         "text_effects_available": 25,

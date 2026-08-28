@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787926977,
+  "generatedAt": 1787927102,
   "count": 50,
   "activities": [
+    {
+      "id": "d816a784fba2a3f7",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Knight Helmet",
+      "timestamp": 1787927101,
+      "rarity": "rare",
+      "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "2c18a1c5449ec737",
       "type": "unlock",
@@ -461,16 +471,6 @@
       "text": "unlocked Red Text",
       "timestamp": 1787053351,
       "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "635f78ad31ddda25",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Electric Arc Text",
-      "timestamp": 1786899701,
-      "rarity": "rare",
       "category": "Text Effect",
       "rewardType": "text effect"
     }

@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787926977,
+  "generatedAt": 1787927102,
   "totalViewers": 603,
-  "totalShinies": 2029892,
+  "totalShinies": 2026392,
   "pageSize": 100,
   "entries": [
     {
@@ -121,33 +121,33 @@
     },
     {
       "rank": 24,
-      "name": "axolotl_eu",
-      "shinies": 15510
-    },
-    {
-      "rank": 25,
       "name": "elronoce",
       "shinies": 14970
     },
     {
-      "rank": 26,
+      "rank": 25,
       "name": "axoim_",
       "shinies": 14004
     },
     {
-      "rank": 27,
+      "rank": 26,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 28,
+      "rank": 27,
       "name": "watchbehinddude",
       "shinies": 12756
     },
     {
-      "rank": 29,
+      "rank": 28,
       "name": "bonghits4cthulhu",
       "shinies": 12424
+    },
+    {
+      "rank": 29,
+      "name": "axolotl_eu",
+      "shinies": 12010
     },
     {
       "rank": 30,
