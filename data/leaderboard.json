@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787933756,
+  "generatedAt": 1787933883,
   "totalViewers": 607,
-  "totalShinies": 2085896,
+  "totalShinies": 2086380,
   "pageSize": 100,
   "entries": [
     {
@@ -476,28 +476,28 @@
     },
     {
       "rank": 95,
+      "name": "mesaber",
+      "shinies": 4176
+    },
+    {
+      "rank": 96,
       "name": "bartender_11",
       "shinies": 4004
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "jjones666",
       "shinies": 4002
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "kotaotake",
       "shinies": 3968
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "nightfalldeceit",
       "shinies": 3786
-    },
-    {
-      "rank": 99,
-      "name": "mesaber",
-      "shinies": 3692
     },
     {
       "rank": 100,
