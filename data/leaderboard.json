@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787924201,
+  "generatedAt": 1787924381,
   "totalViewers": 600,
-  "totalShinies": 2016650,
+  "totalShinies": 2017650,
   "pageSize": 100,
   "entries": [
     {
@@ -146,18 +146,18 @@
     },
     {
       "rank": 29,
+      "name": "bonghits4cthulhu",
+      "shinies": 12424
+    },
+    {
+      "rank": 30,
       "name": "our_lord_and_savior_gonk",
       "shinies": 11556
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "warriot",
       "shinies": 11454
-    },
-    {
-      "rank": 31,
-      "name": "bonghits4cthulhu",
-      "shinies": 11424
     },
     {
       "rank": 32,
