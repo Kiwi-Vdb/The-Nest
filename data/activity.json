@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1787929662,
+  "generatedAt": 1787929696,
   "count": 50,
   "activities": [
+    {
+      "id": "2c2932981f206493",
+      "type": "prediction",
+      "who": "sharpishdog",
+      "text": "won 1,000 Shinies in a prediction: Will Team Dog WIn?",
+      "timestamp": 1787929695,
+      "amount": 1000
+    },
     {
       "id": "d816a784fba2a3f7",
       "type": "unlock",
@@ -461,16 +469,6 @@
       "text": "unlocked Glitch Sweep Text",
       "timestamp": 1787055543,
       "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "7b7681cb54f8e3db",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Red Text",
-      "timestamp": 1787053351,
-      "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
     }
