@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787922673,
+  "generatedAt": 1787923033,
   "totalViewers": 599,
-  "totalShinies": 2009678,
+  "totalShinies": 2010162,
   "pageSize": 100,
   "entries": [
     {
@@ -211,18 +211,18 @@
     },
     {
       "rank": 42,
+      "name": "goobmilk",
+      "shinies": 9272
+    },
+    {
+      "rank": 43,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "jigglyjake22",
       "shinies": 9004
-    },
-    {
-      "rank": 44,
-      "name": "goobmilk",
-      "shinies": 8788
     },
     {
       "rank": 45,
