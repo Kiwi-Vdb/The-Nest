@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787925119,
+  "generatedAt": 1787925430,
   "totalViewers": 602,
-  "totalShinies": 2020436,
+  "totalShinies": 2020770,
   "pageSize": 100,
   "entries": [
     {
@@ -341,28 +341,28 @@
     },
     {
       "rank": 68,
+      "name": "heltoff",
+      "shinies": 5938
+    },
+    {
+      "rank": 69,
       "name": "philaeux",
       "shinies": 5820
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "aidannaut",
       "shinies": 5818
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "rowanmorseyt",
       "shinies": 5818
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "sashkorin",
       "shinies": 5670
-    },
-    {
-      "rank": 72,
-      "name": "heltoff",
-      "shinies": 5604
     },
     {
       "rank": 73,
