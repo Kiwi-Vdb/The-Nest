@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1787936265,
+  "generatedAt": 1787936325,
   "count": 50,
   "activities": [
     {
@@ -424,14 +424,6 @@
       "amount": 2000
     },
     {
-      "id": "e99a20adf200f62d",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 2,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787066194,
-      "amount": 2000
-    },
-    {
       "id": "686f3d450c9a7bd6",
       "type": "unlock",
       "who": "halfyourlife",
@@ -479,6 +471,16 @@
       "timestamp": 1786899647,
       "rarity": "common",
       "category": "Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "86ec6378cb005339",
+      "type": "unlock",
+      "who": "professor_bar",
+      "text": "unlocked Sword",
+      "timestamp": 1786899646,
+      "rarity": "common",
+      "category": "Hand",
       "rewardType": "cosmetic"
     }
   ]
