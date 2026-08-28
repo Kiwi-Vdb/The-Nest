@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787936877,
+  "generated_at": 1787936884,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -6624,6 +6624,12 @@
           "rarity": "uncommon"
         },
         {
+          "id": "kiwi:wings:pixel-wooden-shield",
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:wings:pixel-coffee-mug",
           "name": "Coffee Mug",
           "category": "Kiwi Wings / Held Objects",
@@ -6693,7 +6699,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 4,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
         "text_effects_unlocked": 3,
         "text_effects_available": 25,
