@@ -1,7 +1,47 @@
 {
-  "generatedAt": 1787926756,
+  "generatedAt": 1787926775,
   "count": 50,
   "activities": [
+    {
+      "id": "2c18a1c5449ec737",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Blue Beanie",
+      "timestamp": 1787926774,
+      "rarity": "common",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "6fff26840ab52dac",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Eyepatch",
+      "timestamp": 1787926768,
+      "rarity": "common",
+      "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "a0491f9a403c5c07",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Blue Sneakers",
+      "timestamp": 1787926765,
+      "rarity": "common",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "55f87257be968df8",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Duck Bill",
+      "timestamp": 1787926760,
+      "rarity": "common",
+      "category": "Kiwi Beak",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "a0e2c4746658b28f",
       "type": "unlock",
@@ -433,46 +473,6 @@
       "rarity": "rare",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "96f8cb8ff3f2f956",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Wizards Hat",
-      "timestamp": 1786899649,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "9ab4a9f139168108",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Witch Hat",
-      "timestamp": 1786899647,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "86ec6378cb005339",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Sword",
-      "timestamp": 1786899646,
-      "rarity": "common",
-      "category": "Hand",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "a07967b619436861",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Sun Beam",
-      "timestamp": 1786899645,
-      "rarity": "legendary",
-      "category": "Emote",
-      "rewardType": "cosmetic"
     }
   ]
 }

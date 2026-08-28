@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787926756,
+  "generated_at": 1787926775,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -1242,6 +1242,30 @@
           "name": "Cowboy Hat",
           "category": "Kiwi Hat",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:hat:pixel-blue-beanie",
+          "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:eyes:pixel-eyepatch",
+          "name": "Eyepatch",
+          "category": "Kiwi Eyes",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:beak:pixel-duck",
+          "name": "Duck Bill",
+          "category": "Kiwi Beak",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-blue-sneakers",
+          "name": "Blue Sneakers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [
@@ -1311,36 +1335,36 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
-          "name": "Cowboy Hat",
+          "name": "Blue Beanie",
           "category": "Kiwi Hat",
-          "rarity": "rare",
+          "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787926755
+          "timestamp": 1787926774
         },
         {
-          "name": "Angel Wings",
-          "category": "Back",
-          "rarity": "rare",
+          "name": "Eyepatch",
+          "category": "Kiwi Eyes",
+          "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787070217
+          "timestamp": 1787926768
         },
         {
-          "name": "Sun Beam",
-          "category": "Emote",
-          "rarity": "legendary",
+          "name": "Blue Sneakers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1787070203
+          "timestamp": 1787926765
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
         "text_effects_unlocked": 8,
         "text_effects_available": 25,
-        "recent_unlocks": 19
+        "recent_unlocks": 20
       }
     },
     "baas_h": {
