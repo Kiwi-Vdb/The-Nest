@@ -1,7 +1,16 @@
 {
-  "generatedAt": 1787930864,
+  "generatedAt": 1787930984,
   "count": 50,
   "activities": [
+    {
+      "id": "388c39bd2c70084d",
+      "type": "gift",
+      "who": "itsvdb",
+      "text": "gifted 2,000 Shinies to kingjaos",
+      "timestamp": 1787930969,
+      "amount": 2000,
+      "target": "kingjaos"
+    },
     {
       "id": "2c2932981f206493",
       "type": "prediction",
@@ -461,16 +470,6 @@
       "text": "won 2,000 Shinies in a prediction: Does VDB win?",
       "timestamp": 1787061170,
       "amount": 2000
-    },
-    {
-      "id": "686f3d450c9a7bd6",
-      "type": "unlock",
-      "who": "halfyourlife",
-      "text": "unlocked Glitch Sweep Text",
-      "timestamp": 1787055543,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
