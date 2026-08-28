@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787935366,
+  "generatedAt": 1787935451,
   "totalViewers": 612,
-  "totalShinies": 2109718,
+  "totalShinies": 2109218,
   "pageSize": 100,
   "entries": [
     {
@@ -241,23 +241,23 @@
     },
     {
       "rank": 48,
-      "name": "goliathmaroof",
-      "shinies": 8922
-    },
-    {
-      "rank": 49,
       "name": "globe2deag",
       "shinies": 8640
     },
     {
-      "rank": 50,
+      "rank": 49,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 51,
+      "rank": 50,
       "name": "liarturil",
       "shinies": 8488
+    },
+    {
+      "rank": 51,
+      "name": "goliathmaroof",
+      "shinies": 8422
     },
     {
       "rank": 52,
