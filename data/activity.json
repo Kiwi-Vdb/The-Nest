@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1787936565,
+  "generatedAt": 1787936586,
   "count": 50,
   "activities": [
+    {
+      "id": "84013c4ca5204027",
+      "type": "prediction",
+      "who": "iamdibi",
+      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1787936586,
+      "amount": 1500
+    },
     {
       "id": "1a56b4000d695b0d",
       "type": "prediction",
@@ -471,16 +479,6 @@
       "timestamp": 1786899647,
       "rarity": "common",
       "category": "Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "86ec6378cb005339",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Sword",
-      "timestamp": 1786899646,
-      "rarity": "common",
-      "category": "Hand",
       "rewardType": "cosmetic"
     }
   ]
