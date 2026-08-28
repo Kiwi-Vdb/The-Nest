@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787926661,
+  "generatedAt": 1787926756,
   "count": 50,
   "activities": [
+    {
+      "id": "a0e2c4746658b28f",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Cowboy Hat",
+      "timestamp": 1787926755,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "4c0bbb230dc30b0f",
       "type": "prediction",
@@ -462,16 +472,6 @@
       "timestamp": 1786899645,
       "rarity": "legendary",
       "category": "Emote",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "6d58e5f782e3542d",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Sultans Hat",
-      "timestamp": 1786899644,
-      "rarity": "rare",
-      "category": "Hat",
       "rewardType": "cosmetic"
     }
   ]

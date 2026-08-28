@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787926661,
+  "generated_at": 1787926756,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -1236,7 +1236,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:hat:pixel-cowboy",
+          "name": "Cowboy Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-yellow",
@@ -1304,6 +1311,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Cowboy Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787926755
+        },
+        {
           "name": "Angel Wings",
           "category": "Back",
           "rarity": "rare",
@@ -1318,22 +1333,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787070203
-        },
-        {
-          "name": "Aurora Drift Text",
-          "category": "Text Effect",
-          "rarity": "rare",
-          "type": "text_effect",
-          "text_effect": "text-aurora-drift",
-          "timestamp": 1787070165
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 41,
         "text_effects_unlocked": 8,
         "text_effects_available": 25,
-        "recent_unlocks": 18
+        "recent_unlocks": 19
       }
     },
     "baas_h": {
