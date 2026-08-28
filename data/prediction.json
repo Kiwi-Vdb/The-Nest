@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1787926803,
+  "generatedAt": 1787926856,
   "active": true,
-  "status": "open",
+  "status": "closed",
   "id": 1787926796,
   "question": "Will Team Dog WIn?",
   "prize": 1000,
   "totalPicks": 1,
   "startedAt": 1787926796,
-  "closedAt": null,
+  "closedAt": 1787926856,
   "options": [
     {
       "label": "yes",
