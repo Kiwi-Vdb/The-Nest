@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787936805,
+  "generated_at": 1787936877,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -2208,7 +2208,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 93684,
+        "balance": 94684,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6602,7 +6602,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 63564,
+        "balance": 61564,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6665,8 +6665,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 10,
+      "loot_boxes_opened": 11,
       "recent_unlocks": [
+        {
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787936876
+        },
         {
           "name": "Pink Slippers",
           "category": "Kiwi Boots / Shoes",
@@ -6682,14 +6690,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787482077
-        },
-        {
-          "name": "Coffee Mug",
-          "category": "Kiwi Wings / Held Objects",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787482015
         }
       ],
       "totals": {
@@ -6697,7 +6697,7 @@
         "cosmetics_available": 41,
         "text_effects_unlocked": 3,
         "text_effects_available": 25,
-        "recent_unlocks": 14
+        "recent_unlocks": 15
       }
     },
     "iamketpain": {
