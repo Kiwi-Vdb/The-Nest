@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787933277,
+  "generatedAt": 1787933302,
   "totalViewers": 607,
-  "totalShinies": 2082244,
+  "totalShinies": 2081594,
   "pageSize": 100,
   "entries": [
     {
@@ -111,18 +111,18 @@
     },
     {
       "rank": 22,
-      "name": "cozzwald",
-      "shinies": 15710
-    },
-    {
-      "rank": 23,
       "name": "kiddorox",
       "shinies": 15670
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "elronoce",
       "shinies": 14970
+    },
+    {
+      "rank": 24,
+      "name": "cozzwald",
+      "shinies": 14910
     },
     {
       "rank": 25,
@@ -297,7 +297,7 @@
     {
       "rank": 59,
       "name": "imth3apollo",
-      "shinies": 6986
+      "shinies": 7136
     },
     {
       "rank": 60,
