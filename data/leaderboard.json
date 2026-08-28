@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787928755,
+  "generatedAt": 1787928757,
   "totalViewers": 604,
-  "totalShinies": 2041448,
+  "totalShinies": 2041598,
   "pageSize": 100,
   "entries": [
     {
@@ -461,23 +461,23 @@
     },
     {
       "rank": 92,
-      "name": "siven12",
+      "name": "pauperbanaan",
       "shinies": 4120
     },
     {
       "rank": 93,
+      "name": "siven12",
+      "shinies": 4120
+    },
+    {
+      "rank": 94,
       "name": "bartender_11",
       "shinies": 4004
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "jjones666",
       "shinies": 4002
-    },
-    {
-      "rank": 95,
-      "name": "pauperbanaan",
-      "shinies": 3970
     },
     {
       "rank": 96,
