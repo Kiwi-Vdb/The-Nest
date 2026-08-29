@@ -1,7 +1,16 @@
 {
-  "generatedAt": 1787998478,
+  "generatedAt": 1787998534,
   "count": 50,
   "activities": [
+    {
+      "id": "4744091914376866",
+      "type": "gift",
+      "who": "goliathmaroof",
+      "text": "gifted 100 Shinies to bot_kiwi_birb",
+      "timestamp": 1787998533,
+      "amount": 100,
+      "target": "bot_kiwi_birb"
+    },
     {
       "id": "94c11831931da596",
       "type": "gift",
@@ -475,16 +484,6 @@
       "text": "won 100 Shinies in a prediction: test",
       "timestamp": 1787084538,
       "amount": 100
-    },
-    {
-      "id": "87cfcdf60cd64693",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Angel Wings",
-      "timestamp": 1787070217,
-      "rarity": "rare",
-      "category": "Back",
-      "rewardType": "cosmetic"
     }
   ]
 }
