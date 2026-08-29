@@ -1,7 +1,16 @@
 {
-  "generatedAt": 1787998439,
+  "generatedAt": 1787998478,
   "count": 50,
   "activities": [
+    {
+      "id": "94c11831931da596",
+      "type": "gift",
+      "who": "bar_outofmana",
+      "text": "gifted 2,000 Shinies to kingjaos",
+      "timestamp": 1787998475,
+      "amount": 2000,
+      "target": "kingjaos"
+    },
     {
       "id": "dc4bcf293f161ebd",
       "type": "unlock",
@@ -475,16 +484,6 @@
       "timestamp": 1787070217,
       "rarity": "rare",
       "category": "Back",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "98614f1ce58627d1",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Sun Beam",
-      "timestamp": 1787070203,
-      "rarity": "legendary",
-      "category": "Emote",
       "rewardType": "cosmetic"
     }
   ]
