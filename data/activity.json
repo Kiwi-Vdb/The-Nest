@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787996361,
+  "generatedAt": 1787996514,
   "count": 50,
   "activities": [
+    {
+      "id": "dc4bcf293f161ebd",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Green Text",
+      "timestamp": 1787996513,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "0124856913a62ad3",
       "type": "unlock",
@@ -476,16 +486,6 @@
       "rarity": "legendary",
       "category": "Emote",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "87c89115132eec68",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Aurora Drift Text",
-      "timestamp": 1787070165,
-      "rarity": "rare",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }

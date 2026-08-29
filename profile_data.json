@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787996361,
+  "generated_at": 1787996514,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -8258,7 +8258,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 5452,
+        "balance": 4952,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -8305,11 +8305,26 @@
           "rarity": "rare",
           "class_name": "text-wavy",
           "equip_command": "!equiptext Wavy"
+        },
+        {
+          "id": "text-green",
+          "name": "Green Text",
+          "rarity": "common",
+          "class_name": "text-green",
+          "equip_command": "!equiptext Green"
         }
       ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
+        {
+          "name": "Green Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-green",
+          "timestamp": 1787996513
+        },
         {
           "name": "Wavy Text",
           "category": "Text Effect",
@@ -8325,22 +8340,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787996289
-        },
-        {
-          "name": "Eyepatch",
-          "category": "Kiwi Eyes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787996282
         }
       ],
       "totals": {
         "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 1,
+        "text_effects_unlocked": 2,
         "text_effects_available": 25,
-        "recent_unlocks": 7
+        "recent_unlocks": 8
       }
     },
     "kotercillo": {
