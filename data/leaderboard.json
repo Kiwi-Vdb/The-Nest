@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787997422,
+  "generatedAt": 1787997604,
   "totalViewers": 613,
-  "totalShinies": 2129468,
+  "totalShinies": 2129802,
   "pageSize": 100,
   "entries": [
     {
@@ -326,18 +326,18 @@
     },
     {
       "rank": 65,
+      "name": "hexu0x",
+      "shinies": 6338
+    },
+    {
+      "rank": 66,
       "name": "heltoff",
       "shinies": 6272
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "pauperbanaan",
       "shinies": 6120
-    },
-    {
-      "rank": 67,
-      "name": "hexu0x",
-      "shinies": 6004
     },
     {
       "rank": 68,
