@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1787996350,
+  "generatedAt": 1787996361,
   "count": 50,
   "activities": [
+    {
+      "id": "0124856913a62ad3",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Wavy Text",
+      "timestamp": 1787996350,
+      "rarity": "rare",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "9c6df4e8ad018c80",
       "type": "unlock",
@@ -476,14 +486,6 @@
       "rarity": "rare",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "4d803da32b5662af",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 1,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787069257,
-      "amount": 1000
     }
   ]
 }
