@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787996290,
+  "generated_at": 1787996351,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -8298,10 +8298,26 @@
           "rarity": "uncommon"
         }
       ],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-wavy",
+          "name": "Wavy Text",
+          "rarity": "rare",
+          "class_name": "text-wavy",
+          "equip_command": "!equiptext Wavy"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
+        {
+          "name": "Wavy Text",
+          "category": "Text Effect",
+          "rarity": "rare",
+          "type": "text_effect",
+          "text_effect": "text-wavy",
+          "timestamp": 1787996350
+        },
         {
           "name": "Tuxedo",
           "category": "Kiwi Body",
@@ -8317,22 +8333,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787996282
-        },
-        {
-          "name": "Red Gumboots",
-          "category": "Kiwi Boots / Shoes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787996277
         }
       ],
       "totals": {
         "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 6
+        "recent_unlocks": 7
       }
     },
     "kotercillo": {
