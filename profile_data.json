@@ -1,5 +1,5 @@
 {
-  "generated_at": 1787996009,
+  "generated_at": 1787996290,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -8266,26 +8266,73 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:eyes:pixel-amber-irises",
+          "name": "Amber Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-red-gumboots",
+          "name": "Red Gumboots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-gold-crown",
+          "name": "Gold Crown",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:eyes:pixel-eyepatch",
+          "name": "Eyepatch",
+          "category": "Kiwi Eyes",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:body:pixel-tuxedo",
+          "name": "Tuxedo",
+          "category": "Kiwi Body",
+          "rarity": "uncommon"
+        }
+      ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
       "recent_unlocks": [
         {
-          "name": "Santa Hat",
-          "category": "Hat",
+          "name": "Tuxedo",
+          "category": "Kiwi Body",
+          "rarity": "uncommon",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787996289
+        },
+        {
+          "name": "Eyepatch",
+          "category": "Kiwi Eyes",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1782919398
+          "timestamp": 1787996282
+        },
+        {
+          "name": "Red Gumboots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1787996277
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 1
+        "recent_unlocks": 6
       }
     },
     "kotercillo": {

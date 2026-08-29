@@ -1,7 +1,57 @@
 {
-  "generatedAt": 1787996009,
+  "generatedAt": 1787996290,
   "count": 50,
   "activities": [
+    {
+      "id": "9c6df4e8ad018c80",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Tuxedo",
+      "timestamp": 1787996289,
+      "rarity": "uncommon",
+      "category": "Kiwi Body",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "63c491e96976404e",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Eyepatch",
+      "timestamp": 1787996282,
+      "rarity": "common",
+      "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "8382e374b2cc0f26",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Red Gumboots",
+      "timestamp": 1787996277,
+      "rarity": "common",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "d0e6036cc82879b9",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Gold Crown",
+      "timestamp": 1787996271,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "bc0860ee7a3c1f58",
+      "type": "unlock",
+      "who": "kotaotake",
+      "text": "unlocked Amber Irises",
+      "timestamp": 1787996265,
+      "rarity": "common",
+      "category": "Kiwi Eye Colour",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "a967f31546ec9ff3",
       "type": "unlock",
@@ -434,54 +484,6 @@
       "text": "won 1,000 Shinies in a prediction: Does VDB win?",
       "timestamp": 1787069257,
       "amount": 1000
-    },
-    {
-      "id": "a46e93ef6da14daa",
-      "type": "prediction",
-      "who": "axolotl_eu",
-      "text": "won 1,000 Shinies in a prediction: Does VDB win?",
-      "timestamp": 1787069256,
-      "amount": 1000
-    },
-    {
-      "id": "686f3d450c9a7bd6",
-      "type": "unlock",
-      "who": "halfyourlife",
-      "text": "unlocked Glitch Sweep Text",
-      "timestamp": 1787055543,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "7b7681cb54f8e3db",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Red Text",
-      "timestamp": 1787053351,
-      "rarity": "common",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "635f78ad31ddda25",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Electric Arc Text",
-      "timestamp": 1786899701,
-      "rarity": "rare",
-      "category": "Text Effect",
-      "rewardType": "text effect"
-    },
-    {
-      "id": "96f8cb8ff3f2f956",
-      "type": "unlock",
-      "who": "professor_bar",
-      "text": "unlocked Wizards Hat",
-      "timestamp": 1786899649,
-      "rarity": "common",
-      "category": "Hat",
-      "rewardType": "cosmetic"
     }
   ]
 }
