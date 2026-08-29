@@ -244,8 +244,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": -16,
-              "y": -16,
+              "x": -8,
+              "y": -12,
               "zLevel": 1
             }
           ],
@@ -496,7 +496,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "cropLeft": 0,
               "cropRight": 0,
               "cropTop": 0,
-              "file": "eyes-eyepatch.png",
+              "file": "custom-kiwi-eyes-pixel-eyepatch-eyes-eyepatch.png",
               "flipX": false,
               "flipY": false,
               "id": "main",
@@ -510,8 +510,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": 12,
+              "y": -212,
               "zLevel": 8
             }
           ],
@@ -587,7 +587,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0,
+              "y": -4,
               "zLevel": 8
             }
           ],
@@ -700,8 +700,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": 4,
+              "y": -16,
               "zLevel": 8
             }
           ],
@@ -853,7 +853,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0,
+              "y": -8,
               "zLevel": 8
             }
           ],
@@ -960,14 +960,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "opacity": 1,
               "placement": "top",
               "rotation": 0.0,
-              "scaleX": 1.0,
-              "scaleY": 1.0,
+              "scaleX": 1.3842,
+              "scaleY": 1.3842,
               "skewX": 0.0,
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": -8,
+              "y": 24,
               "zLevel": 10
             }
           ],
@@ -998,14 +998,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "opacity": 1,
               "placement": "top",
               "rotation": 0.0,
-              "scaleX": 1.5126,
-              "scaleY": 1.5126,
+              "scaleX": 1.6529,
+              "scaleY": 1.6529,
               "skewX": 0.0,
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": -4,
-              "y": 40,
+              "x": 4,
+              "y": 112,
               "zLevel": 10
             }
           ],
@@ -1066,7 +1066,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "cropLeft": 0,
               "cropRight": 0,
               "cropTop": 0,
-              "file": "hat-gold-crown.png",
+              "file": "custom-kiwi-hat-pixel-gold-crown-hat-gold-crown.png",
               "flipX": false,
               "flipY": false,
               "id": "main",
@@ -1074,14 +1074,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "opacity": 1,
               "placement": "top",
               "rotation": 0.0,
-              "scaleX": 1.4685,
-              "scaleY": 1.4685,
+              "scaleX": 1.3743,
+              "scaleY": 1.3743,
               "skewX": 0.0,
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": -8,
-              "y": 144,
+              "x": 4,
+              "y": -128,
               "zLevel": 10
             }
           ],
@@ -1256,7 +1256,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "cropLeft": 0,
               "cropRight": 0,
               "cropTop": 0,
-              "file": "head-knight-helmet.png",
+              "file": "custom-kiwi-head-pixel-knight-helmet-head-knight-helmet.png",
               "flipX": false,
               "flipY": false,
               "id": "main",
@@ -1270,8 +1270,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 4,
-              "y": -8,
+              "x": 0,
+              "y": -140,
               "zLevel": 8
             }
           ],
@@ -1378,14 +1378,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "opacity": 1,
               "placement": "front",
               "rotation": 0.0,
-              "scaleX": 1.0,
-              "scaleY": 1.0,
+              "scaleX": 0.8065,
+              "scaleY": 0.8065,
               "skewX": 0.0,
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0,
+              "y": -40,
               "zLevel": 8
             }
           ],
@@ -1460,8 +1460,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": 44,
+              "y": 16,
               "zLevel": 8
             }
           ],
@@ -1498,8 +1498,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": -160,
+              "y": 88,
               "zLevel": 8
             }
           ],
@@ -1522,7 +1522,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "cropLeft": 0,
               "cropRight": 0,
               "cropTop": 0,
-              "file": "wings-simple-sword.png",
+              "file": "custom-kiwi-wings-pixel-simple-sword-wings-simple-sword.png",
               "flipX": false,
               "flipY": false,
               "id": "main",
@@ -1536,8 +1536,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": -300,
+              "y": 28,
               "zLevel": 8
             }
           ],
@@ -1560,7 +1560,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "cropLeft": 0,
               "cropRight": 0,
               "cropTop": 0,
-              "file": "wings-wooden-shield.png",
+              "file": "custom-kiwi-wings-pixel-wooden-shield-wings-wooden-shield.png",
               "flipX": false,
               "flipY": false,
               "id": "main",
@@ -1574,14 +1574,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "skewY": 0.0,
               "staticFile": "",
               "visible": true,
-              "x": 0,
-              "y": 0,
+              "x": 152,
+              "y": 164,
               "zLevel": 8
             }
           ],
           "scale": 1.0,
           "slot": "wings",
-          "wingMode": "viewer-left",
+          "wingMode": "viewer-right",
           "x": 0,
           "y": 0
         }
@@ -1822,8 +1822,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": -16,
-          "y": -16,
+          "x": -8,
+          "y": -12,
           "zLevel": 1
         }
       ],
@@ -2074,7 +2074,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "cropLeft": 0,
           "cropRight": 0,
           "cropTop": 0,
-          "file": "eyes-eyepatch.png",
+          "file": "custom-kiwi-eyes-pixel-eyepatch-eyes-eyepatch.png",
           "flipX": false,
           "flipY": false,
           "id": "main",
@@ -2088,8 +2088,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": 12,
+          "y": -212,
           "zLevel": 8
         }
       ],
@@ -2165,7 +2165,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0,
+          "y": -4,
           "zLevel": 8
         }
       ],
@@ -2278,8 +2278,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": 4,
+          "y": -16,
           "zLevel": 8
         }
       ],
@@ -2431,7 +2431,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0,
+          "y": -8,
           "zLevel": 8
         }
       ],
@@ -2538,14 +2538,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "opacity": 1,
           "placement": "top",
           "rotation": 0.0,
-          "scaleX": 1.0,
-          "scaleY": 1.0,
+          "scaleX": 1.3842,
+          "scaleY": 1.3842,
           "skewX": 0.0,
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": -8,
+          "y": 24,
           "zLevel": 10
         }
       ],
@@ -2576,14 +2576,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "opacity": 1,
           "placement": "top",
           "rotation": 0.0,
-          "scaleX": 1.5126,
-          "scaleY": 1.5126,
+          "scaleX": 1.6529,
+          "scaleY": 1.6529,
           "skewX": 0.0,
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": -4,
-          "y": 40,
+          "x": 4,
+          "y": 112,
           "zLevel": 10
         }
       ],
@@ -2644,7 +2644,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "cropLeft": 0,
           "cropRight": 0,
           "cropTop": 0,
-          "file": "hat-gold-crown.png",
+          "file": "custom-kiwi-hat-pixel-gold-crown-hat-gold-crown.png",
           "flipX": false,
           "flipY": false,
           "id": "main",
@@ -2652,14 +2652,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "opacity": 1,
           "placement": "top",
           "rotation": 0.0,
-          "scaleX": 1.4685,
-          "scaleY": 1.4685,
+          "scaleX": 1.3743,
+          "scaleY": 1.3743,
           "skewX": 0.0,
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": -8,
-          "y": 144,
+          "x": 4,
+          "y": -128,
           "zLevel": 10
         }
       ],
@@ -2834,7 +2834,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "cropLeft": 0,
           "cropRight": 0,
           "cropTop": 0,
-          "file": "head-knight-helmet.png",
+          "file": "custom-kiwi-head-pixel-knight-helmet-head-knight-helmet.png",
           "flipX": false,
           "flipY": false,
           "id": "main",
@@ -2848,8 +2848,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 4,
-          "y": -8,
+          "x": 0,
+          "y": -140,
           "zLevel": 8
         }
       ],
@@ -2956,14 +2956,14 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "opacity": 1,
           "placement": "front",
           "rotation": 0.0,
-          "scaleX": 1.0,
-          "scaleY": 1.0,
+          "scaleX": 0.8065,
+          "scaleY": 0.8065,
           "skewX": 0.0,
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0,
+          "y": -40,
           "zLevel": 8
         }
       ],
@@ -3038,8 +3038,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": 44,
+          "y": 16,
           "zLevel": 8
         }
       ],
@@ -3076,8 +3076,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": -160,
+          "y": 88,
           "zLevel": 8
         }
       ],
@@ -3100,7 +3100,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "cropLeft": 0,
           "cropRight": 0,
           "cropTop": 0,
-          "file": "wings-simple-sword.png",
+          "file": "custom-kiwi-wings-pixel-simple-sword-wings-simple-sword.png",
           "flipX": false,
           "flipY": false,
           "id": "main",
@@ -3114,8 +3114,8 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": -300,
+          "y": 28,
           "zLevel": 8
         }
       ],
@@ -3138,7 +3138,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "cropLeft": 0,
           "cropRight": 0,
           "cropTop": 0,
-          "file": "wings-wooden-shield.png",
+          "file": "custom-kiwi-wings-pixel-wooden-shield-wings-wooden-shield.png",
           "flipX": false,
           "flipY": false,
           "id": "main",
@@ -3152,20 +3152,20 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "skewY": 0.0,
           "staticFile": "",
           "visible": true,
-          "x": 0,
-          "y": 0,
+          "x": 152,
+          "y": 164,
           "zLevel": 8
         }
       ],
       "scale": 1.0,
       "slot": "wings",
-      "wingMode": "viewer-left",
+      "wingMode": "viewer-right",
       "x": 0,
       "y": 0
     }
   },
   "logicalCanvas": 240,
   "pixelScale": 4,
-  "revision": "20260827115756070371",
+  "revision": "20260829062845864433",
   "version": 8
 };
