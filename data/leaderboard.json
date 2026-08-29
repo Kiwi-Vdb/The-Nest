@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1787998583,
+  "generatedAt": 1787998630,
   "totalViewers": 614,
-  "totalShinies": 2127606,
+  "totalShinies": 2126606,
   "pageSize": 100,
   "entries": [
     {
@@ -47,7 +47,7 @@
     {
       "rank": 9,
       "name": "bar_outofmana",
-      "shinies": 47946
+      "shinies": 47446
     },
     {
       "rank": 10,
@@ -286,23 +286,23 @@
     },
     {
       "rank": 57,
-      "name": "goliathmaroof",
-      "shinies": 7806
-    },
-    {
-      "rank": 58,
       "name": "zeeburgapm",
       "shinies": 7754
     },
     {
-      "rank": 59,
+      "rank": 58,
       "name": "dhisame",
       "shinies": 7490
     },
     {
-      "rank": 60,
+      "rank": 59,
       "name": "pownage227",
       "shinies": 7488
+    },
+    {
+      "rank": 60,
+      "name": "goliathmaroof",
+      "shinies": 7306
     },
     {
       "rank": 61,
