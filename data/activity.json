@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788188637,
+  "generatedAt": 1788188886,
   "count": 50,
   "activities": [
     {
@@ -478,12 +478,14 @@
       "rewardType": "cosmetic"
     },
     {
-      "id": "e425f538666043f2",
-      "type": "prediction",
-      "who": "itsvdb",
-      "text": "won 100 Shinies in a prediction: test",
-      "timestamp": 1787084538,
-      "amount": 100
+      "id": "87cfcdf60cd64693",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Angel Wings",
+      "timestamp": 1787070217,
+      "rarity": "rare",
+      "category": "Back",
+      "rewardType": "cosmetic"
     }
   ]
 }
