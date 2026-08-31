@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788203108,
+  "generatedAt": 1788203190,
   "totalViewers": 623,
-  "totalShinies": 2198518,
+  "totalShinies": 2199518,
   "pageSize": 100,
   "entries": [
     {
@@ -191,28 +191,28 @@
     },
     {
       "rank": 38,
+      "name": "ibonbe",
+      "shinies": 11336
+    },
+    {
+      "rank": 39,
       "name": "goobmilk",
       "shinies": 11272
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "dhisame",
       "shinies": 10974
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "jigglyjake22",
       "shinies": 10806
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "slicklikevik",
       "shinies": 10606
-    },
-    {
-      "rank": 42,
-      "name": "ibonbe",
-      "shinies": 10336
     },
     {
       "rank": 43,
