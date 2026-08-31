@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788217087,
+  "generatedAt": 1788217293,
   "totalViewers": 642,
-  "totalShinies": 2262414,
+  "totalShinies": 2263414,
   "pageSize": 100,
   "entries": [
     {
@@ -321,37 +321,37 @@
     },
     {
       "rank": 64,
+      "name": "ruphin",
+      "shinies": 7636
+    },
+    {
+      "rank": 65,
       "name": "jermeis7er",
       "shinies": 7336
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "florio_bar",
       "shinies": 6936
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "goliathmaroof",
       "shinies": 6790
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "hexu0x",
       "shinies": 6672
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "akkaiiie",
       "shinies": 6670
     },
     {
-      "rank": 69,
-      "name": "oumuamua_i1",
-      "shinies": 6636
-    },
-    {
       "rank": 70,
-      "name": "ruphin",
+      "name": "oumuamua_i1",
       "shinies": 6636
     },
     {
