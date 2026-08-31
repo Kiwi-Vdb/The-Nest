@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788212613,
+  "generatedAt": 1788212673,
   "totalViewers": 637,
-  "totalShinies": 2235108,
+  "totalShinies": 2236108,
   "pageSize": 100,
   "entries": [
     {
@@ -116,18 +116,18 @@
     },
     {
       "rank": 23,
+      "name": "laggyaskittens",
+      "shinies": 17936
+    },
+    {
+      "rank": 24,
       "name": "watchbehinddude",
       "shinies": 17574
     },
     {
-      "rank": 24,
+      "rank": 25,
       "name": "kiddorox",
       "shinies": 17004
-    },
-    {
-      "rank": 25,
-      "name": "laggyaskittens",
-      "shinies": 16936
     },
     {
       "rank": 26,
