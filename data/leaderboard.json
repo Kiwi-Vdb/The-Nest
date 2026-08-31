@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788198777,
+  "generatedAt": 1788198809,
   "totalViewers": 620,
-  "totalShinies": 2181096,
+  "totalShinies": 2182096,
   "pageSize": 100,
   "entries": [
     {
@@ -141,18 +141,18 @@
     },
     {
       "rank": 28,
+      "name": "watchbehinddude",
+      "shinies": 14424
+    },
+    {
+      "rank": 29,
       "name": "laggyaskittens",
       "shinies": 13786
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "professor_bar",
       "shinies": 13634
-    },
-    {
-      "rank": 30,
-      "name": "watchbehinddude",
-      "shinies": 13424
     },
     {
       "rank": 31,
