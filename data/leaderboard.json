@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788193710,
+  "generatedAt": 1788193855,
   "totalViewers": 618,
-  "totalShinies": 2150066,
+  "totalShinies": 2150400,
   "pageSize": 100,
   "entries": [
     {
@@ -211,18 +211,18 @@
     },
     {
       "rank": 42,
+      "name": "globe2deag",
+      "shinies": 9974
+    },
+    {
+      "rank": 43,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "alishhk",
       "shinies": 9756
-    },
-    {
-      "rank": 44,
-      "name": "globe2deag",
-      "shinies": 9640
     },
     {
       "rank": 45,
