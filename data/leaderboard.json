@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788210332,
+  "generatedAt": 1788210392,
   "totalViewers": 634,
-  "totalShinies": 2227286,
+  "totalShinies": 2228286,
   "pageSize": 100,
   "entries": [
     {
@@ -156,18 +156,18 @@
     },
     {
       "rank": 31,
+      "name": "ibonbe",
+      "shinies": 13336
+    },
+    {
+      "rank": 32,
       "name": "tallerofin",
       "shinies": 12590
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "coffeeconceder",
       "shinies": 12420
-    },
-    {
-      "rank": 33,
-      "name": "ibonbe",
-      "shinies": 12336
     },
     {
       "rank": 34,
