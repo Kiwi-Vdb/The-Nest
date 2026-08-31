@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1788204329,
+  "generatedAt": 1788204908,
   "count": 50,
   "activities": [
+    {
+      "id": "bce929e115a258c7",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Purple Text",
+      "timestamp": 1788204899,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "4744091914376866",
       "type": "gift",
@@ -475,16 +485,6 @@
       "timestamp": 1787160516,
       "rarity": "rare",
       "category": "Kiwi Eyes",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "87cfcdf60cd64693",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Angel Wings",
-      "timestamp": 1787070217,
-      "rarity": "rare",
-      "category": "Back",
       "rewardType": "cosmetic"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788204329,
+  "generated_at": 1788204908,
   "viewers": {
     "00candyy": {
       "username": "00candyy",
@@ -6680,7 +6680,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 60532,
+        "balance": 58532,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6741,6 +6741,13 @@
           "rarity": "common",
           "class_name": "text-red",
           "equip_command": "!equiptext Red"
+        },
+        {
+          "id": "text-purple",
+          "name": "Purple Text",
+          "rarity": "common",
+          "class_name": "text-purple",
+          "equip_command": "!equiptext Purple"
         }
       ],
       "current_text_effect": {
@@ -6749,8 +6756,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 11,
+      "loot_boxes_opened": 12,
       "recent_unlocks": [
+        {
+          "name": "Purple Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-purple",
+          "timestamp": 1788204899
+        },
         {
           "name": "Wooden Shield",
           "category": "Kiwi Wings / Held Objects",
@@ -6766,22 +6781,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787936759
-        },
-        {
-          "name": "Pirate Hat",
-          "category": "Kiwi Hat",
-          "rarity": "uncommon",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787482077
         }
       ],
       "totals": {
         "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 3,
+        "text_effects_unlocked": 4,
         "text_effects_available": 25,
-        "recent_unlocks": 15
+        "recent_unlocks": 16
       }
     },
     "iamketpain": {
