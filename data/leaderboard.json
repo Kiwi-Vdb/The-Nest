@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788208832,
+  "generatedAt": 1788209012,
   "totalViewers": 632,
-  "totalShinies": 2216284,
+  "totalShinies": 2217284,
   "pageSize": 100,
   "entries": [
     {
@@ -111,18 +111,18 @@
     },
     {
       "rank": 22,
+      "name": "dog1isopen",
+      "shinies": 17642
+    },
+    {
+      "rank": 23,
       "name": "kiddorox",
       "shinies": 17004
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "axoim_",
       "shinies": 16672
-    },
-    {
-      "rank": 24,
-      "name": "dog1isopen",
-      "shinies": 16642
     },
     {
       "rank": 25,
