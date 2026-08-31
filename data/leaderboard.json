@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788199437,
+  "generatedAt": 1788199482,
   "totalViewers": 622,
-  "totalShinies": 2183114,
+  "totalShinies": 2181614,
   "pageSize": 100,
   "entries": [
     {
@@ -86,23 +86,23 @@
     },
     {
       "rank": 17,
-      "name": "dog1isopen",
-      "shinies": 20742
-    },
-    {
-      "rank": 18,
       "name": "muhmonkey",
       "shinies": 19672
     },
     {
-      "rank": 19,
+      "rank": 18,
       "name": "sasadal",
       "shinies": 19458
     },
     {
-      "rank": 20,
+      "rank": 19,
       "name": "streamelements",
       "shinies": 19336
+    },
+    {
+      "rank": 20,
+      "name": "dog1isopen",
+      "shinies": 19242
     },
     {
       "rank": 21,
