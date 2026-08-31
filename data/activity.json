@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788216813,
+  "generatedAt": 1788216873,
   "count": 50,
   "activities": [
     {
@@ -227,14 +227,6 @@
       "who": "elronoce",
       "text": "won 2,000 Shinies in a prediction: Who wins?",
       "timestamp": 1787756329,
-      "amount": 2000
-    },
-    {
-      "id": "37cbead583d82e1d",
-      "type": "prediction",
-      "who": "elronoce",
-      "text": "won 2,000 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1787753548,
       "amount": 2000
     },
     {
@@ -485,6 +477,16 @@
       "timestamp": 1787160516,
       "rarity": "rare",
       "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "87cfcdf60cd64693",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Angel Wings",
+      "timestamp": 1787070217,
+      "rarity": "rare",
+      "category": "Back",
       "rewardType": "cosmetic"
     }
   ]
