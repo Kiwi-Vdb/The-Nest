@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788209072,
+  "generatedAt": 1788209192,
   "totalViewers": 632,
-  "totalShinies": 2218284,
+  "totalShinies": 2219284,
   "pageSize": 100,
   "entries": [
     {
@@ -301,18 +301,18 @@
     },
     {
       "rank": 60,
+      "name": "siven12",
+      "shinies": 8088
+    },
+    {
+      "rank": 61,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "vlunom",
       "shinies": 7670
-    },
-    {
-      "rank": 62,
-      "name": "siven12",
-      "shinies": 7088
     },
     {
       "rank": 63,
