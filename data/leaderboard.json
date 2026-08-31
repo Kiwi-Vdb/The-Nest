@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788213333,
+  "generatedAt": 1788213453,
   "totalViewers": 639,
-  "totalShinies": 2241260,
+  "totalShinies": 2242260,
   "pageSize": 100,
   "entries": [
     {
@@ -176,23 +176,23 @@
     },
     {
       "rank": 35,
+      "name": "imth3apollo",
+      "shinies": 12470
+    },
+    {
+      "rank": 36,
       "name": "coffeeconceder",
       "shinies": 12420
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "freakofnature122",
       "shinies": 11820
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "halfyourlife",
       "shinies": 11658
-    },
-    {
-      "rank": 38,
-      "name": "imth3apollo",
-      "shinies": 11470
     },
     {
       "rank": 39,
