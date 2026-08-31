@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788209252,
-  "totalViewers": 632,
-  "totalShinies": 2220284,
+  "generatedAt": 1788209584,
+  "totalViewers": 633,
+  "totalShinies": 2220952,
   "pageSize": 100,
   "entries": [
     {
@@ -216,18 +216,18 @@
     },
     {
       "rank": 43,
+      "name": "chuffingbear",
+      "shinies": 10338
+    },
+    {
+      "rank": 44,
       "name": "alishhk",
       "shinies": 10240
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "blopson",
       "shinies": 10206
-    },
-    {
-      "rank": 45,
-      "name": "chuffingbear",
-      "shinies": 10004
     },
     {
       "rank": 46,
@@ -3141,26 +3141,31 @@
     },
     {
       "rank": 628,
-      "name": "zmnfilippo",
+      "name": "zmarkchang",
       "shinies": 334
     },
     {
       "rank": 629,
-      "name": "znukr12",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 630,
-      "name": "zongtg",
+      "name": "znukr12",
       "shinies": 334
     },
     {
       "rank": 631,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 632,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 633,
       "name": "mvpeteno",
       "shinies": 168
     }
