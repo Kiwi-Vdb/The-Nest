@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788206132,
+  "generatedAt": 1788206219,
   "totalViewers": 628,
-  "totalShinies": 2208812,
+  "totalShinies": 2209146,
   "pageSize": 100,
   "entries": [
     {
@@ -266,18 +266,18 @@
     },
     {
       "rank": 53,
+      "name": "esebian_",
+      "shinies": 8674
+    },
+    {
+      "rank": 54,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "liarturil",
       "shinies": 8488
-    },
-    {
-      "rank": 55,
-      "name": "esebian_",
-      "shinies": 8340
     },
     {
       "rank": 56,
