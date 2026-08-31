@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788205617,
+  "generatedAt": 1788205651,
   "totalViewers": 626,
-  "totalShinies": 2206644,
+  "totalShinies": 2207644,
   "pageSize": 100,
   "entries": [
     {
@@ -101,18 +101,18 @@
     },
     {
       "rank": 20,
+      "name": "cozzwald",
+      "shinies": 18394
+    },
+    {
+      "rank": 21,
       "name": "dog1isopen",
       "shinies": 18142
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "oafsalot",
       "shinies": 18006
-    },
-    {
-      "rank": 22,
-      "name": "cozzwald",
-      "shinies": 17394
     },
     {
       "rank": 23,
