@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788216933,
+  "generatedAt": 1788217053,
   "totalViewers": 641,
-  "totalShinies": 2261080,
+  "totalShinies": 2262080,
   "pageSize": 100,
   "entries": [
     {
@@ -166,18 +166,18 @@
     },
     {
       "rank": 33,
+      "name": "imth3apollo",
+      "shinies": 13470
+    },
+    {
+      "rank": 34,
       "name": "tallerofin",
       "shinies": 12590
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "axolotl_eu",
       "shinies": 12494
-    },
-    {
-      "rank": 35,
-      "name": "imth3apollo",
-      "shinies": 12470
     },
     {
       "rank": 36,
