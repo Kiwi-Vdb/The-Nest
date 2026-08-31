@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788211541,
+  "generatedAt": 1788212132,
   "totalViewers": 636,
-  "totalShinies": 2231290,
+  "totalShinies": 2232290,
   "pageSize": 100,
   "entries": [
     {
@@ -306,18 +306,18 @@
     },
     {
       "rank": 61,
+      "name": "tjallex",
+      "shinies": 8004
+    },
+    {
+      "rank": 62,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "vlunom",
       "shinies": 7670
-    },
-    {
-      "rank": 63,
-      "name": "tjallex",
-      "shinies": 7004
     },
     {
       "rank": 64,
