@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788204266,
+  "generatedAt": 1788204268,
   "totalViewers": 623,
-  "totalShinies": 2201204,
+  "totalShinies": 2200854,
   "pageSize": 100,
   "entries": [
     {
@@ -311,13 +311,13 @@
     },
     {
       "rank": 62,
-      "name": "goliathmaroof",
-      "shinies": 7140
+      "name": "florio_bar",
+      "shinies": 6936
     },
     {
       "rank": 63,
-      "name": "florio_bar",
-      "shinies": 6936
+      "name": "goliathmaroof",
+      "shinies": 6790
     },
     {
       "rank": 64,
