@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788200651,
+  "generatedAt": 1788200970,
   "totalViewers": 622,
-  "totalShinies": 2187114,
+  "totalShinies": 2188114,
   "pageSize": 100,
   "entries": [
     {
@@ -196,28 +196,28 @@
     },
     {
       "rank": 39,
+      "name": "dhisame",
+      "shinies": 10974
+    },
+    {
+      "rank": 40,
       "name": "slicklikevik",
       "shinies": 10606
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "ibonbe",
       "shinies": 10336
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "blopson",
       "shinies": 10206
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "chuffingbear",
       "shinies": 10004
-    },
-    {
-      "rank": 43,
-      "name": "dhisame",
-      "shinies": 9974
     },
     {
       "rank": 44,
