@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788213273,
+  "generatedAt": 1788213333,
   "totalViewers": 639,
-  "totalShinies": 2240260,
+  "totalShinies": 2241260,
   "pageSize": 100,
   "entries": [
     {
@@ -111,18 +111,18 @@
     },
     {
       "rank": 22,
+      "name": "watchbehinddude",
+      "shinies": 18574
+    },
+    {
+      "rank": 23,
       "name": "oafsalot",
       "shinies": 18006
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "laggyaskittens",
       "shinies": 17936
-    },
-    {
-      "rank": 24,
-      "name": "watchbehinddude",
-      "shinies": 17574
     },
     {
       "rank": 25,
