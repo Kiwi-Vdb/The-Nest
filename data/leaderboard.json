@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788193649,
+  "generatedAt": 1788193710,
   "totalViewers": 618,
-  "totalShinies": 2148066,
+  "totalShinies": 2150066,
   "pageSize": 100,
   "entries": [
     {
@@ -111,18 +111,18 @@
     },
     {
       "rank": 22,
+      "name": "axoim_",
+      "shinies": 16672
+    },
+    {
+      "rank": 23,
       "name": "kiddorox",
       "shinies": 16004
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "cozzwald",
       "shinies": 15910
-    },
-    {
-      "rank": 24,
-      "name": "axoim_",
-      "shinies": 15672
     },
     {
       "rank": 25,
@@ -246,53 +246,53 @@
     },
     {
       "rank": 49,
+      "name": "dhisame",
+      "shinies": 8974
+    },
+    {
+      "rank": 50,
       "name": "pownage227",
       "shinies": 8972
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "jigglyjake22",
       "shinies": 8822
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "liarturil",
       "shinies": 8488
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "esebian_",
       "shinies": 8340
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "ibonbe",
       "shinies": 8336
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "rikkler",
       "shinies": 8336
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "blzbrg",
       "shinies": 8288
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "zhadeoak",
       "shinies": 8002
-    },
-    {
-      "rank": 58,
-      "name": "dhisame",
-      "shinies": 7974
     },
     {
       "rank": 59,
