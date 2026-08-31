@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788213122,
+  "generatedAt": 1788213213,
   "totalViewers": 639,
-  "totalShinies": 2238260,
+  "totalShinies": 2239260,
   "pageSize": 100,
   "entries": [
     {
@@ -201,23 +201,23 @@
     },
     {
       "rank": 40,
+      "name": "chuffingbear",
+      "shinies": 11338
+    },
+    {
+      "rank": 41,
       "name": "goobmilk",
       "shinies": 11272
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "dhisame",
       "shinies": 10974
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "jigglyjake22",
       "shinies": 10806
-    },
-    {
-      "rank": 43,
-      "name": "chuffingbear",
-      "shinies": 10338
     },
     {
       "rank": 44,
