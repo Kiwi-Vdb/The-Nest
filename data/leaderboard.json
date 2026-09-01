@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1788295160,
+  "generatedAt": 1788295226,
   "totalViewers": 655,
-  "totalShinies": 2322078,
+  "totalShinies": 2325078,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 108120
+      "shinies": 109120
     },
     {
       "rank": 2,
@@ -221,28 +221,28 @@
     },
     {
       "rank": 44,
+      "name": "literallylilacc",
+      "shinies": 11020
+    },
+    {
+      "rank": 45,
       "name": "alishhk",
       "shinies": 10724
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "globe2deag",
       "shinies": 10308
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "blopson",
       "shinies": 10206
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "siven12",
       "shinies": 10088
-    },
-    {
-      "rank": 48,
-      "name": "literallylilacc",
-      "shinies": 10020
     },
     {
       "rank": 49,
@@ -441,32 +441,32 @@
     },
     {
       "rank": 88,
+      "name": "tarsanon",
+      "shinies": 5670
+    },
+    {
+      "rank": 89,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "kotaotake",
       "shinies": 4952
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "avum",
       "shinies": 4820
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "bizzyrex",
       "shinies": 4683
     },
     {
-      "rank": 92,
-      "name": "statesector",
-      "shinies": 4670
-    },
-    {
       "rank": 93,
-      "name": "tarsanon",
+      "name": "statesector",
       "shinies": 4670
     },
     {
