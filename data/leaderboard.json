@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788295778,
+  "generatedAt": 1788296304,
   "totalViewers": 655,
-  "totalShinies": 2325412,
+  "totalShinies": 2326412,
   "pageSize": 100,
   "entries": [
     {
@@ -186,28 +186,28 @@
     },
     {
       "rank": 37,
+      "name": "dhisame",
+      "shinies": 12458
+    },
+    {
+      "rank": 38,
       "name": "coffeeconceder",
       "shinies": 12420
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "halfyourlife",
       "shinies": 12142
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "freakofnature122",
       "shinies": 11820
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "goobmilk",
       "shinies": 11606
-    },
-    {
-      "rank": 41,
-      "name": "dhisame",
-      "shinies": 11458
     },
     {
       "rank": 42,
