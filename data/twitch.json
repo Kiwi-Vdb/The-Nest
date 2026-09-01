@@ -18,7 +18,7 @@
     "updatedAt": "2026-08-16T09:24:20Z"
   },
   "live": true,
-  "viewers": 0,
+  "viewers": 2,
   "title": "Trying",
   "gameId": "33945",
   "gameName": "Starbound",
@@ -27,7 +27,7 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788291655,
+  "statusUpdatedAt": 1788291685,
   "clipsUpdatedAt": 1787844394,
   "clips": [
     {
