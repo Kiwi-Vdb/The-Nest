@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788267806,
+  "generatedAt": 1788267960,
   "totalViewers": 648,
-  "totalShinies": 2275664,
+  "totalShinies": 2276664,
   "pageSize": 100,
   "entries": [
     {
@@ -161,18 +161,18 @@
     },
     {
       "rank": 32,
+      "name": "chuffingbear",
+      "shinies": 13672
+    },
+    {
+      "rank": 33,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "imth3apollo",
       "shinies": 13470
-    },
-    {
-      "rank": 34,
-      "name": "chuffingbear",
-      "shinies": 12672
     },
     {
       "rank": 35,
