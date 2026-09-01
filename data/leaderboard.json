@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788273000,
+  "generatedAt": 1788273120,
   "totalViewers": 653,
-  "totalShinies": 2299600,
+  "totalShinies": 2300600,
   "pageSize": 100,
   "entries": [
     {
@@ -316,23 +316,23 @@
     },
     {
       "rank": 63,
+      "name": "swallowbug11",
+      "shinies": 8004
+    },
+    {
+      "rank": 64,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "vlunom",
       "shinies": 7670
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "ruphin",
       "shinies": 7636
-    },
-    {
-      "rank": 66,
-      "name": "swallowbug11",
-      "shinies": 7004
     },
     {
       "rank": 67,
