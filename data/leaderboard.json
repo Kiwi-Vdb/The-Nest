@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788272903,
+  "generatedAt": 1788273000,
   "totalViewers": 653,
-  "totalShinies": 2298600,
+  "totalShinies": 2299600,
   "pageSize": 100,
   "entries": [
     {
@@ -136,23 +136,23 @@
     },
     {
       "rank": 27,
+      "name": "ibonbe",
+      "shinies": 15670
+    },
+    {
+      "rank": 28,
       "name": "bonghits4cthulhu",
       "shinies": 15242
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "elronoce",
       "shinies": 14970
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "chuffingbear",
       "shinies": 14672
-    },
-    {
-      "rank": 30,
-      "name": "ibonbe",
-      "shinies": 14670
     },
     {
       "rank": 31,
