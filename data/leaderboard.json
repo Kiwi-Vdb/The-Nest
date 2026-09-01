@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788273707,
+  "generatedAt": 1788273960,
   "totalViewers": 653,
-  "totalShinies": 2301934,
+  "totalShinies": 2302934,
   "pageSize": 100,
   "entries": [
     {
@@ -81,18 +81,18 @@
     },
     {
       "rank": 16,
+      "name": "laggyaskittens",
+      "shinies": 22420
+    },
+    {
+      "rank": 17,
       "name": "deverhr",
       "shinies": 22174
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "muhmonkey",
       "shinies": 22006
-    },
-    {
-      "rank": 18,
-      "name": "laggyaskittens",
-      "shinies": 21420
     },
     {
       "rank": 19,
