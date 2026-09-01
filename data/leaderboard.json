@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788262479,
+  "generatedAt": 1788262552,
   "totalViewers": 642,
-  "totalShinies": 2265566,
+  "totalShinies": 2266050,
   "pageSize": 100,
   "entries": [
     {
@@ -106,18 +106,18 @@
     },
     {
       "rank": 21,
+      "name": "laggyaskittens",
+      "shinies": 19420
+    },
+    {
+      "rank": 22,
       "name": "cozzwald",
       "shinies": 19394
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "streamelements",
       "shinies": 19336
-    },
-    {
-      "rank": 23,
-      "name": "laggyaskittens",
-      "shinies": 18936
     },
     {
       "rank": 24,
