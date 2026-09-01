@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788264697,
+  "generatedAt": 1788265113,
   "totalViewers": 646,
-  "totalShinies": 2271176,
+  "totalShinies": 2271510,
   "pageSize": 100,
   "entries": [
     {
@@ -226,18 +226,18 @@
     },
     {
       "rank": 45,
+      "name": "globe2deag",
+      "shinies": 10308
+    },
+    {
+      "rank": 46,
       "name": "blopson",
       "shinies": 10206
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "siven12",
       "shinies": 10088
-    },
-    {
-      "rank": 47,
-      "name": "globe2deag",
-      "shinies": 9974
     },
     {
       "rank": 48,
