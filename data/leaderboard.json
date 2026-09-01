@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788291626,
+  "generatedAt": 1788292672,
   "totalViewers": 655,
-  "totalShinies": 2320592,
+  "totalShinies": 2321076,
   "pageSize": 100,
   "entries": [
     {
@@ -206,18 +206,18 @@
     },
     {
       "rank": 41,
+      "name": "dhisame",
+      "shinies": 11458
+    },
+    {
+      "rank": 42,
       "name": "warriot",
       "shinies": 11454
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "jigglyjake22",
       "shinies": 11140
-    },
-    {
-      "rank": 43,
-      "name": "dhisame",
-      "shinies": 10974
     },
     {
       "rank": 44,
