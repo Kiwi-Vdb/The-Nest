@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788274391,
+  "generatedAt": 1788274704,
   "totalViewers": 653,
-  "totalShinies": 2305602,
+  "totalShinies": 2306936,
   "pageSize": 100,
   "entries": [
     {
@@ -81,18 +81,18 @@
     },
     {
       "rank": 16,
+      "name": "muhmonkey",
+      "shinies": 23006
+    },
+    {
+      "rank": 17,
       "name": "laggyaskittens",
       "shinies": 22420
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "deverhr",
       "shinies": 22174
-    },
-    {
-      "rank": 18,
-      "name": "muhmonkey",
-      "shinies": 22006
     },
     {
       "rank": 19,
@@ -321,13 +321,13 @@
     },
     {
       "rank": 64,
-      "name": "zhadeoak",
-      "shinies": 8002
+      "name": "vlunom",
+      "shinies": 8004
     },
     {
       "rank": 65,
-      "name": "vlunom",
-      "shinies": 7670
+      "name": "zhadeoak",
+      "shinies": 8002
     },
     {
       "rank": 66,
