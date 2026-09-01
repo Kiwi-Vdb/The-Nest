@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788266987,
+  "generatedAt": 1788267497,
   "count": 50,
   "activities": [
     {
@@ -212,14 +212,6 @@
       "rarity": "rare",
       "category": "Kiwi Hat",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "4c0bbb230dc30b0f",
-      "type": "prediction",
-      "who": "hunbleeone",
-      "text": "won 2,000 Shinies in a prediction: Who wins?",
-      "timestamp": 1787756330,
-      "amount": 2000
     },
     {
       "id": "654fbaae5df306ee",
@@ -490,6 +482,16 @@
       "rarity": "legendary",
       "category": "Emote",
       "rewardType": "cosmetic"
+    },
+    {
+      "id": "87c89115132eec68",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Aurora Drift Text",
+      "timestamp": 1787070165,
+      "rarity": "rare",
+      "category": "Text Effect",
+      "rewardType": "text effect"
     }
   ]
 }
