@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788271535,
+  "generatedAt": 1788271560,
   "totalViewers": 653,
-  "totalShinies": 2290612,
+  "totalShinies": 2291612,
   "pageSize": 100,
   "entries": [
     {
@@ -146,23 +146,23 @@
     },
     {
       "rank": 29,
+      "name": "chuffingbear",
+      "shinies": 14672
+    },
+    {
+      "rank": 30,
       "name": "ibonbe",
       "shinies": 14670
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "our_lord_and_savior_gonk",
       "shinies": 14556
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "slicklikevik",
       "shinies": 13940
-    },
-    {
-      "rank": 32,
-      "name": "chuffingbear",
-      "shinies": 13672
     },
     {
       "rank": 33,
