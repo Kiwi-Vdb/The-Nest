@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788352994,
+  "generatedAt": 1788353092,
   "totalViewers": 666,
-  "totalShinies": 2351002,
+  "totalShinies": 2351152,
   "pageSize": 100,
   "entries": [
     {
@@ -391,18 +391,18 @@
     },
     {
       "rank": 78,
+      "name": "hellzi3",
+      "shinies": 6240
+    },
+    {
+      "rank": 79,
       "name": "sashkorin",
       "shinies": 6154
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "toszii",
       "shinies": 6154
-    },
-    {
-      "rank": 80,
-      "name": "hellzi3",
-      "shinies": 6090
     },
     {
       "rank": 81,
