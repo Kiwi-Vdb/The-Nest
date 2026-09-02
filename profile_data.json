@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788358189,
+  "generated_at": 1788358324,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -6881,7 +6881,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 54337,
+        "balance": 52237,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6895,6 +6895,18 @@
           "name": "Violet Irises",
           "category": "Kiwi Eye Colour",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:hat:pixel-blue-beanie",
+          "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:body:pixel-blue-hoodie",
+          "name": "Blue Hoodie",
+          "category": "Kiwi Body",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [
@@ -6943,32 +6955,32 @@
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
+          "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358323
+        },
+        {
+          "name": "Blue Hoodie",
+          "category": "Kiwi Body",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358321
+        },
+        {
           "name": "Supernova Text",
           "category": "Text Effect",
           "rarity": "legendary",
           "type": "text_effect",
           "text_effect": "text-supernova",
           "timestamp": 1788358187
-        },
-        {
-          "name": "Violet Irises",
-          "category": "Kiwi Eye Colour",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1788358135
-        },
-        {
-          "name": "Brown Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-brown",
-          "timestamp": 1785081292
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 41,
         "text_effects_unlocked": 5,
         "text_effects_available": 25,
