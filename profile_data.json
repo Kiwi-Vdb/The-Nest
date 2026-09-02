@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788358082,
+  "generated_at": 1788358136,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -6881,7 +6881,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 66337,
+        "balance": 63337,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6889,7 +6889,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:eyes:pixel-violet-irises",
+          "name": "Violet Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "rare"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-rainbow-comet",
@@ -6929,6 +6936,14 @@
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
+          "name": "Violet Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358135
+        },
+        {
           "name": "Brown Text",
           "category": "Text Effect",
           "rarity": "common",
@@ -6943,18 +6958,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784394902
-        },
-        {
-          "name": "Witch Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394902
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 41,
         "text_effects_unlocked": 4,
         "text_effects_available": 25,
