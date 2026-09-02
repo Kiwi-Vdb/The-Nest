@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788358546,
+  "generated_at": 1788358591,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -2208,7 +2208,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 8288,
+        "balance": 8622,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6881,7 +6881,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 47737,
+        "balance": 43737,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6915,10 +6915,22 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:wings:pixel-magic-wand",
+          "name": "Magic Wand",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "uncommon"
+        },
+        {
           "id": "kiwi:feet:pixel-blue-sneakers",
           "name": "Blue Sneakers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-hiking-boots",
+          "name": "Hiking Boots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "uncommon"
         }
       ],
       "text_effects_unlocked": [
@@ -6967,32 +6979,32 @@
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
+          "name": "Magic Wand",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "uncommon",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358590
+        },
+        {
+          "name": "Hiking Boots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "uncommon",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358574
+        },
+        {
           "name": "Blue Sneakers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1788358545
-        },
-        {
-          "name": "Toucan Beak",
-          "category": "Kiwi Beak",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1788358506
-        },
-        {
-          "name": "Blue Beanie",
-          "category": "Kiwi Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1788358323
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 5,
+        "cosmetics_unlocked": 7,
         "cosmetics_available": 41,
         "text_effects_unlocked": 5,
         "text_effects_available": 25,

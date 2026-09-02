@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1788358546,
+  "generatedAt": 1788358591,
   "count": 50,
   "activities": [
+    {
+      "id": "9ed0c8e22f110d61",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Magic Wand",
+      "timestamp": 1788358590,
+      "rarity": "uncommon",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "04820383256d0eb0",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Hiking Boots",
+      "timestamp": 1788358574,
+      "rarity": "uncommon",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "b3e96f55f86d6f6e",
       "type": "unlock",
@@ -471,26 +491,6 @@
       "timestamp": 1787161254,
       "rarity": "epic",
       "category": "Kiwi Hand",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "c06c26908ff7f17a",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Space Helmet",
-      "timestamp": 1787161253,
-      "rarity": "legendary",
-      "category": "Kiwi Full Head",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "c58385b1f3595b18",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Ski Goggles",
-      "timestamp": 1787161251,
-      "rarity": "epic",
-      "category": "Kiwi Eyes",
       "rewardType": "cosmetic"
     }
   ]

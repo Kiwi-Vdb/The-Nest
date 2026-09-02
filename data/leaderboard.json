@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788358546,
+  "generatedAt": 1788358591,
   "totalViewers": 670,
-  "totalShinies": 2358318,
+  "totalShinies": 2354652,
   "pageSize": 100,
   "entries": [
     {
@@ -46,13 +46,13 @@
     },
     {
       "rank": 9,
-      "name": "hunbleeone",
-      "shinies": 47737
+      "name": "sharpishdog",
+      "shinies": 44078
     },
     {
       "rank": 10,
-      "name": "sharpishdog",
-      "shinies": 44078
+      "name": "hunbleeone",
+      "shinies": 43737
     },
     {
       "rank": 11,
@@ -291,23 +291,23 @@
     },
     {
       "rank": 58,
+      "name": "blzbrg",
+      "shinies": 8622
+    },
+    {
+      "rank": 59,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "liarturil",
       "shinies": 8488
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "rikkler",
       "shinies": 8336
-    },
-    {
-      "rank": 61,
-      "name": "blzbrg",
-      "shinies": 8288
     },
     {
       "rank": 62,
