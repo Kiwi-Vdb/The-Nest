@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1788352839,
+  "generatedAt": 1788352994,
   "count": 50,
   "activities": [
+    {
+      "id": "9482073cedc49258",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Santa Hat",
+      "timestamp": 1788352986,
+      "rarity": "common",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "bce929e115a258c7",
       "type": "unlock",
@@ -482,16 +492,6 @@
       "rarity": "legendary",
       "category": "Emote",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "87c89115132eec68",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Aurora Drift Text",
-      "timestamp": 1787070165,
-      "rarity": "rare",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }
