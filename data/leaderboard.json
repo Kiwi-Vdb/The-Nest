@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788354832,
+  "generatedAt": 1788354978,
   "totalViewers": 667,
-  "totalShinies": 2358426,
+  "totalShinies": 2359094,
   "pageSize": 100,
   "entries": [
     {
@@ -167,7 +167,7 @@
     {
       "rank": 33,
       "name": "slicklikevik",
-      "shinies": 13940
+      "shinies": 14274
     },
     {
       "rank": 34,
@@ -356,18 +356,18 @@
     },
     {
       "rank": 71,
+      "name": "chrisgw",
+      "shinies": 6822
+    },
+    {
+      "rank": 72,
       "name": "hexu0x",
       "shinies": 6672
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "oumuamua_i1",
       "shinies": 6636
-    },
-    {
-      "rank": 73,
-      "name": "chrisgw",
-      "shinies": 6488
     },
     {
       "rank": 74,
