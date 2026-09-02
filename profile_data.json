@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788350932,
+  "generated_at": 1788351006,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -4610,6 +4610,32 @@
         "recent_unlocks": 0
       }
     },
+    "emperoraltros": {
+      "username": "emperoraltros",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 41,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
     "erevos187": {
       "username": "erevos187",
       "shinies": {
@@ -5941,7 +5967,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 11606,
+        "balance": 11940,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -8418,6 +8444,32 @@
     },
     "jutkanene": {
       "username": "jutkanene",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 41,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
+    "kaanibal": {
+      "username": "kaanibal",
       "shinies": {
         "available": true,
         "label": "Shinies",
