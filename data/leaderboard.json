@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788358794,
+  "generatedAt": 1788358881,
   "totalViewers": 670,
-  "totalShinies": 2356986,
+  "totalShinies": 2357320,
   "pageSize": 100,
   "entries": [
     {
@@ -236,18 +236,18 @@
     },
     {
       "rank": 47,
+      "name": "pownage227",
+      "shinies": 10306
+    },
+    {
+      "rank": 48,
       "name": "blopson",
       "shinies": 10206
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "siven12",
       "shinies": 10088
-    },
-    {
-      "rank": 49,
-      "name": "pownage227",
-      "shinies": 9972
     },
     {
       "rank": 50,
