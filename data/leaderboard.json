@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788362170,
+  "generatedAt": 1788362214,
   "totalViewers": 673,
-  "totalShinies": 2377418,
+  "totalShinies": 2378418,
   "pageSize": 100,
   "entries": [
     {
@@ -276,23 +276,23 @@
     },
     {
       "rank": 55,
+      "name": "blzbrg",
+      "shinies": 9622
+    },
+    {
+      "rank": 56,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "esebian_",
       "shinies": 8674
-    },
-    {
-      "rank": 58,
-      "name": "blzbrg",
-      "shinies": 8622
     },
     {
       "rank": 59,
