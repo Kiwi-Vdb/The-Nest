@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1788353512,
+  "generatedAt": 1788353614,
   "count": 50,
   "activities": [
+    {
+      "id": "dc7c912225f781ed",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Blue Text",
+      "timestamp": 1788353605,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "9482073cedc49258",
       "type": "unlock",
@@ -481,16 +491,6 @@
       "timestamp": 1787070217,
       "rarity": "rare",
       "category": "Back",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "98614f1ce58627d1",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Sun Beam",
-      "timestamp": 1787070203,
-      "rarity": "legendary",
-      "category": "Emote",
       "rewardType": "cosmetic"
     }
   ]

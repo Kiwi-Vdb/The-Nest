@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788353512,
+  "generated_at": 1788353614,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -7044,7 +7044,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 57500,
+        "balance": 55500,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -7118,6 +7118,13 @@
           "rarity": "common",
           "class_name": "text-purple",
           "equip_command": "!equiptext Purple"
+        },
+        {
+          "id": "text-blue",
+          "name": "Blue Text",
+          "rarity": "common",
+          "class_name": "text-blue",
+          "equip_command": "!equiptext Blue"
         }
       ],
       "current_text_effect": {
@@ -7126,8 +7133,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 13,
+      "loot_boxes_opened": 14,
       "recent_unlocks": [
+        {
+          "name": "Blue Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-blue",
+          "timestamp": 1788353605
+        },
         {
           "name": "Santa Hat",
           "category": "Kiwi Hat",
@@ -7143,22 +7158,14 @@
           "type": "text_effect",
           "text_effect": "text-purple",
           "timestamp": 1788204899
-        },
-        {
-          "name": "Wooden Shield",
-          "category": "Kiwi Wings / Held Objects",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787936876
         }
       ],
       "totals": {
         "cosmetics_unlocked": 6,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 4,
+        "text_effects_unlocked": 5,
         "text_effects_available": 25,
-        "recent_unlocks": 17
+        "recent_unlocks": 18
       }
     },
     "iamketpain": {
