@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788358136,
+  "generated_at": 1788358189,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -6881,7 +6881,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 63337,
+        "balance": 54337,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6925,16 +6925,31 @@
           "rarity": "common",
           "class_name": "text-brown",
           "equip_command": "!equiptext Brown"
+        },
+        {
+          "id": "text-supernova",
+          "name": "Supernova Text",
+          "rarity": "legendary",
+          "class_name": "text-supernova",
+          "equip_command": "!equiptext Supernova"
         }
       ],
       "current_text_effect": {
-        "id": "text-rainbow-comet",
-        "name": "Rainbow Comet Text",
-        "rarity": "rare",
-        "class_name": "text-rainbow-comet"
+        "id": "text-supernova",
+        "name": "Supernova Text",
+        "rarity": "legendary",
+        "class_name": "text-supernova"
       },
       "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Supernova Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-supernova",
+          "timestamp": 1788358187
+        },
         {
           "name": "Violet Irises",
           "category": "Kiwi Eye Colour",
@@ -6950,20 +6965,12 @@
           "type": "text_effect",
           "text_effect": "text-brown",
           "timestamp": 1785081292
-        },
-        {
-          "name": "Wizards Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394902
         }
       ],
       "totals": {
         "cosmetics_unlocked": 1,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 4,
+        "text_effects_unlocked": 5,
         "text_effects_available": 25,
         "recent_unlocks": 20
       }

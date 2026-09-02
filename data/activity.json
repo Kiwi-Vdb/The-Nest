@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1788358136,
+  "generatedAt": 1788358190,
   "count": 50,
   "activities": [
+    {
+      "id": "f72da340d58d40b7",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Supernova Text",
+      "timestamp": 1788358187,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "1fd5d945aa129688",
       "type": "unlock",
@@ -481,16 +491,6 @@
       "timestamp": 1787160536,
       "rarity": "rare",
       "category": "Kiwi Beak",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "fc2b2092eda8dd8b",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Aviators",
-      "timestamp": 1787160516,
-      "rarity": "rare",
-      "category": "Kiwi Eyes",
       "rewardType": "cosmetic"
     }
   ]

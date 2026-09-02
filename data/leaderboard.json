@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788358136,
+  "generatedAt": 1788358189,
   "totalViewers": 670,
-  "totalShinies": 2375918,
+  "totalShinies": 2366918,
   "pageSize": 100,
   "entries": [
     {
@@ -31,18 +31,18 @@
     },
     {
       "rank": 6,
-      "name": "hunbleeone",
-      "shinies": 63337
-    },
-    {
-      "rank": 7,
       "name": "crazypyronl",
       "shinies": 58498
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "iamdibi",
       "shinies": 55500
+    },
+    {
+      "rank": 8,
+      "name": "hunbleeone",
+      "shinies": 54337
     },
     {
       "rank": 9,
