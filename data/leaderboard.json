@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788352372,
+  "generatedAt": 1788352406,
   "totalViewers": 666,
-  "totalShinies": 2351184,
+  "totalShinies": 2351518,
   "pageSize": 100,
   "entries": [
     {
@@ -341,18 +341,18 @@
     },
     {
       "rank": 68,
+      "name": "akkaiiie",
+      "shinies": 7004
+    },
+    {
+      "rank": 69,
       "name": "florio_bar",
       "shinies": 6936
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "hexu0x",
       "shinies": 6672
-    },
-    {
-      "rank": 70,
-      "name": "akkaiiie",
-      "shinies": 6670
     },
     {
       "rank": 71,
