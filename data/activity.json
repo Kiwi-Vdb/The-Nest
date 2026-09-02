@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1788358507,
+  "generatedAt": 1788358546,
   "count": 50,
   "activities": [
+    {
+      "id": "b3e96f55f86d6f6e",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Blue Sneakers",
+      "timestamp": 1788358545,
+      "rarity": "common",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "fbc7aa9dbd77b852",
+      "type": "unlock",
+      "who": "iamdibi",
+      "text": "unlocked Duck Bill",
+      "timestamp": 1788358535,
+      "rarity": "common",
+      "category": "Kiwi Beak",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "cfbf38036c9e65e1",
       "type": "unlock",
@@ -471,26 +491,6 @@
       "timestamp": 1787161251,
       "rarity": "epic",
       "category": "Kiwi Eyes",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "69ce370e6506bdc3",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Santa Hat",
-      "timestamp": 1787161250,
-      "rarity": "rare",
-      "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "b891da2c4ed12152",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Santa Beard",
-      "timestamp": 1787161248,
-      "rarity": "epic",
-      "category": "Kiwi Neck",
       "rewardType": "cosmetic"
     }
   ]

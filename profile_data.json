@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788358507,
+  "generated_at": 1788358546,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -6881,7 +6881,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 48737,
+        "balance": 47737,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -6912,6 +6912,12 @@
           "id": "kiwi:body:pixel-blue-hoodie",
           "name": "Blue Hoodie",
           "category": "Kiwi Body",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-blue-sneakers",
+          "name": "Blue Sneakers",
+          "category": "Kiwi Boots / Shoes",
           "rarity": "common"
         }
       ],
@@ -6961,6 +6967,14 @@
       "loot_boxes_opened": 3,
       "recent_unlocks": [
         {
+          "name": "Blue Sneakers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358545
+        },
+        {
           "name": "Toucan Beak",
           "category": "Kiwi Beak",
           "rarity": "rare",
@@ -6975,18 +6989,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1788358323
-        },
-        {
-          "name": "Blue Hoodie",
-          "category": "Kiwi Body",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1788358321
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 4,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 41,
         "text_effects_unlocked": 5,
         "text_effects_available": 25,
@@ -7102,7 +7108,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 55500,
+        "balance": 53500,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -7122,6 +7128,12 @@
           "name": "Pirate Hat",
           "category": "Kiwi Hat",
           "rarity": "uncommon"
+        },
+        {
+          "id": "kiwi:beak:pixel-duck",
+          "name": "Duck Bill",
+          "category": "Kiwi Beak",
+          "rarity": "common"
         },
         {
           "id": "kiwi:wings:pixel-wooden-shield",
@@ -7191,8 +7203,16 @@
         "rarity": "common",
         "class_name": "text-brown"
       },
-      "loot_boxes_opened": 14,
+      "loot_boxes_opened": 15,
       "recent_unlocks": [
+        {
+          "name": "Duck Bill",
+          "category": "Kiwi Beak",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788358535
+        },
         {
           "name": "Blue Text",
           "category": "Text Effect",
@@ -7208,22 +7228,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1788352986
-        },
-        {
-          "name": "Purple Text",
-          "category": "Text Effect",
-          "rarity": "common",
-          "type": "text_effect",
-          "text_effect": "text-purple",
-          "timestamp": 1788204899
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 7,
         "cosmetics_available": 41,
         "text_effects_unlocked": 5,
         "text_effects_available": 25,
-        "recent_unlocks": 18
+        "recent_unlocks": 19
       }
     },
     "iamketpain": {
