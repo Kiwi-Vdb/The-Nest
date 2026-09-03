@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1788443072,
+  "generatedAt": 1788443279,
   "totalViewers": 682,
-  "totalShinies": 2415926,
+  "totalShinies": 2417926,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 115788
+      "shinies": 116788
     },
     {
       "rank": 2,
@@ -81,18 +81,18 @@
     },
     {
       "rank": 16,
+      "name": "watchbehinddude",
+      "shinies": 24876
+    },
+    {
+      "rank": 17,
       "name": "thequetx",
       "shinies": 24842
     },
     {
-      "rank": 17,
+      "rank": 18,
       "name": "tallerofin",
       "shinies": 24424
-    },
-    {
-      "rank": 18,
-      "name": "watchbehinddude",
-      "shinies": 23876
     },
     {
       "rank": 19,
