@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788441238,
+  "generatedAt": 1788441657,
   "totalViewers": 681,
-  "totalShinies": 2414108,
+  "totalShinies": 2415108,
   "pageSize": 100,
   "entries": [
     {
@@ -151,18 +151,18 @@
     },
     {
       "rank": 30,
+      "name": "jigglyjake22",
+      "shinies": 15808
+    },
+    {
+      "rank": 31,
       "name": "bonghits4cthulhu",
       "shinies": 15242
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "elronoce",
       "shinies": 14970
-    },
-    {
-      "rank": 32,
-      "name": "jigglyjake22",
-      "shinies": 14808
     },
     {
       "rank": 33,
