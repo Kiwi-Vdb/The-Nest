@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1788435815,
+  "generatedAt": 1788436076,
   "totalViewers": 675,
-  "totalShinies": 2392648,
+  "totalShinies": 2394648,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 113788
+      "shinies": 114788
     },
     {
       "rank": 2,
@@ -91,18 +91,18 @@
     },
     {
       "rank": 18,
+      "name": "watchbehinddude",
+      "shinies": 22876
+    },
+    {
+      "rank": 19,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "deverhr",
       "shinies": 22174
-    },
-    {
-      "rank": 20,
-      "name": "watchbehinddude",
-      "shinies": 21876
     },
     {
       "rank": 21,
