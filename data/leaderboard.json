@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788436076,
+  "generatedAt": 1788436122,
   "totalViewers": 675,
-  "totalShinies": 2394648,
+  "totalShinies": 2395316,
   "pageSize": 100,
   "entries": [
     {
@@ -251,18 +251,18 @@
     },
     {
       "rank": 50,
+      "name": "7voodoodragon",
+      "shinies": 10004
+    },
+    {
+      "rank": 51,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "hells_hound_",
       "shinies": 9788
-    },
-    {
-      "rank": 52,
-      "name": "7voodoodragon",
-      "shinies": 9670
     },
     {
       "rank": 53,
@@ -391,28 +391,28 @@
     },
     {
       "rank": 78,
+      "name": "toszii",
+      "shinies": 6488
+    },
+    {
+      "rank": 79,
       "name": "pauperbanaan",
       "shinies": 6454
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "bloodypage1",
       "shinies": 6302
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "heltoff",
       "shinies": 6272
     },
     {
-      "rank": 81,
+      "rank": 82,
       "name": "hellzi3",
       "shinies": 6240
-    },
-    {
-      "rank": 82,
-      "name": "toszii",
-      "shinies": 6154
     },
     {
       "rank": 83,
