@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788433458,
+  "generatedAt": 1788433478,
   "totalViewers": 673,
-  "totalShinies": 2388540,
+  "totalShinies": 2388874,
   "pageSize": 100,
   "entries": [
     {
@@ -126,18 +126,18 @@
     },
     {
       "rank": 25,
+      "name": "ibonbe",
+      "shinies": 19338
+    },
+    {
+      "rank": 26,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "chuffingbear",
       "shinies": 19006
-    },
-    {
-      "rank": 27,
-      "name": "ibonbe",
-      "shinies": 19004
     },
     {
       "rank": 28,
