@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1788546392,
+  "generatedAt": 1788548378,
   "totalViewers": 692,
-  "totalShinies": 2476740,
+  "totalShinies": 2478410,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 123122
+      "shinies": 123456
     },
     {
       "rank": 2,
@@ -32,7 +32,7 @@
     {
       "rank": 6,
       "name": "crazypyronl",
-      "shinies": 63982
+      "shinies": 64316
     },
     {
       "rank": 7,
@@ -77,7 +77,7 @@
     {
       "rank": 15,
       "name": "watchbehinddude",
-      "shinies": 27210
+      "shinies": 27544
     },
     {
       "rank": 16,
@@ -156,13 +156,13 @@
     },
     {
       "rank": 31,
-      "name": "bonghits4cthulhu",
-      "shinies": 15242
+      "name": "alishhk",
+      "shinies": 15542
     },
     {
       "rank": 32,
-      "name": "alishhk",
-      "shinies": 15208
+      "name": "bonghits4cthulhu",
+      "shinies": 15242
     },
     {
       "rank": 33,
@@ -316,28 +316,28 @@
     },
     {
       "rank": 63,
-      "name": "rikkler",
+      "name": "akiletia",
       "shinies": 8336
     },
     {
       "rank": 64,
+      "name": "rikkler",
+      "shinies": 8336
+    },
+    {
+      "rank": 65,
       "name": "akkaiiie",
       "shinies": 8004
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "swallowbug11",
       "shinies": 8004
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "vlunom",
       "shinies": 8004
-    },
-    {
-      "rank": 67,
-      "name": "akiletia",
-      "shinies": 8002
     },
     {
       "rank": 68,
