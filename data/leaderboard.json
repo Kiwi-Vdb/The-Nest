@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788540573,
+  "generatedAt": 1788540871,
   "totalViewers": 691,
-  "totalShinies": 2463738,
+  "totalShinies": 2464738,
   "pageSize": 100,
   "entries": [
     {
@@ -201,23 +201,23 @@
     },
     {
       "rank": 40,
+      "name": "blzbrg",
+      "shinies": 13106
+    },
+    {
+      "rank": 41,
       "name": "dhisame",
       "shinies": 12458
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "goobmilk",
       "shinies": 12424
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "coffeeconceder",
       "shinies": 12420
-    },
-    {
-      "rank": 43,
-      "name": "blzbrg",
-      "shinies": 12106
     },
     {
       "rank": 44,

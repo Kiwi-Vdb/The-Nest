@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788540851,
-  "clipsUpdatedAt": 1788535165,
+  "statusUpdatedAt": 1788540881,
+  "clipsUpdatedAt": 1788540877,
   "clips": [
+    {
+      "id": "WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
+      "title": "Just a casual supply run",
+      "url": "https://www.twitch.tv/itsvdb/clip/WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/60e71972-248e-417b-a1bf-2d57344f37c9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 16.5,
+      "createdAt": "2026-09-04T16:43:02Z"
+    },
     {
       "id": "InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
       "title": "\"How did I not kill him?\"",
@@ -69,16 +79,6 @@
       "views": 9,
       "duration": 5.2,
       "createdAt": "2026-08-27T15:12:38Z"
-    },
-    {
-      "id": "BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
-      "title": "just one more afus bro. i promise bro just one more afus and i'll come online bro. it's just another",
-      "url": "https://www.twitch.tv/itsvdb/clip/BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=BlueHelpfulTermiteOMGScoots-WxeJEFAV7mQwZK55",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/cbe15578-3dd0-4c91-9a52-50cf96b658a9/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 4,
-      "duration": 52.8,
-      "createdAt": "2026-08-26T14:44:04Z"
     }
   ]
 }
