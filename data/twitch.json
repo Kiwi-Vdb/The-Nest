@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788557092,
-  "clipsUpdatedAt": 1788556498,
+  "statusUpdatedAt": 1788557122,
+  "clipsUpdatedAt": 1788557098,
   "clips": [
+    {
+      "id": "BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
+      "title": "2nd Heli Kill",
+      "url": "https://www.twitch.tv/itsvdb/clip/BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f615a560-92ca-4ea3-9231-92f9defd7c43/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 10.7,
+      "createdAt": "2026-09-04T21:10:43Z"
+    },
     {
       "id": "ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
       "title": "Heli Kill",
@@ -69,16 +79,6 @@
       "views": 3,
       "duration": 13.1,
       "createdAt": "2026-09-04T17:46:05Z"
-    },
-    {
-      "id": "HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
-      "title": "There Goes My Hero",
-      "url": "https://www.twitch.tv/itsvdb/clip/HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2a632136-c1a7-4a9e-a477-209388d855e9/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "duration": 30.0,
-      "createdAt": "2026-09-04T17:26:36Z"
     }
   ]
 }
