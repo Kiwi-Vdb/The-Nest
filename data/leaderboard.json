@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788527684,
+  "generatedAt": 1788527732,
   "totalViewers": 685,
-  "totalShinies": 2429034,
+  "totalShinies": 2429702,
   "pageSize": 100,
   "entries": [
     {
@@ -116,23 +116,23 @@
     },
     {
       "rank": 23,
+      "name": "dog1isopen",
+      "shinies": 19976
+    },
+    {
+      "rank": 24,
       "name": "sasadal",
       "shinies": 19792
     },
     {
-      "rank": 24,
-      "name": "dog1isopen",
-      "shinies": 19642
-    },
-    {
       "rank": 25,
-      "name": "cozzwald",
-      "shinies": 19394
+      "name": "chuffingbear",
+      "shinies": 19674
     },
     {
       "rank": 26,
-      "name": "chuffingbear",
-      "shinies": 19340
+      "name": "cozzwald",
+      "shinies": 19394
     },
     {
       "rank": 27,
