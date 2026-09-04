@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788556455,
-  "clipsUpdatedAt": 1788548989,
+  "statusUpdatedAt": 1788556486,
+  "clipsUpdatedAt": 1788556498,
   "clips": [
+    {
+      "id": "ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
+      "title": "Heli Kill",
+      "url": "https://www.twitch.tv/itsvdb/clip/ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/eac80d51-6d58-4dd8-a922-0c4e8317b540/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 10.5,
+      "createdAt": "2026-09-04T21:05:45Z"
+    },
     {
       "id": "HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "title": "Tank Kill",
@@ -69,16 +79,6 @@
       "views": 2,
       "duration": 30.0,
       "createdAt": "2026-09-04T17:26:36Z"
-    },
-    {
-      "id": "SplendidComfortableGalagoNerfBlueBlaster-b6xAHwADDfxfH294",
-      "title": "Comm Drop Fail",
-      "url": "https://www.twitch.tv/itsvdb/clip/SplendidComfortableGalagoNerfBlueBlaster-b6xAHwADDfxfH294",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=SplendidComfortableGalagoNerfBlueBlaster-b6xAHwADDfxfH294",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6d2f7198-1b29-46fe-8676-8baeda7d93f7/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
-      "duration": 36.3,
-      "createdAt": "2026-09-04T17:21:07Z"
     }
   ]
 }
