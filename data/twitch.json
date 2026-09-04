@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788543851,
-  "clipsUpdatedAt": 1788543282,
+  "statusUpdatedAt": 1788543881,
+  "clipsUpdatedAt": 1788543882,
   "clips": [
     {
       "id": "HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
       "embedUrl": "https://clips.twitch.tv/embed?clip=HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2a632136-c1a7-4a9e-a477-209388d855e9/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "duration": 30.0,
       "createdAt": "2026-09-04T17:26:36Z"
     },
