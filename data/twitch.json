@@ -27,8 +27,8 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788546850,
-  "clipsUpdatedAt": 1788546285,
+  "statusUpdatedAt": 1788546880,
+  "clipsUpdatedAt": 1788546886,
   "clips": [
     {
       "id": "HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "embedUrl": "https://clips.twitch.tv/embed?clip=HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4278fe4-c14d-433b-a3d8-e87012447cfd/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
+      "views": 3,
       "duration": 23.4,
       "createdAt": "2026-09-04T18:06:52Z"
     },
