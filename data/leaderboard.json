@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788559179,
+  "generatedAt": 1788559654,
   "totalViewers": 693,
-  "totalShinies": 2500016,
+  "totalShinies": 2501016,
   "pageSize": 100,
   "entries": [
     {
@@ -161,23 +161,23 @@
     },
     {
       "rank": 32,
+      "name": "blzbrg",
+      "shinies": 15440
+    },
+    {
+      "rank": 33,
       "name": "bonghits4cthulhu",
       "shinies": 15242
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "our_lord_and_savior_gonk",
       "shinies": 15040
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "elronoce",
       "shinies": 14970
-    },
-    {
-      "rank": 35,
-      "name": "blzbrg",
-      "shinies": 14440
     },
     {
       "rank": 36,
