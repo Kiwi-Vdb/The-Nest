@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788535151,
-  "clipsUpdatedAt": 1788534864,
+  "statusUpdatedAt": 1788535181,
+  "clipsUpdatedAt": 1788535165,
   "clips": [
     {
       "id": "InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
       "embedUrl": "https://clips.twitch.tv/embed?clip=InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0b7bea70-68f8-498d-bc6a-0458f711d6ae/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
+      "views": 3,
       "duration": 12.2,
       "createdAt": "2026-09-04T15:02:13Z"
     },
