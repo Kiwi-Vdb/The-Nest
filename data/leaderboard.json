@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788529751,
+  "generatedAt": 1788530066,
   "totalViewers": 686,
-  "totalShinies": 2432522,
+  "totalShinies": 2432856,
   "pageSize": 100,
   "entries": [
     {
@@ -256,28 +256,28 @@
     },
     {
       "rank": 51,
+      "name": "blzbrg",
+      "shinies": 9956
+    },
+    {
+      "rank": 52,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "hells_hound_",
       "shinies": 9788
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "jermeis7er",
       "shinies": 9670
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "skvonchboyz",
       "shinies": 9670
-    },
-    {
-      "rank": 55,
-      "name": "blzbrg",
-      "shinies": 9622
     },
     {
       "rank": 56,
