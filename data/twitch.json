@@ -27,9 +27,29 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788532421,
-  "clipsUpdatedAt": 1788346830,
+  "statusUpdatedAt": 1788532451,
+  "clipsUpdatedAt": 1788532451,
   "clips": [
+    {
+      "id": "EnchantingDignifiedKittenThisIsSparta-jTt8WPuH-ak-txwB",
+      "title": "there's a tower there VDB",
+      "url": "https://www.twitch.tv/itsvdb/clip/EnchantingDignifiedKittenThisIsSparta-jTt8WPuH-ak-txwB",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=EnchantingDignifiedKittenThisIsSparta-jTt8WPuH-ak-txwB",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0f80bb96-6fb1-4732-8e81-69dab4e981b0/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 11.2,
+      "createdAt": "2026-09-04T14:27:24Z"
+    },
+    {
+      "id": "RelievedBrainyPotVoteYea-Cbit8LnuDlye3GZV",
+      "title": "Any% WR for Heli Crash",
+      "url": "https://www.twitch.tv/itsvdb/clip/RelievedBrainyPotVoteYea-Cbit8LnuDlye3GZV",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=RelievedBrainyPotVoteYea-Cbit8LnuDlye3GZV",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/78a936be-5f41-4bdc-9c0c-e4e15fe590d0/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 22.9,
+      "createdAt": "2026-09-04T14:26:53Z"
+    },
     {
       "id": "PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
       "title": "As a 1v1 tryhard sweat this made me lmfao xD",
@@ -59,26 +79,6 @@
       "views": 3,
       "duration": 30.0,
       "createdAt": "2026-07-27T18:11:07Z"
-    },
-    {
-      "id": "FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
-      "title": "a program",
-      "url": "https://www.twitch.tv/itsvdb/clip/FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=FrailYummyNigiriDogFace-9UctUr3NM8u9M0ek",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d1201ef2-74f3-4658-83ed-8b813246c6b7/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 5,
-      "duration": 24.2,
-      "createdAt": "2026-06-24T15:28:04Z"
-    },
-    {
-      "id": "EphemeralPoliteLlamaFrankerZ-YWwJXpiME_DckrIn",
-      "title": "AHHHH! EME...! EMRE! *moans*",
-      "url": "https://www.twitch.tv/itsvdb/clip/EphemeralPoliteLlamaFrankerZ-YWwJXpiME_DckrIn",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=EphemeralPoliteLlamaFrankerZ-YWwJXpiME_DckrIn",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e410c3a3-b042-4d02-aee6-296b876911d6/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 14,
-      "duration": 27.9,
-      "createdAt": "2026-06-04T19:17:27Z"
     }
   ]
 }
