@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1788556534,
+  "generatedAt": 1788559179,
   "totalViewers": 693,
-  "totalShinies": 2496016,
+  "totalShinies": 2500016,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 125456
+      "shinies": 126456
     },
     {
       "rank": 2,
@@ -32,7 +32,7 @@
     {
       "rank": 6,
       "name": "crazypyronl",
-      "shinies": 66466
+      "shinies": 67466
     },
     {
       "rank": 7,
@@ -77,7 +77,7 @@
     {
       "rank": 15,
       "name": "watchbehinddude",
-      "shinies": 29544
+      "shinies": 30544
     },
     {
       "rank": 16,
@@ -236,23 +236,23 @@
     },
     {
       "rank": 47,
+      "name": "akiletia",
+      "shinies": 11336
+    },
+    {
+      "rank": 48,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "globe2deag",
       "shinies": 10642
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "blopson",
       "shinies": 10540
-    },
-    {
-      "rank": 50,
-      "name": "akiletia",
-      "shinies": 10336
     },
     {
       "rank": 51,
