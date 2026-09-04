@@ -18,7 +18,7 @@
     "updatedAt": "2026-08-16T09:24:20Z"
   },
   "live": true,
-  "viewers": 8,
+  "viewers": 7,
   "title": "VDB Airlines is Back Baby!",
   "gameId": "743893402",
   "gameName": "WARDOGS",
@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788542336,
-  "clipsUpdatedAt": 1788542080,
+  "statusUpdatedAt": 1788542366,
+  "clipsUpdatedAt": 1788542380,
   "clips": [
     {
       "id": "UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
       "embedUrl": "https://clips.twitch.tv/embed?clip=UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7693d022-446a-4fc1-ac15-6c5420d7cb79/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "duration": 17.1,
       "createdAt": "2026-09-04T17:07:03Z"
     },
@@ -46,7 +46,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
       "embedUrl": "https://clips.twitch.tv/embed?clip=WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/60e71972-248e-417b-a1bf-2d57344f37c9/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "duration": 16.5,
       "createdAt": "2026-09-04T16:43:02Z"
     },
