@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788544172,
+  "generatedAt": 1788545382,
   "totalViewers": 692,
-  "totalShinies": 2474406,
+  "totalShinies": 2474740,
   "pageSize": 100,
   "entries": [
     {
@@ -306,18 +306,18 @@
     },
     {
       "rank": 61,
+      "name": "zeeburgapm",
+      "shinies": 8572
+    },
+    {
+      "rank": 62,
       "name": "liarturil",
       "shinies": 8488
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "rikkler",
       "shinies": 8336
-    },
-    {
-      "rank": 63,
-      "name": "zeeburgapm",
-      "shinies": 8238
     },
     {
       "rank": 64,
