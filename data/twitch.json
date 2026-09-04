@@ -27,9 +27,29 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788543245,
-  "clipsUpdatedAt": 1788542681,
+  "statusUpdatedAt": 1788543275,
+  "clipsUpdatedAt": 1788543282,
   "clips": [
+    {
+      "id": "HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
+      "title": "There Goes My Hero",
+      "url": "https://www.twitch.tv/itsvdb/clip/HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2a632136-c1a7-4a9e-a477-209388d855e9/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 30.0,
+      "createdAt": "2026-09-04T17:26:36Z"
+    },
+    {
+      "id": "SplendidComfortableGalagoNerfBlueBlaster-b6xAHwADDfxfH294",
+      "title": "Comm Drop Fail",
+      "url": "https://www.twitch.tv/itsvdb/clip/SplendidComfortableGalagoNerfBlueBlaster-b6xAHwADDfxfH294",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=SplendidComfortableGalagoNerfBlueBlaster-b6xAHwADDfxfH294",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6d2f7198-1b29-46fe-8676-8baeda7d93f7/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 36.3,
+      "createdAt": "2026-09-04T17:21:07Z"
+    },
     {
       "id": "ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
       "title": "the combat medic",
@@ -59,26 +79,6 @@
       "views": 2,
       "duration": 16.5,
       "createdAt": "2026-09-04T16:43:02Z"
-    },
-    {
-      "id": "InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
-      "title": "\"How did I not kill him?\"",
-      "url": "https://www.twitch.tv/itsvdb/clip/InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=InventiveLitigiousRatFUNgineer-m7e3GamBgULM9wTs",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0b7bea70-68f8-498d-bc6a-0458f711d6ae/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
-      "duration": 12.2,
-      "createdAt": "2026-09-04T15:02:13Z"
-    },
-    {
-      "id": "EnchantingDignifiedKittenThisIsSparta-jTt8WPuH-ak-txwB",
-      "title": "there's a tower there VDB",
-      "url": "https://www.twitch.tv/itsvdb/clip/EnchantingDignifiedKittenThisIsSparta-jTt8WPuH-ak-txwB",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=EnchantingDignifiedKittenThisIsSparta-jTt8WPuH-ak-txwB",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0f80bb96-6fb1-4732-8e81-69dab4e981b0/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
-      "duration": 11.2,
-      "createdAt": "2026-09-04T14:27:24Z"
     }
   ]
 }
