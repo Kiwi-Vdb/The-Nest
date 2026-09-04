@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788540451,
+  "generatedAt": 1788540573,
   "totalViewers": 691,
-  "totalShinies": 2461738,
+  "totalShinies": 2463738,
   "pageSize": 100,
   "entries": [
     {
@@ -37,7 +37,7 @@
     {
       "rank": 7,
       "name": "bar_outofmana",
-      "shinies": 56382
+      "shinies": 57382
     },
     {
       "rank": 8,
@@ -176,28 +176,28 @@
     },
     {
       "rank": 35,
+      "name": "alishhk",
+      "shinies": 14208
+    },
+    {
+      "rank": 36,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "imth3apollo",
       "shinies": 13470
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "axolotl_eu",
       "shinies": 13462
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "halfyourlife",
       "shinies": 13444
-    },
-    {
-      "rank": 39,
-      "name": "alishhk",
-      "shinies": 13208
     },
     {
       "rank": 40,
