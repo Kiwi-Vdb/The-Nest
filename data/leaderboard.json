@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788533372,
+  "generatedAt": 1788533670,
   "totalViewers": 688,
-  "totalShinies": 2441794,
+  "totalShinies": 2442794,
   "pageSize": 100,
   "entries": [
     {
@@ -231,23 +231,23 @@
     },
     {
       "rank": 46,
+      "name": "blzbrg",
+      "shinies": 11106
+    },
+    {
+      "rank": 47,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "globe2deag",
       "shinies": 10642
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "blopson",
       "shinies": 10540
-    },
-    {
-      "rank": 49,
-      "name": "blzbrg",
-      "shinies": 10106
     },
     {
       "rank": 50,
