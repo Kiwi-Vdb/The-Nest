@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788561982,
+  "generatedAt": 1788562169,
   "count": 50,
   "activities": [
     {
@@ -256,14 +256,6 @@
       "target": "kingjaos"
     },
     {
-      "id": "2c2932981f206493",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 1,000 Shinies in a prediction: Will Team Dog WIn?",
-      "timestamp": 1787929695,
-      "amount": 1000
-    },
-    {
       "id": "d816a784fba2a3f7",
       "type": "unlock",
       "who": "axolotl_eu",
@@ -491,6 +483,16 @@
       "timestamp": 1787161254,
       "rarity": "epic",
       "category": "Kiwi Hand",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c06c26908ff7f17a",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Space Helmet",
+      "timestamp": 1787161253,
+      "rarity": "legendary",
+      "category": "Kiwi Full Head",
       "rewardType": "cosmetic"
     }
   ]
