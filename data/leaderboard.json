@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788536850,
+  "generatedAt": 1788536972,
   "totalViewers": 690,
-  "totalShinies": 2450432,
+  "totalShinies": 2452432,
   "pageSize": 100,
   "entries": [
     {
@@ -37,7 +37,7 @@
     {
       "rank": 7,
       "name": "bar_outofmana",
-      "shinies": 55382
+      "shinies": 56382
     },
     {
       "rank": 8,
@@ -196,23 +196,23 @@
     },
     {
       "rank": 39,
+      "name": "alishhk",
+      "shinies": 13208
+    },
+    {
+      "rank": 40,
       "name": "dhisame",
       "shinies": 12458
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "goobmilk",
       "shinies": 12424
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "coffeeconceder",
       "shinies": 12420
-    },
-    {
-      "rank": 42,
-      "name": "alishhk",
-      "shinies": 12208
     },
     {
       "rank": 43,
