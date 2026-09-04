@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788538691,
+  "generatedAt": 1788538866,
   "totalViewers": 691,
-  "totalShinies": 2458586,
+  "totalShinies": 2458736,
   "pageSize": 100,
   "entries": [
     {
@@ -596,23 +596,23 @@
     },
     {
       "rank": 119,
+      "name": "baas_h",
+      "shinies": 3938
+    },
+    {
+      "rank": 120,
       "name": "heavywater00",
       "shinies": 3920
     },
     {
-      "rank": 120,
+      "rank": 121,
       "name": "nurse_asemi",
       "shinies": 3824
     },
     {
-      "rank": 121,
+      "rank": 122,
       "name": "mocrami",
       "shinies": 3818
-    },
-    {
-      "rank": 122,
-      "name": "baas_h",
-      "shinies": 3788
     },
     {
       "rank": 123,
