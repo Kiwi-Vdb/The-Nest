@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788542063,
-  "clipsUpdatedAt": 1788540877,
+  "statusUpdatedAt": 1788542093,
+  "clipsUpdatedAt": 1788542080,
   "clips": [
+    {
+      "id": "UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
+      "title": "just a touch",
+      "url": "https://www.twitch.tv/itsvdb/clip/UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7693d022-446a-4fc1-ac15-6c5420d7cb79/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 17.1,
+      "createdAt": "2026-09-04T17:07:03Z"
+    },
     {
       "id": "WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
       "title": "Just a casual supply run",
@@ -69,16 +79,6 @@
       "views": 1,
       "duration": 22.9,
       "createdAt": "2026-09-04T14:26:53Z"
-    },
-    {
-      "id": "PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
-      "title": "As a 1v1 tryhard sweat this made me lmfao xD",
-      "url": "https://www.twitch.tv/itsvdb/clip/PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=PunchyAcceptableGarlicPupper-XtewVWyzIERZ3YMl",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f07ecea9-9d65-400e-8862-8c3d5ab16c02/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 9,
-      "duration": 5.2,
-      "createdAt": "2026-08-27T15:12:38Z"
     }
   ]
 }
