@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788537059,
+  "generatedAt": 1788537271,
   "totalViewers": 690,
-  "totalShinies": 2452766,
+  "totalShinies": 2453766,
   "pageSize": 100,
   "entries": [
     {
@@ -216,23 +216,23 @@
     },
     {
       "rank": 43,
+      "name": "blzbrg",
+      "shinies": 12106
+    },
+    {
+      "rank": 44,
       "name": "freakofnature122",
       "shinies": 11820
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "warriot",
       "shinies": 11788
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "pownage227",
       "shinies": 11640
-    },
-    {
-      "rank": 46,
-      "name": "blzbrg",
-      "shinies": 11106
     },
     {
       "rank": 47,
