@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788542639,
-  "clipsUpdatedAt": 1788542380,
+  "statusUpdatedAt": 1788542669,
+  "clipsUpdatedAt": 1788542681,
   "clips": [
+    {
+      "id": "ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
+      "title": "the combat medic",
+      "url": "https://www.twitch.tv/itsvdb/clip/ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e492f700-a8b6-46e7-9492-ebb8568d8b21/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 3,
+      "duration": 42.1,
+      "createdAt": "2026-09-04T17:10:04Z"
+    },
     {
       "id": "UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
       "title": "just a touch",
@@ -69,16 +79,6 @@
       "views": 1,
       "duration": 11.2,
       "createdAt": "2026-09-04T14:27:24Z"
-    },
-    {
-      "id": "RelievedBrainyPotVoteYea-Cbit8LnuDlye3GZV",
-      "title": "Any% WR for Heli Crash",
-      "url": "https://www.twitch.tv/itsvdb/clip/RelievedBrainyPotVoteYea-Cbit8LnuDlye3GZV",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=RelievedBrainyPotVoteYea-Cbit8LnuDlye3GZV",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/78a936be-5f41-4bdc-9c0c-e4e15fe590d0/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
-      "duration": 22.9,
-      "createdAt": "2026-09-04T14:26:53Z"
     }
   ]
 }
