@@ -27,9 +27,29 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788544426,
-  "clipsUpdatedAt": 1788543882,
+  "statusUpdatedAt": 1788544457,
+  "clipsUpdatedAt": 1788544483,
   "clips": [
+    {
+      "id": "RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
+      "title": "we see you up there",
+      "url": "https://www.twitch.tv/itsvdb/clip/RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a08a0e8e-fcb6-4d3e-94e2-7fe34f05080d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 6.8,
+      "createdAt": "2026-09-04T17:47:04Z"
+    },
+    {
+      "id": "TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
+      "title": "Tank Gunning was his Calling",
+      "url": "https://www.twitch.tv/itsvdb/clip/TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/64c23d00-d9de-45c3-9adf-5163cbd68dbb/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 13.1,
+      "createdAt": "2026-09-04T17:46:05Z"
+    },
     {
       "id": "HeadstrongSassyAardvarkThunBeast-nh0j5NoSZtMq3P58",
       "title": "There Goes My Hero",
@@ -59,26 +79,6 @@
       "views": 3,
       "duration": 42.1,
       "createdAt": "2026-09-04T17:10:04Z"
-    },
-    {
-      "id": "UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
-      "title": "just a touch",
-      "url": "https://www.twitch.tv/itsvdb/clip/UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=UninterestedOutstandingBananaChocolateRain-DtqJw_xVANRPtUyA",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7693d022-446a-4fc1-ac15-6c5420d7cb79/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "duration": 17.1,
-      "createdAt": "2026-09-04T17:07:03Z"
-    },
-    {
-      "id": "WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
-      "title": "Just a casual supply run",
-      "url": "https://www.twitch.tv/itsvdb/clip/WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=WimpyDelightfulPastaTinyFace-AfyP4k9c9wdLktK8",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/60e71972-248e-417b-a1bf-2d57344f37c9/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
-      "duration": 16.5,
-      "createdAt": "2026-09-04T16:43:02Z"
     }
   ]
 }
