@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788545638,
-  "clipsUpdatedAt": 1788544783,
+  "statusUpdatedAt": 1788545668,
+  "clipsUpdatedAt": 1788545685,
   "clips": [
+    {
+      "id": "HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
+      "title": "Tank Kill",
+      "url": "https://www.twitch.tv/itsvdb/clip/HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4278fe4-c14d-433b-a3d8-e87012447cfd/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 23.4,
+      "createdAt": "2026-09-04T18:06:52Z"
+    },
     {
       "id": "RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
       "title": "we see you up there",
@@ -69,16 +79,6 @@
       "views": 1,
       "duration": 36.3,
       "createdAt": "2026-09-04T17:21:07Z"
-    },
-    {
-      "id": "ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
-      "title": "the combat medic",
-      "url": "https://www.twitch.tv/itsvdb/clip/ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=ImpossibleCourteousBorkHeyGirl-K-lfHsjdRXsIxDfK",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e492f700-a8b6-46e7-9492-ebb8568d8b21/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
-      "duration": 42.1,
-      "createdAt": "2026-09-04T17:10:04Z"
     }
   ]
 }
