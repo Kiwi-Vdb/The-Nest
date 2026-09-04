@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788533310,
+  "generatedAt": 1788533372,
   "totalViewers": 688,
-  "totalShinies": 2439794,
+  "totalShinies": 2441794,
   "pageSize": 100,
   "entries": [
     {
@@ -36,13 +36,13 @@
     },
     {
       "rank": 7,
-      "name": "iamdibi",
-      "shinies": 54984
+      "name": "bar_outofmana",
+      "shinies": 55382
     },
     {
       "rank": 8,
-      "name": "bar_outofmana",
-      "shinies": 54382
+      "name": "iamdibi",
+      "shinies": 54984
     },
     {
       "rank": 9,
@@ -211,23 +211,23 @@
     },
     {
       "rank": 42,
+      "name": "alishhk",
+      "shinies": 12208
+    },
+    {
+      "rank": 43,
       "name": "freakofnature122",
       "shinies": 11820
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "warriot",
       "shinies": 11788
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "pownage227",
       "shinies": 11306
-    },
-    {
-      "rank": 45,
-      "name": "alishhk",
-      "shinies": 11208
     },
     {
       "rank": 46,
