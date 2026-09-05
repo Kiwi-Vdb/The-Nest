@@ -17,18 +17,18 @@
     "gameTime": 0,
     "updatedAt": "2026-08-16T09:24:20Z"
   },
-  "live": true,
-  "viewers": 2,
-  "title": "VDB Airlines is Back Baby! pt.2",
-  "gameId": "743893402",
-  "gameName": "WARDOGS",
-  "gameBoxArtUrl": "https://static-cdn.jtvnw.net/ttv-boxart/743893402_IGDB-285x380.jpg",
-  "startedAt": "2026-09-04T18:58:49Z",
-  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
+  "live": false,
+  "viewers": 0,
+  "title": "",
+  "gameId": "",
+  "gameName": "",
+  "gameBoxArtUrl": "",
+  "startedAt": "",
+  "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788576171,
-  "clipsUpdatedAt": 1788567010,
+  "statusUpdatedAt": 1788623743,
+  "clipsUpdatedAt": 1788623743,
   "clips": [
     {
       "id": "BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
@@ -56,7 +56,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "embedUrl": "https://clips.twitch.tv/embed?clip=HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4278fe4-c14d-433b-a3d8-e87012447cfd/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 6,
+      "views": 7,
       "duration": 23.4,
       "createdAt": "2026-09-04T18:06:52Z"
     },
@@ -76,7 +76,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
       "embedUrl": "https://clips.twitch.tv/embed?clip=TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/64c23d00-d9de-45c3-9adf-5163cbd68dbb/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
+      "views": 4,
       "duration": 13.1,
       "createdAt": "2026-09-04T17:46:05Z"
     }
