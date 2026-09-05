@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788628612,
+  "generatedAt": 1788628795,
   "totalViewers": 697,
-  "totalShinies": 2544200,
+  "totalShinies": 2544534,
   "pageSize": 100,
   "entries": [
     {
@@ -306,18 +306,18 @@
     },
     {
       "rank": 61,
+      "name": "esebian_",
+      "shinies": 9008
+    },
+    {
+      "rank": 62,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "goliathmaroof",
       "shinies": 8758
-    },
-    {
-      "rank": 63,
-      "name": "esebian_",
-      "shinies": 8674
     },
     {
       "rank": 64,
