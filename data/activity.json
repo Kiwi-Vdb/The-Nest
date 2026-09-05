@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788569196,
+  "generatedAt": 1788569377,
   "count": 50,
   "activities": [
     {
@@ -247,15 +247,6 @@
       "amount": 1000
     },
     {
-      "id": "388c39bd2c70084d",
-      "type": "gift",
-      "who": "itsvdb",
-      "text": "gifted 2,000 Shinies to kingjaos",
-      "timestamp": 1787930969,
-      "amount": 2000,
-      "target": "kingjaos"
-    },
-    {
       "id": "d816a784fba2a3f7",
       "type": "unlock",
       "who": "axolotl_eu",
@@ -493,6 +484,16 @@
       "timestamp": 1787161253,
       "rarity": "legendary",
       "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c58385b1f3595b18",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Ski Goggles",
+      "timestamp": 1787161251,
+      "rarity": "epic",
+      "category": "Kiwi Eyes",
       "rewardType": "cosmetic"
     }
   ]
