@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788570156,
+  "generatedAt": 1788570456,
   "totalViewers": 695,
-  "totalShinies": 2525140,
+  "totalShinies": 2526140,
   "pageSize": 100,
   "entries": [
     {
@@ -146,23 +146,23 @@
     },
     {
       "rank": 29,
+      "name": "blzbrg",
+      "shinies": 18590
+    },
+    {
+      "rank": 30,
       "name": "oafsalot",
       "shinies": 18340
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "jigglyjake22",
       "shinies": 18142
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "alishhk",
       "shinies": 17692
-    },
-    {
-      "rank": 32,
-      "name": "blzbrg",
-      "shinies": 17590
     },
     {
       "rank": 33,
