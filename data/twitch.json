@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788566975,
-  "clipsUpdatedAt": 1788557098,
+  "statusUpdatedAt": 1788567005,
+  "clipsUpdatedAt": 1788567010,
   "clips": [
     {
       "id": "BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
       "embedUrl": "https://clips.twitch.tv/embed?clip=BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f615a560-92ca-4ea3-9231-92f9defd7c43/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "duration": 10.7,
       "createdAt": "2026-09-04T21:10:43Z"
     },
@@ -46,7 +46,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
       "embedUrl": "https://clips.twitch.tv/embed?clip=ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/eac80d51-6d58-4dd8-a922-0c4e8317b540/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "duration": 10.5,
       "createdAt": "2026-09-04T21:05:45Z"
     },
