@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788570456,
+  "generatedAt": 1788570935,
   "totalViewers": 695,
-  "totalShinies": 2526140,
+  "totalShinies": 2527140,
   "pageSize": 100,
   "entries": [
     {
@@ -306,58 +306,58 @@
     },
     {
       "rank": 61,
+      "name": "kingjaos",
+      "shinies": 8754
+    },
+    {
+      "rank": 62,
       "name": "esebian_",
       "shinies": 8674
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "snoopa_aoe",
       "shinies": 8604
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "zeeburgapm",
       "shinies": 8572
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "liarturil",
       "shinies": 8488
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "rikkler",
       "shinies": 8336
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "akkaiiie",
       "shinies": 8004
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "swallowbug11",
       "shinies": 8004
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "vlunom",
       "shinies": 8004
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "ruphin",
       "shinies": 7970
-    },
-    {
-      "rank": 71,
-      "name": "kingjaos",
-      "shinies": 7754
     },
     {
       "rank": 72,
