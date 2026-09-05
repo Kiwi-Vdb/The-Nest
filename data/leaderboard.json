@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788574064,
+  "generatedAt": 1788574538,
   "totalViewers": 697,
-  "totalShinies": 2533776,
+  "totalShinies": 2534776,
   "pageSize": 100,
   "entries": [
     {
@@ -281,33 +281,33 @@
     },
     {
       "rank": 56,
+      "name": "kingjaos",
+      "shinies": 9754
+    },
+    {
+      "rank": 57,
       "name": "jermeis7er",
       "shinies": 9670
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "skvonchboyz",
       "shinies": 9670
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "franzdk_",
       "shinies": 9120
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "goliathmaroof",
       "shinies": 8758
-    },
-    {
-      "rank": 61,
-      "name": "kingjaos",
-      "shinies": 8754
     },
     {
       "rank": 62,
