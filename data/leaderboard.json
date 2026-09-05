@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788625246,
+  "generatedAt": 1788625248,
   "totalViewers": 697,
-  "totalShinies": 2539382,
+  "totalShinies": 2539716,
   "pageSize": 100,
   "entries": [
     {
@@ -476,23 +476,23 @@
     },
     {
       "rank": 95,
+      "name": "lordjammacus",
+      "shinies": 5120
+    },
+    {
+      "rank": 96,
       "name": "bizzyrex",
       "shinies": 5017
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "kotaotake",
       "shinies": 4952
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "avum",
       "shinies": 4820
-    },
-    {
-      "rank": 98,
-      "name": "lordjammacus",
-      "shinies": 4786
     },
     {
       "rank": 99,
