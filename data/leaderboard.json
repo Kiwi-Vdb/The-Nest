@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1788565776,
+  "generatedAt": 1788566376,
   "totalViewers": 695,
-  "totalShinies": 2514990,
+  "totalShinies": 2516990,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 127456
+      "shinies": 128456
     },
     {
       "rank": 2,
@@ -206,23 +206,23 @@
     },
     {
       "rank": 41,
+      "name": "akiletia",
+      "shinies": 13336
+    },
+    {
+      "rank": 42,
       "name": "dhisame",
       "shinies": 12458
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "goobmilk",
       "shinies": 12424
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "coffeeconceder",
       "shinies": 12420
-    },
-    {
-      "rank": 44,
-      "name": "akiletia",
-      "shinies": 12336
     },
     {
       "rank": 45,
