@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788710130,
+  "generatedAt": 1788710152,
   "totalViewers": 712,
-  "totalShinies": 2568408,
+  "totalShinies": 2568558,
   "pageSize": 100,
   "entries": [
     {
@@ -241,18 +241,18 @@
     },
     {
       "rank": 48,
+      "name": "blopson",
+      "shinies": 11024
+    },
+    {
+      "rank": 49,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "globe2deag",
       "shinies": 10976
-    },
-    {
-      "rank": 50,
-      "name": "blopson",
-      "shinies": 10874
     },
     {
       "rank": 51,

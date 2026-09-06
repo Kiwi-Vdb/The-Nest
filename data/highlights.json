@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1788710130,
-  "rotationGeneratedAt": 1788623742,
-  "nextRotationAt": 1788710142,
+  "generatedAt": 1788710152,
+  "rotationGeneratedAt": 1788710152,
+  "nextRotationAt": 1788796552,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "loot_box_champion",
+      "category": "most_generous_viewer",
       "group": "viewer",
-      "icon": "◇",
-      "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 40 loot boxes."
+      "icon": "♥",
+      "title": "Most Generous",
+      "copy": "bar_outofmana has gifted 2,000 Shinies to the flock."
     },
     {
-      "category": "latest_unlock",
+      "category": "biggest_prediction_prize",
       "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "hunbleeone unlocked Magic Wand (Uncommon)."
+      "icon": "✓",
+      "title": "Biggest Prediction Prize",
+      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
     },
     {
-      "category": "community_shiny_total",
+      "category": "community_loot_boxes",
       "group": "community",
-      "icon": "✦",
-      "title": "Community Fortune",
-      "copy": "The flock currently holds 2,568,408 Shinies."
+      "icon": "◇",
+      "title": "Boxes Opened",
+      "copy": "The community has opened 97 loot boxes."
     }
   ]
 }
