@@ -1,23 +1,23 @@
 {
-  "generatedAt": 1788712587,
+  "generatedAt": 1788712611,
   "active": true,
-  "status": "open",
+  "status": "closed",
   "id": 1788712371,
   "question": "Who wins 5v5 on Starwatcher?",
   "prize": 2500,
-  "totalPicks": 9,
+  "totalPicks": 12,
   "startedAt": 1788712371,
-  "closedAt": null,
+  "closedAt": 1788712611,
   "options": [
     {
       "label": "pro",
-      "votes": 2,
-      "percent": 22.2
+      "votes": 5,
+      "percent": 41.7
     },
     {
       "label": "bm",
       "votes": 7,
-      "percent": 77.8
+      "percent": 58.3
     }
   ]
 }
