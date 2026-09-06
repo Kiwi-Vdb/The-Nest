@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788711125,
+  "generatedAt": 1788711134,
   "totalViewers": 717,
-  "totalShinies": 2578766,
+  "totalShinies": 2579100,
   "pageSize": 100,
   "entries": [
     {
@@ -261,18 +261,18 @@
     },
     {
       "rank": 52,
+      "name": "siven12",
+      "shinies": 10422
+    },
+    {
+      "rank": 53,
       "name": "hexu0x",
       "shinies": 10340
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "kingjaos",
       "shinies": 10238
-    },
-    {
-      "rank": 54,
-      "name": "siven12",
-      "shinies": 10088
     },
     {
       "rank": 55,
