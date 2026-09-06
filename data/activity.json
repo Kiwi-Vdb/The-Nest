@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788708202,
+  "generatedAt": 1788708245,
   "count": 50,
   "activities": [
     {
@@ -237,14 +237,6 @@
       "text": "won 1,500 Shinies in a prediction: Will VDB win?",
       "timestamp": 1787936586,
       "amount": 1500
-    },
-    {
-      "id": "1a56b4000d695b0d",
-      "type": "prediction",
-      "who": "tallerofin",
-      "text": "won 1,000 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1787935078,
-      "amount": 1000
     },
     {
       "id": "d816a784fba2a3f7",
@@ -494,6 +486,16 @@
       "timestamp": 1787161251,
       "rarity": "epic",
       "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "69ce370e6506bdc3",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Hat",
+      "timestamp": 1787161250,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
   ]
