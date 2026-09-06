@@ -18,7 +18,7 @@
     "updatedAt": "2026-08-16T09:24:20Z"
   },
   "live": true,
-  "viewers": 75,
+  "viewers": 77,
   "title": "BCCL Season 2 - PRO vs BM",
   "gameId": "517109",
   "gameName": "Beyond All Reason",
@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788714049,
-  "clipsUpdatedAt": 1788623743,
+  "statusUpdatedAt": 1788714080,
+  "clipsUpdatedAt": 1788714069,
   "clips": [
+    {
+      "id": "TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
+      "title": "HighGain Op Dgun",
+      "url": "https://www.twitch.tv/itsvdb/clip/TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c459dc61-ca87-429a-b5db-a200ec02f43c/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 17.3,
+      "createdAt": "2026-09-06T16:54:15Z"
+    },
     {
       "id": "BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
       "title": "2nd Heli Kill",
@@ -69,16 +79,6 @@
       "views": 1,
       "duration": 6.8,
       "createdAt": "2026-09-04T17:47:04Z"
-    },
-    {
-      "id": "TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
-      "title": "Tank Gunning was his Calling",
-      "url": "https://www.twitch.tv/itsvdb/clip/TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=TiredPoorWebCeilingCat-LR65sC7YDtIA16dP",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/64c23d00-d9de-45c3-9adf-5163cbd68dbb/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 4,
-      "duration": 13.1,
-      "createdAt": "2026-09-04T17:46:05Z"
     }
   ]
 }
