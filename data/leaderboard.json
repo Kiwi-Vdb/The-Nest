@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788710220,
+  "generatedAt": 1788710240,
   "totalViewers": 712,
-  "totalShinies": 2569008,
+  "totalShinies": 2569342,
   "pageSize": 100,
   "entries": [
     {
@@ -386,28 +386,28 @@
     },
     {
       "rank": 77,
+      "name": "pauperbanaan",
+      "shinies": 6788
+    },
+    {
+      "rank": 78,
       "name": "zzzzzvh",
       "shinies": 6672
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "oumuamua_i1",
       "shinies": 6636
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "sashkorin",
       "shinies": 6488
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "toszii",
       "shinies": 6488
-    },
-    {
-      "rank": 81,
-      "name": "pauperbanaan",
-      "shinies": 6454
     },
     {
       "rank": 82,
