@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788709129,
+  "generatedAt": 1788709202,
   "count": 50,
   "activities": [
     {
@@ -229,14 +229,6 @@
       "rarity": "common",
       "category": "Kiwi Boots / Shoes",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "84013c4ca5204027",
-      "type": "prediction",
-      "who": "iamdibi",
-      "text": "won 1,500 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1787936586,
-      "amount": 1500
     },
     {
       "id": "d816a784fba2a3f7",
@@ -496,6 +488,16 @@
       "timestamp": 1787161250,
       "rarity": "rare",
       "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "b891da2c4ed12152",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Beard",
+      "timestamp": 1787161248,
+      "rarity": "epic",
+      "category": "Kiwi Neck",
       "rewardType": "cosmetic"
     }
   ]
