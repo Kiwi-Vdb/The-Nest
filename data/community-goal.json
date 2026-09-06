@@ -2,12 +2,12 @@
   "type": "twitch_followers",
   "status": "connected",
   "label": "Road to 1,000 Followers",
-  "current": 1002,
+  "current": 1003,
   "target": 1000,
   "suffix": "followers",
   "remaining": 0,
   "percentage": 100.0,
   "completed": true,
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "updatedAt": 1788714069
+  "updatedAt": 1788714971
 }
