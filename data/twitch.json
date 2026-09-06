@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788714322,
-  "clipsUpdatedAt": 1788714069,
+  "statusUpdatedAt": 1788714353,
+  "clipsUpdatedAt": 1788714370,
   "clips": [
     {
       "id": "TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
       "embedUrl": "https://clips.twitch.tv/embed?clip=TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c459dc61-ca87-429a-b5db-a200ec02f43c/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 5,
       "duration": 17.3,
       "createdAt": "2026-09-06T16:54:15Z"
     },
