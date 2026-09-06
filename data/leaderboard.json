@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788710240,
+  "generatedAt": 1788710316,
   "totalViewers": 712,
-  "totalShinies": 2569342,
+  "totalShinies": 2569826,
   "pageSize": 100,
   "entries": [
     {
@@ -191,18 +191,18 @@
     },
     {
       "rank": 38,
+      "name": "axolotl_eu",
+      "shinies": 13946
+    },
+    {
+      "rank": 39,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "imth3apollo",
       "shinies": 13470
-    },
-    {
-      "rank": 40,
-      "name": "axolotl_eu",
-      "shinies": 13462
     },
     {
       "rank": 41,
