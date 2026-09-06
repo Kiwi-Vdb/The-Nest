@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788709379,
+  "generatedAt": 1788709409,
   "totalViewers": 711,
-  "totalShinies": 2564802,
+  "totalShinies": 2564952,
   "pageSize": 100,
   "entries": [
     {
@@ -1756,22 +1756,22 @@
     },
     {
       "rank": 351,
+      "name": "hayajicz",
+      "shinies": 968
+    },
+    {
+      "rank": 352,
       "name": "bouffeurde3080",
       "shinies": 818
     },
     {
-      "rank": 352,
+      "rank": 353,
       "name": "byrdzye",
       "shinies": 818
     },
     {
-      "rank": 353,
-      "name": "dme_deinosuchus",
-      "shinies": 818
-    },
-    {
       "rank": 354,
-      "name": "hayajicz",
+      "name": "dme_deinosuchus",
       "shinies": 818
     },
     {
