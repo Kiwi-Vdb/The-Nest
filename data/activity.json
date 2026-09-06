@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788711545,
+  "generatedAt": 1788711621,
   "count": 50,
   "activities": [
     {
@@ -130,15 +130,6 @@
       "timestamp": 1787998533,
       "amount": 100,
       "target": "bot_kiwi_birb"
-    },
-    {
-      "id": "94c11831931da596",
-      "type": "gift",
-      "who": "bar_outofmana",
-      "text": "gifted 2,000 Shinies to kingjaos",
-      "timestamp": 1787998475,
-      "amount": 2000,
-      "target": "kingjaos"
     },
     {
       "id": "dc4bcf293f161ebd",
@@ -498,6 +489,16 @@
       "timestamp": 1787161248,
       "rarity": "epic",
       "category": "Kiwi Neck",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "59449f1bd984e4dd",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Red Gumboots",
+      "timestamp": 1787161247,
+      "rarity": "common",
+      "category": "Kiwi Feet",
       "rewardType": "cosmetic"
     }
   ]
