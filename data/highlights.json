@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788711621,
+  "generatedAt": 1788711650,
   "rotationGeneratedAt": 1788710152,
   "nextRotationAt": 1788796552,
   "rotationHours": 24,
@@ -8,9 +8,9 @@
     {
       "category": "most_generous_viewer",
       "group": "viewer",
-      "icon": "♥",
+      "icon": "✦",
       "title": "Most Generous",
-      "copy": "goliathmaroof has gifted 100 Shinies to the flock."
+      "copy": "More community data is needed for this highlight."
     },
     {
       "category": "biggest_prediction_prize",

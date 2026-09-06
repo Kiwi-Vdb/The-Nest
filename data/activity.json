@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788711621,
+  "generatedAt": 1788711650,
   "count": 50,
   "activities": [
     {
@@ -121,15 +121,6 @@
       "rarity": "common",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "4744091914376866",
-      "type": "gift",
-      "who": "goliathmaroof",
-      "text": "gifted 100 Shinies to bot_kiwi_birb",
-      "timestamp": 1787998533,
-      "amount": 100,
-      "target": "bot_kiwi_birb"
     },
     {
       "id": "dc4bcf293f161ebd",
@@ -499,6 +490,16 @@
       "timestamp": 1787161247,
       "rarity": "common",
       "category": "Kiwi Feet",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c82f8148abc292d9",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Jetpack",
+      "timestamp": 1787160548,
+      "rarity": "legendary",
+      "category": "Kiwi Back",
       "rewardType": "cosmetic"
     }
   ]
