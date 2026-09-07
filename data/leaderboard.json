@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788785974,
+  "generatedAt": 1788785983,
   "totalViewers": 795,
-  "totalShinies": 2733256,
+  "totalShinies": 2733590,
   "pageSize": 100,
   "entries": [
     {
@@ -336,33 +336,33 @@
     },
     {
       "rank": 67,
+      "name": "bizzyrex",
+      "shinies": 8335
+    },
+    {
+      "rank": 68,
       "name": "pauperbanaan",
       "shinies": 8272
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "akkaiiie",
       "shinies": 8004
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "swallowbug11",
       "shinies": 8004
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "vlunom",
       "shinies": 8004
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "zhadeoak",
       "shinies": 8002
-    },
-    {
-      "rank": 72,
-      "name": "bizzyrex",
-      "shinies": 8001
     },
     {
       "rank": 73,
