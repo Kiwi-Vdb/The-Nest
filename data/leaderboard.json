@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788777910,
+  "generatedAt": 1788778178,
   "totalViewers": 736,
-  "totalShinies": 2674114,
+  "totalShinies": 2674448,
   "pageSize": 100,
   "entries": [
     {
@@ -391,23 +391,23 @@
     },
     {
       "rank": 78,
+      "name": "zzzzzvh",
+      "shinies": 7006
+    },
+    {
+      "rank": 79,
       "name": "cmdr_zod",
       "shinies": 6938
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "florio_bar",
       "shinies": 6936
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "chrisgw",
       "shinies": 6822
-    },
-    {
-      "rank": 81,
-      "name": "zzzzzvh",
-      "shinies": 6672
     },
     {
       "rank": 82,
