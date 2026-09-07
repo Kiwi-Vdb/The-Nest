@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1788787241,
+  "generatedAt": 1788787292,
   "totalViewers": 800,
   "totalShinies": 2737698,
   "pageSize": 100,
@@ -7,7 +7,7 @@
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 136458
+      "shinies": 136958
     },
     {
       "rank": 2,
@@ -326,28 +326,28 @@
     },
     {
       "rank": 65,
-      "name": "goliathmaroof",
-      "shinies": 8742
-    },
-    {
-      "rank": 66,
       "name": "liarturil",
       "shinies": 8488
     },
     {
-      "rank": 67,
+      "rank": 66,
       "name": "rikkler",
       "shinies": 8336
     },
     {
-      "rank": 68,
+      "rank": 67,
       "name": "bizzyrex",
       "shinies": 8335
     },
     {
-      "rank": 69,
+      "rank": 68,
       "name": "pauperbanaan",
       "shinies": 8272
+    },
+    {
+      "rank": 69,
+      "name": "goliathmaroof",
+      "shinies": 8242
     },
     {
       "rank": 70,

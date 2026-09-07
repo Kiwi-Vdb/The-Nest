@@ -1,7 +1,16 @@
 {
-  "generatedAt": 1788787241,
+  "generatedAt": 1788787292,
   "count": 50,
   "activities": [
+    {
+      "id": "8b38147d8fba4b19",
+      "type": "gift",
+      "who": "goliathmaroof",
+      "text": "gifted 500 Shinies to bot_kiwi_birb",
+      "timestamp": 1788787291,
+      "amount": 500,
+      "target": "bot_kiwi_birb"
+    },
     {
       "id": "32e4a8f99be303dc",
       "type": "unlock",
@@ -480,16 +489,6 @@
       "timestamp": 1787364329,
       "rarity": "common",
       "category": "Kiwi Boots / Shoes",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "0d9934494d807bf0",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Cowboy Hat",
-      "timestamp": 1787364327,
-      "rarity": "rare",
-      "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
   ]
