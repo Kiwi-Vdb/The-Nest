@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788785192,
+  "generatedAt": 1788785432,
   "totalViewers": 793,
-  "totalShinies": 2727104,
+  "totalShinies": 2728104,
   "pageSize": 100,
   "entries": [
     {
@@ -96,28 +96,28 @@
     },
     {
       "rank": 19,
+      "name": "cozzwald",
+      "shinies": 22862
+    },
+    {
+      "rank": 20,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "deverhr",
       "shinies": 22508
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "alishhk",
       "shinies": 22160
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "chuffingbear",
       "shinies": 22008
-    },
-    {
-      "rank": 23,
-      "name": "cozzwald",
-      "shinies": 21862
     },
     {
       "rank": 24,
