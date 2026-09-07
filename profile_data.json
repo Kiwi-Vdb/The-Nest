@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788786356,
+  "generated_at": 1788786365,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -1691,6 +1691,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788786356
+        },
+        {
           "name": "Simple Sword",
           "category": "Kiwi Wings / Held Objects",
           "rarity": "rare",
@@ -1705,14 +1713,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787927101
-        },
-        {
-          "name": "Blue Beanie",
-          "category": "Kiwi Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787926774
         }
       ],
       "totals": {
@@ -6002,6 +6002,32 @@
     },
     "feirrien": {
       "username": "feirrien",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 41,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
+    "fhfnq78": {
+      "username": "fhfnq78",
       "shinies": {
         "available": true,
         "label": "Shinies",

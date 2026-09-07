@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1788786356,
+  "generatedAt": 1788786365,
   "count": 50,
   "activities": [
+    {
+      "id": "32e4a8f99be303dc",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Wooden Shield",
+      "timestamp": 1788786356,
+      "rarity": "common",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "71c118a75cd99718",
       "type": "unlock",
@@ -480,16 +490,6 @@
       "timestamp": 1787364327,
       "rarity": "rare",
       "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "4b905b7e94c092d0",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Zen Staff",
-      "timestamp": 1787161254,
-      "rarity": "epic",
-      "category": "Kiwi Hand",
       "rewardType": "cosmetic"
     }
   ]
