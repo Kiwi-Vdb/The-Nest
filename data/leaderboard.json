@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788787595,
+  "generatedAt": 1788787655,
   "totalViewers": 800,
-  "totalShinies": 2738866,
+  "totalShinies": 2739866,
   "pageSize": 100,
   "entries": [
     {
@@ -191,23 +191,23 @@
     },
     {
       "rank": 38,
+      "name": "axolotl_eu",
+      "shinies": 14730
+    },
+    {
+      "rank": 39,
       "name": "pownage227",
       "shinies": 14124
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "zeeburgapm",
       "shinies": 14024
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "halfyourlife",
       "shinies": 13928
-    },
-    {
-      "rank": 41,
-      "name": "axolotl_eu",
-      "shinies": 13730
     },
     {
       "rank": 42,
