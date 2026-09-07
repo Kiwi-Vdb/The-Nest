@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788784448,
+  "generatedAt": 1788784517,
   "totalViewers": 745,
-  "totalShinies": 2701310,
+  "totalShinies": 2701794,
   "pageSize": 100,
   "entries": [
     {
@@ -271,23 +271,23 @@
     },
     {
       "rank": 54,
+      "name": "hells_hound_",
+      "shinies": 10272
+    },
+    {
+      "rank": 55,
       "name": "kingjaos",
       "shinies": 10238
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "colonp",
       "shinies": 9820
-    },
-    {
-      "rank": 57,
-      "name": "hells_hound_",
-      "shinies": 9788
     },
     {
       "rank": 58,
