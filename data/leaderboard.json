@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788780412,
+  "generatedAt": 1788780561,
   "totalViewers": 741,
-  "totalShinies": 2681544,
+  "totalShinies": 2682362,
   "pageSize": 100,
   "entries": [
     {
@@ -82,7 +82,7 @@
     {
       "rank": 16,
       "name": "muhmonkey",
-      "shinies": 27674
+      "shinies": 28008
     },
     {
       "rank": 17,
@@ -306,23 +306,23 @@
     },
     {
       "rank": 61,
+      "name": "snoopa_aoe",
+      "shinies": 9088
+    },
+    {
+      "rank": 62,
       "name": "esebian_",
       "shinies": 9008
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "goliathmaroof",
       "shinies": 8758
-    },
-    {
-      "rank": 64,
-      "name": "snoopa_aoe",
-      "shinies": 8604
     },
     {
       "rank": 65,
