@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788786312,
+  "generatedAt": 1788786356,
   "totalViewers": 796,
-  "totalShinies": 2735576,
+  "totalShinies": 2731376,
   "pageSize": 100,
   "entries": [
     {
@@ -161,43 +161,43 @@
     },
     {
       "rank": 32,
-      "name": "axolotl_eu",
-      "shinies": 18930
-    },
-    {
-      "rank": 33,
       "name": "blzbrg",
       "shinies": 18590
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "oafsalot",
       "shinies": 18340
     },
     {
-      "rank": 35,
+      "rank": 34,
       "name": "bonghits4cthulhu",
       "shinies": 16726
     },
     {
-      "rank": 36,
+      "rank": 35,
       "name": "our_lord_and_savior_gonk",
       "shinies": 15858
     },
     {
-      "rank": 37,
+      "rank": 36,
       "name": "akiletia",
       "shinies": 15154
     },
     {
-      "rank": 38,
+      "rank": 37,
       "name": "elronoce",
       "shinies": 14970
     },
     {
-      "rank": 39,
+      "rank": 38,
       "name": "pownage227",
       "shinies": 14124
+    },
+    {
+      "rank": 39,
+      "name": "zeeburgapm",
+      "shinies": 14024
     },
     {
       "rank": 40,
@@ -206,18 +206,18 @@
     },
     {
       "rank": 41,
+      "name": "axolotl_eu",
+      "shinies": 13730
+    },
+    {
+      "rank": 42,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "imth3apollo",
       "shinies": 13470
-    },
-    {
-      "rank": 43,
-      "name": "zeeburgapm",
-      "shinies": 13024
     },
     {
       "rank": 44,

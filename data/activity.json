@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1788786312,
+  "generatedAt": 1788786356,
   "count": 50,
   "activities": [
+    {
+      "id": "71c118a75cd99718",
+      "type": "unlock",
+      "who": "axolotl_eu",
+      "text": "unlocked Simple Sword",
+      "timestamp": 1788786353,
+      "rarity": "rare",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "245fa96e91f4e1c4",
       "type": "prediction",
@@ -480,16 +490,6 @@
       "timestamp": 1787161254,
       "rarity": "epic",
       "category": "Kiwi Hand",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "c06c26908ff7f17a",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Space Helmet",
-      "timestamp": 1787161253,
-      "rarity": "legendary",
-      "category": "Kiwi Full Head",
       "rewardType": "cosmetic"
     }
   ]

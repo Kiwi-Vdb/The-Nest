@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788786312,
+  "generated_at": 1788786356,
   "viewers": {
     "00_aaliyah": {
       "username": "00_aaliyah",
@@ -1566,7 +1566,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 18930,
+        "balance": 13730,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -1579,6 +1579,12 @@
           "id": "kiwi:hat:pixel-cowboy",
           "name": "Cowboy Hat",
           "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:wings:pixel-simple-sword",
+          "name": "Simple Sword",
+          "category": "Kiwi Wings / Held Objects",
           "rarity": "rare"
         },
         {
@@ -1603,6 +1609,12 @@
           "id": "kiwi:beak:pixel-duck",
           "name": "Duck Bill",
           "category": "Kiwi Beak",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:wings:pixel-wooden-shield",
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
           "rarity": "common"
         },
         {
@@ -1679,6 +1691,14 @@
       "loot_boxes_opened": 14,
       "recent_unlocks": [
         {
+          "name": "Simple Sword",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1788786353
+        },
+        {
           "name": "Knight Helmet",
           "category": "Kiwi Full Head",
           "rarity": "rare",
@@ -1693,18 +1713,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787926774
-        },
-        {
-          "name": "Eyepatch",
-          "category": "Kiwi Eyes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787926768
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 6,
+        "cosmetics_unlocked": 8,
         "cosmetics_available": 41,
         "text_effects_unlocked": 8,
         "text_effects_available": 25,
@@ -21435,7 +21447,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 13024,
+        "balance": 14024,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
