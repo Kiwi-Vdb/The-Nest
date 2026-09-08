@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788874094,
+  "generatedAt": 1788874140,
   "totalViewers": 801,
-  "totalShinies": 2771240,
+  "totalShinies": 2771390,
   "pageSize": 100,
   "entries": [
     {
@@ -531,23 +531,23 @@
     },
     {
       "rank": 106,
+      "name": "nightfalldeceit",
+      "shinies": 4938
+    },
+    {
+      "rank": 107,
       "name": "iyc2",
       "shinies": 4906
     },
     {
-      "rank": 107,
+      "rank": 108,
       "name": "avum",
       "shinies": 4820
     },
     {
-      "rank": 108,
+      "rank": 109,
       "name": "jimmy_norris",
       "shinies": 4818
-    },
-    {
-      "rank": 109,
-      "name": "nightfalldeceit",
-      "shinies": 4788
     },
     {
       "rank": 110,
