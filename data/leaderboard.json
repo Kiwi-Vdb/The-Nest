@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788879907,
+  "generatedAt": 1788879989,
   "totalViewers": 805,
-  "totalShinies": 2809960,
+  "totalShinies": 2810960,
   "pageSize": 100,
   "entries": [
     {
@@ -136,23 +136,23 @@
     },
     {
       "rank": 27,
+      "name": "blzbrg",
+      "shinies": 20924
+    },
+    {
+      "rank": 28,
       "name": "axoim_",
       "shinies": 20676
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "dog1isopen",
       "shinies": 20460
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "sasadal",
       "shinies": 20126
-    },
-    {
-      "rank": 30,
-      "name": "blzbrg",
-      "shinies": 19924
     },
     {
       "rank": 31,
