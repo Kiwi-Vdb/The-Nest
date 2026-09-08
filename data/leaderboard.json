@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788875973,
+  "generatedAt": 1788876148,
   "totalViewers": 802,
-  "totalShinies": 2780182,
+  "totalShinies": 2781182,
   "pageSize": 100,
   "entries": [
     {
@@ -196,23 +196,23 @@
     },
     {
       "rank": 39,
+      "name": "imth3apollo",
+      "shinies": 14804
+    },
+    {
+      "rank": 40,
       "name": "pownage227",
       "shinies": 14124
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "zeeburgapm",
       "shinies": 14024
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "halfyourlife",
       "shinies": 13928
-    },
-    {
-      "rank": 42,
-      "name": "imth3apollo",
-      "shinies": 13804
     },
     {
       "rank": 43,
