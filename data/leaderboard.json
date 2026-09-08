@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1788876299,
+  "generatedAt": 1788876388,
   "totalViewers": 803,
-  "totalShinies": 2782516,
+  "totalShinies": 2783516,
   "pageSize": 100,
   "entries": [
     {
@@ -151,18 +151,18 @@
     },
     {
       "rank": 30,
+      "name": "blzbrg",
+      "shinies": 19924
+    },
+    {
+      "rank": 31,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "slicklikevik",
       "shinies": 19242
-    },
-    {
-      "rank": 32,
-      "name": "blzbrg",
-      "shinies": 18924
     },
     {
       "rank": 33,
