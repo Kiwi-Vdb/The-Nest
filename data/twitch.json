@@ -27,16 +27,26 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1788880601,
-  "clipsUpdatedAt": 1788872184,
+  "statusUpdatedAt": 1789054742,
+  "clipsUpdatedAt": 1789054742,
   "clips": [
+    {
+      "id": "SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
+      "title": "Choppers Hate To See This Guy Coming",
+      "url": "https://www.twitch.tv/itsvdb/clip/SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e770924-483f-413a-a53b-35602e8925f1/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 32,
+      "duration": 29.9,
+      "createdAt": "2026-09-09T15:20:24Z"
+    },
     {
       "id": "TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
       "title": "HighGain Op Dgun",
       "url": "https://www.twitch.tv/itsvdb/clip/TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
       "embedUrl": "https://clips.twitch.tv/embed?clip=TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c459dc61-ca87-429a-b5db-a200ec02f43c/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 16,
+      "views": 17,
       "duration": 17.3,
       "createdAt": "2026-09-06T16:54:15Z"
     },
@@ -46,7 +56,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
       "embedUrl": "https://clips.twitch.tv/embed?clip=BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f615a560-92ca-4ea3-9231-92f9defd7c43/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
+      "views": 3,
       "duration": 10.7,
       "createdAt": "2026-09-04T21:10:43Z"
     },
@@ -56,7 +66,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
       "embedUrl": "https://clips.twitch.tv/embed?clip=ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/eac80d51-6d58-4dd8-a922-0c4e8317b540/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 2,
+      "views": 3,
       "duration": 10.5,
       "createdAt": "2026-09-04T21:05:45Z"
     },
@@ -66,19 +76,9 @@
       "url": "https://www.twitch.tv/itsvdb/clip/HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "embedUrl": "https://clips.twitch.tv/embed?clip=HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4278fe4-c14d-433b-a3d8-e87012447cfd/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 8,
+      "views": 10,
       "duration": 23.4,
       "createdAt": "2026-09-04T18:06:52Z"
-    },
-    {
-      "id": "RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
-      "title": "we see you up there",
-      "url": "https://www.twitch.tv/itsvdb/clip/RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=RenownedWanderingYamKAPOW-fs5XE0k-WdPcBXE-",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a08a0e8e-fcb6-4d3e-94e2-7fe34f05080d/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
-      "duration": 6.8,
-      "createdAt": "2026-09-04T17:47:04Z"
     }
   ]
 }
