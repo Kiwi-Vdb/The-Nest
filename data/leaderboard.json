@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789056774,
+  "generatedAt": 1789056896,
   "totalViewers": 807,
-  "totalShinies": 2818116,
+  "totalShinies": 2818600,
   "pageSize": 100,
   "entries": [
     {
@@ -426,18 +426,18 @@
     },
     {
       "rank": 85,
+      "name": "hamoodlovespoop",
+      "shinies": 6792
+    },
+    {
+      "rank": 86,
       "name": "goliathmaroof",
       "shinies": 6742
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "oumuamua_i1",
       "shinies": 6636
-    },
-    {
-      "rank": 87,
-      "name": "hamoodlovespoop",
-      "shinies": 6308
     },
     {
       "rank": 88,
