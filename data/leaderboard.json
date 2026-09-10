@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789058231,
+  "generatedAt": 1789058235,
   "totalViewers": 809,
-  "totalShinies": 2821722,
+  "totalShinies": 2822390,
   "pageSize": 100,
   "entries": [
     {
@@ -207,7 +207,7 @@
     {
       "rank": 41,
       "name": "zeeburgapm",
-      "shinies": 14024
+      "shinies": 14358
     },
     {
       "rank": 42,
@@ -666,33 +666,33 @@
     },
     {
       "rank": 133,
-      "name": "meowcatmeowmeowcat",
+      "name": "autopilot1337",
       "shinies": 4306
     },
     {
       "rank": 134,
+      "name": "meowcatmeowmeowcat",
+      "shinies": 4306
+    },
+    {
+      "rank": 135,
       "name": "mocrami",
       "shinies": 4302
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "angry_strawberries",
       "shinies": 4152
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "issith",
       "shinies": 4004
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "pretor_ek",
       "shinies": 3984
-    },
-    {
-      "rank": 138,
-      "name": "autopilot1337",
-      "shinies": 3972
     },
     {
       "rank": 139,
