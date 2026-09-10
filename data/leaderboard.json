@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789061070,
+  "generatedAt": 1789061072,
   "totalViewers": 814,
-  "totalShinies": 2830468,
+  "totalShinies": 2830618,
   "pageSize": 100,
   "entries": [
     {
@@ -1191,27 +1191,27 @@
     },
     {
       "rank": 238,
-      "name": "sugar_emre",
+      "name": "jadedkross",
       "shinies": 1968
     },
     {
       "rank": 239,
+      "name": "sugar_emre",
+      "shinies": 1968
+    },
+    {
+      "rank": 240,
       "name": "floorbee",
       "shinies": 1820
     },
     {
-      "rank": 240,
+      "rank": 241,
       "name": "chronopolis_sc",
       "shinies": 1818
     },
     {
-      "rank": 241,
-      "name": "error429x",
-      "shinies": 1818
-    },
-    {
       "rank": 242,
-      "name": "jadedkross",
+      "name": "error429x",
       "shinies": 1818
     },
     {
