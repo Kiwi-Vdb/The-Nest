@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789057042,
+  "generatedAt": 1789057229,
   "totalViewers": 808,
-  "totalShinies": 2818934,
+  "totalShinies": 2819418,
   "pageSize": 100,
   "entries": [
     {
@@ -431,28 +431,28 @@
     },
     {
       "rank": 86,
+      "name": "lordjammacus",
+      "shinies": 6754
+    },
+    {
+      "rank": 87,
       "name": "goliathmaroof",
       "shinies": 6742
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "oumuamua_i1",
       "shinies": 6636
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "bloodypage1",
       "shinies": 6302
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "heltoff",
       "shinies": 6272
-    },
-    {
-      "rank": 90,
-      "name": "lordjammacus",
-      "shinies": 6270
     },
     {
       "rank": 91,
