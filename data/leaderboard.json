@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789163196,
+  "generatedAt": 1789163636,
   "totalViewers": 821,
-  "totalShinies": 2920506,
+  "totalShinies": 2921506,
   "pageSize": 100,
   "entries": [
     {
@@ -211,28 +211,28 @@
     },
     {
       "rank": 42,
+      "name": "lordjammacus",
+      "shinies": 14238
+    },
+    {
+      "rank": 43,
       "name": "halfyourlife",
       "shinies": 13928
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "goobmilk",
       "shinies": 13758
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "franzdk_",
       "shinies": 13588
-    },
-    {
-      "rank": 46,
-      "name": "lordjammacus",
-      "shinies": 13238
     },
     {
       "rank": 47,
