@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789147614,
+  "generatedAt": 1789148342,
   "totalViewers": 818,
-  "totalShinies": 2884746,
+  "totalShinies": 2885230,
   "pageSize": 100,
   "entries": [
     {
@@ -286,23 +286,23 @@
     },
     {
       "rank": 57,
+      "name": "lordjammacus",
+      "shinies": 10238
+    },
+    {
+      "rank": 58,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "jermeis7er",
       "shinies": 10004
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "colonp",
       "shinies": 9820
-    },
-    {
-      "rank": 60,
-      "name": "lordjammacus",
-      "shinies": 9754
     },
     {
       "rank": 61,
