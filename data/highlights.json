@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1789140925,
-  "rotationGeneratedAt": 1789054741,
-  "nextRotationAt": 1789141141,
+  "generatedAt": 1789141368,
+  "rotationGeneratedAt": 1789141368,
+  "nextRotationAt": 1789227768,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "most_generous_viewer",
+      "category": "prediction_champion",
       "group": "viewer",
-      "icon": "♥",
-      "title": "Most Generous",
-      "copy": "goliathmaroof has gifted 500 Shinies to the flock."
+      "icon": "✓",
+      "title": "Prediction Champion",
+      "copy": "sharpishdog has won 9 predictions."
     },
     {
-      "category": "latest_unlock",
+      "category": "biggest_gift",
       "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "axolotl_eu unlocked Wooden Shield (Common)."
+      "icon": "♥",
+      "title": "Biggest Gift",
+      "copy": "goliathmaroof gifted 500 Shinies to bot_kiwi_birb."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_prediction_entries",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 97 loot boxes."
+      "icon": "✓",
+      "title": "Prediction Picks",
+      "copy": "The flock has made 93 prediction picks."
     }
   ]
 }
