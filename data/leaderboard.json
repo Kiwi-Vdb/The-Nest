@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789140173,
+  "generatedAt": 1789140713,
   "totalViewers": 817,
-  "totalShinies": 2871836,
+  "totalShinies": 2872836,
   "pageSize": 100,
   "entries": [
     {
@@ -121,23 +121,23 @@
     },
     {
       "rank": 24,
+      "name": "blzbrg",
+      "shinies": 22742
+    },
+    {
+      "rank": 25,
       "name": "alishhk",
       "shinies": 22644
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "jigglyjake22",
       "shinies": 22644
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "kiddorox",
       "shinies": 22340
-    },
-    {
-      "rank": 27,
-      "name": "blzbrg",
-      "shinies": 21742
     },
     {
       "rank": 28,
