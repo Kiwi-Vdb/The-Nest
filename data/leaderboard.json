@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789135952,
+  "generatedAt": 1789136077,
   "totalViewers": 817,
-  "totalShinies": 2868166,
+  "totalShinies": 2868500,
   "pageSize": 100,
   "entries": [
     {
@@ -321,28 +321,28 @@
     },
     {
       "rank": 64,
+      "name": "mesaber",
+      "shinies": 9182
+    },
+    {
+      "rank": 65,
       "name": "snoopa_aoe",
       "shinies": 9088
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "esebian_",
       "shinies": 9008
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "toszii",
       "shinies": 8972
-    },
-    {
-      "rank": 68,
-      "name": "mesaber",
-      "shinies": 8848
     },
     {
       "rank": 69,
