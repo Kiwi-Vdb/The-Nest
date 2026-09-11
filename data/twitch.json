@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1789135642,
-  "clipsUpdatedAt": 1789135137,
+  "statusUpdatedAt": 1789135672,
+  "clipsUpdatedAt": 1789135669,
   "clips": [
     {
       "id": "ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
@@ -46,7 +46,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
       "embedUrl": "https://clips.twitch.tv/embed?clip=SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e770924-483f-413a-a53b-35602e8925f1/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 50,
+      "views": 51,
       "duration": 29.9,
       "createdAt": "2026-09-09T15:20:24Z"
     },
