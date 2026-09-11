@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789071461,
+  "generatedAt": 1789135136,
   "totalViewers": 817,
-  "totalShinies": 2867348,
+  "totalShinies": 2867498,
   "pageSize": 100,
   "entries": [
     {
@@ -171,18 +171,18 @@
     },
     {
       "rank": 34,
+      "name": "imth3apollo",
+      "shinies": 17288
+    },
+    {
+      "rank": 35,
       "name": "axolotl_eu",
       "shinies": 17214
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "our_lord_and_savior_gonk",
       "shinies": 17192
-    },
-    {
-      "rank": 36,
-      "name": "imth3apollo",
-      "shinies": 17138
     },
     {
       "rank": 37,
