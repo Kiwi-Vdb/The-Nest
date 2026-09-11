@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789166336,
+  "generatedAt": 1789166457,
   "totalViewers": 822,
-  "totalShinies": 2927842,
+  "totalShinies": 2928842,
   "pageSize": 100,
   "entries": [
     {
@@ -106,23 +106,23 @@
     },
     {
       "rank": 21,
+      "name": "blzbrg",
+      "shinies": 23742
+    },
+    {
+      "rank": 22,
       "name": "cozzwald",
       "shinies": 23346
     },
     {
-      "rank": 22,
+      "rank": 23,
       "name": "ibonbe",
       "shinies": 23006
     },
     {
-      "rank": 23,
+      "rank": 24,
       "name": "laggyaskittens",
       "shinies": 22754
-    },
-    {
-      "rank": 24,
-      "name": "blzbrg",
-      "shinies": 22742
     },
     {
       "rank": 25,
