@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789155895,
+  "generatedAt": 1789156315,
   "totalViewers": 820,
-  "totalShinies": 2908504,
+  "totalShinies": 2909504,
   "pageSize": 100,
   "entries": [
     {
@@ -246,28 +246,28 @@
     },
     {
       "rank": 49,
+      "name": "lordjammacus",
+      "shinies": 12238
+    },
+    {
+      "rank": 50,
       "name": "warriot",
       "shinies": 12122
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "globe2deag",
       "shinies": 11978
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "siven12",
       "shinies": 11906
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "hells_hound_",
       "shinies": 11272
-    },
-    {
-      "rank": 53,
-      "name": "lordjammacus",
-      "shinies": 11238
     },
     {
       "rank": 54,
