@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789166514,
+  "generatedAt": 1789167236,
   "totalViewers": 822,
-  "totalShinies": 2929176,
+  "totalShinies": 2930176,
   "pageSize": 100,
   "entries": [
     {
@@ -196,23 +196,23 @@
     },
     {
       "rank": 39,
+      "name": "lordjammacus",
+      "shinies": 15238
+    },
+    {
+      "rank": 40,
       "name": "elronoce",
       "shinies": 14970
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "zeeburgapm",
       "shinies": 14692
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "pownage227",
       "shinies": 14458
-    },
-    {
-      "rank": 42,
-      "name": "lordjammacus",
-      "shinies": 14238
     },
     {
       "rank": 43,
