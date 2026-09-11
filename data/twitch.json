@@ -17,26 +17,36 @@
     "gameTime": 0,
     "updatedAt": "2026-08-16T09:24:20Z"
   },
-  "live": true,
-  "viewers": 12,
-  "title": "Hottest new clan for Wardogs",
-  "gameId": "743893402",
-  "gameName": "WARDOGS",
-  "gameBoxArtUrl": "https://static-cdn.jtvnw.net/ttv-boxart/743893402_IGDB-285x380.jpg",
-  "startedAt": "2026-09-10T16:08:36Z",
-  "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
+  "live": false,
+  "viewers": 0,
+  "title": "",
+  "gameId": "",
+  "gameName": "",
+  "gameBoxArtUrl": "",
+  "startedAt": "",
+  "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1789072217,
-  "clipsUpdatedAt": 1789058439,
+  "statusUpdatedAt": 1789135137,
+  "clipsUpdatedAt": 1789135137,
   "clips": [
+    {
+      "id": "ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
+      "title": "When flips go wrong",
+      "url": "https://www.twitch.tv/itsvdb/clip/ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/331afea2-9eca-495d-8ec2-551b1a576a93/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 7,
+      "duration": 31.3,
+      "createdAt": "2026-09-11T06:33:57Z"
+    },
     {
       "id": "SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
       "title": "Choppers Hate To See This Guy Coming",
       "url": "https://www.twitch.tv/itsvdb/clip/SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
       "embedUrl": "https://clips.twitch.tv/embed?clip=SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e770924-483f-413a-a53b-35602e8925f1/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 33,
+      "views": 50,
       "duration": 29.9,
       "createdAt": "2026-09-09T15:20:24Z"
     },
@@ -69,16 +79,6 @@
       "views": 3,
       "duration": 10.5,
       "createdAt": "2026-09-04T21:05:45Z"
-    },
-    {
-      "id": "HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
-      "title": "Tank Kill",
-      "url": "https://www.twitch.tv/itsvdb/clip/HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=HorribleVictoriousFungusPeanutButterJellyTime-EJKtpjAu4QH-NHuh",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a4278fe4-c14d-433b-a3d8-e87012447cfd/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 10,
-      "duration": 23.4,
-      "createdAt": "2026-09-04T18:06:52Z"
     }
   ]
 }
