@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789166006,
+  "generatedAt": 1789166336,
   "totalViewers": 822,
-  "totalShinies": 2926842,
+  "totalShinies": 2927842,
   "pageSize": 100,
   "entries": [
     {
@@ -141,18 +141,18 @@
     },
     {
       "rank": 28,
+      "name": "akiletia",
+      "shinies": 21156
+    },
+    {
+      "rank": 29,
       "name": "axoim_",
       "shinies": 20676
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "dog1isopen",
       "shinies": 20460
-    },
-    {
-      "rank": 30,
-      "name": "akiletia",
-      "shinies": 20156
     },
     {
       "rank": 31,
