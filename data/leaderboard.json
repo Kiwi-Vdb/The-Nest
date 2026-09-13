@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789308547,
+  "generatedAt": 1789309304,
   "totalViewers": 842,
-  "totalShinies": 3011522,
+  "totalShinies": 3011856,
   "pageSize": 100,
   "entries": [
     {
@@ -336,28 +336,28 @@
     },
     {
       "rank": 67,
+      "name": "bizzyrex",
+      "shinies": 9153
+    },
+    {
+      "rank": 68,
       "name": "snoopa_aoe",
       "shinies": 9088
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "toszii",
       "shinies": 8972
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "liarturil",
       "shinies": 8822
-    },
-    {
-      "rank": 71,
-      "name": "bizzyrex",
-      "shinies": 8819
     },
     {
       "rank": 72,
