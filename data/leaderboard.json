@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789291291,
+  "generatedAt": 1789291566,
   "totalViewers": 824,
-  "totalShinies": 2964796,
+  "totalShinies": 2965796,
   "pageSize": 100,
   "entries": [
     {
@@ -201,23 +201,23 @@
     },
     {
       "rank": 40,
+      "name": "franzdk_",
+      "shinies": 15072
+    },
+    {
+      "rank": 41,
       "name": "elronoce",
       "shinies": 14970
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "pownage227",
       "shinies": 14792
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "zeeburgapm",
       "shinies": 14692
-    },
-    {
-      "rank": 43,
-      "name": "franzdk_",
-      "shinies": 14072
     },
     {
       "rank": 44,
