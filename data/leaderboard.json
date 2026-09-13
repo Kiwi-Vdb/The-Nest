@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789316298,
+  "generatedAt": 1789316592,
   "totalViewers": 846,
-  "totalShinies": 3034530,
+  "totalShinies": 3035530,
   "pageSize": 100,
   "entries": [
     {
@@ -226,18 +226,18 @@
     },
     {
       "rank": 45,
+      "name": "zzzzzvh",
+      "shinies": 14340
+    },
+    {
+      "rank": 46,
       "name": "goobmilk",
       "shinies": 13758
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "professor_bar",
       "shinies": 13634
-    },
-    {
-      "rank": 47,
-      "name": "zzzzzvh",
-      "shinies": 13340
     },
     {
       "rank": 48,
