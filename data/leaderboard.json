@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789307496,
+  "generatedAt": 1789307741,
   "totalViewers": 841,
-  "totalShinies": 3008538,
+  "totalShinies": 3008688,
   "pageSize": 100,
   "entries": [
     {
@@ -901,18 +901,18 @@
     },
     {
       "rank": 180,
+      "name": "jadedkross",
+      "shinies": 3270
+    },
+    {
+      "rank": 181,
       "name": "roaminincherno",
       "shinies": 3238
     },
     {
-      "rank": 181,
+      "rank": 182,
       "name": "finstas",
       "shinies": 3152
-    },
-    {
-      "rank": 182,
-      "name": "jadedkross",
-      "shinies": 3120
     },
     {
       "rank": 183,
