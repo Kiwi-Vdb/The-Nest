@@ -18,7 +18,7 @@
     "updatedAt": "2026-08-16T09:24:20Z"
   },
   "live": true,
-  "viewers": 16,
+  "viewers": 14,
   "title": "Rocket Choppa!",
   "gameId": "743893402",
   "gameName": "WARDOGS",
@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1789401401,
-  "clipsUpdatedAt": 1789400229,
+  "statusUpdatedAt": 1789401431,
+  "clipsUpdatedAt": 1789401432,
   "clips": [
     {
       "id": "BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
       "embedUrl": "https://clips.twitch.tv/embed?clip=BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9a2827ce-2afb-4f85-bd1e-3f8d460ebe6d/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 1,
+      "views": 2,
       "duration": 8.0,
       "createdAt": "2026-09-14T15:20:22Z"
     },
