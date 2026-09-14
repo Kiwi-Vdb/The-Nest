@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789397498,
-  "totalViewers": 858,
-  "totalShinies": 3070156,
+  "generatedAt": 1789397502,
+  "totalViewers": 859,
+  "totalShinies": 3070824,
   "pageSize": 100,
   "entries": [
     {
@@ -806,82 +806,82 @@
     },
     {
       "rank": 161,
-      "name": "kingbenjai21",
+      "name": "impossible__1",
       "shinies": 3668
     },
     {
       "rank": 162,
-      "name": "oss76",
+      "name": "kingbenjai21",
       "shinies": 3668
     },
     {
       "rank": 163,
-      "name": "skipp2skipp",
+      "name": "oss76",
       "shinies": 3668
     },
     {
       "rank": 164,
+      "name": "skipp2skipp",
+      "shinies": 3668
+    },
+    {
+      "rank": 165,
       "name": "jadedkross",
       "shinies": 3604
     },
     {
-      "rank": 165,
+      "rank": 166,
       "name": "h0rsek",
       "shinies": 3484
     },
     {
-      "rank": 166,
+      "rank": 167,
       "name": "zitinerant",
       "shinies": 3472
     },
     {
-      "rank": 167,
+      "rank": 168,
       "name": "varundaa",
       "shinies": 3452
     },
     {
-      "rank": 168,
+      "rank": 169,
       "name": "wurzel1111",
       "shinies": 3340
     },
     {
-      "rank": 169,
+      "rank": 170,
       "name": "j_t_l___",
       "shinies": 3338
     },
     {
-      "rank": 170,
+      "rank": 171,
       "name": "alalahka",
       "shinies": 3336
     },
     {
-      "rank": 171,
+      "rank": 172,
       "name": "arlokken",
       "shinies": 3336
     },
     {
-      "rank": 172,
+      "rank": 173,
       "name": "signal777",
       "shinies": 3336
     },
     {
-      "rank": 173,
+      "rank": 174,
       "name": "tiwaz42",
       "shinies": 3336
     },
     {
-      "rank": 174,
+      "rank": 175,
       "name": "getto_bob",
       "shinies": 3334
     },
     {
-      "rank": 175,
-      "name": "gvrxs05",
-      "shinies": 3334
-    },
-    {
       "rank": 176,
-      "name": "impossible__1",
+      "name": "gvrxs05",
       "shinies": 3334
     },
     {
@@ -4271,26 +4271,31 @@
     },
     {
       "rank": 854,
-      "name": "zeflinggaming",
+      "name": "zarrom",
       "shinies": 334
     },
     {
       "rank": 855,
-      "name": "zmnfilippo",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 856,
-      "name": "zongtg",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 857,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 858,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 859,
       "name": "mvpeteno",
       "shinies": 168
     }
