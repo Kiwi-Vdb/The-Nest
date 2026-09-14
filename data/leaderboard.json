@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789395766,
+  "generatedAt": 1789395890,
   "totalViewers": 849,
-  "totalShinies": 3062808,
+  "totalShinies": 3063142,
   "pageSize": 100,
   "entries": [
     {
@@ -291,17 +291,17 @@
     },
     {
       "rank": 58,
+      "name": "jermeis7er",
+      "shinies": 10338
+    },
+    {
+      "rank": 59,
       "name": "kingjaos",
       "shinies": 10238
     },
     {
-      "rank": 59,
-      "name": "7voodoodragon",
-      "shinies": 10004
-    },
-    {
       "rank": 60,
-      "name": "jermeis7er",
+      "name": "7voodoodragon",
       "shinies": 10004
     },
     {
