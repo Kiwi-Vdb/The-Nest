@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1789400189,
-  "clipsUpdatedAt": 1789399928,
+  "statusUpdatedAt": 1789400219,
+  "clipsUpdatedAt": 1789400229,
   "clips": [
     {
       "id": "BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
@@ -46,7 +46,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
       "embedUrl": "https://clips.twitch.tv/embed?clip=ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/331afea2-9eca-495d-8ec2-551b1a576a93/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 7,
+      "views": 8,
       "duration": 31.3,
       "createdAt": "2026-09-11T06:33:57Z"
     },
