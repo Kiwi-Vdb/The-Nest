@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789394037,
+  "generatedAt": 1789394648,
   "totalViewers": 849,
-  "totalShinies": 3059686,
+  "totalShinies": 3060170,
   "pageSize": 100,
   "entries": [
     {
@@ -306,33 +306,33 @@
     },
     {
       "rank": 61,
+      "name": "mesaber",
+      "shinies": 10000
+    },
+    {
+      "rank": 62,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "simplygraceful_",
       "shinies": 9818
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "esebian_",
       "shinies": 9676
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "rikkler",
       "shinies": 9670
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "skvonchboyz",
       "shinies": 9670
-    },
-    {
-      "rank": 66,
-      "name": "mesaber",
-      "shinies": 9516
     },
     {
       "rank": 67,
