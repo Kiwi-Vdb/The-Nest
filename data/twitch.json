@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1789399886,
-  "clipsUpdatedAt": 1789245017,
+  "statusUpdatedAt": 1789399916,
+  "clipsUpdatedAt": 1789399928,
   "clips": [
+    {
+      "id": "BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
+      "title": "No safe space for chopper",
+      "url": "https://www.twitch.tv/itsvdb/clip/BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9a2827ce-2afb-4f85-bd1e-3f8d460ebe6d/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 8.0,
+      "createdAt": "2026-09-14T15:20:22Z"
+    },
     {
       "id": "ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
       "title": "When flips go wrong",
@@ -69,16 +79,6 @@
       "views": 3,
       "duration": 10.7,
       "createdAt": "2026-09-04T21:10:43Z"
-    },
-    {
-      "id": "ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
-      "title": "Heli Kill",
-      "url": "https://www.twitch.tv/itsvdb/clip/ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=ZealousSavageJayFunRun-Il9Al3Cs--j3a7Bm",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/eac80d51-6d58-4dd8-a922-0c4e8317b540/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
-      "duration": 10.5,
-      "createdAt": "2026-09-04T21:05:45Z"
     }
   ]
 }
