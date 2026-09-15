@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1789405506,
-  "rotationGeneratedAt": 1789393786,
-  "nextRotationAt": 1789480186,
+  "generatedAt": 1789482737,
+  "rotationGeneratedAt": 1789482737,
+  "nextRotationAt": 1789569137,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "collection_champion",
+      "category": "largest_balance",
       "group": "viewer",
-      "icon": "♛",
-      "title": "Nest Collector",
-      "copy": "itsvdb owns 36 cosmetics and text effects."
-    },
-    {
-      "category": "biggest_prediction_prize",
-      "group": "event",
-      "icon": "✓",
-      "title": "Biggest Prediction Prize",
-      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
-    },
-    {
-      "category": "community_shiny_total",
-      "group": "community",
       "icon": "✦",
-      "title": "Community Fortune",
-      "copy": "The flock currently holds 3,101,284 Shinies."
+      "title": "Shiny Hoarder",
+      "copy": "bot_kiwi_birb leads the flock with 175,962 Shinies."
+    },
+    {
+      "category": "latest_unlock",
+      "group": "event",
+      "icon": "✧",
+      "title": "Fresh Unlock",
+      "copy": "axolotl_eu unlocked Wooden Shield (Common)."
+    },
+    {
+      "category": "community_unlocks",
+      "group": "community",
+      "icon": "♛",
+      "title": "Unlock Collection",
+      "copy": "Viewers have collected 101 cosmetics and text effects."
     }
   ]
 }
