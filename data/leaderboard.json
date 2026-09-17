@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789648798,
+  "generatedAt": 1789648981,
   "totalViewers": 865,
-  "totalShinies": 3133204,
+  "totalShinies": 3133538,
   "pageSize": 100,
   "entries": [
     {
@@ -401,28 +401,28 @@
     },
     {
       "rank": 80,
+      "name": "ilotusuk",
+      "shinies": 7818
+    },
+    {
+      "rank": 81,
       "name": "tarsanon",
       "shinies": 7672
     },
     {
-      "rank": 81,
+      "rank": 82,
       "name": "markus_franz",
       "shinies": 7668
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "cmdr_zod",
       "shinies": 7606
     },
     {
-      "rank": 83,
+      "rank": 84,
       "name": "hellzi3",
       "shinies": 7558
-    },
-    {
-      "rank": 84,
-      "name": "ilotusuk",
-      "shinies": 7484
     },
     {
       "rank": 85,
