@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789654957,
+  "generatedAt": 1789655690,
   "totalViewers": 867,
-  "totalShinies": 3145328,
+  "totalShinies": 3146328,
   "pageSize": 100,
   "entries": [
     {
@@ -256,23 +256,23 @@
     },
     {
       "rank": 51,
+      "name": "mesaber",
+      "shinies": 12484
+    },
+    {
+      "rank": 52,
       "name": "warriot",
       "shinies": 12122
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "globe2deag",
       "shinies": 11978
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "siven12",
       "shinies": 11906
-    },
-    {
-      "rank": 54,
-      "name": "mesaber",
-      "shinies": 11484
     },
     {
       "rank": 55,
