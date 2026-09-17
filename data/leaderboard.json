@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789658331,
+  "generatedAt": 1789658511,
   "totalViewers": 867,
-  "totalShinies": 3153482,
+  "totalShinies": 3154482,
   "pageSize": 100,
   "entries": [
     {
@@ -276,28 +276,28 @@
     },
     {
       "rank": 55,
+      "name": "tdostalker",
+      "shinies": 11452
+    },
+    {
+      "rank": 56,
       "name": "jermeis7er",
       "shinies": 11338
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "hells_hound_",
       "shinies": 11272
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "blopson",
       "shinies": 11024
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "literallylilacc",
       "shinies": 11020
-    },
-    {
-      "rank": 59,
-      "name": "tdostalker",
-      "shinies": 10452
     },
     {
       "rank": 60,
