@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789648116,
+  "generatedAt": 1789648466,
   "totalViewers": 865,
-  "totalShinies": 3132386,
+  "totalShinies": 3132870,
   "pageSize": 100,
   "entries": [
     {
@@ -291,23 +291,23 @@
     },
     {
       "rank": 58,
+      "name": "mesaber",
+      "shinies": 10484
+    },
+    {
+      "rank": 59,
       "name": "hexu0x",
       "shinies": 10340
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "kingjaos",
       "shinies": 10238
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "7voodoodragon",
       "shinies": 10004
-    },
-    {
-      "rank": 61,
-      "name": "mesaber",
-      "shinies": 10000
     },
     {
       "rank": 62,
