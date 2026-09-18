@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1789747302,
+  "generatedAt": 1789747667,
   "count": 50,
   "activities": [
     {
@@ -37,14 +37,6 @@
       "who": "sharpishdog",
       "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
       "timestamp": 1788714142,
-      "amount": 2500
-    },
-    {
-      "id": "9ac812057929fc82",
-      "type": "prediction",
-      "who": "axolotl_eu",
-      "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
-      "timestamp": 1788714140,
       "amount": 2500
     },
     {
@@ -495,6 +487,16 @@
       "timestamp": 1787161253,
       "rarity": "legendary",
       "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c58385b1f3595b18",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Ski Goggles",
+      "timestamp": 1787161251,
+      "rarity": "epic",
+      "category": "Kiwi Eyes",
       "rewardType": "cosmetic"
     }
   ]

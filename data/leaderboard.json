@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789747302,
+  "generatedAt": 1789747667,
   "totalViewers": 870,
-  "totalShinies": 3177244,
+  "totalShinies": 3177578,
   "pageSize": 100,
   "entries": [
     {
@@ -321,18 +321,18 @@
     },
     {
       "rank": 64,
+      "name": "esebian_",
+      "shinies": 10010
+    },
+    {
+      "rank": 65,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "colonp",
       "shinies": 9820
-    },
-    {
-      "rank": 66,
-      "name": "esebian_",
-      "shinies": 9676
     },
     {
       "rank": 67,
