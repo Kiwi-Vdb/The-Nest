@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789746693,
+  "generatedAt": 1789746832,
   "totalViewers": 870,
-  "totalShinies": 3174760,
+  "totalShinies": 3175094,
   "pageSize": 100,
   "entries": [
     {
@@ -246,18 +246,18 @@
     },
     {
       "rank": 49,
+      "name": "mesaber",
+      "shinies": 12818
+    },
+    {
+      "rank": 50,
       "name": "coffeeconceder",
       "shinies": 12754
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "freakofnature122",
       "shinies": 12488
-    },
-    {
-      "rank": 51,
-      "name": "mesaber",
-      "shinies": 12484
     },
     {
       "rank": 52,
