@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1789747974,
+  "generatedAt": 1789749280,
   "count": 50,
   "activities": [
     {
@@ -30,14 +30,6 @@
       "rarity": "rare",
       "category": "Kiwi Wings / Held Objects",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "245fa96e91f4e1c4",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
-      "timestamp": 1788714142,
-      "amount": 2500
     },
     {
       "id": "9ed0c8e22f110d61",
@@ -497,6 +489,16 @@
       "timestamp": 1787161251,
       "rarity": "epic",
       "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "69ce370e6506bdc3",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Hat",
+      "timestamp": 1787161250,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
   ]
