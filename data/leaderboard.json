@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1789740035,
+  "generatedAt": 1789740100,
   "totalViewers": 868,
-  "totalShinies": 3166152,
+  "totalShinies": 3166820,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 185630
+      "shinies": 185964
     },
     {
       "rank": 2,
@@ -446,23 +446,23 @@
     },
     {
       "rank": 89,
+      "name": "12f5b0a",
+      "shinies": 7002
+    },
+    {
+      "rank": 90,
       "name": "florio_bar",
       "shinies": 6936
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "hamoodlovespoop",
       "shinies": 6792
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "goliathmaroof",
       "shinies": 6742
-    },
-    {
-      "rank": 92,
-      "name": "12f5b0a",
-      "shinies": 6668
     },
     {
       "rank": 93,
