@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789743862,
+  "generatedAt": 1789745666,
   "totalViewers": 870,
-  "totalShinies": 3171458,
+  "totalShinies": 3171792,
   "pageSize": 100,
   "entries": [
     {
@@ -316,18 +316,18 @@
     },
     {
       "rank": 63,
+      "name": "simplygraceful_",
+      "shinies": 10152
+    },
+    {
+      "rank": 64,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "colonp",
       "shinies": 9820
-    },
-    {
-      "rank": 65,
-      "name": "simplygraceful_",
-      "shinies": 9818
     },
     {
       "rank": 66,
