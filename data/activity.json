@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1789747212,
+  "generatedAt": 1789747302,
   "count": 50,
   "activities": [
     {
@@ -45,22 +45,6 @@
       "who": "axolotl_eu",
       "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
       "timestamp": 1788714140,
-      "amount": 2500
-    },
-    {
-      "id": "7b8736b9f0852b6b",
-      "type": "prediction",
-      "who": "pretor_ek",
-      "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
-      "timestamp": 1788714139,
-      "amount": 2500
-    },
-    {
-      "id": "fdbc1dce3a083138",
-      "type": "prediction",
-      "who": "alishhk",
-      "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
-      "timestamp": 1788714138,
       "amount": 2500
     },
     {
@@ -491,6 +475,26 @@
       "timestamp": 1787364327,
       "rarity": "rare",
       "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "4b905b7e94c092d0",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Zen Staff",
+      "timestamp": 1787161254,
+      "rarity": "epic",
+      "category": "Kiwi Hand",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "c06c26908ff7f17a",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Space Helmet",
+      "timestamp": 1787161253,
+      "rarity": "legendary",
+      "category": "Kiwi Full Head",
       "rewardType": "cosmetic"
     }
   ]
