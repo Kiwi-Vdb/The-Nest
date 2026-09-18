@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1789765288,
+  "generatedAt": 1789765306,
   "totalViewers": 872,
-  "totalShinies": 3194034,
+  "totalShinies": 3196034,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 191964
+      "shinies": 192964
     },
     {
       "rank": 2,
@@ -236,23 +236,23 @@
     },
     {
       "rank": 47,
+      "name": "12f5b0a",
+      "shinies": 14002
+    },
+    {
+      "rank": 48,
       "name": "goobmilk",
       "shinies": 13758
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "dhisame",
       "shinies": 13276
-    },
-    {
-      "rank": 50,
-      "name": "12f5b0a",
-      "shinies": 13002
     },
     {
       "rank": 51,
