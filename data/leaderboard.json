@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1789754382,
+  "generatedAt": 1789754504,
   "totalViewers": 872,
-  "totalShinies": 3185064,
+  "totalShinies": 3187064,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 188964
+      "shinies": 189964
     },
     {
       "rank": 2,
@@ -311,28 +311,28 @@
     },
     {
       "rank": 62,
+      "name": "12f5b0a",
+      "shinies": 11002
+    },
+    {
+      "rank": 63,
       "name": "hexu0x",
       "shinies": 10340
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "kingjaos",
       "shinies": 10238
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "esebian_",
       "shinies": 10010
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "7voodoodragon",
       "shinies": 10004
-    },
-    {
-      "rank": 66,
-      "name": "12f5b0a",
-      "shinies": 10002
     },
     {
       "rank": 67,
