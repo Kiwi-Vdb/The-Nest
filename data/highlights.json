@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1789750781,
+  "generatedAt": 1789750903,
   "rotationGeneratedAt": 1789739925,
   "nextRotationAt": 1789826325,
   "rotationHours": 24,
@@ -24,7 +24,7 @@
       "group": "community",
       "icon": "✦",
       "title": "Community Fortune",
-      "copy": "The flock currently holds 3,181,730 Shinies."
+      "copy": "The flock currently holds 3,183,730 Shinies."
     }
   ]
 }
