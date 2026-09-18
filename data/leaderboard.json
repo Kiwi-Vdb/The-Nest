@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1789765306,
+  "generatedAt": 1789768906,
   "totalViewers": 872,
-  "totalShinies": 3196034,
+  "totalShinies": 3198034,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 192964
+      "shinies": 193964
     },
     {
       "rank": 2,
@@ -226,18 +226,18 @@
     },
     {
       "rank": 45,
+      "name": "12f5b0a",
+      "shinies": 15002
+    },
+    {
+      "rank": 46,
       "name": "elronoce",
       "shinies": 14970
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "mesaber",
       "shinies": 14968
-    },
-    {
-      "rank": 47,
-      "name": "12f5b0a",
-      "shinies": 14002
     },
     {
       "rank": 48,
