@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789750486,
+  "generatedAt": 1789750781,
   "totalViewers": 872,
-  "totalShinies": 3180730,
+  "totalShinies": 3181730,
   "pageSize": 100,
   "entries": [
     {
@@ -231,23 +231,23 @@
     },
     {
       "rank": 46,
+      "name": "mesaber",
+      "shinies": 13968
+    },
+    {
+      "rank": 47,
       "name": "goobmilk",
       "shinies": 13758
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "dhisame",
       "shinies": 13276
-    },
-    {
-      "rank": 49,
-      "name": "mesaber",
-      "shinies": 12968
     },
     {
       "rank": 50,
