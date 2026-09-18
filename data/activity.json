@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1789746832,
+  "generatedAt": 1789747212,
   "count": 50,
   "activities": [
     {
@@ -53,14 +53,6 @@
       "who": "pretor_ek",
       "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
       "timestamp": 1788714139,
-      "amount": 2500
-    },
-    {
-      "id": "58a49222b1e3931d",
-      "type": "prediction",
-      "who": "bizzyrex",
-      "text": "won 2,500 Shinies in a prediction: Who wins 5v5 on Starwatcher?",
-      "timestamp": 1788714138,
       "amount": 2500
     },
     {
@@ -489,6 +481,16 @@
       "timestamp": 1787364329,
       "rarity": "common",
       "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "0d9934494d807bf0",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Cowboy Hat",
+      "timestamp": 1787364327,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
   ]
