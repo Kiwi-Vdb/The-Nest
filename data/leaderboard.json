@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789916820,
+  "generatedAt": 1789917455,
   "totalViewers": 882,
-  "totalShinies": 3230922,
+  "totalShinies": 3231922,
   "pageSize": 100,
   "entries": [
     {
@@ -206,23 +206,23 @@
     },
     {
       "rank": 41,
+      "name": "mesaber",
+      "shinies": 16452
+    },
+    {
+      "rank": 42,
       "name": "lordjammacus",
       "shinies": 16238
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "pownage227",
       "shinies": 16126
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "zeeburgapm",
       "shinies": 15844
-    },
-    {
-      "rank": 44,
-      "name": "mesaber",
-      "shinies": 15452
     },
     {
       "rank": 45,
