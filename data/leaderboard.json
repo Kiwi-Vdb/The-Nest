@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789896358,
+  "generatedAt": 1789896866,
   "totalViewers": 875,
-  "totalShinies": 3201306,
+  "totalShinies": 3201640,
   "pageSize": 100,
   "entries": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "rank": 15,
-      "name": "blzbrg",
-      "shinies": 33194
+      "name": "massivemankey",
+      "shinies": 33344
     },
     {
       "rank": 16,
-      "name": "massivemankey",
-      "shinies": 33010
+      "name": "blzbrg",
+      "shinies": 33194
     },
     {
       "rank": 17,
