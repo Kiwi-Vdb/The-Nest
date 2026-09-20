@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789907841,
+  "generatedAt": 1789907912,
   "totalViewers": 880,
-  "totalShinies": 3215282,
+  "totalShinies": 3216282,
   "pageSize": 100,
   "entries": [
     {
@@ -31,13 +31,13 @@
     },
     {
       "rank": 6,
-      "name": "bar_outofmana",
-      "shinies": 74922
+      "name": "sharpishdog",
+      "shinies": 75452
     },
     {
       "rank": 7,
-      "name": "sharpishdog",
-      "shinies": 74452
+      "name": "bar_outofmana",
+      "shinies": 74922
     },
     {
       "rank": 8,
