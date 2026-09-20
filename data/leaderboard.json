@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789904249,
+  "generatedAt": 1789904311,
   "totalViewers": 879,
-  "totalShinies": 3210946,
+  "totalShinies": 3211946,
   "pageSize": 100,
   "entries": [
     {
@@ -36,18 +36,18 @@
     },
     {
       "rank": 7,
+      "name": "sharpishdog",
+      "shinies": 74452
+    },
+    {
+      "rank": 8,
       "name": "betterstrategy",
       "shinies": 74272
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "stuart_williamson",
       "shinies": 73846
-    },
-    {
-      "rank": 9,
-      "name": "sharpishdog",
-      "shinies": 73452
     },
     {
       "rank": 10,
