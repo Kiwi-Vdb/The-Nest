@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789895522,
+  "generatedAt": 1789896358,
   "totalViewers": 875,
-  "totalShinies": 3200822,
+  "totalShinies": 3201306,
   "pageSize": 100,
   "entries": [
     {
@@ -291,18 +291,18 @@
     },
     {
       "rank": 58,
+      "name": "simplygraceful_",
+      "shinies": 11636
+    },
+    {
+      "rank": 59,
       "name": "tdostalker",
       "shinies": 11452
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "hells_hound_",
       "shinies": 11272
-    },
-    {
-      "rank": 60,
-      "name": "simplygraceful_",
-      "shinies": 11152
     },
     {
       "rank": 61,
