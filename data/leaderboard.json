@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789894958,
+  "generatedAt": 1789895321,
   "totalViewers": 875,
-  "totalShinies": 3200338,
+  "totalShinies": 3200672,
   "pageSize": 100,
   "entries": [
     {
@@ -266,23 +266,23 @@
     },
     {
       "rank": 53,
+      "name": "ilotusuk",
+      "shinies": 12152
+    },
+    {
+      "rank": 54,
       "name": "warriot",
       "shinies": 12122
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "globe2deag",
       "shinies": 11978
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "siven12",
       "shinies": 11906
-    },
-    {
-      "rank": 56,
-      "name": "ilotusuk",
-      "shinies": 11818
     },
     {
       "rank": 57,
