@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1789914197,
-  "clipsUpdatedAt": 1789903986,
+  "statusUpdatedAt": 1789914227,
+  "clipsUpdatedAt": 1789914217,
   "clips": [
+    {
+      "id": "OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
+      "title": "Building",
+      "url": "https://www.twitch.tv/itsvdb/clip/OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/402bdad5-caea-4896-aea1-e31377471b61/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 30.0,
+      "createdAt": "2026-09-20T14:12:14Z"
+    },
     {
       "id": "BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
       "title": "No safe space for chopper",
@@ -69,16 +79,6 @@
       "views": 18,
       "duration": 17.3,
       "createdAt": "2026-09-06T16:54:15Z"
-    },
-    {
-      "id": "BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
-      "title": "2nd Heli Kill",
-      "url": "https://www.twitch.tv/itsvdb/clip/BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=BetterInterestingPotatoTebowing-kkKZZVpUnMoyxige",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f615a560-92ca-4ea3-9231-92f9defd7c43/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
-      "duration": 10.7,
-      "createdAt": "2026-09-04T21:10:43Z"
     }
   ]
 }
