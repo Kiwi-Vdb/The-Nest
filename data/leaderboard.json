@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789909052,
+  "generatedAt": 1789910557,
   "totalViewers": 880,
-  "totalShinies": 3220950,
+  "totalShinies": 3221434,
   "pageSize": 100,
   "entries": [
     {
@@ -176,28 +176,28 @@
     },
     {
       "rank": 35,
+      "name": "halfyourlife",
+      "shinies": 17532
+    },
+    {
+      "rank": 36,
       "name": "imth3apollo",
       "shinies": 17288
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "axolotl_eu",
       "shinies": 17214
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "our_lord_and_savior_gonk",
       "shinies": 17192
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "bonghits4cthulhu",
       "shinies": 17060
-    },
-    {
-      "rank": 39,
-      "name": "halfyourlife",
-      "shinies": 17048
     },
     {
       "rank": 40,
