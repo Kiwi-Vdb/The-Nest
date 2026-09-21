@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789990691,
+  "generatedAt": 1789991015,
   "totalViewers": 882,
-  "totalShinies": 3237074,
+  "totalShinies": 3237408,
   "pageSize": 100,
   "entries": [
     {
@@ -316,18 +316,18 @@
     },
     {
       "rank": 63,
+      "name": "esebian_",
+      "shinies": 10344
+    },
+    {
+      "rank": 64,
       "name": "hexu0x",
       "shinies": 10340
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "kingjaos",
       "shinies": 10238
-    },
-    {
-      "rank": 65,
-      "name": "esebian_",
-      "shinies": 10010
     },
     {
       "rank": 66,
