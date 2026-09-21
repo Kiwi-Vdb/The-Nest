@@ -28,7 +28,7 @@
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "statusUpdatedAt": 1790010336,
-  "clipsUpdatedAt": 1790002213,
+  "clipsUpdatedAt": 1790010341,
   "clips": [
     {
       "id": "OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
       "embedUrl": "https://clips.twitch.tv/embed?clip=OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/402bdad5-caea-4896-aea1-e31377471b61/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 24,
+      "views": 27,
       "duration": 30.0,
       "createdAt": "2026-09-20T14:12:14Z"
     },
