@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1789924649,
-  "rotationGeneratedAt": 1789888574,
-  "nextRotationAt": 1789974974,
+  "generatedAt": 1789990069,
+  "rotationGeneratedAt": 1789990069,
+  "nextRotationAt": 1790076469,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "loot_box_champion",
+      "category": "prediction_champion",
       "group": "viewer",
-      "icon": "◇",
-      "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 40 loot boxes."
+      "icon": "✓",
+      "title": "Prediction Champion",
+      "copy": "sharpishdog has won 9 predictions."
     },
     {
-      "category": "biggest_gift",
+      "category": "busiest_prediction",
       "group": "event",
-      "icon": "♥",
-      "title": "Biggest Gift",
-      "copy": "goliathmaroof gifted 500 Shinies to bot_kiwi_birb."
+      "icon": "●",
+      "title": "Biggest Prediction",
+      "copy": "12 viewers picked sides on “Who wins 5v5 on Starwatcher?”."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_gifts",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 97 loot boxes."
+      "icon": "♥",
+      "title": "Shinies Shared",
+      "copy": "Viewers have sent 1 gifts worth 500 Shinies."
     }
   ]
 }
