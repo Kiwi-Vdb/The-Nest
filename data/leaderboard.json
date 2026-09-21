@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1789998340,
+  "generatedAt": 1789998661,
   "totalViewers": 883,
-  "totalShinies": 3241228,
+  "totalShinies": 3241562,
   "pageSize": 100,
   "entries": [
     {
@@ -491,18 +491,18 @@
     },
     {
       "rank": 98,
+      "name": "jadedkross",
+      "shinies": 6272
+    },
+    {
+      "rank": 99,
       "name": "philaeux",
       "shinies": 6154
     },
     {
-      "rank": 99,
+      "rank": 100,
       "name": "frydac",
       "shinies": 6002
-    },
-    {
-      "rank": 100,
-      "name": "jadedkross",
-      "shinies": 5938
     },
     {
       "rank": 101,
