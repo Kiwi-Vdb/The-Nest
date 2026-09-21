@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790001257,
+  "generatedAt": 1790001290,
   "totalViewers": 883,
-  "totalShinies": 3243896,
+  "totalShinies": 3244380,
   "pageSize": 100,
   "entries": [
     {
@@ -201,18 +201,18 @@
     },
     {
       "rank": 40,
+      "name": "mesaber",
+      "shinies": 16936
+    },
+    {
+      "rank": 41,
       "name": "lordjammacus",
       "shinies": 16722
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "franzdk_",
       "shinies": 16556
-    },
-    {
-      "rank": 42,
-      "name": "mesaber",
-      "shinies": 16452
     },
     {
       "rank": 43,
