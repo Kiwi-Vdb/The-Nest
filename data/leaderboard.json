@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790084575,
+  "generatedAt": 1790084970,
   "totalViewers": 886,
-  "totalShinies": 3259760,
+  "totalShinies": 3259910,
   "pageSize": 100,
   "entries": [
     {
@@ -471,23 +471,23 @@
     },
     {
       "rank": 94,
+      "name": "jadedkross",
+      "shinies": 6756
+    },
+    {
+      "rank": 95,
       "name": "goliathmaroof",
       "shinies": 6742
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "bloodypage1",
       "shinies": 6636
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "oumuamua_i1",
       "shinies": 6636
-    },
-    {
-      "rank": 97,
-      "name": "jadedkross",
-      "shinies": 6606
     },
     {
       "rank": 98,
