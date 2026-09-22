@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790094507,
+  "generatedAt": 1790095017,
   "totalViewers": 888,
-  "totalShinies": 3279154,
+  "totalShinies": 3280154,
   "pageSize": 100,
   "entries": [
     {
@@ -156,18 +156,18 @@
     },
     {
       "rank": 31,
+      "name": "mesaber",
+      "shinies": 20420
+    },
+    {
+      "rank": 32,
       "name": "sasadal",
       "shinies": 20126
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "slicklikevik",
       "shinies": 19576
-    },
-    {
-      "rank": 33,
-      "name": "mesaber",
-      "shinies": 19420
     },
     {
       "rank": 34,
