@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790093396,
+  "generatedAt": 1790093414,
   "totalViewers": 888,
-  "totalShinies": 3276186,
+  "totalShinies": 3276336,
   "pageSize": 100,
   "entries": [
     {
@@ -1341,18 +1341,18 @@
     },
     {
       "rank": 268,
+      "name": "chickenman6712",
+      "shinies": 1970
+    },
+    {
+      "rank": 269,
       "name": "itsreetzweet",
       "shinies": 1968
     },
     {
-      "rank": 269,
+      "rank": 270,
       "name": "sugar_emre",
       "shinies": 1968
-    },
-    {
-      "rank": 270,
-      "name": "chickenman6712",
-      "shinies": 1820
     },
     {
       "rank": 271,
