@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790084175,
+  "generatedAt": 1790084428,
   "totalViewers": 886,
-  "totalShinies": 3258092,
+  "totalShinies": 3258426,
   "pageSize": 100,
   "entries": [
     {
@@ -496,18 +496,18 @@
     },
     {
       "rank": 99,
+      "name": "lelalolul",
+      "shinies": 6200
+    },
+    {
+      "rank": 100,
       "name": "philaeux",
       "shinies": 6154
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "frydac",
       "shinies": 6002
-    },
-    {
-      "rank": 101,
-      "name": "lelalolul",
-      "shinies": 5866
     },
     {
       "rank": 102,
