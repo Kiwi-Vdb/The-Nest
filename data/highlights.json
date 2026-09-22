@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1790014295,
-  "rotationGeneratedAt": 1789990069,
-  "nextRotationAt": 1790076469,
+  "generatedAt": 1790080785,
+  "rotationGeneratedAt": 1790080785,
+  "nextRotationAt": 1790167185,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "prediction_champion",
+      "category": "collection_champion",
       "group": "viewer",
-      "icon": "✓",
-      "title": "Prediction Champion",
-      "copy": "sharpishdog has won 9 predictions."
+      "icon": "♛",
+      "title": "Nest Collector",
+      "copy": "itsvdb owns 36 cosmetics and text effects."
     },
     {
-      "category": "busiest_prediction",
+      "category": "latest_unlock",
       "group": "event",
-      "icon": "●",
-      "title": "Biggest Prediction",
-      "copy": "12 viewers picked sides on “Who wins 5v5 on Starwatcher?”."
+      "icon": "✧",
+      "title": "Fresh Unlock",
+      "copy": "axolotl_eu unlocked Wooden Shield (Common)."
     },
     {
-      "category": "community_gifts",
+      "category": "community_loot_boxes",
       "group": "community",
-      "icon": "♥",
-      "title": "Shinies Shared",
-      "copy": "Viewers have sent 1 gifts worth 500 Shinies."
+      "icon": "◇",
+      "title": "Boxes Opened",
+      "copy": "The community has opened 97 loot boxes."
     }
   ]
 }
