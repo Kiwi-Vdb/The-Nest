@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1790087894,
+  "generatedAt": 1790088178,
   "totalViewers": 887,
-  "totalShinies": 3264396,
+  "totalShinies": 3266396,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 209966
+      "shinies": 210966
     },
     {
       "rank": 2,
@@ -216,23 +216,23 @@
     },
     {
       "rank": 43,
+      "name": "elronoce",
+      "shinies": 16304
+    },
+    {
+      "rank": 44,
       "name": "pownage227",
       "shinies": 16126
     },
     {
-      "rank": 44,
+      "rank": 45,
       "name": "zeeburgapm",
       "shinies": 15844
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "zzzzzvh",
       "shinies": 15340
-    },
-    {
-      "rank": 46,
-      "name": "elronoce",
-      "shinies": 15304
     },
     {
       "rank": 47,
