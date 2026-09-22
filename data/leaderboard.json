@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790083508,
+  "generatedAt": 1790084175,
   "totalViewers": 886,
-  "totalShinies": 3257608,
+  "totalShinies": 3258092,
   "pageSize": 100,
   "entries": [
     {
@@ -186,23 +186,23 @@
     },
     {
       "rank": 37,
+      "name": "mesaber",
+      "shinies": 17420
+    },
+    {
+      "rank": 38,
       "name": "imth3apollo",
       "shinies": 17288
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "our_lord_and_savior_gonk",
       "shinies": 17192
     },
     {
-      "rank": 39,
+      "rank": 40,
       "name": "bonghits4cthulhu",
       "shinies": 17060
-    },
-    {
-      "rank": 40,
-      "name": "mesaber",
-      "shinies": 16936
     },
     {
       "rank": 41,
