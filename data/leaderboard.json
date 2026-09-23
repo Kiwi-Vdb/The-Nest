@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790179426,
+  "generatedAt": 1790180606,
   "totalViewers": 892,
-  "totalShinies": 3321742,
+  "totalShinies": 3322410,
   "pageSize": 100,
   "entries": [
     {
@@ -67,7 +67,7 @@
     {
       "rank": 13,
       "name": "lpalochka",
-      "shinies": 40648
+      "shinies": 40982
     },
     {
       "rank": 14,
@@ -401,33 +401,33 @@
     },
     {
       "rank": 80,
+      "name": "jadedkross",
+      "shinies": 8090
+    },
+    {
+      "rank": 81,
       "name": "hellzi3",
       "shinies": 8042
     },
     {
-      "rank": 81,
+      "rank": 82,
       "name": "akkaiiie",
       "shinies": 8004
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "vlunom",
       "shinies": 8004
     },
     {
-      "rank": 83,
+      "rank": 84,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "sashkorin",
       "shinies": 7972
-    },
-    {
-      "rank": 85,
-      "name": "jadedkross",
-      "shinies": 7756
     },
     {
       "rank": 86,
