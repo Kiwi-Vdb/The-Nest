@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1790164696,
-  "clipsUpdatedAt": 1790164011,
+  "statusUpdatedAt": 1790164727,
+  "clipsUpdatedAt": 1790164721,
   "clips": [
     {
       "id": "JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "embedUrl": "https://clips.twitch.tv/embed?clip=JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e150aad-db03-4545-a31e-82f7e3773db8/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 12,
+      "views": 14,
       "duration": 33.9,
       "createdAt": "2026-09-22T21:21:49Z"
     },
