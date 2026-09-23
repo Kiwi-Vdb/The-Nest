@@ -27,9 +27,19 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1790163980,
-  "clipsUpdatedAt": 1790080786,
+  "statusUpdatedAt": 1790164011,
+  "clipsUpdatedAt": 1790164011,
   "clips": [
+    {
+      "id": "JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
+      "title": "The Absolute Cheek Of It!",
+      "url": "https://www.twitch.tv/itsvdb/clip/JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e150aad-db03-4545-a31e-82f7e3773db8/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 12,
+      "duration": 33.9,
+      "createdAt": "2026-09-22T21:21:49Z"
+    },
     {
       "id": "OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
       "title": "Building",
@@ -69,16 +79,6 @@
       "views": 52,
       "duration": 29.9,
       "createdAt": "2026-09-09T15:20:24Z"
-    },
-    {
-      "id": "TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
-      "title": "HighGain Op Dgun",
-      "url": "https://www.twitch.tv/itsvdb/clip/TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=TriangularTenaciousBatteryDoubleRainbow-MOYagdNPZGpimVoN",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c459dc61-ca87-429a-b5db-a200ec02f43c/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 18,
-      "duration": 17.3,
-      "createdAt": "2026-09-06T16:54:15Z"
     }
   ]
 }
