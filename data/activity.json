@@ -1,16 +1,7 @@
 {
-  "generatedAt": 1790165428,
+  "generatedAt": 1790167086,
   "count": 50,
   "activities": [
-    {
-      "id": "8b38147d8fba4b19",
-      "type": "gift",
-      "who": "goliathmaroof",
-      "text": "gifted 500 Shinies to bot_kiwi_birb",
-      "timestamp": 1788787291,
-      "amount": 500,
-      "target": "bot_kiwi_birb"
-    },
     {
       "id": "32e4a8f99be303dc",
       "type": "unlock",
@@ -499,6 +490,16 @@
       "timestamp": 1787161250,
       "rarity": "rare",
       "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "b891da2c4ed12152",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Santa Beard",
+      "timestamp": 1787161248,
+      "rarity": "epic",
+      "category": "Kiwi Neck",
       "rewardType": "cosmetic"
     }
   ]
