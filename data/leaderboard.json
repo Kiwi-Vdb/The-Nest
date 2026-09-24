@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790276583,
+  "generatedAt": 1790276710,
   "totalViewers": 892,
-  "totalShinies": 3345290,
+  "totalShinies": 3345624,
   "pageSize": 100,
   "entries": [
     {
@@ -796,33 +796,33 @@
     },
     {
       "rank": 159,
-      "name": "issith",
+      "name": "beginna_",
       "shinies": 4004
     },
     {
       "rank": 160,
+      "name": "issith",
+      "shinies": 4004
+    },
+    {
+      "rank": 161,
       "name": "pretor_ek",
       "shinies": 3984
     },
     {
-      "rank": 161,
+      "rank": 162,
       "name": "regularlyunderperforming",
       "shinies": 3818
     },
     {
-      "rank": 162,
+      "rank": 163,
       "name": "glennandersson",
       "shinies": 3672
     },
     {
-      "rank": 163,
+      "rank": 164,
       "name": "j_t_l___",
       "shinies": 3672
-    },
-    {
-      "rank": 164,
-      "name": "beginna_",
-      "shinies": 3670
     },
     {
       "rank": 165,
