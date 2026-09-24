@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790255479,
+  "generatedAt": 1790256288,
   "totalViewers": 892,
-  "totalShinies": 3323412,
+  "totalShinies": 3323896,
   "pageSize": 100,
   "entries": [
     {
@@ -126,23 +126,23 @@
     },
     {
       "rank": 25,
+      "name": "mesaber",
+      "shinies": 22904
+    },
+    {
+      "rank": 26,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "kiddorox",
       "shinies": 22674
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "jigglyjake22",
       "shinies": 22644
-    },
-    {
-      "rank": 28,
-      "name": "mesaber",
-      "shinies": 22420
     },
     {
       "rank": 29,
