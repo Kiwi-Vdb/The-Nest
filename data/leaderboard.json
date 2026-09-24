@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790266331,
+  "generatedAt": 1790266522,
   "totalViewers": 892,
-  "totalShinies": 3334352,
+  "totalShinies": 3334686,
   "pageSize": 100,
   "entries": [
     {
@@ -276,23 +276,23 @@
     },
     {
       "rank": 55,
+      "name": "jermeis7er",
+      "shinies": 12006
+    },
+    {
+      "rank": 56,
       "name": "globe2deag",
       "shinies": 11978
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "siven12",
       "shinies": 11906
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "tdostalker",
       "shinies": 11786
-    },
-    {
-      "rank": 58,
-      "name": "jermeis7er",
-      "shinies": 11672
     },
     {
       "rank": 59,
