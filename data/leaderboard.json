@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790262179,
+  "generatedAt": 1790262303,
   "totalViewers": 892,
-  "totalShinies": 3330534,
+  "totalShinies": 3330684,
   "pageSize": 100,
   "entries": [
     {
@@ -386,18 +386,18 @@
     },
     {
       "rank": 77,
+      "name": "jadedkross",
+      "shinies": 8574
+    },
+    {
+      "rank": 78,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "sterling_victor5",
       "shinies": 8484
-    },
-    {
-      "rank": 79,
-      "name": "jadedkross",
-      "shinies": 8424
     },
     {
       "rank": 80,
