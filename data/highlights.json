@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1790180606,
-  "rotationGeneratedAt": 1790167419,
-  "nextRotationAt": 1790253819,
+  "generatedAt": 1790254791,
+  "rotationGeneratedAt": 1790254791,
+  "nextRotationAt": 1790341191,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "prediction_champion",
+      "category": "largest_balance",
       "group": "viewer",
-      "icon": "✓",
-      "title": "Prediction Champion",
-      "copy": "sharpishdog has won 9 predictions."
+      "icon": "✦",
+      "title": "Shiny Hoarder",
+      "copy": "bot_kiwi_birb leads the flock with 221,300 Shinies."
     },
     {
-      "category": "busiest_prediction",
+      "category": "biggest_prediction_prize",
       "group": "event",
-      "icon": "●",
-      "title": "Biggest Prediction",
-      "copy": "12 viewers picked sides on “Who wins 5v5 on Starwatcher?”."
+      "icon": "✓",
+      "title": "Biggest Prediction Prize",
+      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
     },
     {
-      "category": "community_unlocks",
+      "category": "community_shiny_total",
       "group": "community",
-      "icon": "♛",
-      "title": "Unlock Collection",
-      "copy": "Viewers have collected 101 cosmetics and text effects."
+      "icon": "✦",
+      "title": "Community Fortune",
+      "copy": "The flock currently holds 3,322,410 Shinies."
     }
   ]
 }
