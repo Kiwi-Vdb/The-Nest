@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790351891,
+  "generatedAt": 1790352970,
   "totalViewers": 892,
-  "totalShinies": 3354566,
+  "totalShinies": 3354900,
   "pageSize": 100,
   "entries": [
     {
@@ -271,18 +271,18 @@
     },
     {
       "rank": 54,
+      "name": "jermeis7er",
+      "shinies": 12340
+    },
+    {
+      "rank": 55,
       "name": "tdostalker",
       "shinies": 12270
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "warriot",
       "shinies": 12122
-    },
-    {
-      "rank": 56,
-      "name": "jermeis7er",
-      "shinies": 12006
     },
     {
       "rank": 57,
