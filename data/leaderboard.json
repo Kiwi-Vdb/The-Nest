@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790354772,
+  "generatedAt": 1790354788,
   "totalViewers": 892,
-  "totalShinies": 3358050,
+  "totalShinies": 3358384,
   "pageSize": 100,
   "entries": [
     {
@@ -206,18 +206,18 @@
     },
     {
       "rank": 41,
+      "name": "pownage227",
+      "shinies": 16794
+    },
+    {
+      "rank": 42,
       "name": "lordjammacus",
       "shinies": 16722
     },
     {
-      "rank": 42,
+      "rank": 43,
       "name": "franzdk_",
       "shinies": 16556
-    },
-    {
-      "rank": 43,
-      "name": "pownage227",
-      "shinies": 16460
     },
     {
       "rank": 44,
