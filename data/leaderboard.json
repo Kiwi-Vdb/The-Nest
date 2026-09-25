@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790354788,
+  "generatedAt": 1790355493,
   "totalViewers": 892,
-  "totalShinies": 3358384,
+  "totalShinies": 3359384,
   "pageSize": 100,
   "entries": [
     {
@@ -226,23 +226,23 @@
     },
     {
       "rank": 45,
+      "name": "ilotusuk",
+      "shinies": 15970
+    },
+    {
+      "rank": 46,
       "name": "zeeburgapm",
       "shinies": 15844
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "zzzzzvh",
       "shinies": 15674
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "12f5b0a",
       "shinies": 15336
-    },
-    {
-      "rank": 48,
-      "name": "ilotusuk",
-      "shinies": 14970
     },
     {
       "rank": 49,
