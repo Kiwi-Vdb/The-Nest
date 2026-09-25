@@ -18,17 +18,17 @@
     "updatedAt": "2026-08-16T09:24:20Z"
   },
   "live": true,
-  "viewers": 4,
-  "title": "Running It Back With The Boys",
+  "viewers": 0,
+  "title": "Ghillie time Boyos!",
   "gameId": "743893402",
   "gameName": "WARDOGS",
   "gameBoxArtUrl": "https://static-cdn.jtvnw.net/ttv-boxart/743893402_IGDB-285x380.jpg",
-  "startedAt": "2026-09-24T13:02:23Z",
+  "startedAt": "2026-09-25T14:33:55Z",
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1790279667,
-  "clipsUpdatedAt": 1790254793,
+  "statusUpdatedAt": 1790346849,
+  "clipsUpdatedAt": 1790346850,
   "clips": [
     {
       "id": "JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "embedUrl": "https://clips.twitch.tv/embed?clip=JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e150aad-db03-4545-a31e-82f7e3773db8/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 26,
+      "views": 27,
       "duration": 33.9,
       "createdAt": "2026-09-22T21:21:49Z"
     },
