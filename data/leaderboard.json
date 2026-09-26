@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790418990,
+  "generatedAt": 1790419350,
   "totalViewers": 903,
-  "totalShinies": 3394944,
+  "totalShinies": 3395944,
   "pageSize": 100,
   "entries": [
     {
@@ -221,23 +221,23 @@
     },
     {
       "rank": 44,
+      "name": "jermeis7er",
+      "shinies": 16674
+    },
+    {
+      "rank": 45,
       "name": "franzdk_",
       "shinies": 16556
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "elronoce",
       "shinies": 16304
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "zeeburgapm",
       "shinies": 15844
-    },
-    {
-      "rank": 47,
-      "name": "jermeis7er",
-      "shinies": 15674
     },
     {
       "rank": 48,
