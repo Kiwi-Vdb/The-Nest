@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790424308,
+  "generatedAt": 1790425711,
   "totalViewers": 906,
-  "totalShinies": 3406068,
+  "totalShinies": 3407068,
   "pageSize": 100,
   "entries": [
     {
@@ -161,23 +161,23 @@
     },
     {
       "rank": 32,
+      "name": "ilotusuk",
+      "shinies": 20454
+    },
+    {
+      "rank": 33,
       "name": "sasadal",
       "shinies": 20126
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "halfyourlife",
       "shinies": 19986
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "slicklikevik",
       "shinies": 19576
-    },
-    {
-      "rank": 35,
-      "name": "ilotusuk",
-      "shinies": 19454
     },
     {
       "rank": 36,
