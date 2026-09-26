@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790408183,
+  "generatedAt": 1790408543,
   "totalViewers": 893,
-  "totalShinies": 3374996,
+  "totalShinies": 3375996,
   "pageSize": 100,
   "entries": [
     {
@@ -251,23 +251,23 @@
     },
     {
       "rank": 50,
+      "name": "jermeis7er",
+      "shinies": 13674
+    },
+    {
+      "rank": 51,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "dhisame",
       "shinies": 13276
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "coffeeconceder",
       "shinies": 12754
-    },
-    {
-      "rank": 53,
-      "name": "jermeis7er",
-      "shinies": 12674
     },
     {
       "rank": 54,
