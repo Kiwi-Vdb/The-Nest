@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790419748,
+  "generatedAt": 1790420130,
   "totalViewers": 903,
-  "totalShinies": 3396278,
+  "totalShinies": 3397278,
   "pageSize": 100,
   "entries": [
     {
@@ -91,18 +91,18 @@
     },
     {
       "rank": 18,
+      "name": "mesaber",
+      "shinies": 28872
+    },
+    {
+      "rank": 19,
       "name": "chuffingbear",
       "shinies": 28344
     },
     {
-      "rank": 19,
+      "rank": 20,
       "name": "thequetx",
       "shinies": 28176
-    },
-    {
-      "rank": 20,
-      "name": "mesaber",
-      "shinies": 27872
     },
     {
       "rank": 21,
