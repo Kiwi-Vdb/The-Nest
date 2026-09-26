@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790419350,
+  "generatedAt": 1790419748,
   "totalViewers": 903,
-  "totalShinies": 3395944,
+  "totalShinies": 3396278,
   "pageSize": 100,
   "entries": [
     {
@@ -381,18 +381,18 @@
     },
     {
       "rank": 76,
+      "name": "lelalolul",
+      "shinies": 8836
+    },
+    {
+      "rank": 77,
       "name": "liarturil",
       "shinies": 8822
     },
     {
-      "rank": 77,
+      "rank": 78,
       "name": "jadedkross",
       "shinies": 8574
-    },
-    {
-      "rank": 78,
-      "name": "lelalolul",
-      "shinies": 8502
     },
     {
       "rank": 79,
