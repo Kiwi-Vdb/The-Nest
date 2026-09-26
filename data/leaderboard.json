@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790412145,
+  "generatedAt": 1790412985,
   "totalViewers": 895,
-  "totalShinies": 3382000,
+  "totalShinies": 3383000,
   "pageSize": 100,
   "entries": [
     {
@@ -101,18 +101,18 @@
     },
     {
       "rank": 20,
+      "name": "mesaber",
+      "shinies": 26872
+    },
+    {
+      "rank": 21,
       "name": "deverhr",
       "shinies": 26144
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "tallerofin",
       "shinies": 25892
-    },
-    {
-      "rank": 22,
-      "name": "mesaber",
-      "shinies": 25872
     },
     {
       "rank": 23,
