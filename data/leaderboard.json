@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790454028,
+  "generatedAt": 1790454484,
   "totalViewers": 906,
-  "totalShinies": 3435558,
+  "totalShinies": 3436558,
   "pageSize": 100,
   "entries": [
     {
@@ -96,18 +96,18 @@
     },
     {
       "rank": 19,
+      "name": "ilotusuk",
+      "shinies": 28454
+    },
+    {
+      "rank": 20,
       "name": "chuffingbear",
       "shinies": 28344
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "thequetx",
       "shinies": 28176
-    },
-    {
-      "rank": 21,
-      "name": "ilotusuk",
-      "shinies": 27454
     },
     {
       "rank": 22,
