@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790432423,
+  "generatedAt": 1790432912,
   "totalViewers": 906,
-  "totalShinies": 3416888,
+  "totalShinies": 3417888,
   "pageSize": 100,
   "entries": [
     {
@@ -146,18 +146,18 @@
     },
     {
       "rank": 29,
+      "name": "ilotusuk",
+      "shinies": 22454
+    },
+    {
+      "rank": 30,
       "name": "axoim_",
       "shinies": 22346
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "akiletia",
       "shinies": 22156
-    },
-    {
-      "rank": 31,
-      "name": "ilotusuk",
-      "shinies": 21454
     },
     {
       "rank": 32,
