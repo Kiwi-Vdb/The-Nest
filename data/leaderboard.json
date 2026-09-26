@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790413031,
-  "totalViewers": 895,
-  "totalShinies": 3383334,
+  "generatedAt": 1790413417,
+  "totalViewers": 896,
+  "totalShinies": 3383668,
   "pageSize": 100,
   "entries": [
     {
@@ -4451,31 +4451,36 @@
     },
     {
       "rank": 890,
-      "name": "zeflinggaming",
+      "name": "ykcqh83",
       "shinies": 334
     },
     {
       "rank": 891,
-      "name": "zmnfilippo",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 892,
-      "name": "zongtg",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 893,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 894,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 895,
       "name": "smokey_foo",
       "shinies": 318
     },
     {
-      "rank": 895,
+      "rank": 896,
       "name": "mvpeteno",
       "shinies": 168
     }
