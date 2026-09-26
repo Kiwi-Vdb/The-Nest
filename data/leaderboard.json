@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790434314,
+  "generatedAt": 1790434472,
   "totalViewers": 906,
-  "totalShinies": 3420556,
+  "totalShinies": 3421556,
   "pageSize": 100,
   "entries": [
     {
@@ -321,28 +321,28 @@
     },
     {
       "rank": 64,
+      "name": "beginna_",
+      "shinies": 10672
+    },
+    {
+      "rank": 65,
       "name": "hexu0x",
       "shinies": 10340
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "kingjaos",
       "shinies": 10238
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "colonp",
       "shinies": 9820
-    },
-    {
-      "rank": 68,
-      "name": "beginna_",
-      "shinies": 9672
     },
     {
       "rank": 69,
