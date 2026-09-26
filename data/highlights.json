@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1790432933,
-  "rotationGeneratedAt": 1790346848,
-  "nextRotationAt": 1790433248,
+  "generatedAt": 1790433260,
+  "rotationGeneratedAt": 1790433260,
+  "nextRotationAt": 1790519660,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "loot_box_champion",
+      "category": "collection_champion",
       "group": "viewer",
-      "icon": "◇",
-      "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 40 loot boxes."
+      "icon": "♛",
+      "title": "Nest Collector",
+      "copy": "itsvdb owns 36 cosmetics and text effects."
     },
     {
-      "category": "latest_unlock",
+      "category": "busiest_prediction",
       "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "axolotl_eu unlocked Wooden Shield (Common)."
+      "icon": "●",
+      "title": "Biggest Prediction",
+      "copy": "12 viewers picked sides on “Who wins 5v5 on Starwatcher?”."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_shiny_total",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 97 loot boxes."
+      "icon": "✦",
+      "title": "Community Fortune",
+      "copy": "The flock currently holds 3,418,222 Shinies."
     }
   ]
 }
