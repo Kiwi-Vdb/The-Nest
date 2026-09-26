@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1790434892,
+  "generatedAt": 1790436513,
   "totalViewers": 906,
-  "totalShinies": 3422556,
+  "totalShinies": 3423556,
   "pageSize": 100,
   "entries": [
     {
@@ -126,28 +126,28 @@
     },
     {
       "rank": 25,
+      "name": "ilotusuk",
+      "shinies": 23454
+    },
+    {
+      "rank": 26,
       "name": "ibonbe",
       "shinies": 23340
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "kiddorox",
       "shinies": 22674
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "jigglyjake22",
       "shinies": 22644
-    },
-    {
-      "rank": 29,
-      "name": "ilotusuk",
-      "shinies": 22454
     },
     {
       "rank": 30,
