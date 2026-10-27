@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793092190,
+  "generated_at": 1793092245,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -10875,10 +10875,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-glitch-sweep",
-        "name": "Glitch Sweep Text",
-        "rarity": "legendary",
-        "class_name": "text-glitch-sweep"
+        "id": "text-plasma-pulse",
+        "name": "Plasma Pulse Text",
+        "rarity": "epic",
+        "class_name": "text-plasma-pulse"
       },
       "loot_boxes_opened": 40,
       "recent_unlocks": [
