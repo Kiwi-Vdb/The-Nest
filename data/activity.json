@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793092245,
+  "generatedAt": 1793092346,
   "count": 50,
   "activities": [
+    {
+      "id": "19af033f84030bb7",
+      "type": "unlock",
+      "who": "simplygraceful_",
+      "text": "unlocked Animated Rainbow Text",
+      "timestamp": 1793092346,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "32e4a8f99be303dc",
       "type": "unlock",
@@ -490,16 +500,6 @@
       "timestamp": 1787161250,
       "rarity": "rare",
       "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "b891da2c4ed12152",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Santa Beard",
-      "timestamp": 1787161248,
-      "rarity": "epic",
-      "category": "Kiwi Neck",
       "rewardType": "cosmetic"
     }
   ]

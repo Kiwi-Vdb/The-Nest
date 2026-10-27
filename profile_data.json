@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793092245,
+  "generated_at": 1793092346,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -19977,16 +19977,33 @@
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-animated-rainbow",
+          "name": "Animated Rainbow Text",
+          "rarity": "legendary",
+          "class_name": "text-animated-rainbow",
+          "equip_command": "!equiptext Animated Rainbow"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "recent_unlocks": [
+        {
+          "name": "Animated Rainbow Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-animated-rainbow",
+          "timestamp": 1793092346
+        }
+      ],
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     },
     "siven12": {
