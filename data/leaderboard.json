@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793097861,
+  "generatedAt": 1793097950,
   "totalViewers": 932,
-  "totalShinies": 3521802,
+  "totalShinies": 3521302,
   "pageSize": 100,
   "entries": [
     {
@@ -501,28 +501,28 @@
     },
     {
       "rank": 100,
-      "name": "kirinokirino",
-      "shinies": 6802
-    },
-    {
-      "rank": 101,
       "name": "hamoodlovespoop",
       "shinies": 6792
     },
     {
-      "rank": 102,
+      "rank": 101,
       "name": "bloodypage1",
       "shinies": 6636
     },
     {
-      "rank": 103,
+      "rank": 102,
       "name": "oumuamua_i1",
       "shinies": 6636
     },
     {
-      "rank": 104,
+      "rank": 103,
       "name": "jimmy_norris",
       "shinies": 6486
+    },
+    {
+      "rank": 104,
+      "name": "kirinokirino",
+      "shinies": 6302
     },
     {
       "rank": 105,
