@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793092663,
+  "generated_at": 1793092679,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -19968,7 +19968,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 10920,
+        "balance": 7920,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -19981,6 +19981,12 @@
           "id": "kiwi:feet:pixel-red-gumboots",
           "name": "Red Gumboots",
           "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-santa-hat",
+          "name": "Santa Hat",
+          "category": "Kiwi Hat",
           "rarity": "common"
         }
       ],
@@ -20002,6 +20008,14 @@
       "loot_boxes_opened": 0,
       "recent_unlocks": [
         {
+          "name": "Santa Hat",
+          "category": "Kiwi Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793092677
+        },
+        {
           "name": "Red Gumboots",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common",
@@ -20019,11 +20033,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 41,
         "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "siven12": {
