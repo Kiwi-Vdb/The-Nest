@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793103122,
+  "generatedAt": 1793103232,
   "totalViewers": 934,
-  "totalShinies": 3565594,
+  "totalShinies": 3566262,
   "pageSize": 100,
   "entries": [
     {
@@ -571,38 +571,38 @@
     },
     {
       "rank": 114,
-      "name": "zegarzaglady",
+      "name": "dreadyfire",
       "shinies": 5672
     },
     {
       "rank": 115,
+      "name": "zegarzaglady",
+      "shinies": 5672
+    },
+    {
+      "rank": 116,
       "name": "neugrenade",
       "shinies": 5668
     },
     {
-      "rank": 116,
+      "rank": 117,
       "name": "victorxii",
       "shinies": 5636
     },
     {
-      "rank": 117,
+      "rank": 118,
       "name": "kotaotake",
       "shinies": 5620
     },
     {
-      "rank": 118,
+      "rank": 119,
       "name": "phenomenejbd",
       "shinies": 5488
     },
     {
-      "rank": 119,
+      "rank": 120,
       "name": "ozyais",
       "shinies": 5340
-    },
-    {
-      "rank": 120,
-      "name": "dreadyfire",
-      "shinies": 5338
     },
     {
       "rank": 121,
@@ -831,33 +831,33 @@
     },
     {
       "rank": 166,
+      "name": "regularlyunderperforming",
+      "shinies": 4152
+    },
+    {
+      "rank": 167,
       "name": "destrinite",
       "shinies": 4120
     },
     {
-      "rank": 167,
+      "rank": 168,
       "name": "akumar67",
       "shinies": 4088
     },
     {
-      "rank": 168,
+      "rank": 169,
       "name": "glennandersson",
       "shinies": 4006
     },
     {
-      "rank": 169,
+      "rank": 170,
       "name": "oss76",
       "shinies": 4002
     },
     {
-      "rank": 170,
+      "rank": 171,
       "name": "pretor_ek",
       "shinies": 3984
-    },
-    {
-      "rank": 171,
-      "name": "regularlyunderperforming",
-      "shinies": 3818
     },
     {
       "rank": 172,
