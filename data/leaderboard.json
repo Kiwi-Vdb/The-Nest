@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793104587,
+  "generatedAt": 1793104769,
   "totalViewers": 935,
-  "totalShinies": 3573598,
+  "totalShinies": 3575598,
   "pageSize": 100,
   "entries": [
     {
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "sharpishdog",
-      "shinies": 91690
+      "shinies": 92690
     },
     {
       "rank": 4,
@@ -131,18 +131,18 @@
     },
     {
       "rank": 26,
+      "name": "kiddorox",
+      "shinies": 25008
+    },
+    {
+      "rank": 27,
       "name": "akiletia",
       "shinies": 24640
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "alishhk",
       "shinies": 24128
-    },
-    {
-      "rank": 28,
-      "name": "kiddorox",
-      "shinies": 24008
     },
     {
       "rank": 29,
