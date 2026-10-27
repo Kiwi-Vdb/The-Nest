@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793107349,
+  "generatedAt": 1793107391,
   "totalViewers": 937,
-  "totalShinies": 3588252,
+  "totalShinies": 3587752,
   "pageSize": 100,
   "entries": [
     {
@@ -366,23 +366,23 @@
     },
     {
       "rank": 73,
-      "name": "goliathmaroof",
-      "shinies": 9576
-    },
-    {
-      "rank": 74,
       "name": "swallowbug11",
       "shinies": 9338
     },
     {
-      "rank": 75,
+      "rank": 74,
       "name": "ruphin",
       "shinies": 9304
     },
     {
-      "rank": 76,
+      "rank": 75,
       "name": "aidannaut",
       "shinies": 9152
+    },
+    {
+      "rank": 76,
+      "name": "goliathmaroof",
+      "shinies": 9076
     },
     {
       "rank": 77,
