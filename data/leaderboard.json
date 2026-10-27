@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793075538,
+  "generatedAt": 1793075918,
   "totalViewers": 907,
-  "totalShinies": 3441862,
+  "totalShinies": 3442196,
   "pageSize": 100,
   "entries": [
     {
@@ -136,18 +136,18 @@
     },
     {
       "rank": 27,
+      "name": "jigglyjake22",
+      "shinies": 22978
+    },
+    {
+      "rank": 28,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "kiddorox",
       "shinies": 22674
-    },
-    {
-      "rank": 29,
-      "name": "jigglyjake22",
-      "shinies": 22644
     },
     {
       "rank": 30,
