@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793077786,
+  "generatedAt": 1793077826,
   "totalViewers": 907,
-  "totalShinies": 3444864,
+  "totalShinies": 3445014,
   "pageSize": 100,
   "entries": [
     {
@@ -581,17 +581,17 @@
     },
     {
       "rank": 116,
+      "name": "kirinokirino",
+      "shinies": 5302
+    },
+    {
+      "rank": 117,
       "name": "nightfalldeceit",
       "shinies": 5272
     },
     {
-      "rank": 117,
-      "name": "jimmy_norris",
-      "shinies": 5152
-    },
-    {
       "rank": 118,
-      "name": "kirinokirino",
+      "name": "jimmy_norris",
       "shinies": 5152
     },
     {
