@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793092597,
+  "generated_at": 1793092630,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -19968,7 +19968,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 12120,
+        "balance": 10920,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -19976,7 +19976,14 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:feet:pixel-red-gumboots",
+          "name": "Red Gumboots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [
         {
           "id": "text-animated-rainbow",
@@ -19995,6 +20002,14 @@
       "loot_boxes_opened": 0,
       "recent_unlocks": [
         {
+          "name": "Red Gumboots",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793092628
+        },
+        {
           "name": "Animated Rainbow Text",
           "category": "Text Effect",
           "rarity": "legendary",
@@ -20004,11 +20019,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 41,
         "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "siven12": {

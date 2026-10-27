@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793092597,
+  "generatedAt": 1793092630,
   "totalViewers": 925,
-  "totalShinies": 3484168,
+  "totalShinies": 3482968,
   "pageSize": 100,
   "entries": [
     {
@@ -291,33 +291,33 @@
     },
     {
       "rank": 58,
-      "name": "simplygraceful_",
-      "shinies": 12120
-    },
-    {
-      "rank": 59,
       "name": "globe2deag",
       "shinies": 11978
     },
     {
-      "rank": 60,
+      "rank": 59,
       "name": "hells_hound_",
       "shinies": 11606
     },
     {
-      "rank": 61,
+      "rank": 60,
       "name": "esebian_",
       "shinies": 11346
     },
     {
-      "rank": 62,
+      "rank": 61,
       "name": "blopson",
       "shinies": 11024
     },
     {
-      "rank": 63,
+      "rank": 62,
       "name": "literallylilacc",
       "shinies": 11020
+    },
+    {
+      "rank": 63,
+      "name": "simplygraceful_",
+      "shinies": 10920
     },
     {
       "rank": 64,
