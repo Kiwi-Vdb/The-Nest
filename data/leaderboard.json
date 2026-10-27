@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793096973,
+  "generatedAt": 1793097045,
   "totalViewers": 932,
-  "totalShinies": 3515484,
+  "totalShinies": 3515634,
   "pageSize": 100,
   "entries": [
     {
@@ -546,28 +546,28 @@
     },
     {
       "rank": 109,
+      "name": "nightfalldeceit",
+      "shinies": 5756
+    },
+    {
+      "rank": 110,
       "name": "zegarzaglady",
       "shinies": 5672
     },
     {
-      "rank": 110,
+      "rank": 111,
       "name": "neugrenade",
       "shinies": 5668
     },
     {
-      "rank": 111,
+      "rank": 112,
       "name": "victorxii",
       "shinies": 5636
     },
     {
-      "rank": 112,
+      "rank": 113,
       "name": "kotaotake",
       "shinies": 5620
-    },
-    {
-      "rank": 113,
-      "name": "nightfalldeceit",
-      "shinies": 5606
     },
     {
       "rank": 114,
