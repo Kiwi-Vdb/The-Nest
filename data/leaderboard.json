@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793100177,
+  "generatedAt": 1793100258,
   "totalViewers": 934,
-  "totalShinies": 3548260,
+  "totalShinies": 3549260,
   "pageSize": 100,
   "entries": [
     {
@@ -96,23 +96,23 @@
     },
     {
       "rank": 19,
+      "name": "chuffingbear",
+      "shinies": 29678
+    },
+    {
+      "rank": 20,
       "name": "ilotusuk",
       "shinies": 29454
     },
     {
-      "rank": 20,
+      "rank": 21,
       "name": "muhmonkey",
       "shinies": 29342
     },
     {
-      "rank": 21,
+      "rank": 22,
       "name": "cozzwald",
       "shinies": 29314
-    },
-    {
-      "rank": 22,
-      "name": "chuffingbear",
-      "shinies": 28678
     },
     {
       "rank": 23,
