@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793092529,
+  "generatedAt": 1793092597,
   "totalViewers": 925,
-  "totalShinies": 3483200,
+  "totalShinies": 3484168,
   "pageSize": 100,
   "entries": [
     {
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "sharpishdog",
-      "shinies": 89206
+      "shinies": 89690
     },
     {
       "rank": 4,
@@ -161,23 +161,23 @@
     },
     {
       "rank": 32,
+      "name": "halfyourlife",
+      "shinies": 20470
+    },
+    {
+      "rank": 33,
       "name": "dog1isopen",
       "shinies": 20460
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "sasadal",
       "shinies": 20126
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "slicklikevik",
       "shinies": 20060
-    },
-    {
-      "rank": 35,
-      "name": "halfyourlife",
-      "shinies": 19986
     },
     {
       "rank": 36,
