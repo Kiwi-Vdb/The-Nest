@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793096278,
+  "generatedAt": 1793096309,
   "totalViewers": 928,
-  "totalShinies": 3511694,
+  "totalShinies": 3512328,
   "pageSize": 100,
   "entries": [
     {
@@ -72,7 +72,7 @@
     {
       "rank": 14,
       "name": "watchbehinddude",
-      "shinies": 38514
+      "shinies": 38664
     },
     {
       "rank": 15,
@@ -356,23 +356,23 @@
     },
     {
       "rank": 71,
+      "name": "snoopa_aoe",
+      "shinies": 9572
+    },
+    {
+      "rank": 72,
       "name": "swallowbug11",
       "shinies": 9338
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "ruphin",
       "shinies": 9304
     },
     {
-      "rank": 73,
+      "rank": 74,
       "name": "bizzyrex",
       "shinies": 9153
-    },
-    {
-      "rank": 74,
-      "name": "snoopa_aoe",
-      "shinies": 9088
     },
     {
       "rank": 75,
