@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793100858,
+  "generatedAt": 1793101015,
   "totalViewers": 934,
-  "totalShinies": 3552594,
+  "totalShinies": 3553594,
   "pageSize": 100,
   "entries": [
     {
@@ -151,18 +151,18 @@
     },
     {
       "rank": 30,
+      "name": "slicklikevik",
+      "shinies": 23060
+    },
+    {
+      "rank": 31,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "axoim_",
       "shinies": 22680
-    },
-    {
-      "rank": 32,
-      "name": "slicklikevik",
-      "shinies": 22060
     },
     {
       "rank": 33,
