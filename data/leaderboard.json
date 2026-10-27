@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793084006,
+  "generatedAt": 1793084176,
   "totalViewers": 908,
-  "totalShinies": 3459606,
+  "totalShinies": 3460606,
   "pageSize": 100,
   "entries": [
     {
@@ -136,23 +136,23 @@
     },
     {
       "rank": 27,
+      "name": "akiletia",
+      "shinies": 23490
+    },
+    {
+      "rank": 28,
       "name": "ibonbe",
       "shinies": 23340
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 29,
+      "rank": 30,
       "name": "kiddorox",
       "shinies": 22674
-    },
-    {
-      "rank": 30,
-      "name": "akiletia",
-      "shinies": 22490
     },
     {
       "rank": 31,
