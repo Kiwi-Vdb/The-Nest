@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793110345,
+  "generatedAt": 1793110522,
   "totalViewers": 941,
-  "totalShinies": 3617214,
+  "totalShinies": 3618214,
   "pageSize": 100,
   "entries": [
     {
@@ -136,18 +136,18 @@
     },
     {
       "rank": 27,
+      "name": "slicklikevik",
+      "shinies": 25060
+    },
+    {
+      "rank": 28,
       "name": "akiletia",
       "shinies": 24640
     },
     {
-      "rank": 28,
+      "rank": 29,
       "name": "alishhk",
       "shinies": 24612
-    },
-    {
-      "rank": 29,
-      "name": "slicklikevik",
-      "shinies": 24060
     },
     {
       "rank": 30,
