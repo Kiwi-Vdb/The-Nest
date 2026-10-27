@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793107159,
+  "generatedAt": 1793107349,
   "totalViewers": 937,
-  "totalShinies": 3588418,
+  "totalShinies": 3588252,
   "pageSize": 100,
   "entries": [
     {
@@ -142,7 +142,7 @@
     {
       "rank": 28,
       "name": "alishhk",
-      "shinies": 24128
+      "shinies": 24462
     },
     {
       "rank": 29,
@@ -536,38 +536,38 @@
     },
     {
       "rank": 107,
-      "name": "kirinokirino",
-      "shinies": 6302
-    },
-    {
-      "rank": 108,
       "name": "philaeux",
       "shinies": 6154
     },
     {
-      "rank": 109,
+      "rank": 108,
       "name": "jjones666",
       "shinies": 6004
     },
     {
-      "rank": 110,
+      "rank": 109,
       "name": "frydac",
       "shinies": 6002
     },
     {
-      "rank": 111,
+      "rank": 110,
       "name": "xflame",
       "shinies": 5938
     },
     {
-      "rank": 112,
+      "rank": 111,
       "name": "itsfuntolose",
       "shinies": 5818
     },
     {
-      "rank": 113,
+      "rank": 112,
       "name": "rowanmorseyt",
       "shinies": 5818
+    },
+    {
+      "rank": 113,
+      "name": "kirinokirino",
+      "shinies": 5802
     },
     {
       "rank": 114,
