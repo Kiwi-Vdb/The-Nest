@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793202774,
+  "generatedAt": 1793202834,
   "totalViewers": 957,
-  "totalShinies": 3675606,
+  "totalShinies": 3676606,
   "pageSize": 100,
   "entries": [
     {
@@ -241,23 +241,23 @@
     },
     {
       "rank": 48,
+      "name": "beginna_",
+      "shinies": 16340
+    },
+    {
+      "rank": 49,
       "name": "zeeburgapm",
       "shinies": 16328
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "elronoce",
       "shinies": 16304
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "siven12",
       "shinies": 16240
-    },
-    {
-      "rank": 51,
-      "name": "beginna_",
-      "shinies": 15340
     },
     {
       "rank": 52,
