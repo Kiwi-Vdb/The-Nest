@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793203435,
+  "generatedAt": 1793203531,
   "totalViewers": 958,
-  "totalShinies": 3677940,
+  "totalShinies": 3678758,
   "pageSize": 100,
   "entries": [
     {
@@ -142,7 +142,7 @@
     {
       "rank": 28,
       "name": "akiletia",
-      "shinies": 24640
+      "shinies": 25124
     },
     {
       "rank": 29,
@@ -431,18 +431,18 @@
     },
     {
       "rank": 86,
+      "name": "hellzi3",
+      "shinies": 8376
+    },
+    {
+      "rank": 87,
       "name": "pauperbanaan",
       "shinies": 8272
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "simplygraceful_",
       "shinies": 8254
-    },
-    {
-      "rank": 88,
-      "name": "hellzi3",
-      "shinies": 8042
     },
     {
       "rank": 89,
