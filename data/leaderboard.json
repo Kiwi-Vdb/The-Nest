@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793152858,
+  "generatedAt": 1793153179,
   "totalViewers": 942,
-  "totalShinies": 3622052,
+  "totalShinies": 3622386,
   "pageSize": 100,
   "entries": [
     {
@@ -566,33 +566,33 @@
     },
     {
       "rank": 113,
+      "name": "neugrenade",
+      "shinies": 6002
+    },
+    {
+      "rank": 114,
       "name": "xflame",
       "shinies": 5938
     },
     {
-      "rank": 114,
+      "rank": 115,
       "name": "itsfuntolose",
       "shinies": 5818
     },
     {
-      "rank": 115,
+      "rank": 116,
       "name": "rowanmorseyt",
       "shinies": 5818
     },
     {
-      "rank": 116,
+      "rank": 117,
       "name": "dreadyfire",
       "shinies": 5672
     },
     {
-      "rank": 117,
+      "rank": 118,
       "name": "zegarzaglady",
       "shinies": 5672
-    },
-    {
-      "rank": 118,
-      "name": "neugrenade",
-      "shinies": 5668
     },
     {
       "rank": 119,
