@@ -27,9 +27,19 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1793155856,
-  "clipsUpdatedAt": 1793073060,
+  "statusUpdatedAt": 1793188161,
+  "clipsUpdatedAt": 1793188163,
   "clips": [
+    {
+      "id": "HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
+      "title": "First Kill of Season 2",
+      "url": "https://www.twitch.tv/itsvdb/clip/HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d6206baf-2511-4373-a315-e870867edc50/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 3,
+      "duration": 28.6,
+      "createdAt": "2026-10-28T02:52:07Z"
+    },
     {
       "id": "JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "title": "The Absolute Cheek Of It!",
@@ -69,16 +79,6 @@
       "views": 8,
       "duration": 31.3,
       "createdAt": "2026-09-11T06:33:57Z"
-    },
-    {
-      "id": "SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
-      "title": "Choppers Hate To See This Guy Coming",
-      "url": "https://www.twitch.tv/itsvdb/clip/SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=SpikyCogentSharkAMPTropPunch-PdhMDSIodZaDVvkG",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e770924-483f-413a-a53b-35602e8925f1/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 54,
-      "duration": 29.9,
-      "createdAt": "2026-09-09T15:20:24Z"
     }
   ]
 }
