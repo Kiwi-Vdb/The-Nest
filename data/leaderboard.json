@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793207035,
+  "generatedAt": 1793207173,
   "totalViewers": 966,
-  "totalShinies": 3700226,
+  "totalShinies": 3701560,
   "pageSize": 100,
   "entries": [
     {
@@ -126,23 +126,23 @@
     },
     {
       "rank": 25,
+      "name": "akiletia",
+      "shinies": 26124
+    },
+    {
+      "rank": 26,
       "name": "kiddorox",
       "shinies": 26008
     },
     {
-      "rank": 26,
+      "rank": 27,
       "name": "jigglyjake22",
       "shinies": 25978
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "tallerofin",
       "shinies": 25892
-    },
-    {
-      "rank": 28,
-      "name": "akiletia",
-      "shinies": 25124
     },
     {
       "rank": 29,
@@ -481,23 +481,23 @@
     },
     {
       "rank": 96,
-      "name": "tarsanon",
+      "name": "sewer_strutt",
       "shinies": 7672
     },
     {
       "rank": 97,
+      "name": "tarsanon",
+      "shinies": 7672
+    },
+    {
+      "rank": 98,
       "name": "markus_franz",
       "shinies": 7668
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "bartender_11",
       "shinies": 7340
-    },
-    {
-      "rank": 99,
-      "name": "sewer_strutt",
-      "shinies": 7338
     },
     {
       "rank": 100,
