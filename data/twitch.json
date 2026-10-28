@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1793204899,
-  "clipsUpdatedAt": 1793199777,
+  "statusUpdatedAt": 1793204929,
+  "clipsUpdatedAt": 1793204916,
   "clips": [
     {
       "id": "HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
       "embedUrl": "https://clips.twitch.tv/embed?clip=HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d6206baf-2511-4373-a315-e870867edc50/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 4,
+      "views": 5,
       "duration": 28.6,
       "createdAt": "2026-10-28T02:52:07Z"
     },
