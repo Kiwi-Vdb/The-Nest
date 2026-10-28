@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1793155343,
-  "rotationGeneratedAt": 1793073058,
-  "nextRotationAt": 1793159458,
+  "generatedAt": 1793188161,
+  "rotationGeneratedAt": 1793188161,
+  "nextRotationAt": 1793274561,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "largest_balance",
+      "category": "collection_champion",
       "group": "viewer",
-      "icon": "✦",
-      "title": "Shiny Hoarder",
-      "copy": "bot_kiwi_birb leads the flock with 256,970 Shinies."
-    },
-    {
-      "category": "biggest_prediction_prize",
-      "group": "event",
-      "icon": "✓",
-      "title": "Biggest Prediction Prize",
-      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
-    },
-    {
-      "category": "community_unlocks",
-      "group": "community",
       "icon": "♛",
-      "title": "Unlock Collection",
-      "copy": "Viewers have collected 104 cosmetics and text effects."
+      "title": "Nest Collector",
+      "copy": "itsvdb owns 36 cosmetics and text effects."
+    },
+    {
+      "category": "busiest_prediction",
+      "group": "event",
+      "icon": "●",
+      "title": "Biggest Prediction",
+      "copy": "12 viewers picked sides on “Who wins 5v5 on Starwatcher?”."
+    },
+    {
+      "category": "community_prediction_entries",
+      "group": "community",
+      "icon": "✓",
+      "title": "Prediction Picks",
+      "copy": "The flock has made 93 prediction picks."
     }
   ]
 }
