@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793196635,
+  "generatedAt": 1793196995,
   "totalViewers": 949,
-  "totalShinies": 3652480,
+  "totalShinies": 3653480,
   "pageSize": 100,
   "entries": [
     {
@@ -271,18 +271,18 @@
     },
     {
       "rank": 54,
+      "name": "hells_hound_",
+      "shinies": 13940
+    },
+    {
+      "rank": 55,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "esebian_",
       "shinies": 13014
-    },
-    {
-      "rank": 56,
-      "name": "hells_hound_",
-      "shinies": 12940
     },
     {
       "rank": 57,
