@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793206411,
+  "generatedAt": 1793206435,
   "totalViewers": 961,
-  "totalShinies": 3693734,
+  "totalShinies": 3694734,
   "pageSize": 100,
   "entries": [
     {
@@ -226,23 +226,23 @@
     },
     {
       "rank": 45,
+      "name": "beginna_",
+      "shinies": 17340
+    },
+    {
+      "rank": 46,
       "name": "imth3apollo",
       "shinies": 17288
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "lordjammacus",
       "shinies": 17206
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "franzdk_",
       "shinies": 16556
-    },
-    {
-      "rank": 48,
-      "name": "beginna_",
-      "shinies": 16340
     },
     {
       "rank": 49,
