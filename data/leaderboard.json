@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793292533,
+  "generatedAt": 1793292773,
   "totalViewers": 971,
-  "totalShinies": 3722478,
+  "totalShinies": 3723478,
   "pageSize": 100,
   "entries": [
     {
@@ -186,18 +186,18 @@
     },
     {
       "rank": 37,
+      "name": "imth3apollo",
+      "shinies": 19772
+    },
+    {
+      "rank": 38,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "pownage227",
       "shinies": 19128
-    },
-    {
-      "rank": 39,
-      "name": "imth3apollo",
-      "shinies": 18772
     },
     {
       "rank": 40,
