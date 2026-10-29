@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793291862,
+  "generatedAt": 1793292075,
   "totalViewers": 967,
-  "totalShinies": 3715834,
+  "totalShinies": 3716802,
   "pageSize": 100,
   "entries": [
     {
@@ -156,18 +156,18 @@
     },
     {
       "rank": 31,
+      "name": "dog1isopen",
+      "shinies": 22762
+    },
+    {
+      "rank": 32,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "axoim_",
       "shinies": 22680
-    },
-    {
-      "rank": 33,
-      "name": "dog1isopen",
-      "shinies": 22278
     },
     {
       "rank": 34,
@@ -421,33 +421,33 @@
     },
     {
       "rank": 84,
-      "name": "jadedkross",
+      "name": "cmdr_zod",
       "shinies": 8574
     },
     {
       "rank": 85,
+      "name": "jadedkross",
+      "shinies": 8574
+    },
+    {
+      "rank": 86,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "sterling_victor5",
       "shinies": 8484
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "hellzi3",
       "shinies": 8376
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "pauperbanaan",
       "shinies": 8272
-    },
-    {
-      "rank": 89,
-      "name": "cmdr_zod",
-      "shinies": 8090
     },
     {
       "rank": 90,
