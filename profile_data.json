@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793377195,
+  "generated_at": 1793377205,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -21299,16 +21299,33 @@
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-orange",
+          "name": "Orange Text",
+          "rarity": "common",
+          "class_name": "text-orange",
+          "equip_command": "!equiptext Orange"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 1,
-      "recent_unlocks": [],
+      "recent_unlocks": [
+        {
+          "name": "Orange Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-orange",
+          "timestamp": 1793377195
+        }
+      ],
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     },
     "slightlyfluffy": {
