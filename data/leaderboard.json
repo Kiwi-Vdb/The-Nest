@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793372241,
+  "generatedAt": 1793372407,
   "totalViewers": 983,
-  "totalShinies": 3755492,
+  "totalShinies": 3757492,
   "pageSize": 100,
   "entries": [
     {
@@ -57,7 +57,7 @@
     {
       "rank": 11,
       "name": "lpalochka",
-      "shinies": 56470
+      "shinies": 57470
     },
     {
       "rank": 12,
@@ -236,28 +236,28 @@
     },
     {
       "rank": 47,
+      "name": "hells_hound_",
+      "shinies": 17274
+    },
+    {
+      "rank": 48,
       "name": "lordjammacus",
       "shinies": 17206
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "franzdk_",
       "shinies": 16556
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "zeeburgapm",
       "shinies": 16328
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "elronoce",
       "shinies": 16304
-    },
-    {
-      "rank": 51,
-      "name": "hells_hound_",
-      "shinies": 16274
     },
     {
       "rank": 52,
