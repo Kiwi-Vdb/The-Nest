@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793373592,
+  "generatedAt": 1793373667,
   "totalViewers": 983,
-  "totalShinies": 3761460,
+  "totalShinies": 3762610,
   "pageSize": 100,
   "entries": [
     {
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "sharpishdog",
-      "shinies": 97658
+      "shinies": 98658
     },
     {
       "rank": 4,
@@ -436,23 +436,23 @@
     },
     {
       "rank": 87,
+      "name": "heavywater00",
+      "shinies": 8524
+    },
+    {
+      "rank": 88,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "sterling_victor5",
       "shinies": 8484
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "hellzi3",
       "shinies": 8376
-    },
-    {
-      "rank": 90,
-      "name": "heavywater00",
-      "shinies": 8374
     },
     {
       "rank": 91,
