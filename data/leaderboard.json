@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793368111,
+  "generatedAt": 1793368183,
   "totalViewers": 979,
-  "totalShinies": 3733914,
+  "totalShinies": 3734582,
   "pageSize": 100,
   "entries": [
     {
@@ -67,7 +67,7 @@
     {
       "rank": 13,
       "name": "blzbrg",
-      "shinies": 48798
+      "shinies": 49132
     },
     {
       "rank": 14,
@@ -341,17 +341,17 @@
     },
     {
       "rank": 68,
+      "name": "skvonchboyz",
+      "shinies": 10338
+    },
+    {
+      "rank": 69,
       "name": "aidannaut",
       "shinies": 10302
     },
     {
-      "rank": 69,
-      "name": "7voodoodragon",
-      "shinies": 10004
-    },
-    {
       "rank": 70,
-      "name": "skvonchboyz",
+      "name": "7voodoodragon",
       "shinies": 10004
     },
     {
