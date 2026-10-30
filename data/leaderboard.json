@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793371169,
+  "generatedAt": 1793371805,
   "totalViewers": 982,
-  "totalShinies": 3751190,
+  "totalShinies": 3752340,
   "pageSize": 100,
   "entries": [
     {
@@ -67,7 +67,7 @@
     {
       "rank": 13,
       "name": "blzbrg",
-      "shinies": 49132
+      "shinies": 50132
     },
     {
       "rank": 14,
@@ -481,23 +481,23 @@
     },
     {
       "rank": 96,
+      "name": "heltoff",
+      "shinies": 7758
+    },
+    {
+      "rank": 97,
       "name": "sewer_strutt",
       "shinies": 7672
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "tarsanon",
       "shinies": 7672
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "markus_franz",
       "shinies": 7668
-    },
-    {
-      "rank": 99,
-      "name": "heltoff",
-      "shinies": 7608
     },
     {
       "rank": 100,
