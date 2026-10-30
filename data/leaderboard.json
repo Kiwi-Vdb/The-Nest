@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793377321,
+  "generatedAt": 1793377741,
   "totalViewers": 985,
-  "totalShinies": 3775536,
+  "totalShinies": 3776536,
   "pageSize": 100,
   "entries": [
     {
@@ -456,58 +456,58 @@
     },
     {
       "rank": 91,
+      "name": "westcanada",
+      "shinies": 8336
+    },
+    {
+      "rank": 92,
       "name": "akkaiiie",
       "shinies": 8004
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "vlunom",
       "shinies": 8004
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "sashkorin",
       "shinies": 7972
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "finstas",
       "shinies": 7820
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "heltoff",
       "shinies": 7758
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "sewer_strutt",
       "shinies": 7672
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "tarsanon",
       "shinies": 7672
     },
     {
-      "rank": 99,
+      "rank": 100,
       "name": "markus_franz",
       "shinies": 7668
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "bartender_11",
       "shinies": 7340
-    },
-    {
-      "rank": 101,
-      "name": "westcanada",
-      "shinies": 7336
     },
     {
       "rank": 102,
