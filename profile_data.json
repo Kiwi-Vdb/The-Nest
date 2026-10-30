@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793377108,
+  "generated_at": 1793377115,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -11355,6 +11355,12 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:eyes:pixel-eyepatch",
+          "name": "Eyepatch",
+          "category": "Kiwi Eyes",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:body:pixel-blue-hoodie",
           "name": "Blue Hoodie",
           "category": "Kiwi Body",
@@ -11584,7 +11590,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 11,
+        "cosmetics_unlocked": 12,
         "cosmetics_available": 41,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
