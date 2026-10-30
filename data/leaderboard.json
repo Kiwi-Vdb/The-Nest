@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793377144,
+  "generatedAt": 1793377195,
   "totalViewers": 984,
-  "totalShinies": 3775868,
+  "totalShinies": 3773868,
   "pageSize": 100,
   "entries": [
     {
@@ -101,28 +101,28 @@
     },
     {
       "rank": 20,
-      "name": "slicklikevik",
-      "shinies": 29878
-    },
-    {
-      "rank": 21,
       "name": "mesaber",
       "shinies": 29474
     },
     {
-      "rank": 22,
+      "rank": 21,
       "name": "ilotusuk",
       "shinies": 29454
     },
     {
-      "rank": 23,
+      "rank": 22,
       "name": "muhmonkey",
       "shinies": 29342
     },
     {
-      "rank": 24,
+      "rank": 23,
       "name": "deverhr",
       "shinies": 28446
+    },
+    {
+      "rank": 24,
+      "name": "slicklikevik",
+      "shinies": 27878
     },
     {
       "rank": 25,

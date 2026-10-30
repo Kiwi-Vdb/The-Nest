@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793377144,
+  "generated_at": 1793377195,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -21290,7 +21290,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 29878,
+        "balance": 27878,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -21301,7 +21301,7 @@
       "cosmetics_unlocked": [],
       "text_effects_unlocked": [],
       "current_text_effect": null,
-      "loot_boxes_opened": 0,
+      "loot_boxes_opened": 1,
       "recent_unlocks": [],
       "totals": {
         "cosmetics_unlocked": 0,
