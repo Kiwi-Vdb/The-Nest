@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793380457,
+  "generatedAt": 1793380498,
   "totalViewers": 999,
-  "totalShinies": 3798464,
+  "totalShinies": 3798948,
   "pageSize": 100,
   "entries": [
     {
@@ -521,23 +521,23 @@
     },
     {
       "rank": 104,
+      "name": "hamoodlovespoop",
+      "shinies": 7276
+    },
+    {
+      "rank": 105,
       "name": "chrisgw",
       "shinies": 7156
     },
     {
-      "rank": 105,
+      "rank": 106,
       "name": "kirinokirino",
       "shinies": 7136
     },
     {
-      "rank": 106,
+      "rank": 107,
       "name": "florio_bar",
       "shinies": 6936
-    },
-    {
-      "rank": 107,
-      "name": "hamoodlovespoop",
-      "shinies": 6792
     },
     {
       "rank": 108,
