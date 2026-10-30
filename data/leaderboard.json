@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793368262,
+  "generatedAt": 1793368319,
   "totalViewers": 979,
-  "totalShinies": 3735582,
+  "totalShinies": 3735916,
   "pageSize": 100,
   "entries": [
     {
@@ -386,23 +386,23 @@
     },
     {
       "rank": 77,
+      "name": "nightfalldeceit",
+      "shinies": 9424
+    },
+    {
+      "rank": 78,
       "name": "swallowbug11",
       "shinies": 9338
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "ruphin",
       "shinies": 9304
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "liarturil",
       "shinies": 9156
-    },
-    {
-      "rank": 80,
-      "name": "nightfalldeceit",
-      "shinies": 9090
     },
     {
       "rank": 81,
