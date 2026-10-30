@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793377079,
+  "generated_at": 1793377108,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -11297,7 +11297,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 83800,
+        "balance": 81800,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -11556,8 +11556,16 @@
         "rarity": "epic",
         "class_name": "text-plasma-pulse"
       },
-      "loot_boxes_opened": 40,
+      "loot_boxes_opened": 41,
       "recent_unlocks": [
+        {
+          "name": "Eyepatch",
+          "category": "Kiwi Eyes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793377107
+        },
         {
           "name": "Santa Beard",
           "category": "Kiwi Hat",
@@ -11573,14 +11581,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787481736
-        },
-        {
-          "name": "Blue Sneakers",
-          "category": "Kiwi Boots / Shoes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787389970
         }
       ],
       "totals": {

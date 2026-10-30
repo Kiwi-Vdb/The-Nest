@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793377079,
+  "generatedAt": 1793377108,
   "count": 50,
   "activities": [
+    {
+      "id": "c6bbb3f03230fbe3",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Eyepatch",
+      "timestamp": 1793377107,
+      "rarity": "common",
+      "category": "Kiwi Eyes",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "e4518503ca3bf08d",
       "type": "unlock",
@@ -490,16 +500,6 @@
       "timestamp": 1787161254,
       "rarity": "epic",
       "category": "Kiwi Hand",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "c06c26908ff7f17a",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Space Helmet",
-      "timestamp": 1787161253,
-      "rarity": "legendary",
-      "category": "Kiwi Full Head",
       "rewardType": "cosmetic"
     }
   ]

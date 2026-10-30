@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1793377079,
+  "generatedAt": 1793377108,
   "rotationGeneratedAt": 1793367998,
   "nextRotationAt": 1793454398,
   "rotationHours": 24,
@@ -10,14 +10,14 @@
       "group": "viewer",
       "icon": "◇",
       "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 40 loot boxes."
+      "copy": "itsvdb has opened 41 loot boxes."
     },
     {
       "category": "latest_unlock",
       "group": "event",
       "icon": "✧",
       "title": "Fresh Unlock",
-      "copy": "simplygraceful_ unlocked Santa Hat (Common)."
+      "copy": "itsvdb unlocked Eyepatch (Common)."
     },
     {
       "category": "community_prediction_entries",
