@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793380630,
+  "generatedAt": 1793381145,
   "totalViewers": 999,
-  "totalShinies": 3798782,
+  "totalShinies": 3799116,
   "pageSize": 100,
   "entries": [
     {
@@ -461,38 +461,38 @@
     },
     {
       "rank": 92,
+      "name": "sewer_strutt",
+      "shinies": 8006
+    },
+    {
+      "rank": 93,
       "name": "akkaiiie",
       "shinies": 8004
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "vlunom",
       "shinies": 8004
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "zhadeoak",
       "shinies": 8002
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "sashkorin",
       "shinies": 7972
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "finstas",
       "shinies": 7820
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "heltoff",
       "shinies": 7758
-    },
-    {
-      "rank": 98,
-      "name": "sewer_strutt",
-      "shinies": 7672
     },
     {
       "rank": 99,
