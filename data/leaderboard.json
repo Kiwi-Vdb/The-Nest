@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793453729,
+  "generatedAt": 1793453799,
   "totalViewers": 1040,
-  "totalShinies": 3922138,
+  "totalShinies": 3922288,
   "pageSize": 100,
   "entries": [
     {
@@ -1096,18 +1096,18 @@
     },
     {
       "rank": 219,
+      "name": "eunice1000",
+      "shinies": 3302
+    },
+    {
+      "rank": 220,
       "name": "tempest9867",
       "shinies": 3270
     },
     {
-      "rank": 220,
+      "rank": 221,
       "name": "refusetolearn",
       "shinies": 3154
-    },
-    {
-      "rank": 221,
-      "name": "eunice1000",
-      "shinies": 3152
     },
     {
       "rank": 222,
