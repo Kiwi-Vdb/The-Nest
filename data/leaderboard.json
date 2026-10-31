@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793478483,
+  "generatedAt": 1793478507,
   "totalViewers": 1045,
-  "totalShinies": 3974512,
+  "totalShinies": 3974846,
   "pageSize": 100,
   "entries": [
     {
@@ -536,23 +536,23 @@
     },
     {
       "rank": 107,
+      "name": "revanxfl",
+      "shinies": 7638
+    },
+    {
+      "rank": 108,
       "name": "dzikimg",
       "shinies": 7486
     },
     {
-      "rank": 108,
+      "rank": 109,
       "name": "oumuamua_i1",
       "shinies": 7454
     },
     {
-      "rank": 109,
+      "rank": 110,
       "name": "kingbenjai21",
       "shinies": 7336
-    },
-    {
-      "rank": 110,
-      "name": "revanxfl",
-      "shinies": 7304
     },
     {
       "rank": 111,
