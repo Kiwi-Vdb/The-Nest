@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793453575,
+  "generatedAt": 1793453644,
   "totalViewers": 1040,
-  "totalShinies": 3920654,
+  "totalShinies": 3921138,
   "pageSize": 100,
   "entries": [
     {
@@ -357,7 +357,7 @@
     {
       "rank": 71,
       "name": "pauperbanaan",
-      "shinies": 10090
+      "shinies": 10240
     },
     {
       "rank": 72,
@@ -531,18 +531,18 @@
     },
     {
       "rank": 106,
+      "name": "the_electron97",
+      "shinies": 7604
+    },
+    {
+      "rank": 107,
       "name": "oumuamua_i1",
       "shinies": 7454
     },
     {
-      "rank": 107,
+      "rank": 108,
       "name": "revanxfl",
       "shinies": 7304
-    },
-    {
-      "rank": 108,
-      "name": "the_electron97",
-      "shinies": 7270
     },
     {
       "rank": 109,
