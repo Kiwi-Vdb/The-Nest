@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793457860,
+  "generated_at": 1793458013,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -24615,7 +24615,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 8754,
+        "balance": 6754,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -24623,17 +24623,33 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:eyes:pixel-amber-irises",
+          "name": "Amber Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
-      "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Amber Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793458003
+        }
+      ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 41,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     },
     "the_joker1337": {
