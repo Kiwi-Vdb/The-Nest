@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793479691,
+  "generatedAt": 1793480487,
   "totalViewers": 1046,
-  "totalShinies": 3979148,
+  "totalShinies": 3979298,
   "pageSize": 100,
   "entries": [
     {
@@ -426,23 +426,23 @@
     },
     {
       "rank": 85,
+      "name": "heavywater00",
+      "shinies": 9008
+    },
+    {
+      "rank": 86,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "toszii",
       "shinies": 8972
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "cmdr_zod",
       "shinies": 8908
-    },
-    {
-      "rank": 88,
-      "name": "heavywater00",
-      "shinies": 8858
     },
     {
       "rank": 89,
