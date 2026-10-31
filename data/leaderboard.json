@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793450637,
+  "generatedAt": 1793450760,
   "totalViewers": 1036,
-  "totalShinies": 3883830,
+  "totalShinies": 3884164,
   "pageSize": 100,
   "entries": [
     {
@@ -426,43 +426,43 @@
     },
     {
       "rank": 85,
+      "name": "westcanada",
+      "shinies": 8670
+    },
+    {
+      "rank": 86,
       "name": "simplygraceful_",
       "shinies": 8588
     },
     {
-      "rank": 86,
+      "rank": 87,
       "name": "jadedkross",
       "shinies": 8574
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "heavywater00",
       "shinies": 8524
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "sterling_victor5",
       "shinies": 8484
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "kirinokirino",
       "shinies": 8470
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "hellzi3",
       "shinies": 8376
-    },
-    {
-      "rank": 92,
-      "name": "westcanada",
-      "shinies": 8336
     },
     {
       "rank": 93,
