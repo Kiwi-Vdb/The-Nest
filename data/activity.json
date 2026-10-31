@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793458471,
+  "generatedAt": 1793458678,
   "count": 50,
   "activities": [
+    {
+      "id": "6ace733cc7748552",
+      "type": "unlock",
+      "who": "the_electron97",
+      "text": "unlocked Blue Beanie",
+      "timestamp": 1793458668,
+      "rarity": "common",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "029e8a4754ce35f1",
       "type": "unlock",
@@ -490,16 +500,6 @@
       "timestamp": 1787364424,
       "rarity": "rare",
       "category": "Kiwi Wings / Held Objects",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "6d76ca32466330ea",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Red Gumboots",
-      "timestamp": 1787364329,
-      "rarity": "common",
-      "category": "Kiwi Boots / Shoes",
       "rewardType": "cosmetic"
     }
   ]

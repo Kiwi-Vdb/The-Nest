@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1793458471,
+  "generatedAt": 1793458678,
   "rotationGeneratedAt": 1793454426,
   "nextRotationAt": 1793540826,
   "rotationHours": 24,
@@ -24,7 +24,7 @@
       "group": "community",
       "icon": "◇",
       "title": "Boxes Opened",
-      "copy": "The community has opened 100 loot boxes."
+      "copy": "The community has opened 101 loot boxes."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793458471,
+  "generated_at": 1793458678,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -24615,7 +24615,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 6754,
+        "balance": 4754,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -24629,12 +24629,26 @@
           "name": "Amber Irises",
           "category": "Kiwi Eye Colour",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-blue-beanie",
+          "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
-      "loot_boxes_opened": 1,
+      "loot_boxes_opened": 2,
       "recent_unlocks": [
+        {
+          "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793458668
+        },
         {
           "name": "Amber Irises",
           "category": "Kiwi Eye Colour",
@@ -24645,11 +24659,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 41,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 1
+        "recent_unlocks": 2
       }
     },
     "the_joker1337": {
