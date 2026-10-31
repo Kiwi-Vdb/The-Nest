@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793459331,
+  "generated_at": 1793459343,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -24635,12 +24635,26 @@
           "name": "Blue Beanie",
           "category": "Kiwi Hat",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-blue-sneakers",
+          "name": "Blue Sneakers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
-      "loot_boxes_opened": 2,
+      "loot_boxes_opened": 3,
       "recent_unlocks": [
+        {
+          "name": "Blue Sneakers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793459333
+        },
         {
           "name": "Blue Beanie",
           "category": "Kiwi Hat",
@@ -24659,11 +24673,11 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 41,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 2
+        "recent_unlocks": 3
       }
     },
     "the_joker1337": {

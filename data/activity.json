@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793459331,
+  "generatedAt": 1793459343,
   "count": 50,
   "activities": [
+    {
+      "id": "821eab5b04628819",
+      "type": "unlock",
+      "who": "the_electron97",
+      "text": "unlocked Blue Sneakers",
+      "timestamp": 1793459333,
+      "rarity": "common",
+      "category": "Kiwi Boots / Shoes",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "6ace733cc7748552",
       "type": "unlock",
@@ -490,16 +500,6 @@
       "timestamp": 1787364425,
       "rarity": "legendary",
       "category": "Kiwi Full Head",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "e193725b1b1b90d9",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Simple Sword",
-      "timestamp": 1787364424,
-      "rarity": "rare",
-      "category": "Kiwi Wings / Held Objects",
       "rewardType": "cosmetic"
     }
   ]
