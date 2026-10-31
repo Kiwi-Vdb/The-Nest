@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793474642,
+  "generatedAt": 1793474910,
   "totalViewers": 1045,
-  "totalShinies": 3969356,
+  "totalShinies": 3969690,
   "pageSize": 100,
   "entries": [
     {
@@ -161,18 +161,18 @@
     },
     {
       "rank": 32,
+      "name": "halfyourlife",
+      "shinies": 22774
+    },
+    {
+      "rank": 33,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "axoim_",
       "shinies": 22680
-    },
-    {
-      "rank": 34,
-      "name": "halfyourlife",
-      "shinies": 22440
     },
     {
       "rank": 35,
