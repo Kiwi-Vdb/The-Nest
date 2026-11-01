@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793556940,
+  "generatedAt": 1793557077,
   "totalViewers": 1077,
-  "totalShinies": 4081446,
+  "totalShinies": 4081930,
   "pageSize": 100,
   "entries": [
     {
@@ -151,18 +151,18 @@
     },
     {
       "rank": 30,
+      "name": "halfyourlife",
+      "shinies": 23592
+    },
+    {
+      "rank": 31,
       "name": "ibonbe",
       "shinies": 23340
     },
     {
-      "rank": 31,
+      "rank": 32,
       "name": "dog1isopen",
       "shinies": 23246
-    },
-    {
-      "rank": 32,
-      "name": "halfyourlife",
-      "shinies": 23108
     },
     {
       "rank": 33,
