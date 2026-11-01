@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1793523727,
+  "generatedAt": 1793523947,
   "count": 50,
   "activities": [
+    {
+      "id": "933387f71141f42b",
+      "type": "prediction",
+      "who": "sharpishdog",
+      "text": "won 2,000 Shinies in a prediction: Will VDB win?",
+      "timestamp": 1793523946,
+      "amount": 2000
+    },
     {
       "id": "12501a6da4b5b959",
       "type": "unlock",
@@ -490,16 +498,6 @@
       "timestamp": 1787482077,
       "rarity": "uncommon",
       "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "5af6c43e45f5e879",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Coffee Mug",
-      "timestamp": 1787482015,
-      "rarity": "common",
-      "category": "Kiwi Wings / Held Objects",
       "rewardType": "cosmetic"
     }
   ]
