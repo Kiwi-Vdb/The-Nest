@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793550184,
+  "generatedAt": 1793550211,
   "totalViewers": 1057,
-  "totalShinies": 4031436,
+  "totalShinies": 4032254,
   "pageSize": 100,
   "entries": [
     {
@@ -71,13 +71,13 @@
     },
     {
       "rank": 14,
-      "name": "watchbehinddude",
-      "shinies": 42668
+      "name": "hobbitsenlive",
+      "shinies": 42680
     },
     {
       "rank": 15,
-      "name": "hobbitsenlive",
-      "shinies": 42346
+      "name": "watchbehinddude",
+      "shinies": 42668
     },
     {
       "rank": 16,
@@ -331,18 +331,18 @@
     },
     {
       "rank": 66,
+      "name": "hellzi3",
+      "shinies": 11678
+    },
+    {
+      "rank": 67,
       "name": "kirinokirino",
       "shinies": 11588
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "pauperbanaan",
       "shinies": 11240
-    },
-    {
-      "rank": 68,
-      "name": "hellzi3",
-      "shinies": 11194
     },
     {
       "rank": 69,
