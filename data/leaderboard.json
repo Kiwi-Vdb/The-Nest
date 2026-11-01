@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793521590,
+  "generatedAt": 1793521614,
   "totalViewers": 1050,
-  "totalShinies": 3979410,
+  "totalShinies": 3966410,
   "pageSize": 100,
   "entries": [
     {
@@ -26,28 +26,28 @@
     },
     {
       "rank": 5,
-      "name": "bar_outofmana",
-      "shinies": 86212
-    },
-    {
-      "rank": 6,
       "name": "itsvdb",
       "shinies": 80300
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "timmytwoshots",
       "shinies": 79654
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "stuart_williamson",
       "shinies": 74664
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "betterstrategy",
       "shinies": 74272
+    },
+    {
+      "rank": 9,
+      "name": "bar_outofmana",
+      "shinies": 73212
     },
     {
       "rank": 10,

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793521590,
+  "generated_at": 1793521614,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -2482,7 +2482,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 86212,
+        "balance": 73212,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -2492,10 +2492,22 @@
       },
       "cosmetics_unlocked": [
         {
+          "id": "kiwi:head:pixel-space-helmet",
+          "name": "Detailed Space Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "legendary"
+        },
+        {
           "id": "kiwi:eyes:pixel-blue-irises",
           "name": "Blue Irises",
           "category": "Kiwi Eye Colour",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:wings:pixel-simple-sword",
+          "name": "Simple Sword",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "rare"
         },
         {
           "id": "kiwi:wings:pixel-wooden-shield",
@@ -2509,36 +2521,36 @@
       "loot_boxes_opened": 0,
       "recent_unlocks": [
         {
+          "name": "Detailed Space Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "legendary",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521612
+        },
+        {
+          "name": "Simple Sword",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521608
+        },
+        {
           "name": "Blue Irises",
           "category": "Kiwi Eye Colour",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1793521588
-        },
-        {
-          "name": "Wooden Shield",
-          "category": "Kiwi Wings / Held Objects",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1793521584
-        },
-        {
-          "name": "Bday Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394879
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 2,
+        "cosmetics_unlocked": 4,
         "cosmetics_available": 41,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 4
+        "recent_unlocks": 6
       }
     },
     "barbariclime": {

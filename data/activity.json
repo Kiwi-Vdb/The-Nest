@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1793521590,
+  "generatedAt": 1793521614,
   "count": 50,
   "activities": [
+    {
+      "id": "12501a6da4b5b959",
+      "type": "unlock",
+      "who": "bar_outofmana",
+      "text": "unlocked Detailed Space Helmet",
+      "timestamp": 1793521612,
+      "rarity": "legendary",
+      "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
+    {
+      "id": "0c588ebe8ff214f8",
+      "type": "unlock",
+      "who": "bar_outofmana",
+      "text": "unlocked Simple Sword",
+      "timestamp": 1793521608,
+      "rarity": "rare",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "56e0bbe3e8475dd6",
       "type": "unlock",
@@ -480,26 +500,6 @@
       "timestamp": 1787482015,
       "rarity": "common",
       "category": "Kiwi Wings / Held Objects",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "439312c4bc4d6e41",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Knight Helmet",
-      "timestamp": 1787481736,
-      "rarity": "rare",
-      "category": "Kiwi Full Head",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "27158028e9107ab4",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Ruby Irises",
-      "timestamp": 1787481733,
-      "rarity": "rare",
-      "category": "Kiwi Eye Colour",
       "rewardType": "cosmetic"
     }
   ]
