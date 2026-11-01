@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1793533553,
+  "generatedAt": 1793533730,
   "totalViewers": 1053,
-  "totalShinies": 3991550,
+  "totalShinies": 3994550,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 281642
+      "shinies": 282642
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "sharpishdog",
-      "shinies": 98560
+      "shinies": 99560
     },
     {
       "rank": 4,
@@ -36,18 +36,18 @@
     },
     {
       "rank": 7,
+      "name": "bar_outofmana",
+      "shinies": 75096
+    },
+    {
+      "rank": 8,
       "name": "stuart_williamson",
       "shinies": 74664
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "betterstrategy",
       "shinies": 74272
-    },
-    {
-      "rank": 9,
-      "name": "bar_outofmana",
-      "shinies": 74096
     },
     {
       "rank": 10,
