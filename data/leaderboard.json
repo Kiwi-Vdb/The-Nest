@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793521414,
+  "generatedAt": 1793521436,
   "totalViewers": 1049,
-  "totalShinies": 3982342,
+  "totalShinies": 3982676,
   "pageSize": 100,
   "entries": [
     {
@@ -121,18 +121,18 @@
     },
     {
       "rank": 24,
+      "name": "jigglyjake22",
+      "shinies": 27980
+    },
+    {
+      "rank": 25,
       "name": "slicklikevik",
       "shinies": 27878
     },
     {
-      "rank": 25,
+      "rank": 26,
       "name": "akiletia",
       "shinies": 27792
-    },
-    {
-      "rank": 26,
-      "name": "jigglyjake22",
-      "shinies": 27646
     },
     {
       "rank": 27,
