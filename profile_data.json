@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793521254,
+  "generated_at": 1793521414,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -22327,7 +22327,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 100626,
+        "balance": 95426,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -22336,6 +22336,18 @@
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [
+        {
+          "id": "kiwi:hat:pixel-cowboy",
+          "name": "Cowboy Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
+        },
+        {
+          "id": "kiwi:body:pixel-yellow-raincoat",
+          "name": "Yellow Raincoat",
+          "category": "Kiwi Body",
+          "rarity": "common"
+        },
         {
           "id": "kiwi:beak:pixel-duck",
           "name": "Duck Bill",
@@ -22368,36 +22380,36 @@
       "loot_boxes_opened": 5,
       "recent_unlocks": [
         {
+          "name": "Cowboy Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521412
+        },
+        {
+          "name": "Yellow Raincoat",
+          "category": "Kiwi Body",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521395
+        },
+        {
           "name": "Duck Bill",
           "category": "Kiwi Beak",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1793521012
-        },
-        {
-          "name": "Party Hat Angle",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394864
-        },
-        {
-          "name": "Bday Hat",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394858
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 1,
+        "cosmetics_unlocked": 3,
         "cosmetics_available": 41,
         "text_effects_unlocked": 2,
         "text_effects_available": 25,
-        "recent_unlocks": 8
+        "recent_unlocks": 10
       }
     },
     "shaydian_": {
