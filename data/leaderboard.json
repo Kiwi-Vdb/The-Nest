@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793557187,
+  "generatedAt": 1793557311,
   "totalViewers": 1077,
-  "totalShinies": 4082080,
+  "totalShinies": 4082414,
   "pageSize": 100,
   "entries": [
     {
@@ -406,28 +406,28 @@
     },
     {
       "rank": 81,
+      "name": "nightfalldeceit",
+      "shinies": 9758
+    },
+    {
+      "rank": 82,
       "name": "bartender_11",
       "shinies": 9676
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "rikkler",
       "shinies": 9670
     },
     {
-      "rank": 83,
+      "rank": 84,
       "name": "liarturil",
       "shinies": 9490
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "jimmy_norris",
       "shinies": 9486
-    },
-    {
-      "rank": 85,
-      "name": "nightfalldeceit",
-      "shinies": 9424
     },
     {
       "rank": 86,
