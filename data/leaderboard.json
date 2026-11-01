@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793534336,
+  "generatedAt": 1793534880,
   "totalViewers": 1054,
-  "totalShinies": 3996218,
+  "totalShinies": 3996552,
   "pageSize": 100,
   "entries": [
     {
@@ -331,18 +331,18 @@
     },
     {
       "rank": 66,
+      "name": "kirinokirino",
+      "shinies": 11438
+    },
+    {
+      "rank": 67,
       "name": "pauperbanaan",
       "shinies": 11240
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "hellzi3",
       "shinies": 11194
-    },
-    {
-      "rank": 68,
-      "name": "kirinokirino",
-      "shinies": 11104
     },
     {
       "rank": 69,
