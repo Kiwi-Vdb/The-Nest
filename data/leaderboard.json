@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1793529724,
+  "generatedAt": 1793530135,
   "totalViewers": 1051,
-  "totalShinies": 3985940,
+  "totalShinies": 3987944,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 281308
+      "shinies": 281642
     },
     {
       "rank": 2,
@@ -17,12 +17,12 @@
     {
       "rank": 3,
       "name": "sharpishdog",
-      "shinies": 98226
+      "shinies": 98560
     },
     {
       "rank": 4,
       "name": "hunbleeone",
-      "shinies": 93719
+      "shinies": 94053
     },
     {
       "rank": 5,
@@ -47,7 +47,7 @@
     {
       "rank": 9,
       "name": "bar_outofmana",
-      "shinies": 73612
+      "shinies": 73946
     },
     {
       "rank": 10,
@@ -182,7 +182,7 @@
     {
       "rank": 36,
       "name": "sasadal",
-      "shinies": 20794
+      "shinies": 21128
     },
     {
       "rank": 37,
@@ -336,18 +336,18 @@
     },
     {
       "rank": 67,
+      "name": "hellzi3",
+      "shinies": 11194
+    },
+    {
+      "rank": 68,
       "name": "kirinokirino",
       "shinies": 11104
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "literallylilacc",
       "shinies": 11020
-    },
-    {
-      "rank": 69,
-      "name": "hellzi3",
-      "shinies": 10860
     },
     {
       "rank": 70,
