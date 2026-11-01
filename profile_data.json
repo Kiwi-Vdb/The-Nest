@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793521455,
+  "generated_at": 1793521590,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -2482,7 +2482,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 88612,
+        "balance": 86212,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -2490,11 +2490,40 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:eyes:pixel-blue-irises",
+          "name": "Blue Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:wings:pixel-wooden-shield",
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common"
+        }
+      ],
       "text_effects_unlocked": [],
       "current_text_effect": null,
       "loot_boxes_opened": 0,
       "recent_unlocks": [
+        {
+          "name": "Blue Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521588
+        },
+        {
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521584
+        },
         {
           "name": "Bday Hat",
           "category": "Hat",
@@ -2502,22 +2531,14 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1784394879
-        },
-        {
-          "name": "Party Hat Angle",
-          "category": "Hat",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1784394877
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 2,
         "cosmetics_available": 41,
         "text_effects_unlocked": 0,
         "text_effects_available": 25,
-        "recent_unlocks": 2
+        "recent_unlocks": 4
       }
     },
     "barbariclime": {
@@ -14280,6 +14301,32 @@
         "available": true,
         "label": "Shinies",
         "balance": 1002,
+        "message": "Kiwi Birb-owned viewer currency."
+      },
+      "metal": {
+        "available": false,
+        "label": "Metal",
+        "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
+      },
+      "cosmetics_unlocked": [],
+      "text_effects_unlocked": [],
+      "current_text_effect": null,
+      "loot_boxes_opened": 0,
+      "recent_unlocks": [],
+      "totals": {
+        "cosmetics_unlocked": 0,
+        "cosmetics_available": 41,
+        "text_effects_unlocked": 0,
+        "text_effects_available": 25,
+        "recent_unlocks": 0
+      }
+    },
+    "ktghz51": {
+      "username": "ktghz51",
+      "shinies": {
+        "available": true,
+        "label": "Shinies",
+        "balance": 334,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
