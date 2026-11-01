@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793527418,
+  "generatedAt": 1793527555,
   "totalViewers": 1050,
-  "totalShinies": 3980604,
+  "totalShinies": 3980938,
   "pageSize": 100,
   "entries": [
     {
@@ -696,57 +696,57 @@
     },
     {
       "rank": 139,
+      "name": "mocrami",
+      "shinies": 5638
+    },
+    {
+      "rank": 140,
       "name": "kotaotake",
       "shinies": 5620
     },
     {
-      "rank": 140,
+      "rank": 141,
       "name": "baas_h",
       "shinies": 5574
     },
     {
-      "rank": 141,
+      "rank": 142,
       "name": "akumar67",
       "shinies": 5572
     },
     {
-      "rank": 142,
+      "rank": 143,
       "name": "thechronographer",
       "shinies": 5486
     },
     {
-      "rank": 143,
+      "rank": 144,
       "name": "chickenman6712",
       "shinies": 5422
     },
     {
-      "rank": 144,
+      "rank": 145,
       "name": "ozyais",
       "shinies": 5340
     },
     {
-      "rank": 145,
+      "rank": 146,
       "name": "statesector",
       "shinies": 5338
     },
     {
-      "rank": 146,
+      "rank": 147,
       "name": "blodir",
       "shinies": 5336
     },
     {
-      "rank": 147,
+      "rank": 148,
       "name": "autopilot1337",
       "shinies": 5308
     },
     {
-      "rank": 148,
-      "name": "maratus0612",
-      "shinies": 5304
-    },
-    {
       "rank": 149,
-      "name": "mocrami",
+      "name": "maratus0612",
       "shinies": 5304
     },
     {
