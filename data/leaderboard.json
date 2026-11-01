@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1793540804,
+  "generatedAt": 1793541006,
   "totalViewers": 1055,
-  "totalShinies": 4013530,
+  "totalShinies": 4016014,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 283642
+      "shinies": 284642
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "sharpishdog",
-      "shinies": 100710
+      "shinies": 101710
     },
     {
       "rank": 4,
@@ -566,28 +566,28 @@
     },
     {
       "rank": 113,
+      "name": "iyc2",
+      "shinies": 7208
+    },
+    {
+      "rank": 114,
       "name": "chrisgw",
       "shinies": 7156
     },
     {
-      "rank": 114,
+      "rank": 115,
       "name": "evil_potato__",
       "shinies": 7056
     },
     {
-      "rank": 115,
+      "rank": 116,
       "name": "ruwetuin",
       "shinies": 7006
     },
     {
-      "rank": 116,
+      "rank": 117,
       "name": "kazmazel",
       "shinies": 7002
-    },
-    {
-      "rank": 117,
-      "name": "iyc2",
-      "shinies": 6724
     },
     {
       "rank": 118,
