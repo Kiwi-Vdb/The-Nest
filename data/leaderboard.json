@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793553827,
+  "generatedAt": 1793553939,
   "totalViewers": 1070,
-  "totalShinies": 4054174,
+  "totalShinies": 4054008,
   "pageSize": 100,
   "entries": [
     {
@@ -107,7 +107,7 @@
     {
       "rank": 21,
       "name": "muhmonkey",
-      "shinies": 30344
+      "shinies": 30678
     },
     {
       "rank": 22,
@@ -356,43 +356,43 @@
     },
     {
       "rank": 71,
-      "name": "goliathmaroof",
-      "shinies": 10410
-    },
-    {
-      "rank": 72,
       "name": "skvonchboyz",
       "shinies": 10338
     },
     {
-      "rank": 73,
+      "rank": 72,
       "name": "bizzyrex",
       "shinies": 10305
     },
     {
-      "rank": 74,
+      "rank": 73,
       "name": "aidannaut",
       "shinies": 10302
     },
     {
-      "rank": 75,
+      "rank": 74,
       "name": "florio_bar",
       "shinies": 10270
     },
     {
-      "rank": 76,
+      "rank": 75,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 77,
+      "rank": 76,
       "name": "westcanada",
       "shinies": 10004
     },
     {
-      "rank": 78,
+      "rank": 77,
       "name": "ruphin",
       "shinies": 9972
+    },
+    {
+      "rank": 78,
+      "name": "goliathmaroof",
+      "shinies": 9910
     },
     {
       "rank": 79,
