@@ -1,7 +1,27 @@
 {
-  "generatedAt": 1793521012,
+  "generatedAt": 1793521056,
   "count": 50,
   "activities": [
+    {
+      "id": "beae42bed3ce0e9a",
+      "type": "unlock",
+      "who": "hellzi3",
+      "text": "unlocked Glitch Sweep Text",
+      "timestamp": 1793521056,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
+    {
+      "id": "4cb1369431d8a9dd",
+      "type": "unlock",
+      "who": "hellzi3",
+      "text": "unlocked Cowboy Hat",
+      "timestamp": 1793521043,
+      "rarity": "rare",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "2088c0ac5c5f961b",
       "type": "unlock",
@@ -480,26 +500,6 @@
       "timestamp": 1787389967,
       "rarity": "common",
       "category": "Kiwi Body",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "998a22a1ea28311b",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Blue Beanie",
-      "timestamp": 1787389965,
-      "rarity": "common",
-      "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "21c9a6289c59b713",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Amber Irises",
-      "timestamp": 1787389964,
-      "rarity": "common",
-      "category": "Kiwi Eye Colour",
       "rewardType": "cosmetic"
     }
   ]

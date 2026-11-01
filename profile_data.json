@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793521012,
+  "generated_at": 1793521056,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -10437,17 +10437,49 @@
         "label": "Metal",
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
-      "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "cosmetics_unlocked": [
+        {
+          "id": "kiwi:hat:pixel-cowboy",
+          "name": "Cowboy Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare"
+        }
+      ],
+      "text_effects_unlocked": [
+        {
+          "id": "text-glitch-sweep",
+          "name": "Glitch Sweep Text",
+          "rarity": "legendary",
+          "class_name": "text-glitch-sweep",
+          "equip_command": "!equiptext Glitch Sweep"
+        }
+      ],
       "current_text_effect": null,
       "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "recent_unlocks": [
+        {
+          "name": "Glitch Sweep Text",
+          "category": "Text Effect",
+          "rarity": "legendary",
+          "type": "text_effect",
+          "text_effect": "text-glitch-sweep",
+          "timestamp": 1793521056
+        },
+        {
+          "name": "Cowboy Hat",
+          "category": "Kiwi Hat",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793521043
+        }
+      ],
       "totals": {
-        "cosmetics_unlocked": 0,
+        "cosmetics_unlocked": 1,
         "cosmetics_available": 41,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 0
+        "recent_unlocks": 2
       }
     },
     "helmetbird": {
