@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793539549,
+  "generatedAt": 1793539831,
   "totalViewers": 1054,
-  "totalShinies": 4011860,
+  "totalShinies": 4012194,
   "pageSize": 100,
   "entries": [
     {
@@ -386,27 +386,27 @@
     },
     {
       "rank": 77,
+      "name": "westcanada",
+      "shinies": 10004
+    },
+    {
+      "rank": 78,
       "name": "ruphin",
       "shinies": 9972
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "lelalolul",
       "shinies": 9836
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 80,
-      "name": "rikkler",
-      "shinies": 9670
-    },
-    {
       "rank": 81,
-      "name": "westcanada",
+      "name": "rikkler",
       "shinies": 9670
     },
     {
