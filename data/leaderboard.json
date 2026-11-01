@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793536846,
+  "generatedAt": 1793537154,
   "totalViewers": 1054,
-  "totalShinies": 4000038,
+  "totalShinies": 4000372,
   "pageSize": 100,
   "entries": [
     {
@@ -366,28 +366,28 @@
     },
     {
       "rank": 73,
+      "name": "bizzyrex",
+      "shinies": 10305
+    },
+    {
+      "rank": 74,
       "name": "aidannaut",
       "shinies": 10302
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "florio_bar",
       "shinies": 10270
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 76,
+      "rank": 77,
       "name": "ruphin",
       "shinies": 9972
-    },
-    {
-      "rank": 77,
-      "name": "bizzyrex",
-      "shinies": 9971
     },
     {
       "rank": 78,
