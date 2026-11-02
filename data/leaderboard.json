@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793641987,
+  "generatedAt": 1793642305,
   "totalViewers": 1078,
-  "totalShinies": 4091902,
+  "totalShinies": 4092236,
   "pageSize": 100,
   "entries": [
     {
@@ -321,23 +321,23 @@
     },
     {
       "rank": 64,
+      "name": "kirinokirino",
+      "shinies": 11922
+    },
+    {
+      "rank": 65,
       "name": "snoopa_aoe",
       "shinies": 11906
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "blopson",
       "shinies": 11692
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "hellzi3",
       "shinies": 11678
-    },
-    {
-      "rank": 67,
-      "name": "kirinokirino",
-      "shinies": 11588
     },
     {
       "rank": 68,
