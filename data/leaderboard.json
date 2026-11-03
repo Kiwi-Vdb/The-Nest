@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793704597,
+  "generatedAt": 1793704786,
   "totalViewers": 1090,
-  "totalShinies": 4129974,
+  "totalShinies": 4130308,
   "pageSize": 100,
   "entries": [
     {
@@ -331,18 +331,18 @@
     },
     {
       "rank": 66,
+      "name": "hellzi3",
+      "shinies": 12012
+    },
+    {
+      "rank": 67,
       "name": "snoopa_aoe",
       "shinies": 11906
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "blopson",
       "shinies": 11692
-    },
-    {
-      "rank": 68,
-      "name": "hellzi3",
-      "shinies": 11678
     },
     {
       "rank": 69,
