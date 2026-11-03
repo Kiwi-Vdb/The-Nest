@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793709158,
+  "generatedAt": 1793709286,
   "totalViewers": 1091,
-  "totalShinies": 4149282,
+  "totalShinies": 4149616,
   "pageSize": 100,
   "entries": [
     {
@@ -646,43 +646,43 @@
     },
     {
       "rank": 129,
+      "name": "itsfuntolose",
+      "shinies": 6152
+    },
+    {
+      "rank": 130,
       "name": "victorxii",
       "shinies": 6120
     },
     {
-      "rank": 130,
+      "rank": 131,
       "name": "kotaotake",
       "shinies": 6104
     },
     {
-      "rank": 131,
+      "rank": 132,
       "name": "dreadyfire",
       "shinies": 6006
     },
     {
-      "rank": 132,
+      "rank": 133,
       "name": "jjones666",
       "shinies": 6004
     },
     {
-      "rank": 133,
+      "rank": 134,
       "name": "arksalot",
       "shinies": 6002
     },
     {
-      "rank": 134,
+      "rank": 135,
       "name": "neugrenade",
       "shinies": 6002
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "statesector",
       "shinies": 5822
-    },
-    {
-      "rank": 136,
-      "name": "itsfuntolose",
-      "shinies": 5818
     },
     {
       "rank": 137,
