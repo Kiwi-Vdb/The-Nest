@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793699006,
+  "generatedAt": 1793699132,
   "totalViewers": 1085,
-  "totalShinies": 4116608,
+  "totalShinies": 4116442,
   "pageSize": 100,
   "entries": [
     {
@@ -97,7 +97,7 @@
     {
       "rank": 19,
       "name": "mesaber",
-      "shinies": 34410
+      "shinies": 34744
     },
     {
       "rank": 20,
@@ -341,18 +341,18 @@
     },
     {
       "rank": 68,
-      "name": "goliathmaroof",
-      "shinies": 11244
-    },
-    {
-      "rank": 69,
       "name": "pauperbanaan",
       "shinies": 11240
     },
     {
-      "rank": 70,
+      "rank": 69,
       "name": "literallylilacc",
       "shinies": 11020
+    },
+    {
+      "rank": 70,
+      "name": "goliathmaroof",
+      "shinies": 10744
     },
     {
       "rank": 71,
