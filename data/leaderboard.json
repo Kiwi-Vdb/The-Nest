@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793703999,
+  "generatedAt": 1793704296,
   "totalViewers": 1089,
-  "totalShinies": 4127822,
+  "totalShinies": 4128822,
   "pageSize": 100,
   "entries": [
     {
@@ -196,23 +196,23 @@
     },
     {
       "rank": 39,
+      "name": "axolotl_eu",
+      "shinies": 19516
+    },
+    {
+      "rank": 40,
       "name": "zzzzzvh",
       "shinies": 19344
     },
     {
-      "rank": 40,
+      "rank": 41,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "hells_hound_",
       "shinies": 18608
-    },
-    {
-      "rank": 42,
-      "name": "axolotl_eu",
-      "shinies": 18516
     },
     {
       "rank": 43,
