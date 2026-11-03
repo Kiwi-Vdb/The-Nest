@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793710365,
+  "generatedAt": 1793710712,
   "totalViewers": 1091,
-  "totalShinies": 4157436,
+  "totalShinies": 4157770,
   "pageSize": 100,
   "entries": [
     {
@@ -321,18 +321,18 @@
     },
     {
       "rank": 64,
+      "name": "kirinokirino",
+      "shinies": 12406
+    },
+    {
+      "rank": 65,
       "name": "globe2deag",
       "shinies": 12312
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "snoopa_aoe",
       "shinies": 12240
-    },
-    {
-      "rank": 66,
-      "name": "kirinokirino",
-      "shinies": 12072
     },
     {
       "rank": 67,
