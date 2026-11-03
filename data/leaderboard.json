@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793711967,
+  "generatedAt": 1793712398,
   "totalViewers": 1100,
-  "totalShinies": 4173414,
+  "totalShinies": 4173748,
   "pageSize": 100,
   "entries": [
     {
@@ -381,32 +381,32 @@
     },
     {
       "rank": 76,
+      "name": "westcanada",
+      "shinies": 10338
+    },
+    {
+      "rank": 77,
       "name": "bizzyrex",
       "shinies": 10305
     },
     {
-      "rank": 77,
+      "rank": 78,
       "name": "aidannaut",
       "shinies": 10302
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "florio_bar",
       "shinies": 10270
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "zoowieke",
       "shinies": 10162
     },
     {
-      "rank": 80,
-      "name": "7voodoodragon",
-      "shinies": 10004
-    },
-    {
       "rank": 81,
-      "name": "westcanada",
+      "name": "7voodoodragon",
       "shinies": 10004
     },
     {
