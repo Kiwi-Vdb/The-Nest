@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793701799,
+  "generatedAt": 1793701963,
   "count": 50,
   "activities": [
+    {
+      "id": "fd0a064fbdb0a334",
+      "type": "unlock",
+      "who": "the_electron97",
+      "text": "unlocked Portal Text",
+      "timestamp": 1793701951,
+      "rarity": "legendary",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "933387f71141f42b",
       "type": "prediction",
@@ -487,16 +497,6 @@
       "text": "unlocked Santa Beard",
       "timestamp": 1787742962,
       "rarity": "rare",
-      "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "4729188065d62c49",
-      "type": "unlock",
-      "who": "iamdibi",
-      "text": "unlocked Pirate Hat",
-      "timestamp": 1787482077,
-      "rarity": "uncommon",
       "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
