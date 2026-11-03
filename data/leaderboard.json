@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793706276,
+  "generatedAt": 1793706636,
   "totalViewers": 1090,
-  "totalShinies": 4134310,
+  "totalShinies": 4135310,
   "pageSize": 100,
   "entries": [
     {
@@ -306,23 +306,23 @@
     },
     {
       "rank": 61,
+      "name": "goliathmaroof",
+      "shinies": 13078
+    },
+    {
+      "rank": 62,
       "name": "esebian_",
       "shinies": 13014
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "tdostalker",
       "shinies": 12754
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "globe2deag",
       "shinies": 12312
-    },
-    {
-      "rank": 64,
-      "name": "goliathmaroof",
-      "shinies": 12078
     },
     {
       "rank": 65,
