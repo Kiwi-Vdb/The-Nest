@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793708212,
+  "generated_at": 1793708250,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -25834,7 +25834,12 @@
           "equip_command": "!equiptext Portal"
         }
       ],
-      "current_text_effect": null,
+      "current_text_effect": {
+        "id": "text-portal",
+        "name": "Portal Text",
+        "rarity": "legendary",
+        "class_name": "text-portal"
+      },
       "loot_boxes_opened": 4,
       "recent_unlocks": [
         {
