@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793700169,
+  "generatedAt": 1793700232,
   "totalViewers": 1086,
-  "totalShinies": 4119080,
+  "totalShinies": 4119748,
   "pageSize": 100,
   "entries": [
     {
@@ -117,7 +117,7 @@
     {
       "rank": 23,
       "name": "jigglyjake22",
-      "shinies": 29980
+      "shinies": 30314
     },
     {
       "rank": 24,
@@ -431,28 +431,28 @@
     },
     {
       "rank": 86,
+      "name": "finstas",
+      "shinies": 9488
+    },
+    {
+      "rank": 87,
       "name": "jimmy_norris",
       "shinies": 9486
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "sewer_strutt",
       "shinies": 9340
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "swallowbug11",
       "shinies": 9338
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "toszii",
       "shinies": 9306
-    },
-    {
-      "rank": 90,
-      "name": "finstas",
-      "shinies": 9154
     },
     {
       "rank": 91,
