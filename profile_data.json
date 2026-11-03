@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793708135,
+  "generated_at": 1793708212,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -12870,10 +12870,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-plasma-pulse",
-        "name": "Plasma Pulse Text",
-        "rarity": "epic",
-        "class_name": "text-plasma-pulse"
+        "id": "text-portal",
+        "name": "Portal Text",
+        "rarity": "legendary",
+        "class_name": "text-portal"
       },
       "loot_boxes_opened": 41,
       "recent_unlocks": [
@@ -28397,7 +28397,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 9060,
+        "balance": 10060,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
