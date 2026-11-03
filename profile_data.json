@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793708256,
+  "generated_at": 1793708292,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -12870,10 +12870,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-portal",
-        "name": "Portal Text",
-        "rarity": "legendary",
-        "class_name": "text-portal"
+        "id": "text-plasma-pulse",
+        "name": "Plasma Pulse Text",
+        "rarity": "epic",
+        "class_name": "text-plasma-pulse"
       },
       "loot_boxes_opened": 41,
       "recent_unlocks": [
