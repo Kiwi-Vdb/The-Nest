@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793700419,
+  "generatedAt": 1793700609,
   "totalViewers": 1087,
-  "totalShinies": 4120082,
+  "totalShinies": 4120416,
   "pageSize": 100,
   "entries": [
     {
@@ -211,13 +211,13 @@
     },
     {
       "rank": 42,
-      "name": "oafsalot",
-      "shinies": 18340
+      "name": "axolotl_eu",
+      "shinies": 18366
     },
     {
       "rank": 43,
-      "name": "axolotl_eu",
-      "shinies": 18032
+      "name": "oafsalot",
+      "shinies": 18340
     },
     {
       "rank": 44,
