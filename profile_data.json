@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793893102,
+  "generated_at": 1793893267,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -11482,7 +11482,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 101155,
+        "balance": 99155,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -11577,8 +11577,16 @@
         "rarity": "legendary",
         "class_name": "text-supernova"
       },
-      "loot_boxes_opened": 3,
+      "loot_boxes_opened": 4,
       "recent_unlocks": [
+        {
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793893266
+        },
         {
           "name": "Magic Wand",
           "category": "Kiwi Wings / Held Objects",
@@ -11594,14 +11602,6 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1788358574
-        },
-        {
-          "name": "Blue Sneakers",
-          "category": "Kiwi Boots / Shoes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1788358545
         }
       ],
       "totals": {

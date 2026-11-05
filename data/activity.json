@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793893102,
+  "generatedAt": 1793893268,
   "count": 50,
   "activities": [
+    {
+      "id": "d2e77f09f46831ee",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Wooden Shield",
+      "timestamp": 1793893266,
+      "rarity": "common",
+      "category": "Kiwi Wings / Held Objects",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "fd0a064fbdb0a334",
       "type": "unlock",
@@ -486,16 +496,6 @@
       "who": "axolotl_eu",
       "text": "unlocked Cowboy Hat",
       "timestamp": 1787926755,
-      "rarity": "rare",
-      "category": "Kiwi Hat",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "654fbaae5df306ee",
-      "type": "unlock",
-      "who": "itsvdb",
-      "text": "unlocked Santa Beard",
-      "timestamp": 1787742962,
       "rarity": "rare",
       "category": "Kiwi Hat",
       "rewardType": "cosmetic"
