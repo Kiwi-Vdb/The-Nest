@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793900493,
+  "generated_at": 1793900545,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -12720,7 +12720,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 80300,
+        "balance": 75300,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -12800,6 +12800,12 @@
           "name": "Santa Beard",
           "category": "Kiwi Hat",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:aura:pixel-1000-followers",
+          "name": "1000 Followers!",
+          "category": "Kiwi Aura",
+          "rarity": "epic"
         }
       ],
       "text_effects_unlocked": [
@@ -12988,6 +12994,14 @@
       "loot_boxes_opened": 41,
       "recent_unlocks": [
         {
+          "name": "1000 Followers!",
+          "category": "Kiwi Aura",
+          "rarity": "epic",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793900543
+        },
+        {
           "name": "Eyepatch",
           "category": "Kiwi Eyes",
           "rarity": "common",
@@ -13002,18 +13016,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1787742962
-        },
-        {
-          "name": "Knight Helmet",
-          "category": "Kiwi Full Head",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1787481736
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 12,
+        "cosmetics_unlocked": 13,
         "cosmetics_available": 42,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,

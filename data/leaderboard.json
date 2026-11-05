@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793900493,
+  "generatedAt": 1793900545,
   "totalViewers": 1105,
-  "totalShinies": 4190486,
+  "totalShinies": 4185486,
   "pageSize": 100,
   "entries": [
     {
@@ -26,18 +26,18 @@
     },
     {
       "rank": 5,
-      "name": "itsvdb",
-      "shinies": 80300
-    },
-    {
-      "rank": 6,
       "name": "timmytwoshots",
       "shinies": 79654
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "bar_outofmana",
       "shinies": 79064
+    },
+    {
+      "rank": 7,
+      "name": "itsvdb",
+      "shinies": 75300
     },
     {
       "rank": 8,

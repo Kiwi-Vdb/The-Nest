@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793900493,
+  "generatedAt": 1793900545,
   "count": 50,
   "activities": [
+    {
+      "id": "3d73b948130bafdb",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked 1000 Followers!",
+      "timestamp": 1793900543,
+      "rarity": "epic",
+      "category": "Kiwi Aura",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "d2e77f09f46831ee",
       "type": "unlock",
@@ -488,16 +498,6 @@
       "timestamp": 1787926760,
       "rarity": "common",
       "category": "Kiwi Beak",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "a0e2c4746658b28f",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Cowboy Hat",
-      "timestamp": 1787926755,
-      "rarity": "rare",
-      "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
   ]
