@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793902946,
+  "generated_at": 1793902971,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -12748,6 +12748,12 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:eyes:pixel-violet-irises",
+          "name": "Violet Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "rare"
+        },
+        {
           "id": "kiwi:eyes:pixel-ruby-irises",
           "name": "Ruby Irises",
           "category": "Kiwi Eye Colour",
@@ -12772,10 +12778,22 @@
           "rarity": "rare"
         },
         {
+          "id": "kiwi:body:pixel-yellow-raincoat",
+          "name": "Yellow Raincoat",
+          "category": "Kiwi Body",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:feet:pixel-red-gumboots",
           "name": "Red Gumboots",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:beak:pixel-snake",
+          "name": "Snake Beak",
+          "category": "Kiwi Beak",
+          "rarity": "rare"
         },
         {
           "id": "kiwi:head:pixel-knight-helmet",
@@ -12794,6 +12812,12 @@
           "name": "Diving Helmet",
           "category": "Kiwi Full Head",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:head:pixel-tv",
+          "name": "TV Head",
+          "category": "Kiwi Full Head",
+          "rarity": "uncommon"
         },
         {
           "id": "kiwi:hat:pixel-blue-beanie",
@@ -12826,6 +12850,12 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:eyes:pixel-star-sunglasses",
+          "name": "Star Sunglasses",
+          "category": "Kiwi Eyes",
+          "rarity": "uncommon"
+        },
+        {
           "id": "kiwi:eyes:pixel-eyepatch",
           "name": "Eyepatch",
           "category": "Kiwi Eyes",
@@ -12850,6 +12880,12 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:beak:pixel-toucan",
+          "name": "Toucan Beak",
+          "category": "Kiwi Beak",
+          "rarity": "rare"
+        },
+        {
           "id": "kiwi:beak:pixel-golden",
           "name": "Golden Beak",
           "category": "Kiwi Beak",
@@ -12862,10 +12898,28 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:body:pixel-striped-jumper",
+          "name": "Striped Jumper",
+          "category": "Kiwi Body",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:body:pixel-tuxedo",
+          "name": "Tuxedo",
+          "category": "Kiwi Body",
+          "rarity": "uncommon"
+        },
+        {
           "id": "kiwi:body:pixel-knight-armour",
           "name": "Knight Armour",
           "category": "Kiwi Body",
           "rarity": "rare"
+        },
+        {
+          "id": "kiwi:wings:pixel-wooden-shield",
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common"
         },
         {
           "id": "kiwi:wings:pixel-magic-wand",
@@ -12901,6 +12955,18 @@
           "id": "kiwi:feet:pixel-pink-slippers",
           "name": "Pink Slippers",
           "category": "Kiwi Boots / Shoes",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:feet:pixel-yellow-flippers",
+          "name": "Yellow Flippers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "uncommon"
+        },
+        {
+          "id": "kiwi:hat:pixel-santa-hat",
+          "name": "Santa Hat",
+          "category": "Kiwi Hat",
           "rarity": "common"
         },
         {
@@ -13108,32 +13174,32 @@
       "loot_boxes_opened": 41,
       "recent_unlocks": [
         {
-          "name": "Safety Goggles",
-          "category": "Kiwi Eyes",
-          "rarity": "uncommon",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1793902945
-        },
-        {
-          "name": "Ruby Irises",
-          "category": "Kiwi Eye Colour",
-          "rarity": "rare",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1793902943
-        },
-        {
-          "name": "Round Glasses",
-          "category": "Kiwi Eyes",
+          "name": "Yellow Raincoat",
+          "category": "Kiwi Body",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1793902941
+          "timestamp": 1793902970
+        },
+        {
+          "name": "Yellow Flippers",
+          "category": "Kiwi Boots / Shoes",
+          "rarity": "uncommon",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793902968
+        },
+        {
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793902965
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 32,
+        "cosmetics_unlocked": 43,
         "cosmetics_available": 43,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
