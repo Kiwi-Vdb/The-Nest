@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793893719,
+  "generatedAt": 1793893821,
   "totalViewers": 1102,
-  "totalShinies": 4179690,
+  "totalShinies": 4179840,
   "pageSize": 100,
   "entries": [
     {
@@ -496,23 +496,23 @@
     },
     {
       "rank": 99,
+      "name": "heltoff",
+      "shinies": 8576
+    },
+    {
+      "rank": 100,
       "name": "jadedkross",
       "shinies": 8574
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "sterling_victor5",
       "shinies": 8484
-    },
-    {
-      "rank": 102,
-      "name": "heltoff",
-      "shinies": 8426
     },
     {
       "rank": 103,
