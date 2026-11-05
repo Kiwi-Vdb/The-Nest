@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793902695,
+  "generated_at": 1793902916,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -12772,8 +12772,20 @@
           "rarity": "rare"
         },
         {
+          "id": "kiwi:head:pixel-diving-helmet",
+          "name": "Diving Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "rare"
+        },
+        {
           "id": "kiwi:hat:pixel-blue-beanie",
           "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-chef",
+          "name": "Chef Hat",
           "category": "Kiwi Hat",
           "rarity": "common"
         },
@@ -12784,9 +12796,27 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:beak:pixel-duck",
+          "name": "Duck Bill",
+          "category": "Kiwi Beak",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:body:pixel-blue-hoodie",
           "name": "Blue Hoodie",
           "category": "Kiwi Body",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:wings:pixel-fishing-rod",
+          "name": "Fishing Rod",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "uncommon"
+        },
+        {
+          "id": "kiwi:wings:pixel-coffee-mug",
+          "name": "Coffee Mug",
+          "category": "Kiwi Wings / Held Objects",
           "rarity": "common"
         },
         {
@@ -13000,32 +13030,32 @@
       "loot_boxes_opened": 41,
       "recent_unlocks": [
         {
-          "name": "Pumpkin Head",
-          "category": "Kiwi Full Head",
-          "rarity": "legendary",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1793902694
-        },
-        {
-          "name": "1000 Followers!",
-          "category": "Kiwi Aura",
-          "rarity": "epic",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1793900543
-        },
-        {
-          "name": "Eyepatch",
-          "category": "Kiwi Eyes",
+          "name": "Duck Bill",
+          "category": "Kiwi Beak",
           "rarity": "common",
           "type": "cosmetic",
           "text_effect": "",
-          "timestamp": 1793377107
+          "timestamp": 1793902914
+        },
+        {
+          "name": "Diving Helmet",
+          "category": "Kiwi Full Head",
+          "rarity": "rare",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793902912
+        },
+        {
+          "name": "Coffee Mug",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1793902909
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 14,
+        "cosmetics_unlocked": 19,
         "cosmetics_available": 43,
         "text_effects_unlocked": 25,
         "text_effects_available": 25,
