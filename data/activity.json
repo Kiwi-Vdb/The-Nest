@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1793902654,
+  "generatedAt": 1793902695,
   "count": 50,
   "activities": [
+    {
+      "id": "39daa630d1f3d8fd",
+      "type": "unlock",
+      "who": "itsvdb",
+      "text": "unlocked Pumpkin Head",
+      "timestamp": 1793902694,
+      "rarity": "legendary",
+      "category": "Kiwi Full Head",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "3d73b948130bafdb",
       "type": "unlock",
@@ -488,16 +498,6 @@
       "timestamp": 1787926765,
       "rarity": "common",
       "category": "Kiwi Boots / Shoes",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "55f87257be968df8",
-      "type": "unlock",
-      "who": "axolotl_eu",
-      "text": "unlocked Duck Bill",
-      "timestamp": 1787926760,
-      "rarity": "common",
-      "category": "Kiwi Beak",
       "rewardType": "cosmetic"
     }
   ]
