@@ -378,7 +378,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
               "staticFile": "",
               "visible": true,
               "x": 0,
-              "y": 0,
+              "y": -48,
               "zLevel": 1
             }
           ],
@@ -1558,6 +1558,51 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "x": 0,
           "y": 0
         },
+        "kiwi:head:pixel-pumpkin-head": {
+          "artStyle": "kiwi-pixel-v1",
+          "hideBaseEyes": false,
+          "hideBaseIrises": false,
+          "holdingWingMode": "none",
+          "layer": "front",
+          "layers": [
+            {
+              "animated": true,
+              "animationType": "atlas",
+              "atlasColumns": 4,
+              "cropBottom": 0,
+              "cropLeft": 0,
+              "cropRight": 0,
+              "cropTop": 0,
+              "file": "head-pumpkin-head.png",
+              "flipX": false,
+              "flipY": false,
+              "frameCount": 4,
+              "frameHeight": 240,
+              "frameRate": 6.0,
+              "frameWidth": 240,
+              "id": "main",
+              "name": "Main artwork",
+              "opacity": 1,
+              "placement": "front",
+              "playback": "loop",
+              "rotation": 0.0,
+              "scaleX": 0.5,
+              "scaleY": 0.5,
+              "skewX": 0.0,
+              "skewY": 0.0,
+              "staticFile": "head-pumpkin-head-static.png",
+              "visible": true,
+              "x": 4,
+              "y": -136,
+              "zLevel": 8
+            }
+          ],
+          "scale": 1.0,
+          "slot": "head",
+          "wingMode": "both",
+          "x": 0,
+          "y": 0
+        },
         "kiwi:head:pixel-robot": {
           "artStyle": "kiwi-pixel-v1",
           "hideBaseEyes": false,
@@ -2289,7 +2334,7 @@ window.KIWI_COSMETIC_LAYOUTS = {
           "staticFile": "",
           "visible": true,
           "x": 0,
-          "y": 0,
+          "y": -48,
           "zLevel": 1
         }
       ],
@@ -3469,6 +3514,51 @@ window.KIWI_COSMETIC_LAYOUTS = {
       "x": 0,
       "y": 0
     },
+    "kiwi:head:pixel-pumpkin-head": {
+      "artStyle": "kiwi-pixel-v1",
+      "hideBaseEyes": false,
+      "hideBaseIrises": false,
+      "holdingWingMode": "none",
+      "layer": "front",
+      "layers": [
+        {
+          "animated": true,
+          "animationType": "atlas",
+          "atlasColumns": 4,
+          "cropBottom": 0,
+          "cropLeft": 0,
+          "cropRight": 0,
+          "cropTop": 0,
+          "file": "head-pumpkin-head.png",
+          "flipX": false,
+          "flipY": false,
+          "frameCount": 4,
+          "frameHeight": 240,
+          "frameRate": 6.0,
+          "frameWidth": 240,
+          "id": "main",
+          "name": "Main artwork",
+          "opacity": 1,
+          "placement": "front",
+          "playback": "loop",
+          "rotation": 0.0,
+          "scaleX": 0.5,
+          "scaleY": 0.5,
+          "skewX": 0.0,
+          "skewY": 0.0,
+          "staticFile": "head-pumpkin-head-static.png",
+          "visible": true,
+          "x": 4,
+          "y": -136,
+          "zLevel": 8
+        }
+      ],
+      "scale": 1.0,
+      "slot": "head",
+      "wingMode": "both",
+      "x": 0,
+      "y": 0
+    },
     "kiwi:head:pixel-robot": {
       "artStyle": "kiwi-pixel-v1",
       "hideBaseEyes": false,
@@ -3832,6 +3922,6 @@ window.KIWI_COSMETIC_LAYOUTS = {
   },
   "logicalCanvas": 240,
   "pixelScale": 4,
-  "revision": "20261105180437262630",
+  "revision": "20261105181553880203",
   "version": 9
 };
