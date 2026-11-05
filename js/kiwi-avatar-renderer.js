@@ -11,7 +11,7 @@
   const FULL_HEAD_DETAIL_SLOTS = ["hat", "eyes", "iris", "beak"];
   const WING_MODES = new Set(["viewer-left", "viewer-right", "both"]);
   const ASSET_ROOT = String(global.KIWI_AVATAR_ASSET_ROOT || "assets/kiwi").replace(/\/$/, "");
-  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.31.1");
+  const ASSET_VERSION = String(global.KIWI_AVATAR_ASSET_VERSION || "3.35.0");
   const LAYOUT_CONFIG = global.KIWI_COSMETIC_LAYOUTS && typeof global.KIWI_COSMETIC_LAYOUTS === "object"
     ? global.KIWI_COSMETIC_LAYOUTS : {};
   const DEFAULT_AVATAR_ID = String(LAYOUT_CONFIG.defaultAvatar || "kiwi").trim().toLowerCase();
@@ -121,12 +121,24 @@
     let cropBottom = clampNumber(source.cropBottom, 0, 0, 95);
     if (cropLeft + cropRight > 95) cropRight = 95 - cropLeft;
     if (cropTop + cropBottom > 95) cropBottom = 95 - cropTop;
+    let animationType = String(source.animationType || (source.animated ? "apng" : "static")).toLowerCase();
+    if (!["static", "apng", "atlas"].includes(animationType)) animationType = "static";
+    const frameCount = Math.round(clampNumber(source.frameCount, 1, 1, 120));
+    const atlasColumns = Math.round(clampNumber(source.atlasColumns, 1, 1, frameCount));
+    const playback = ["loop", "once", "ping-pong"].includes(source.playback) ? source.playback : "loop";
     return {
       id: String(source.id || `layer-${index + 1}`),
       name: String(source.name || `Layer ${index + 1}`),
       file: String(source.file || fallbackFile || "").split(/[\\/]/).pop(),
-      animated: Boolean(source.animated),
+      animated: animationType !== "static",
+      animationType,
       staticFile: String(source.staticFile || "").split(/[\\/]/).pop(),
+      frameWidth: 240,
+      frameHeight: 240,
+      frameCount,
+      atlasColumns,
+      frameRate: clampNumber(source.frameRate, 12, 1, 60),
+      playback,
       zLevel,
       placement: zLevel <= 2 ? "behind" : (zLevel >= 9 ? "top" : "front"),
       visible: source.visible !== false,
@@ -211,6 +223,53 @@
     }
   }
 
+  function atlasFrameIndex(frameCount, frameRate, playback, elapsedMs) {
+    if (frameCount <= 1) return 0;
+    const rawFrame = Math.max(0, Math.floor((elapsedMs * frameRate) / 1000));
+    if (playback === "once") return Math.min(frameCount - 1, rawFrame);
+    if (playback === "ping-pong") {
+      const cycle = (frameCount * 2) - 2;
+      const position = rawFrame % cycle;
+      return position < frameCount ? position : cycle - position;
+    }
+    return rawFrame % frameCount;
+  }
+
+  function positionAtlasFrame(element, frameIndex) {
+    const columns = Math.max(1, Number(element.dataset.atlasColumns) || 1);
+    const rows = Math.max(1, Number(element.dataset.atlasRows) || 1);
+    const column = frameIndex % columns;
+    const row = Math.floor(frameIndex / columns);
+    const x = columns <= 1 ? 0 : (column / (columns - 1)) * 100;
+    const y = rows <= 1 ? 0 : (row / (rows - 1)) * 100;
+    element.style.backgroundPosition = `${x.toFixed(6)}% ${y.toFixed(6)}%`;
+    element.dataset.animationFrame = String(frameIndex + 1);
+  }
+
+  let atlasAnimationStarted = false;
+  function ensureAtlasAnimationLoop() {
+    if (atlasAnimationStarted || !global.document || typeof global.requestAnimationFrame !== "function") return;
+    atlasAnimationStarted = true;
+    global.requestAnimationFrame(function updateAtlasAnimations(now) {
+      global.document.querySelectorAll('.kiwi-cosmetic-sprite[data-animation-state="playing"]').forEach((element) => {
+        const currentTime = Number(now) || 0;
+        let startedAt = Number(element.dataset.animationStartedAt);
+        if (!Number.isFinite(startedAt)) {
+          startedAt = currentTime;
+          element.dataset.animationStartedAt = String(startedAt);
+        }
+        const elapsed = Math.max(0, currentTime - startedAt);
+        const frameCount = Math.max(1, Number(element.dataset.frameCount) || 1);
+        const frameRate = Math.max(1, Math.min(60, Number(element.dataset.frameRate) || 12));
+        positionAtlasFrame(
+          element,
+          atlasFrameIndex(frameCount, frameRate, element.dataset.playback || "loop", elapsed),
+        );
+      });
+      global.requestAnimationFrame(updateAtlasAnimations);
+    });
+  }
+
   function imageLayer(filename, className, rewardId = "", layout = null, layer = null, part = "", allowAnimation = true, assetRoot = ASSET_ROOT, zLevel = null) {
     const effectiveZ = layer ? layer.zLevel : Math.round(clampNumber(zLevel, 8, 1, 10));
     const transformed = layout && layer
@@ -220,9 +279,19 @@
     const layerId = layer ? ` data-layer-id="${escapeAttribute(layer.id)}"` : "";
     const partId = part ? ` data-base-part="${escapeAttribute(part)}"` : "";
     const z = ` data-z-level="${effectiveZ}"`;
-    const isAnimated = Boolean(layer?.animated);
+    const animationType = String(layer?.animationType || (layer?.animated ? "apng" : "static"));
+    const isAnimated = animationType !== "static";
     const displayedFile = isAnimated && !allowAnimation && layer.staticFile ? layer.staticFile : filename;
     const animationClass = isAnimated ? " kiwi-cosmetic-animated" : "";
+    if (animationType === "atlas") {
+      const columns = Math.max(1, Math.min(layer.frameCount, layer.atlasColumns));
+      const rows = Math.max(1, Math.ceil(layer.frameCount / columns));
+      const baseStyle = layout && layer ? layoutStyle(layout, layer) : `z-index:${effectiveZ};`;
+      const spriteStyle = `${baseStyle}background-image:url('${assetUrl(filename, assetRoot)}');background-repeat:no-repeat;background-size:${columns * 100}% ${rows * 100}%;background-position:0% 0%;`;
+      const animationState = allowAnimation ? "playing" : "static";
+      if (allowAnimation) ensureAtlasAnimationLoop();
+      return `<span class="kiwi-avatar-layer ${className}${animationClass} kiwi-cosmetic-sprite" style="${spriteStyle}"${reward}${layerId}${partId}${z} data-animation="atlas" data-animation-state="${animationState}" data-frame-count="${layer.frameCount}" data-atlas-columns="${columns}" data-atlas-rows="${rows}" data-frame-rate="${layer.frameRate}" data-playback="${escapeAttribute(layer.playback)}" data-animation-frame="1" aria-hidden="true"></span>`;
+    }
     const animation = isAnimated
       ? ` data-animation="apng" data-animation-state="${allowAnimation ? "playing" : "static"}"`
       : "";
@@ -322,6 +391,6 @@
     SLOTS: [...SLOTS], BASE_PARTS: BASE_PARTS.map((item) => ({ ...item })),
     DEFAULT_LOADOUT: { ...DEFAULT_LOADOUT }, DEFAULT_AVATAR_ID,
     AVATAR_IDS: Object.keys(AVATAR_CONFIGS).length ? Object.keys(AVATAR_CONFIGS) : [DEFAULT_AVATAR_ID],
-    ART_STYLE_ID,
+    ART_STYLE_ID, atlasFrameIndex,
   };
 }(window));
