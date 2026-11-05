@@ -1,5 +1,5 @@
 {
-  "generated_at": 1793893267,
+  "generated_at": 1793893275,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -11516,6 +11516,12 @@
           "rarity": "common"
         },
         {
+          "id": "kiwi:wings:pixel-wooden-shield",
+          "name": "Wooden Shield",
+          "category": "Kiwi Wings / Held Objects",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:wings:pixel-magic-wand",
           "name": "Magic Wand",
           "category": "Kiwi Wings / Held Objects",
@@ -11605,7 +11611,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 7,
+        "cosmetics_unlocked": 8,
         "cosmetics_available": 41,
         "text_effects_unlocked": 5,
         "text_effects_available": 25,
