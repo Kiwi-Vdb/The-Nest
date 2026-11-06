@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793972786,
+  "generatedAt": 1793972845,
   "totalViewers": 1106,
-  "totalShinies": 4184364,
+  "totalShinies": 4184698,
   "pageSize": 100,
   "entries": [
     {
@@ -566,23 +566,23 @@
     },
     {
       "rank": 113,
+      "name": "dzikimg",
+      "shinies": 7820
+    },
+    {
+      "rank": 114,
       "name": "markus_franz",
       "shinies": 7668
     },
     {
-      "rank": 114,
+      "rank": 115,
       "name": "revanxfl",
       "shinies": 7638
     },
     {
-      "rank": 115,
+      "rank": 116,
       "name": "evil_potato__",
       "shinies": 7540
-    },
-    {
-      "rank": 116,
-      "name": "dzikimg",
-      "shinies": 7486
     },
     {
       "rank": 117,
