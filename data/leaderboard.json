@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793970778,
+  "generatedAt": 1793971053,
   "totalViewers": 1105,
-  "totalShinies": 4179456,
+  "totalShinies": 4179790,
   "pageSize": 100,
   "entries": [
     {
@@ -321,18 +321,18 @@
     },
     {
       "rank": 64,
+      "name": "kirinokirino",
+      "shinies": 12740
+    },
+    {
+      "rank": 65,
       "name": "globe2deag",
       "shinies": 12646
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "finstas",
       "shinies": 12638
-    },
-    {
-      "rank": 66,
-      "name": "kirinokirino",
-      "shinies": 12406
     },
     {
       "rank": 67,
