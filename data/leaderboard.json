@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1793970108,
+  "generatedAt": 1793970353,
   "totalViewers": 1105,
-  "totalShinies": 4177486,
+  "totalShinies": 4178638,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 294978
+      "shinies": 295312
     },
     {
       "rank": 2,
@@ -52,7 +52,7 @@
     {
       "rank": 10,
       "name": "iamdibi",
-      "shinies": 65744
+      "shinies": 66228
     },
     {
       "rank": 11,
@@ -431,37 +431,37 @@
     },
     {
       "rank": 86,
+      "name": "mlem86",
+      "shinies": 9820
+    },
+    {
+      "rank": 87,
       "name": "hamoodlovespoop",
       "shinies": 9696
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "bartender_11",
       "shinies": 9676
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "steffa92",
       "shinies": 9672
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "rikkler",
       "shinies": 9670
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "heltoff",
       "shinies": 9576
     },
     {
-      "rank": 91,
-      "name": "jimmy_norris",
-      "shinies": 9486
-    },
-    {
       "rank": 92,
-      "name": "mlem86",
+      "name": "jimmy_norris",
       "shinies": 9486
     },
     {
