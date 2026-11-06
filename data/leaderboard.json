@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793972908,
+  "generatedAt": 1793973257,
   "totalViewers": 1106,
-  "totalShinies": 4185032,
+  "totalShinies": 4185516,
   "pageSize": 100,
   "entries": [
     {
@@ -496,28 +496,28 @@
     },
     {
       "rank": 99,
+      "name": "iyc2",
+      "shinies": 8660
+    },
+    {
+      "rank": 100,
       "name": "simplygraceful_",
       "shinies": 8588
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "jadedkross",
       "shinies": 8574
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 102,
+      "rank": 103,
       "name": "sterling_victor5",
       "shinies": 8484
-    },
-    {
-      "rank": 103,
-      "name": "iyc2",
-      "shinies": 8176
     },
     {
       "rank": 104,
