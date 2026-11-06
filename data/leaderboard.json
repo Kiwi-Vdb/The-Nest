@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793971891,
+  "generatedAt": 1793972005,
   "totalViewers": 1106,
-  "totalShinies": 4182094,
+  "totalShinies": 4182244,
   "pageSize": 100,
   "entries": [
     {
@@ -406,18 +406,18 @@
     },
     {
       "rank": 81,
+      "name": "heltoff",
+      "shinies": 10060
+    },
+    {
+      "rank": 82,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "ruphin",
       "shinies": 9972
-    },
-    {
-      "rank": 83,
-      "name": "heltoff",
-      "shinies": 9910
     },
     {
       "rank": 84,
