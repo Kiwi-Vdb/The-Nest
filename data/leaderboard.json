@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793972067,
+  "generatedAt": 1793972197,
   "totalViewers": 1106,
-  "totalShinies": 4182728,
+  "totalShinies": 4182878,
   "pageSize": 100,
   "entries": [
     {
@@ -626,22 +626,22 @@
     },
     {
       "rank": 125,
+      "name": "neugrenade",
+      "shinies": 6820
+    },
+    {
+      "rank": 126,
       "name": "luxa3t3rna",
       "shinies": 6672
     },
     {
-      "rank": 126,
+      "rank": 127,
       "name": "d_roi_d",
       "shinies": 6670
     },
     {
-      "rank": 127,
-      "name": "greekobratko1",
-      "shinies": 6670
-    },
-    {
       "rank": 128,
-      "name": "neugrenade",
+      "name": "greekobratko1",
       "shinies": 6670
     },
     {
