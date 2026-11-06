@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1793974611,
+  "generatedAt": 1793974706,
   "totalViewers": 1107,
-  "totalShinies": 4192004,
+  "totalShinies": 4192338,
   "pageSize": 100,
   "entries": [
     {
@@ -461,23 +461,23 @@
     },
     {
       "rank": 92,
+      "name": "toszii",
+      "shinies": 9640
+    },
+    {
+      "rank": 93,
       "name": "jimmy_norris",
       "shinies": 9486
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "sewer_strutt",
       "shinies": 9340
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "swallowbug11",
       "shinies": 9338
-    },
-    {
-      "rank": 95,
-      "name": "toszii",
-      "shinies": 9306
     },
     {
       "rank": 96,
