@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794055670,
+  "generatedAt": 1794055702,
   "totalViewers": 1109,
-  "totalShinies": 4200314,
+  "totalShinies": 4200798,
   "pageSize": 100,
   "entries": [
     {
@@ -296,28 +296,28 @@
     },
     {
       "rank": 59,
+      "name": "tdostalker",
+      "shinies": 13238
+    },
+    {
+      "rank": 60,
       "name": "kingjaos",
       "shinies": 13174
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "warriot",
       "shinies": 13124
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "coffeeconceder",
       "shinies": 13088
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "esebian_",
       "shinies": 13014
-    },
-    {
-      "rank": 63,
-      "name": "tdostalker",
-      "shinies": 12754
     },
     {
       "rank": 64,
