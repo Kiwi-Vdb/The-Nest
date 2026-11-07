@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794056105,
+  "generatedAt": 1794056499,
   "totalViewers": 1110,
-  "totalShinies": 4201800,
+  "totalShinies": 4202134,
   "pageSize": 100,
   "entries": [
     {
@@ -396,28 +396,28 @@
     },
     {
       "rank": 79,
+      "name": "liarturil",
+      "shinies": 10492
+    },
+    {
+      "rank": 80,
       "name": "skvonchboyz",
       "shinies": 10338
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "bizzyrex",
       "shinies": 10305
     },
     {
-      "rank": 81,
+      "rank": 82,
       "name": "aidannaut",
       "shinies": 10302
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "florio_bar",
       "shinies": 10270
-    },
-    {
-      "rank": 83,
-      "name": "liarturil",
-      "shinies": 10158
     },
     {
       "rank": 84,
