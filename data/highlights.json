@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794140746,
+  "generatedAt": 1794140950,
   "rotationGeneratedAt": 1794057198,
   "nextRotationAt": 1794143598,
   "rotationHours": 24,
@@ -10,7 +10,7 @@
       "group": "viewer",
       "icon": "✦",
       "title": "Shiny Hoarder",
-      "copy": "bot_kiwi_birb leads the flock with 298,980 Shinies."
+      "copy": "bot_kiwi_birb leads the flock with 299,980 Shinies."
     },
     {
       "category": "busiest_prediction",
