@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794143421,
+  "generatedAt": 1794143550,
   "totalViewers": 1137,
-  "totalShinies": 4308504,
+  "totalShinies": 4308838,
   "pageSize": 100,
   "entries": [
     {
@@ -666,18 +666,18 @@
     },
     {
       "rank": 133,
+      "name": "victorxii",
+      "shinies": 6454
+    },
+    {
+      "rank": 134,
       "name": "delfeacylol",
       "shinies": 6322
     },
     {
-      "rank": 134,
+      "rank": 135,
       "name": "autopilot1337",
       "shinies": 6310
-    },
-    {
-      "rank": 135,
-      "name": "victorxii",
-      "shinies": 6120
     },
     {
       "rank": 136,
