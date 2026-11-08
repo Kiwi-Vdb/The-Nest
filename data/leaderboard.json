@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794137580,
+  "generatedAt": 1794137642,
   "totalViewers": 1114,
-  "totalShinies": 4215410,
+  "totalShinies": 4215744,
   "pageSize": 100,
   "entries": [
     {
@@ -361,28 +361,28 @@
     },
     {
       "rank": 72,
+      "name": "zoowieke",
+      "shinies": 11164
+    },
+    {
+      "rank": 73,
       "name": "heltoff",
       "shinies": 11060
     },
     {
-      "rank": 73,
+      "rank": 74,
       "name": "wholooksform3",
       "shinies": 11060
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "westcanada",
       "shinies": 11006
-    },
-    {
-      "rank": 76,
-      "name": "zoowieke",
-      "shinies": 10830
     },
     {
       "rank": 77,
