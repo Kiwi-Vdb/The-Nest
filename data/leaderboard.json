@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794145152,
+  "generatedAt": 1794145174,
   "totalViewers": 1141,
-  "totalShinies": 4324114,
+  "totalShinies": 4324264,
   "pageSize": 100,
   "entries": [
     {
@@ -606,18 +606,18 @@
     },
     {
       "rank": 121,
+      "name": "delfeacylol",
+      "shinies": 7472
+    },
+    {
+      "rank": 122,
       "name": "oumuamua_i1",
       "shinies": 7454
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "frydac",
       "shinies": 7336
-    },
-    {
-      "rank": 123,
-      "name": "delfeacylol",
-      "shinies": 7322
     },
     {
       "rank": 124,
