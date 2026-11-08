@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1794143592,
-  "rotationGeneratedAt": 1794057198,
-  "nextRotationAt": 1794143598,
+  "generatedAt": 1794143621,
+  "rotationGeneratedAt": 1794143616,
+  "nextRotationAt": 1794230016,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "largest_balance",
+      "category": "prediction_champion",
       "group": "viewer",
-      "icon": "✦",
-      "title": "Shiny Hoarder",
-      "copy": "bot_kiwi_birb leads the flock with 299,980 Shinies."
+      "icon": "✓",
+      "title": "Prediction Champion",
+      "copy": "sharpishdog has won 10 predictions."
     },
     {
-      "category": "busiest_prediction",
+      "category": "biggest_prediction_prize",
       "group": "event",
-      "icon": "●",
-      "title": "Biggest Prediction",
-      "copy": "12 viewers picked sides on “Who wins 5v5 on Starwatcher?”."
+      "icon": "✓",
+      "title": "Biggest Prediction Prize",
+      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
     },
     {
-      "category": "community_loot_boxes",
+      "category": "community_prediction_entries",
       "group": "community",
-      "icon": "◇",
-      "title": "Boxes Opened",
-      "copy": "The community has opened 104 loot boxes."
+      "icon": "✓",
+      "title": "Prediction Picks",
+      "copy": "The flock has made 95 prediction picks."
     }
   ]
 }
