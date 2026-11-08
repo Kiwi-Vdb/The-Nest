@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794141909,
+  "generatedAt": 1794141962,
   "totalViewers": 1132,
-  "totalShinies": 4257894,
+  "totalShinies": 4258044,
   "pageSize": 100,
   "entries": [
     {
@@ -886,43 +886,43 @@
     },
     {
       "rank": 177,
+      "name": "derbeichtvater",
+      "shinies": 4488
+    },
+    {
+      "rank": 178,
       "name": "angry_strawberries",
       "shinies": 4486
     },
     {
-      "rank": 178,
+      "rank": 179,
       "name": "tuthache",
       "shinies": 4486
     },
     {
-      "rank": 179,
+      "rank": 180,
       "name": "dme_wraxell",
       "shinies": 4484
     },
     {
-      "rank": 180,
+      "rank": 181,
       "name": "humblegar",
       "shinies": 4484
     },
     {
-      "rank": 181,
+      "rank": 182,
       "name": "iherring",
       "shinies": 4484
     },
     {
-      "rank": 182,
+      "rank": 183,
       "name": "timonviper",
       "shinies": 4484
     },
     {
-      "rank": 183,
+      "rank": 184,
       "name": "aeonspy",
       "shinies": 4452
-    },
-    {
-      "rank": 184,
-      "name": "derbeichtvater",
-      "shinies": 4338
     },
     {
       "rank": 185,
