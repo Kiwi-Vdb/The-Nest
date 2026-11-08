@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794142269,
-  "totalViewers": 1133,
-  "totalShinies": 4260046,
+  "generatedAt": 1794142457,
+  "totalViewers": 1134,
+  "totalShinies": 4260714,
   "pageSize": 100,
   "entries": [
     {
@@ -76,13 +76,13 @@
     },
     {
       "rank": 15,
-      "name": "watchbehinddude",
-      "shinies": 43486
+      "name": "cozzwald",
+      "shinies": 43736
     },
     {
       "rank": 16,
-      "name": "cozzwald",
-      "shinies": 43402
+      "name": "watchbehinddude",
+      "shinies": 43486
     },
     {
       "rank": 17,
@@ -5646,26 +5646,31 @@
     },
     {
       "rank": 1129,
-      "name": "zmnfilippo",
+      "name": "ziiggzag",
       "shinies": 334
     },
     {
       "rank": 1130,
-      "name": "zongtg",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 1131,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 1132,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 1133,
       "name": "smokey_foo",
       "shinies": 318
     },
     {
-      "rank": 1133,
+      "rank": 1134,
       "name": "mvpeteno",
       "shinies": 168
     }
