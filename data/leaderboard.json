@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794143621,
+  "generatedAt": 1794143712,
   "totalViewers": 1138,
-  "totalShinies": 4310840,
+  "totalShinies": 4311840,
   "pageSize": 100,
   "entries": [
     {
@@ -351,23 +351,23 @@
     },
     {
       "rank": 70,
+      "name": "westcanada",
+      "shinies": 12340
+    },
+    {
+      "rank": 71,
       "name": "nightfalldeceit",
       "shinies": 11760
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "blopson",
       "shinies": 11692
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "wholooksform3",
       "shinies": 11544
-    },
-    {
-      "rank": 73,
-      "name": "westcanada",
-      "shinies": 11340
     },
     {
       "rank": 74,
