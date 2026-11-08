@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794139981,
+  "generatedAt": 1794140108,
   "totalViewers": 1131,
-  "totalShinies": 4244984,
+  "totalShinies": 4245318,
   "pageSize": 100,
   "entries": [
     {
@@ -366,23 +366,23 @@
     },
     {
       "rank": 73,
+      "name": "westcanada",
+      "shinies": 11340
+    },
+    {
+      "rank": 74,
       "name": "pauperbanaan",
       "shinies": 11240
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "zoowieke",
       "shinies": 11164
     },
     {
-      "rank": 75,
+      "rank": 76,
       "name": "literallylilacc",
       "shinies": 11020
-    },
-    {
-      "rank": 76,
-      "name": "westcanada",
-      "shinies": 11006
     },
     {
       "rank": 77,
