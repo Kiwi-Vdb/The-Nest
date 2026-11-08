@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794138900,
+  "generatedAt": 1794138907,
   "totalViewers": 1115,
-  "totalShinies": 4220018,
+  "totalShinies": 4219668,
   "pageSize": 100,
   "entries": [
     {
@@ -211,18 +211,18 @@
     },
     {
       "rank": 42,
+      "name": "siven12",
+      "shinies": 18694
+    },
+    {
+      "rank": 43,
       "name": "lordjammacus",
       "shinies": 18690
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "hells_hound_",
       "shinies": 18608
-    },
-    {
-      "rank": 44,
-      "name": "siven12",
-      "shinies": 18544
     },
     {
       "rank": 45,
@@ -276,23 +276,23 @@
     },
     {
       "rank": 55,
-      "name": "goliathmaroof",
-      "shinies": 14078
-    },
-    {
-      "rank": 56,
       "name": "freakofnature122",
       "shinies": 13822
     },
     {
-      "rank": 57,
+      "rank": 56,
       "name": "1shadowcreature",
       "shinies": 13820
     },
     {
-      "rank": 58,
+      "rank": 57,
       "name": "professor_bar",
       "shinies": 13634
+    },
+    {
+      "rank": 58,
+      "name": "goliathmaroof",
+      "shinies": 13578
     },
     {
       "rank": 59,
