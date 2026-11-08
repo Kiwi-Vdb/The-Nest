@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794140108,
+  "generatedAt": 1794140199,
   "totalViewers": 1131,
-  "totalShinies": 4245318,
+  "totalShinies": 4245468,
   "pageSize": 100,
   "entries": [
     {
@@ -1211,57 +1211,57 @@
     },
     {
       "rank": 242,
+      "name": "sugar_emre",
+      "shinies": 3120
+    },
+    {
+      "rank": 243,
       "name": "thib_sss",
       "shinies": 3006
     },
     {
-      "rank": 243,
+      "rank": 244,
       "name": "raynyak",
       "shinies": 3004
     },
     {
-      "rank": 244,
+      "rank": 245,
       "name": "wematinw",
       "shinies": 3004
     },
     {
-      "rank": 245,
+      "rank": 246,
       "name": "alissathebee",
       "shinies": 3002
     },
     {
-      "rank": 246,
+      "rank": 247,
       "name": "alubum",
       "shinies": 3002
     },
     {
-      "rank": 247,
+      "rank": 248,
       "name": "glutenman",
       "shinies": 3002
     },
     {
-      "rank": 248,
+      "rank": 249,
       "name": "motorboatingjuggs",
       "shinies": 3002
     },
     {
-      "rank": 249,
+      "rank": 250,
       "name": "nextgens1",
       "shinies": 3002
     },
     {
-      "rank": 250,
+      "rank": 251,
       "name": "nebulanomad12",
       "shinies": 2972
     },
     {
-      "rank": 251,
-      "name": "primetime94",
-      "shinies": 2970
-    },
-    {
       "rank": 252,
-      "name": "sugar_emre",
+      "name": "primetime94",
       "shinies": 2970
     },
     {
