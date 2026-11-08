@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794140950,
+  "generatedAt": 1794141018,
   "totalViewers": 1132,
-  "totalShinies": 4249288,
+  "totalShinies": 4249438,
   "pageSize": 100,
   "entries": [
     {
@@ -1576,32 +1576,32 @@
     },
     {
       "rank": 315,
+      "name": "chronopolis_sc",
+      "shinies": 2302
+    },
+    {
+      "rank": 316,
       "name": "dme_deinosuchus",
       "shinies": 2286
     },
     {
-      "rank": 316,
+      "rank": 317,
       "name": "twintwonk",
       "shinies": 2270
     },
     {
-      "rank": 317,
+      "rank": 318,
       "name": "lnudnikshpilkesl",
       "shinies": 2154
     },
     {
-      "rank": 318,
+      "rank": 319,
       "name": "akaswistu",
       "shinies": 2152
     },
     {
-      "rank": 319,
-      "name": "alecs907",
-      "shinies": 2152
-    },
-    {
       "rank": 320,
-      "name": "chronopolis_sc",
+      "name": "alecs907",
       "shinies": 2152
     },
     {
