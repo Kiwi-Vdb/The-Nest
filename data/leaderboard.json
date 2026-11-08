@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794144372,
+  "generatedAt": 1794144382,
   "totalViewers": 1140,
-  "totalShinies": 4315176,
+  "totalShinies": 4315326,
   "pageSize": 100,
   "entries": [
     {
@@ -821,23 +821,23 @@
     },
     {
       "rank": 164,
+      "name": "bm_caspian",
+      "shinies": 5152
+    },
+    {
+      "rank": 165,
       "name": "jademgaming",
       "shinies": 5120
     },
     {
-      "rank": 165,
+      "rank": 166,
       "name": "dkjaslhgdasiugldasgdh",
       "shinies": 5008
     },
     {
-      "rank": 166,
+      "rank": 167,
       "name": "prunko",
       "shinies": 5008
-    },
-    {
-      "rank": 167,
-      "name": "bm_caspian",
-      "shinies": 5002
     },
     {
       "rank": 168,
