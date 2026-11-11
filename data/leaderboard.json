@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794427897,
+  "generatedAt": 1794428112,
   "totalViewers": 1151,
-  "totalShinies": 4360622,
+  "totalShinies": 4361106,
   "pageSize": 100,
   "entries": [
     {
@@ -296,28 +296,28 @@
     },
     {
       "rank": 59,
+      "name": "kingjaos",
+      "shinies": 13658
+    },
+    {
+      "rank": 60,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "hellzi3",
       "shinies": 13496
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "esebian_",
       "shinies": 13348
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "tdostalker",
       "shinies": 13238
-    },
-    {
-      "rank": 63,
-      "name": "kingjaos",
-      "shinies": 13174
     },
     {
       "rank": 64,
