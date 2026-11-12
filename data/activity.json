@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794495235,
+  "generatedAt": 1794495406,
   "count": 50,
   "activities": [
     {
@@ -221,14 +221,6 @@
       "rarity": "legendary",
       "category": "Text Effect",
       "rewardType": "text effect"
-    },
-    {
-      "id": "933387f71141f42b",
-      "type": "prediction",
-      "who": "sharpishdog",
-      "text": "won 2,000 Shinies in a prediction: Will VDB win?",
-      "timestamp": 1793523946,
-      "amount": 2000
     },
     {
       "id": "12501a6da4b5b959",
@@ -499,6 +491,16 @@
       "rarity": "legendary",
       "category": "Text Effect",
       "rewardType": "text effect"
+    },
+    {
+      "id": "1fd5d945aa129688",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Violet Irises",
+      "timestamp": 1788358135,
+      "rarity": "rare",
+      "category": "Kiwi Eye Colour",
+      "rewardType": "cosmetic"
     }
   ]
 }
