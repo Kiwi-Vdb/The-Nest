@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794508557,
+  "generatedAt": 1794508598,
   "totalViewers": 1181,
-  "totalShinies": 4476044,
+  "totalShinies": 4477044,
   "pageSize": 100,
   "entries": [
     {
@@ -346,23 +346,23 @@
     },
     {
       "rank": 69,
+      "name": "sashkorin",
+      "shinies": 12974
+    },
+    {
+      "rank": 70,
       "name": "zoowieke",
       "shinies": 12832
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "finstas",
       "shinies": 12638
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "heltoff",
       "shinies": 12394
-    },
-    {
-      "rank": 72,
-      "name": "sashkorin",
-      "shinies": 11974
     },
     {
       "rank": 73,
