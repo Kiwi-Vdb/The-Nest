@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794496775,
+  "generatedAt": 1794497074,
   "totalViewers": 1160,
-  "totalShinies": 4408602,
+  "totalShinies": 4409602,
   "pageSize": 100,
   "entries": [
     {
@@ -71,18 +71,18 @@
     },
     {
       "rank": 14,
+      "name": "massivemankey",
+      "shinies": 46650
+    },
+    {
+      "rank": 15,
       "name": "cozzwald",
       "shinies": 46370
     },
     {
-      "rank": 15,
+      "rank": 16,
       "name": "hobbitsenlive",
       "shinies": 46348
-    },
-    {
-      "rank": 16,
-      "name": "massivemankey",
-      "shinies": 45650
     },
     {
       "rank": 17,
