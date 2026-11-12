@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794501378,
+  "generatedAt": 1794501698,
   "totalViewers": 1181,
-  "totalShinies": 4440924,
+  "totalShinies": 4441408,
   "pageSize": 100,
   "entries": [
     {
@@ -491,23 +491,23 @@
     },
     {
       "rank": 98,
+      "name": "iyc2",
+      "shinies": 9628
+    },
+    {
+      "rank": 99,
       "name": "jimmy_norris",
       "shinies": 9486
     },
     {
-      "rank": 99,
+      "rank": 100,
       "name": "ruwetuin",
       "shinies": 9342
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "dzikimg",
       "shinies": 9154
-    },
-    {
-      "rank": 101,
-      "name": "iyc2",
-      "shinies": 9144
     },
     {
       "rank": 102,
