@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794497802,
-  "totalViewers": 1180,
-  "totalShinies": 4420586,
+  "generatedAt": 1794497814,
+  "totalViewers": 1181,
+  "totalShinies": 4423254,
   "pageSize": 100,
   "entries": [
     {
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "name": "sharpishdog",
-      "shinies": 110066
+      "shinies": 111066
     },
     {
       "rank": 3,
@@ -117,7 +117,7 @@
     {
       "rank": 23,
       "name": "thequetx",
-      "shinies": 32478
+      "shinies": 32812
     },
     {
       "rank": 24,
@@ -456,68 +456,68 @@
     },
     {
       "rank": 91,
+      "name": "sashkorin",
+      "shinies": 9974
+    },
+    {
+      "rank": 92,
       "name": "ruphin",
       "shinies": 9972
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "lelalolul",
       "shinies": 9836
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "hamoodlovespoop",
       "shinies": 9696
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "rikkler",
       "shinies": 9670
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "toszii",
       "shinies": 9640
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "jimmy_norris",
       "shinies": 9486
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "ruwetuin",
       "shinies": 9342
     },
     {
-      "rank": 99,
+      "rank": 100,
       "name": "dzikimg",
       "shinies": 9154
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "iyc2",
       "shinies": 9144
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "heavywater00",
       "shinies": 9008
     },
     {
-      "rank": 102,
+      "rank": 103,
       "name": "tjallex",
       "shinies": 9004
-    },
-    {
-      "rank": 103,
-      "name": "sashkorin",
-      "shinies": 8974
     },
     {
       "rank": 104,
@@ -5786,121 +5786,126 @@
     },
     {
       "rank": 1157,
-      "name": "workingwith_solidware",
+      "name": "wonkyjon",
       "shinies": 334
     },
     {
       "rank": 1158,
-      "name": "world_by_heli",
+      "name": "workingwith_solidware",
       "shinies": 334
     },
     {
       "rank": 1159,
-      "name": "wreckedskim",
+      "name": "world_by_heli",
       "shinies": 334
     },
     {
       "rank": 1160,
-      "name": "wurzius",
+      "name": "wreckedskim",
       "shinies": 334
     },
     {
       "rank": 1161,
-      "name": "wuzz0ck",
+      "name": "wurzius",
       "shinies": 334
     },
     {
       "rank": 1162,
-      "name": "xamkoz",
+      "name": "wuzz0ck",
       "shinies": 334
     },
     {
       "rank": 1163,
-      "name": "xcalibur005",
+      "name": "xamkoz",
       "shinies": 334
     },
     {
       "rank": 1164,
-      "name": "xcintas",
+      "name": "xcalibur005",
       "shinies": 334
     },
     {
       "rank": 1165,
-      "name": "xero2kool",
+      "name": "xcintas",
       "shinies": 334
     },
     {
       "rank": 1166,
-      "name": "xmrnightfuryx",
+      "name": "xero2kool",
       "shinies": 334
     },
     {
       "rank": 1167,
-      "name": "xntrv60",
+      "name": "xmrnightfuryx",
       "shinies": 334
     },
     {
       "rank": 1168,
-      "name": "xtzmx04",
+      "name": "xntrv60",
       "shinies": 334
     },
     {
       "rank": 1169,
-      "name": "yamchiiir",
+      "name": "xtzmx04",
       "shinies": 334
     },
     {
       "rank": 1170,
-      "name": "yhlfm83",
+      "name": "yamchiiir",
       "shinies": 334
     },
     {
       "rank": 1171,
-      "name": "ykcqh83",
+      "name": "yhlfm83",
       "shinies": 334
     },
     {
       "rank": 1172,
-      "name": "yume_cast",
+      "name": "ykcqh83",
       "shinies": 334
     },
     {
       "rank": 1173,
-      "name": "yvqnl04",
+      "name": "yume_cast",
       "shinies": 334
     },
     {
       "rank": 1174,
-      "name": "zeflinggaming",
+      "name": "yvqnl04",
       "shinies": 334
     },
     {
       "rank": 1175,
-      "name": "ziiggzag",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 1176,
-      "name": "zmnfilippo",
+      "name": "ziiggzag",
       "shinies": 334
     },
     {
       "rank": 1177,
-      "name": "zongtg",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 1178,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 1179,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 1180,
       "name": "smokey_foo",
       "shinies": 318
     },
     {
-      "rank": 1180,
+      "rank": 1181,
       "name": "mvpeteno",
       "shinies": 168
     }
