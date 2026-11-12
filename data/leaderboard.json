@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794510039,
+  "generatedAt": 1794510646,
   "totalViewers": 1181,
-  "totalShinies": 4481044,
+  "totalShinies": 4481378,
   "pageSize": 100,
   "entries": [
     {
@@ -296,33 +296,33 @@
     },
     {
       "rank": 59,
+      "name": "esebian_",
+      "shinies": 13682
+    },
+    {
+      "rank": 60,
       "name": "westcanada",
       "shinies": 13674
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "kingjaos",
       "shinies": 13658
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "professor_bar",
       "shinies": 13634
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "kirinokirino",
       "shinies": 13558
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "hellzi3",
       "shinies": 13496
-    },
-    {
-      "rank": 64,
-      "name": "esebian_",
-      "shinies": 13348
     },
     {
       "rank": 65,
