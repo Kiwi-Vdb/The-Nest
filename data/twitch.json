@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1794497006,
-  "clipsUpdatedAt": 1794427737,
+  "statusUpdatedAt": 1794497036,
+  "clipsUpdatedAt": 1794497056,
   "clips": [
+    {
+      "id": "DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
+      "title": "VDB Sexual Education",
+      "url": "https://www.twitch.tv/itsvdb/clip/DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0ba78c94-b0bb-4e9a-a12d-09b1358a39d3/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 35.8,
+      "createdAt": "2026-11-12T15:16:13Z"
+    },
     {
       "id": "HungryManlyPorpoiseNotATK--1SoEulpLYBqX4vI",
       "title": "First Kill of Season 2",
@@ -69,16 +79,6 @@
       "views": 15,
       "duration": 8.0,
       "createdAt": "2026-09-14T15:20:22Z"
-    },
-    {
-      "id": "ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
-      "title": "When flips go wrong",
-      "url": "https://www.twitch.tv/itsvdb/clip/ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=ResourcefulVictoriousDelicataNerfRedBlaster-Si7NogzEmhisoY9j",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/331afea2-9eca-495d-8ec2-551b1a576a93/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 8,
-      "duration": 31.3,
-      "createdAt": "2026-09-11T06:33:57Z"
     }
   ]
 }
