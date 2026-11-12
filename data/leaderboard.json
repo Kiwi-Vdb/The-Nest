@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794488928,
+  "generatedAt": 1794489026,
   "totalViewers": 1152,
-  "totalShinies": 4368570,
+  "totalShinies": 4369204,
   "pageSize": 100,
   "entries": [
     {
@@ -82,7 +82,7 @@
     {
       "rank": 16,
       "name": "massivemankey",
-      "shinies": 43500
+      "shinies": 43650
     },
     {
       "rank": 17,
@@ -181,18 +181,18 @@
     },
     {
       "rank": 36,
+      "name": "axolotl_eu",
+      "shinies": 22302
+    },
+    {
+      "rank": 37,
       "name": "pownage227",
       "shinies": 22282
     },
     {
-      "rank": 37,
+      "rank": 38,
       "name": "imth3apollo",
       "shinies": 22224
-    },
-    {
-      "rank": 38,
-      "name": "axolotl_eu",
-      "shinies": 21818
     },
     {
       "rank": 39,
