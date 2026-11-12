@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794489232,
+  "generatedAt": 1794489269,
   "rotationGeneratedAt": 1794427734,
   "nextRotationAt": 1794514134,
   "rotationHours": 24,
@@ -10,7 +10,7 @@
       "group": "viewer",
       "icon": "✦",
       "title": "Shiny Hoarder",
-      "copy": "bot_kiwi_birb leads the flock with 303,982 Shinies."
+      "copy": "bot_kiwi_birb leads the flock with 304,982 Shinies."
     },
     {
       "category": "biggest_prediction_prize",
@@ -24,7 +24,7 @@
       "group": "community",
       "icon": "✦",
       "title": "Community Fortune",
-      "copy": "The flock currently holds 4,369,538 Shinies."
+      "copy": "The flock currently holds 4,370,538 Shinies."
     }
   ]
 }
