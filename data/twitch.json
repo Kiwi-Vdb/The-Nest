@@ -28,7 +28,7 @@
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
   "statusUpdatedAt": 1794582454,
-  "clipsUpdatedAt": 1794498267,
+  "clipsUpdatedAt": 1794582456,
   "clips": [
     {
       "id": "DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "embedUrl": "https://clips.twitch.tv/embed?clip=DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0ba78c94-b0bb-4e9a-a12d-09b1358a39d3/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 4,
+      "views": 5,
       "duration": 35.8,
       "createdAt": "2026-11-12T15:16:13Z"
     },
