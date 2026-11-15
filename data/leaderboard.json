@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794748272,
+  "generatedAt": 1794748452,
   "totalViewers": 1181,
-  "totalShinies": 4533592,
+  "totalShinies": 4534592,
   "pageSize": 100,
   "entries": [
     {
@@ -286,18 +286,18 @@
     },
     {
       "rank": 57,
+      "name": "tdostalker",
+      "shinies": 14722
+    },
+    {
+      "rank": 58,
       "name": "snoopa_aoe",
       "shinies": 14058
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "freakofnature122",
       "shinies": 13822
-    },
-    {
-      "rank": 59,
-      "name": "tdostalker",
-      "shinies": 13722
     },
     {
       "rank": 60,
