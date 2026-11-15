@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794751873,
+  "generatedAt": 1794752053,
   "totalViewers": 1181,
-  "totalShinies": 4538926,
+  "totalShinies": 4539926,
   "pageSize": 100,
   "entries": [
     {
@@ -271,23 +271,23 @@
     },
     {
       "rank": 54,
+      "name": "tdostalker",
+      "shinies": 15722
+    },
+    {
+      "rank": 55,
       "name": "goliathmaroof",
       "shinies": 15246
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "dhisame",
       "shinies": 15096
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "goobmilk",
       "shinies": 15094
-    },
-    {
-      "rank": 57,
-      "name": "tdostalker",
-      "shinies": 14722
     },
     {
       "rank": 58,
