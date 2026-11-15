@@ -1,23 +1,23 @@
 {
-  "generatedAt": 1794597181,
-  "rotationGeneratedAt": 1794514346,
-  "nextRotationAt": 1794600746,
+  "generatedAt": 1794740336,
+  "rotationGeneratedAt": 1794740336,
+  "nextRotationAt": 1794826736,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "loot_box_champion",
+      "category": "largest_balance",
       "group": "viewer",
-      "icon": "◇",
-      "title": "Loot Box Legend",
-      "copy": "itsvdb has opened 41 loot boxes."
+      "icon": "✦",
+      "title": "Shiny Hoarder",
+      "copy": "bot_kiwi_birb leads the flock with 316,316 Shinies."
     },
     {
-      "category": "latest_unlock",
+      "category": "biggest_prediction_prize",
       "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "itsvdb unlocked Yellow Raincoat (Common)."
+      "icon": "✓",
+      "title": "Biggest Prediction Prize",
+      "copy": "4 viewers won 69,000 Shinies each on “Will the VDB build pay off?”."
     },
     {
       "category": "community_loot_boxes",
