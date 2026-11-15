@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794749653,
+  "generatedAt": 1794749900,
   "totalViewers": 1181,
-  "totalShinies": 4535592,
+  "totalShinies": 4535926,
   "pageSize": 100,
   "entries": [
     {
@@ -331,23 +331,23 @@
     },
     {
       "rank": 66,
+      "name": "sashkorin",
+      "shinies": 13308
+    },
+    {
+      "rank": 67,
       "name": "warriot",
       "shinies": 13124
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "coffeeconceder",
       "shinies": 13088
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "globe2deag",
       "shinies": 12980
-    },
-    {
-      "rank": 69,
-      "name": "sashkorin",
-      "shinies": 12974
     },
     {
       "rank": 70,
