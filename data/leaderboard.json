@@ -1,13 +1,13 @@
 {
-  "generatedAt": 1794827753,
+  "generatedAt": 1794827937,
   "totalViewers": 1183,
-  "totalShinies": 4583344,
+  "totalShinies": 4585344,
   "pageSize": 100,
   "entries": [
     {
       "rank": 1,
       "name": "bot_kiwi_birb",
-      "shinies": 321984
+      "shinies": 322984
     },
     {
       "rank": 2,
@@ -131,18 +131,18 @@
     },
     {
       "rank": 26,
+      "name": "kiddorox",
+      "shinies": 30344
+    },
+    {
+      "rank": 27,
       "name": "ilotusuk",
       "shinies": 29454
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "alishhk",
       "shinies": 29416
-    },
-    {
-      "rank": 28,
-      "name": "kiddorox",
-      "shinies": 29344
     },
     {
       "rank": 29,
