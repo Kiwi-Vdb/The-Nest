@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794852361,
+  "generatedAt": 1794852730,
   "totalViewers": 1189,
-  "totalShinies": 4626346,
+  "totalShinies": 4626680,
   "pageSize": 100,
   "entries": [
     {
@@ -661,43 +661,43 @@
     },
     {
       "rank": 132,
+      "name": "maratus0612",
+      "shinies": 6972
+    },
+    {
+      "rank": 133,
       "name": "the_electron97",
       "shinies": 6858
     },
     {
-      "rank": 133,
+      "rank": 134,
       "name": "jjones666",
       "shinies": 6822
     },
     {
-      "rank": 134,
+      "rank": 135,
       "name": "neugrenade",
       "shinies": 6820
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "thechronographer",
       "shinies": 6788
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "d_roi_d",
       "shinies": 6670
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "greekobratko1",
       "shinies": 6670
     },
     {
-      "rank": 138,
+      "rank": 139,
       "name": "billysboy16",
       "shinies": 6668
-    },
-    {
-      "rank": 139,
-      "name": "maratus0612",
-      "shinies": 6638
     },
     {
       "rank": 140,
