@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794850336,
+  "generatedAt": 1794850485,
   "totalViewers": 1188,
-  "totalShinies": 4610040,
+  "totalShinies": 4612040,
   "pageSize": 100,
   "entries": [
     {
@@ -27,7 +27,7 @@
     {
       "rank": 5,
       "name": "bar_outofmana",
-      "shinies": 85700
+      "shinies": 86700
     },
     {
       "rank": 6,
@@ -146,13 +146,13 @@
     },
     {
       "rank": 29,
-      "name": "tallerofin",
-      "shinies": 25892
+      "name": "ibonbe",
+      "shinies": 26008
     },
     {
       "rank": 30,
-      "name": "ibonbe",
-      "shinies": 25008
+      "name": "tallerofin",
+      "shinies": 25892
     },
     {
       "rank": 31,
