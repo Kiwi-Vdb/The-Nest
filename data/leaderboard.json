@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794854384,
+  "generatedAt": 1794854504,
   "totalViewers": 1191,
-  "totalShinies": 4636652,
+  "totalShinies": 4637652,
   "pageSize": 100,
   "entries": [
     {
@@ -186,18 +186,18 @@
     },
     {
       "rank": 37,
+      "name": "hells_hound_",
+      "shinies": 22944
+    },
+    {
+      "rank": 38,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 38,
+      "rank": 39,
       "name": "pownage227",
       "shinies": 22616
-    },
-    {
-      "rank": 39,
-      "name": "hells_hound_",
-      "shinies": 21944
     },
     {
       "rank": 40,
