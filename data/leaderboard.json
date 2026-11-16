@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794825906,
+  "generatedAt": 1794825932,
   "totalViewers": 1183,
-  "totalShinies": 4573540,
+  "totalShinies": 4573874,
   "pageSize": 100,
   "entries": [
     {
@@ -386,33 +386,33 @@
     },
     {
       "rank": 77,
+      "name": "watchthefort",
+      "shinies": 11340
+    },
+    {
+      "rank": 78,
       "name": "pauperbanaan",
       "shinies": 11240
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "mlem86",
       "shinies": 11154
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 80,
+      "rank": 81,
       "name": "hexu0x",
       "shinies": 11008
     },
     {
-      "rank": 81,
+      "rank": 82,
       "name": "sewer_strutt",
       "shinies": 11008
-    },
-    {
-      "rank": 82,
-      "name": "watchthefort",
-      "shinies": 11006
     },
     {
       "rank": 83,
