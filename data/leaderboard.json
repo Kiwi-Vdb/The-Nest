@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794821549,
+  "generatedAt": 1794821583,
   "totalViewers": 1182,
-  "totalShinies": 4551810,
+  "totalShinies": 4553810,
   "pageSize": 100,
   "entries": [
     {
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "hunbleeone",
-      "shinies": 109559
+      "shinies": 110559
     },
     {
       "rank": 4,
@@ -276,23 +276,23 @@
     },
     {
       "rank": 55,
+      "name": "snoopa_aoe",
+      "shinies": 15542
+    },
+    {
+      "rank": 56,
       "name": "dhisame",
       "shinies": 15096
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "goobmilk",
       "shinies": 15094
     },
     {
-      "rank": 57,
+      "rank": 58,
       "name": "goliathmaroof",
       "shinies": 15080
-    },
-    {
-      "rank": 58,
-      "name": "snoopa_aoe",
-      "shinies": 14542
     },
     {
       "rank": 59,
