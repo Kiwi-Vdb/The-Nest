@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794854924,
+  "generatedAt": 1794855016,
   "totalViewers": 1191,
-  "totalShinies": 4643654,
+  "totalShinies": 4644322,
   "pageSize": 100,
   "entries": [
     {
@@ -52,7 +52,7 @@
     {
       "rank": 10,
       "name": "lpalochka",
-      "shinies": 68476
+      "shinies": 68810
     },
     {
       "rank": 11,
@@ -316,18 +316,18 @@
     },
     {
       "rank": 63,
+      "name": "westcanada",
+      "shinies": 14008
+    },
+    {
+      "rank": 64,
       "name": "freakofnature122",
       "shinies": 13822
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "esebian_",
       "shinies": 13682
-    },
-    {
-      "rank": 65,
-      "name": "westcanada",
-      "shinies": 13674
     },
     {
       "rank": 66,
