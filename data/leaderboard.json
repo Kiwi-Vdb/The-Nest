@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794821813,
+  "generatedAt": 1794821875,
   "totalViewers": 1182,
-  "totalShinies": 4554312,
+  "totalShinies": 4554646,
   "pageSize": 100,
   "entries": [
     {
@@ -211,18 +211,18 @@
     },
     {
       "rank": 42,
+      "name": "hells_hound_",
+      "shinies": 19610
+    },
+    {
+      "rank": 43,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "1shadowcreature",
       "shinies": 19304
-    },
-    {
-      "rank": 44,
-      "name": "hells_hound_",
-      "shinies": 19276
     },
     {
       "rank": 45,
