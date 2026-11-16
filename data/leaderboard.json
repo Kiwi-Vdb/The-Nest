@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794826313,
+  "generatedAt": 1794826493,
   "totalViewers": 1183,
-  "totalShinies": 4578542,
+  "totalShinies": 4579542,
   "pageSize": 100,
   "entries": [
     {
@@ -296,28 +296,28 @@
     },
     {
       "rank": 59,
+      "name": "sashkorin",
+      "shinies": 14642
+    },
+    {
+      "rank": 60,
       "name": "freakofnature122",
       "shinies": 13822
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "esebian_",
       "shinies": 13682
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "westcanada",
       "shinies": 13674
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "kingjaos",
       "shinies": 13658
-    },
-    {
-      "rank": 63,
-      "name": "sashkorin",
-      "shinies": 13642
     },
     {
       "rank": 64,
