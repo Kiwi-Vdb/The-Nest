@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794827353,
+  "generatedAt": 1794827379,
   "totalViewers": 1183,
-  "totalShinies": 4578876,
+  "totalShinies": 4578376,
   "pageSize": 100,
   "entries": [
     {
@@ -641,33 +641,33 @@
     },
     {
       "rank": 128,
-      "name": "the_electron97",
-      "shinies": 7208
-    },
-    {
-      "rank": 129,
       "name": "phenomenejbd",
       "shinies": 7158
     },
     {
-      "rank": 130,
+      "rank": 129,
       "name": "chrisgw",
       "shinies": 7156
     },
     {
-      "rank": 131,
+      "rank": 130,
       "name": "mocrami",
       "shinies": 7124
     },
     {
-      "rank": 132,
+      "rank": 131,
       "name": "neugrenade",
       "shinies": 6820
     },
     {
-      "rank": 133,
+      "rank": 132,
       "name": "thechronographer",
       "shinies": 6788
+    },
+    {
+      "rank": 133,
+      "name": "the_electron97",
+      "shinies": 6708
     },
     {
       "rank": 134,
