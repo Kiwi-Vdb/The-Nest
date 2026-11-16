@@ -27,16 +27,26 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1794848976,
-  "clipsUpdatedAt": 1794582456,
+  "statusUpdatedAt": 1794849007,
+  "clipsUpdatedAt": 1794849007,
   "clips": [
+    {
+      "id": "AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
+      "title": "nice titan still got out",
+      "url": "https://www.twitch.tv/itsvdb/clip/AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8933f20c-5a4c-4164-a21e-894c2c388c57/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 30.0,
+      "createdAt": "2026-11-16T17:02:38Z"
+    },
     {
       "id": "DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "title": "VDB Sexual Education",
       "url": "https://www.twitch.tv/itsvdb/clip/DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "embedUrl": "https://clips.twitch.tv/embed?clip=DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0ba78c94-b0bb-4e9a-a12d-09b1358a39d3/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 5,
+      "views": 6,
       "duration": 35.8,
       "createdAt": "2026-11-12T15:16:13Z"
     },
@@ -69,16 +79,6 @@
       "views": 29,
       "duration": 30.0,
       "createdAt": "2026-09-20T14:12:14Z"
-    },
-    {
-      "id": "BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
-      "title": "No safe space for chopper",
-      "url": "https://www.twitch.tv/itsvdb/clip/BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=BrightSteamySangCoolCat-7cUF3X48N0pye0sp",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9a2827ce-2afb-4f85-bd1e-3f8d460ebe6d/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 15,
-      "duration": 8.0,
-      "createdAt": "2026-09-14T15:20:22Z"
     }
   ]
 }
