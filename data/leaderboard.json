@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794826493,
+  "generatedAt": 1794826583,
   "totalViewers": 1183,
-  "totalShinies": 4579542,
+  "totalShinies": 4579876,
   "pageSize": 100,
   "entries": [
     {
@@ -1026,72 +1026,72 @@
     },
     {
       "rank": 205,
+      "name": "rgricus",
+      "shinies": 4338
+    },
+    {
+      "rank": 206,
       "name": "grazzabee",
       "shinies": 4336
     },
     {
-      "rank": 206,
+      "rank": 207,
       "name": "obblinox",
       "shinies": 4336
     },
     {
-      "rank": 207,
+      "rank": 208,
       "name": "stanrj_",
       "shinies": 4336
     },
     {
-      "rank": 208,
+      "rank": 209,
       "name": "kikojuks16",
       "shinies": 4334
     },
     {
-      "rank": 209,
+      "rank": 210,
       "name": "rovender",
       "shinies": 4334
     },
     {
-      "rank": 210,
+      "rank": 211,
       "name": "floorbee",
       "shinies": 4306
     },
     {
-      "rank": 211,
+      "rank": 212,
       "name": "shadowisperke",
       "shinies": 4306
     },
     {
-      "rank": 212,
+      "rank": 213,
       "name": "eunice1000",
       "shinies": 4302
     },
     {
-      "rank": 213,
+      "rank": 214,
       "name": "regularlyunderperforming",
       "shinies": 4152
     },
     {
-      "rank": 214,
+      "rank": 215,
       "name": "zitinerant",
       "shinies": 4140
     },
     {
-      "rank": 215,
+      "rank": 216,
       "name": "akaswistu",
       "shinies": 4120
     },
     {
-      "rank": 216,
+      "rank": 217,
       "name": "destrinite",
       "shinies": 4120
     },
     {
-      "rank": 217,
-      "name": "fiddler112",
-      "shinies": 4004
-    },
-    {
       "rank": 218,
-      "name": "rgricus",
+      "name": "fiddler112",
       "shinies": 4004
     },
     {
