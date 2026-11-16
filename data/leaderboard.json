@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794851168,
+  "generatedAt": 1794851263,
   "totalViewers": 1188,
-  "totalShinies": 4618858,
+  "totalShinies": 4619858,
   "pageSize": 100,
   "entries": [
     {
@@ -286,23 +286,23 @@
     },
     {
       "rank": 57,
+      "name": "wholooksform3",
+      "shinies": 15512
+    },
+    {
+      "rank": 58,
       "name": "dhisame",
       "shinies": 15096
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "goobmilk",
       "shinies": 15094
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "sashkorin",
       "shinies": 14642
-    },
-    {
-      "rank": 60,
-      "name": "wholooksform3",
-      "shinies": 14512
     },
     {
       "rank": 61,
