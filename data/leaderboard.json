@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794851780,
+  "generatedAt": 1794851969,
   "totalViewers": 1188,
-  "totalShinies": 4623860,
+  "totalShinies": 4624010,
   "pageSize": 100,
   "entries": [
     {
@@ -2906,32 +2906,32 @@
     },
     {
       "rank": 581,
-      "name": "emef2k",
+      "name": "crimsco",
       "shinies": 968
     },
     {
       "rank": 582,
-      "name": "open_420",
+      "name": "emef2k",
       "shinies": 968
     },
     {
       "rank": 583,
-      "name": "zerodivide1",
+      "name": "open_420",
       "shinies": 968
     },
     {
       "rank": 584,
+      "name": "zerodivide1",
+      "shinies": 968
+    },
+    {
+      "rank": 585,
       "name": "apm_flyingduck",
       "shinies": 818
     },
     {
-      "rank": 585,
-      "name": "bouffeurde3080",
-      "shinies": 818
-    },
-    {
       "rank": 586,
-      "name": "crimsco",
+      "name": "bouffeurde3080",
       "shinies": 818
     },
     {
