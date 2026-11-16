@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794817346,
+  "generated_at": 1794817569,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -13842,10 +13842,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-plasma-pulse",
-        "name": "Plasma Pulse Text",
+        "id": "text-frozen-shatter",
+        "name": "Frozen Shatter Text",
         "rarity": "epic",
-        "class_name": "text-plasma-pulse"
+        "class_name": "text-frozen-shatter"
       },
       "loot_boxes_opened": 41,
       "recent_unlocks": [
