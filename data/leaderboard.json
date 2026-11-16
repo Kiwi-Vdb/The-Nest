@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794827379,
+  "generatedAt": 1794827408,
   "totalViewers": 1183,
-  "totalShinies": 4578376,
+  "totalShinies": 4578526,
   "pageSize": 100,
   "entries": [
     {
@@ -656,18 +656,18 @@
     },
     {
       "rank": 131,
+      "name": "the_electron97",
+      "shinies": 6858
+    },
+    {
+      "rank": 132,
       "name": "neugrenade",
       "shinies": 6820
     },
     {
-      "rank": 132,
+      "rank": 133,
       "name": "thechronographer",
       "shinies": 6788
-    },
-    {
-      "rank": 133,
-      "name": "the_electron97",
-      "shinies": 6708
     },
     {
       "rank": 134,
