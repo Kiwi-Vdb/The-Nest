@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794846259,
+  "generatedAt": 1794846880,
   "totalViewers": 1186,
-  "totalShinies": 4598488,
+  "totalShinies": 4599156,
   "pageSize": 100,
   "entries": [
     {
@@ -27,7 +27,7 @@
     {
       "rank": 5,
       "name": "bar_outofmana",
-      "shinies": 85216
+      "shinies": 85550
     },
     {
       "rank": 6,
@@ -151,13 +151,13 @@
     },
     {
       "rank": 30,
-      "name": "dog1isopen",
-      "shinies": 24914
+      "name": "ibonbe",
+      "shinies": 25008
     },
     {
       "rank": 31,
-      "name": "ibonbe",
-      "shinies": 24674
+      "name": "dog1isopen",
+      "shinies": 24914
     },
     {
       "rank": 32,
