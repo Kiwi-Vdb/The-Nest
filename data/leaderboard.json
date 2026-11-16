@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794846058,
+  "generatedAt": 1794846079,
   "totalViewers": 1186,
-  "totalShinies": 4599170,
+  "totalShinies": 4598004,
   "pageSize": 100,
   "entries": [
     {
@@ -57,7 +57,7 @@
     {
       "rank": 11,
       "name": "itsvdb",
-      "shinies": 65300
+      "shinies": 63800
     },
     {
       "rank": 12,
@@ -341,33 +341,33 @@
     },
     {
       "rank": 68,
+      "name": "watchthefort",
+      "shinies": 13174
+    },
+    {
+      "rank": 69,
       "name": "zoowieke",
       "shinies": 13166
     },
     {
-      "rank": 69,
+      "rank": 70,
       "name": "warriot",
       "shinies": 13124
     },
     {
-      "rank": 70,
+      "rank": 71,
       "name": "coffeeconceder",
       "shinies": 13088
     },
     {
-      "rank": 71,
+      "rank": 72,
       "name": "globe2deag",
       "shinies": 12980
     },
     {
-      "rank": 72,
+      "rank": 73,
       "name": "toszii",
       "shinies": 12974
-    },
-    {
-      "rank": 73,
-      "name": "watchthefort",
-      "shinies": 12840
     },
     {
       "rank": 74,
