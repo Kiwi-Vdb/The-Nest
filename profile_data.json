@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794907138,
+  "generated_at": 1794907146,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -28209,6 +28209,12 @@
       },
       "cosmetics_unlocked": [
         {
+          "id": "kiwi:eyes:pixel-blue-irises",
+          "name": "Blue Irises",
+          "category": "Kiwi Eye Colour",
+          "rarity": "common"
+        },
+        {
           "id": "kiwi:eyes:pixel-amber-irises",
           "name": "Amber Irises",
           "category": "Kiwi Eye Colour",
@@ -28282,7 +28288,7 @@
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 5,
+        "cosmetics_unlocked": 6,
         "cosmetics_available": 47,
         "text_effects_unlocked": 1,
         "text_effects_available": 25,
