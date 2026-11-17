@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794912801,
+  "generatedAt": 1794912865,
   "totalViewers": 1197,
-  "totalShinies": 4678372,
+  "totalShinies": 4678706,
   "pageSize": 100,
   "entries": [
     {
@@ -406,28 +406,28 @@
     },
     {
       "rank": 81,
+      "name": "bizzyrex",
+      "shinies": 11123
+    },
+    {
+      "rank": 82,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "hexu0x",
       "shinies": 11008
     },
     {
-      "rank": 83,
+      "rank": 84,
       "name": "sewer_strutt",
       "shinies": 11008
     },
     {
-      "rank": 84,
+      "rank": 85,
       "name": "liarturil",
       "shinies": 10976
-    },
-    {
-      "rank": 85,
-      "name": "bizzyrex",
-      "shinies": 10789
     },
     {
       "rank": 86,
