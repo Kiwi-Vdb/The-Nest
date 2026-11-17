@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1794927073,
-  "clipsUpdatedAt": 1794909003,
+  "statusUpdatedAt": 1794927103,
+  "clipsUpdatedAt": 1794927089,
   "clips": [
     {
       "id": "AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
       "embedUrl": "https://clips.twitch.tv/embed?clip=AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8933f20c-5a4c-4164-a21e-894c2c388c57/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 3,
+      "views": 4,
       "duration": 30.0,
       "createdAt": "2026-11-16T17:02:38Z"
     },
