@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794925588,
+  "generatedAt": 1794925814,
   "totalViewers": 1205,
-  "totalShinies": 4775528,
+  "totalShinies": 4775678,
   "pageSize": 100,
   "entries": [
     {
@@ -501,18 +501,18 @@
     },
     {
       "rank": 100,
+      "name": "luxa3t3rna",
+      "shinies": 9492
+    },
+    {
+      "rank": 101,
       "name": "dzikimg",
       "shinies": 9488
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "jimmy_norris",
       "shinies": 9486
-    },
-    {
-      "rank": 102,
-      "name": "luxa3t3rna",
-      "shinies": 9342
     },
     {
       "rank": 103,
