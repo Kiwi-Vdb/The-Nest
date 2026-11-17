@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794917841,
+  "generatedAt": 1794917867,
   "totalViewers": 1205,
-  "totalShinies": 4715612,
+  "totalShinies": 4715946,
   "pageSize": 100,
   "entries": [
     {
@@ -501,18 +501,18 @@
     },
     {
       "rank": 100,
+      "name": "dzikimg",
+      "shinies": 9488
+    },
+    {
+      "rank": 101,
       "name": "jimmy_norris",
       "shinies": 9486
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "cmdr_zod",
       "shinies": 9242
-    },
-    {
-      "rank": 102,
-      "name": "dzikimg",
-      "shinies": 9154
     },
     {
       "rank": 103,
