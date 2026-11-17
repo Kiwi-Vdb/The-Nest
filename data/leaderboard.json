@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794923242,
+  "generatedAt": 1794923362,
   "totalViewers": 1205,
-  "totalShinies": 4759586,
+  "totalShinies": 4760586,
   "pageSize": 100,
   "entries": [
     {
@@ -246,28 +246,28 @@
     },
     {
       "rank": 49,
+      "name": "sashkorin",
+      "shinies": 18976
+    },
+    {
+      "rank": 50,
       "name": "goliathmaroof",
       "shinies": 18414
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "jermeis7er",
       "shinies": 18342
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "oafsalot",
       "shinies": 18340
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "watchthefort",
       "shinies": 18008
-    },
-    {
-      "rank": 53,
-      "name": "sashkorin",
-      "shinies": 17976
     },
     {
       "rank": 54,
