@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794913232,
+  "generatedAt": 1794913459,
   "totalViewers": 1197,
-  "totalShinies": 4679524,
+  "totalShinies": 4680524,
   "pageSize": 100,
   "entries": [
     {
@@ -251,23 +251,23 @@
     },
     {
       "rank": 50,
+      "name": "wholooksform3",
+      "shinies": 17996
+    },
+    {
+      "rank": 51,
       "name": "12f5b0a",
       "shinies": 17670
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "bonghits4cthulhu",
       "shinies": 17394
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "goliathmaroof",
       "shinies": 17080
-    },
-    {
-      "rank": 53,
-      "name": "wholooksform3",
-      "shinies": 16996
     },
     {
       "rank": 54,
