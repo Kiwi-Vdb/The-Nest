@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794917363,
+  "generatedAt": 1794917420,
   "totalViewers": 1205,
-  "totalShinies": 4710128,
+  "totalShinies": 4711128,
   "pageSize": 100,
   "entries": [
     {
@@ -226,23 +226,23 @@
     },
     {
       "rank": 45,
+      "name": "snoopa_aoe",
+      "shinies": 19526
+    },
+    {
+      "rank": 46,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "lordjammacus",
       "shinies": 19174
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "wholooksform3",
       "shinies": 18996
-    },
-    {
-      "rank": 48,
-      "name": "snoopa_aoe",
-      "shinies": 18526
     },
     {
       "rank": 49,
