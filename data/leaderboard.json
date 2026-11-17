@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794916400,
+  "generatedAt": 1794916520,
   "totalViewers": 1205,
-  "totalShinies": 4704794,
+  "totalShinies": 4705794,
   "pageSize": 100,
   "entries": [
     {
@@ -386,23 +386,23 @@
     },
     {
       "rank": 77,
+      "name": "bizzyrex",
+      "shinies": 12273
+    },
+    {
+      "rank": 78,
       "name": "blopson",
       "shinies": 12176
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "nightfalldeceit",
       "shinies": 11760
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "pauperbanaan",
       "shinies": 11574
-    },
-    {
-      "rank": 80,
-      "name": "bizzyrex",
-      "shinies": 11273
     },
     {
       "rank": 81,
