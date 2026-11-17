@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794910811,
+  "generatedAt": 1794911382,
   "totalViewers": 1196,
-  "totalShinies": 4668582,
+  "totalShinies": 4668916,
   "pageSize": 100,
   "entries": [
     {
@@ -506,28 +506,28 @@
     },
     {
       "rank": 101,
+      "name": "cmdr_zod",
+      "shinies": 9242
+    },
+    {
+      "rank": 102,
       "name": "dzikimg",
       "shinies": 9154
     },
     {
-      "rank": 102,
+      "rank": 103,
       "name": "heavywater00",
       "shinies": 9008
     },
     {
-      "rank": 103,
+      "rank": 104,
       "name": "luxa3t3rna",
       "shinies": 9008
     },
     {
-      "rank": 104,
+      "rank": 105,
       "name": "tjallex",
       "shinies": 9004
-    },
-    {
-      "rank": 105,
-      "name": "cmdr_zod",
-      "shinies": 8908
     },
     {
       "rank": 106,
