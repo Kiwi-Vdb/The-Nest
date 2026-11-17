@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794927444,
+  "generatedAt": 1794927467,
   "totalViewers": 1206,
-  "totalShinies": 4799298,
+  "totalShinies": 4799632,
   "pageSize": 100,
   "entries": [
     {
@@ -691,27 +691,27 @@
     },
     {
       "rank": 138,
+      "name": "d_roi_d",
+      "shinies": 7004
+    },
+    {
+      "rank": 139,
       "name": "maratus0612",
       "shinies": 6972
     },
     {
-      "rank": 139,
+      "rank": 140,
       "name": "xflame",
       "shinies": 6940
     },
     {
-      "rank": 140,
+      "rank": 141,
       "name": "thechronographer",
       "shinies": 6788
     },
     {
-      "rank": 141,
-      "name": "chronicsonic",
-      "shinies": 6670
-    },
-    {
       "rank": 142,
-      "name": "d_roi_d",
+      "name": "chronicsonic",
       "shinies": 6670
     },
     {
