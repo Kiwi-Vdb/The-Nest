@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794929124,
+  "generatedAt": 1794929207,
   "totalViewers": 1207,
-  "totalShinies": 4816452,
+  "totalShinies": 4816602,
   "pageSize": 100,
   "entries": [
     {
@@ -941,23 +941,23 @@
     },
     {
       "rank": 188,
+      "name": "serendipitous_liquidator",
+      "shinies": 4940
+    },
+    {
+      "rank": 189,
       "name": "nurse_asemi",
       "shinies": 4826
     },
     {
-      "rank": 189,
+      "rank": 190,
       "name": "avum",
       "shinies": 4820
     },
     {
-      "rank": 190,
+      "rank": 191,
       "name": "primalgamingnexus",
       "shinies": 4820
-    },
-    {
-      "rank": 191,
-      "name": "serendipitous_liquidator",
-      "shinies": 4790
     },
     {
       "rank": 192,
