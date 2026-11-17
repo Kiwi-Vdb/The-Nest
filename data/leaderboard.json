@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794957534,
+  "generatedAt": 1794957556,
   "totalViewers": 1211,
-  "totalShinies": 4863544,
+  "totalShinies": 4863694,
   "pageSize": 100,
   "entries": [
     {
@@ -1401,17 +1401,17 @@
     },
     {
       "rank": 280,
+      "name": "xixfr",
+      "shinies": 3302
+    },
+    {
+      "rank": 281,
       "name": "tempest9867",
       "shinies": 3270
     },
     {
-      "rank": 281,
-      "name": "scrotaledema",
-      "shinies": 3152
-    },
-    {
       "rank": 282,
-      "name": "xixfr",
+      "name": "scrotaledema",
       "shinies": 3152
     },
     {
