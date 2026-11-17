@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1794906988,
+  "generatedAt": 1794907081,
   "count": 50,
   "activities": [
+    {
+      "id": "8116fd6add1746db",
+      "type": "unlock",
+      "who": "the_electron97",
+      "text": "unlocked Dog Ears",
+      "timestamp": 1794907073,
+      "rarity": "common",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "a6f26021e217bace",
       "type": "unlock",
@@ -491,16 +501,6 @@
       "rarity": "common",
       "category": "Kiwi Body",
       "rewardType": "cosmetic"
-    },
-    {
-      "id": "f72da340d58d40b7",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Supernova Text",
-      "timestamp": 1788358187,
-      "rarity": "legendary",
-      "category": "Text Effect",
-      "rewardType": "text effect"
     }
   ]
 }

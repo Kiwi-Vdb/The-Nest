@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794906988,
+  "generated_at": 1794907081,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -28199,7 +28199,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 7342,
+        "balance": 5342,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -28231,6 +28231,12 @@
           "name": "Pink Slippers",
           "category": "Kiwi Boots / Shoes",
           "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-dog-ears",
+          "name": "Dog Ears",
+          "category": "Kiwi Hat",
+          "rarity": "common"
         }
       ],
       "text_effects_unlocked": [
@@ -28248,8 +28254,16 @@
         "rarity": "legendary",
         "class_name": "text-portal"
       },
-      "loot_boxes_opened": 5,
+      "loot_boxes_opened": 6,
       "recent_unlocks": [
+        {
+          "name": "Dog Ears",
+          "category": "Kiwi Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1794907073
+        },
         {
           "name": "Pink Slippers",
           "category": "Kiwi Boots / Shoes",
@@ -28265,22 +28279,14 @@
           "type": "text_effect",
           "text_effect": "text-portal",
           "timestamp": 1793701951
-        },
-        {
-          "name": "Blue Sneakers",
-          "category": "Kiwi Boots / Shoes",
-          "rarity": "common",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1793459333
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 4,
+        "cosmetics_unlocked": 5,
         "cosmetics_available": 47,
         "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 5
+        "recent_unlocks": 6
       }
     },
     "the_joker1337": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794906988,
+  "generatedAt": 1794907081,
   "rotationGeneratedAt": 1794826970,
   "nextRotationAt": 1794913370,
   "rotationHours": 24,
@@ -17,14 +17,14 @@
       "group": "event",
       "icon": "✧",
       "title": "Fresh Unlock",
-      "copy": "the_electron97 unlocked Pink Slippers (Common)."
+      "copy": "the_electron97 unlocked Dog Ears (Common)."
     },
     {
       "category": "community_unlocks",
       "group": "community",
       "icon": "♛",
       "title": "Unlock Collection",
-      "copy": "Viewers have collected 153 cosmetics and text effects."
+      "copy": "Viewers have collected 154 cosmetics and text effects."
     }
   ]
 }
