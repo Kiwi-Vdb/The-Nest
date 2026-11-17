@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794923362,
+  "generatedAt": 1794923433,
   "totalViewers": 1205,
-  "totalShinies": 4760586,
+  "totalShinies": 4760920,
   "pageSize": 100,
   "entries": [
     {
@@ -81,13 +81,13 @@
     },
     {
       "rank": 16,
-      "name": "hobbitsenlive",
-      "shinies": 46682
+      "name": "cozzwald",
+      "shinies": 46704
     },
     {
       "rank": 17,
-      "name": "cozzwald",
-      "shinies": 46370
+      "name": "hobbitsenlive",
+      "shinies": 46682
     },
     {
       "rank": 18,
