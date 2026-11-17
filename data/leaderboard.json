@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794916520,
+  "generatedAt": 1794916712,
   "totalViewers": 1205,
-  "totalShinies": 4705794,
+  "totalShinies": 4706128,
   "pageSize": 100,
   "entries": [
     {
@@ -761,23 +761,23 @@
     },
     {
       "rank": 152,
+      "name": "rgricus",
+      "shinies": 6006
+    },
+    {
+      "rank": 153,
       "name": "arksalot",
       "shinies": 6002
     },
     {
-      "rank": 153,
+      "rank": 154,
       "name": "statesector",
       "shinies": 5822
     },
     {
-      "rank": 154,
+      "rank": 155,
       "name": "rowanmorseyt",
       "shinies": 5818
-    },
-    {
-      "rank": 155,
-      "name": "rgricus",
-      "shinies": 5672
     },
     {
       "rank": 156,
