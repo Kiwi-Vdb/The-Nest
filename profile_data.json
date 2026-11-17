@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794951213,
+  "generated_at": 1794951404,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -14255,10 +14255,10 @@
         }
       ],
       "current_text_effect": {
-        "id": "text-frozen-shatter",
-        "name": "Frozen Shatter Text",
-        "rarity": "epic",
-        "class_name": "text-frozen-shatter"
+        "id": "text-gift-box-surprise",
+        "name": "Gift Box Surprise Text",
+        "rarity": "legendary",
+        "class_name": "text-gift-box-surprise"
       },
       "loot_boxes_opened": 41,
       "recent_unlocks": [
