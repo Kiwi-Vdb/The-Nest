@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794927206,
+  "generatedAt": 1794927388,
   "totalViewers": 1206,
-  "totalShinies": 4797798,
+  "totalShinies": 4798298,
   "pageSize": 100,
   "entries": [
     {
@@ -92,7 +92,7 @@
     {
       "rank": 18,
       "name": "mesaber",
-      "shinies": 43132
+      "shinies": 44132
     },
     {
       "rank": 19,
@@ -246,18 +246,18 @@
     },
     {
       "rank": 49,
-      "name": "goliathmaroof",
-      "shinies": 19414
-    },
-    {
-      "rank": 50,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 51,
+      "rank": 50,
       "name": "lordjammacus",
       "shinies": 19174
+    },
+    {
+      "rank": 51,
+      "name": "goliathmaroof",
+      "shinies": 18914
     },
     {
       "rank": 52,
