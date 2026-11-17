@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794908925,
+  "generatedAt": 1794908978,
   "totalViewers": 1196,
-  "totalShinies": 4661756,
+  "totalShinies": 4662090,
   "pageSize": 100,
   "entries": [
     {
@@ -726,22 +726,22 @@
     },
     {
       "rank": 145,
+      "name": "derreinsteckfuchs",
+      "shinies": 6340
+    },
+    {
+      "rank": 146,
       "name": "meowcatmeowmeowcat",
       "shinies": 6126
     },
     {
-      "rank": 146,
+      "rank": 147,
       "name": "kotaotake",
       "shinies": 6104
     },
     {
-      "rank": 147,
-      "name": "01shimbo",
-      "shinies": 6006
-    },
-    {
       "rank": 148,
-      "name": "derreinsteckfuchs",
+      "name": "01shimbo",
       "shinies": 6006
     },
     {
