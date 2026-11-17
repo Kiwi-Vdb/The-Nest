@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794922354,
+  "generatedAt": 1794922548,
   "totalViewers": 1205,
-  "totalShinies": 4745434,
+  "totalShinies": 4746436,
   "pageSize": 100,
   "entries": [
     {
@@ -511,17 +511,17 @@
     },
     {
       "rank": 102,
+      "name": "luxa3t3rna",
+      "shinies": 9342
+    },
+    {
+      "rank": 103,
       "name": "cmdr_zod",
       "shinies": 9242
     },
     {
-      "rank": 103,
-      "name": "heavywater00",
-      "shinies": 9008
-    },
-    {
       "rank": 104,
-      "name": "luxa3t3rna",
+      "name": "heavywater00",
       "shinies": 9008
     },
     {
@@ -561,13 +561,13 @@
     },
     {
       "rank": 112,
-      "name": "justus541",
-      "shinies": 8340
+      "name": "oumuamua_i1",
+      "shinies": 8456
     },
     {
       "rank": 113,
-      "name": "oumuamua_i1",
-      "shinies": 8122
+      "name": "justus541",
+      "shinies": 8340
     },
     {
       "rank": 114,
@@ -676,23 +676,23 @@
     },
     {
       "rank": 135,
+      "name": "neugrenade",
+      "shinies": 7154
+    },
+    {
+      "rank": 136,
       "name": "rgricus",
       "shinies": 7006
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "maratus0612",
       "shinies": 6972
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "xflame",
       "shinies": 6940
-    },
-    {
-      "rank": 138,
-      "name": "neugrenade",
-      "shinies": 6820
     },
     {
       "rank": 139,
