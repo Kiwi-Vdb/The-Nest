@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794907424,
+  "generatedAt": 1794907559,
   "totalViewers": 1196,
-  "totalShinies": 4657816,
+  "totalShinies": 4658150,
   "pageSize": 100,
   "entries": [
     {
@@ -671,38 +671,38 @@
     },
     {
       "rank": 134,
+      "name": "xflame",
+      "shinies": 6940
+    },
+    {
+      "rank": 135,
       "name": "neugrenade",
       "shinies": 6820
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "thechronographer",
       "shinies": 6788
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "d_roi_d",
       "shinies": 6670
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "greekobratko1",
       "shinies": 6670
     },
     {
-      "rank": 138,
+      "rank": 139,
       "name": "billysboy16",
       "shinies": 6668
     },
     {
-      "rank": 139,
+      "rank": 140,
       "name": "bloodypage1",
       "shinies": 6636
-    },
-    {
-      "rank": 140,
-      "name": "xflame",
-      "shinies": 6606
     },
     {
       "rank": 141,
