@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1794918561,
+  "generatedAt": 1794918738,
   "count": 50,
   "activities": [
+    {
+      "id": "911b84cdf4e83cf6",
+      "type": "unlock",
+      "who": "gue88who",
+      "text": "unlocked Teal Text",
+      "timestamp": 1794918726,
+      "rarity": "common",
+      "category": "Text Effect",
+      "rewardType": "text effect"
+    },
     {
       "id": "ad771d4112894114",
       "type": "unlock",
@@ -489,16 +499,6 @@
       "text": "unlocked Duck Bill",
       "timestamp": 1788358535,
       "rarity": "common",
-      "category": "Kiwi Beak",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "cfbf38036c9e65e1",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Toucan Beak",
-      "timestamp": 1788358506,
-      "rarity": "rare",
       "category": "Kiwi Beak",
       "rewardType": "cosmetic"
     }

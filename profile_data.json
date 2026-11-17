@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794918561,
+  "generated_at": 1794918738,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -11151,7 +11151,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 2136,
+        "balance": 136,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -11160,16 +11160,33 @@
         "message": "Replaced by Shinies in Kiwi Birb v3.0.0."
       },
       "cosmetics_unlocked": [],
-      "text_effects_unlocked": [],
+      "text_effects_unlocked": [
+        {
+          "id": "text-teal",
+          "name": "Teal Text",
+          "rarity": "common",
+          "class_name": "text-teal",
+          "equip_command": "!equiptext Teal"
+        }
+      ],
       "current_text_effect": null,
-      "loot_boxes_opened": 0,
-      "recent_unlocks": [],
+      "loot_boxes_opened": 1,
+      "recent_unlocks": [
+        {
+          "name": "Teal Text",
+          "category": "Text Effect",
+          "rarity": "common",
+          "type": "text_effect",
+          "text_effect": "text-teal",
+          "timestamp": 1794918726
+        }
+      ],
       "totals": {
         "cosmetics_unlocked": 0,
         "cosmetics_available": 47,
-        "text_effects_unlocked": 0,
+        "text_effects_unlocked": 1,
         "text_effects_available": 25,
-        "recent_unlocks": 0
+        "recent_unlocks": 1
       }
     },
     "gvrxs05": {
