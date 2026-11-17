@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794958227,
+  "generatedAt": 1794958803,
   "totalViewers": 1211,
-  "totalShinies": 4865696,
+  "totalShinies": 4866030,
   "pageSize": 100,
   "entries": [
     {
@@ -671,33 +671,33 @@
     },
     {
       "rank": 134,
+      "name": "rgricus",
+      "shinies": 7340
+    },
+    {
+      "rank": 135,
       "name": "frydac",
       "shinies": 7336
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "themrduffy",
       "shinies": 7334
     },
     {
-      "rank": 136,
+      "rank": 137,
       "name": "phenomenejbd",
       "shinies": 7158
     },
     {
-      "rank": 137,
+      "rank": 138,
       "name": "chrisgw",
       "shinies": 7156
     },
     {
-      "rank": 138,
+      "rank": 139,
       "name": "neugrenade",
       "shinies": 7154
-    },
-    {
-      "rank": 139,
-      "name": "rgricus",
-      "shinies": 7006
     },
     {
       "rank": 140,
