@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794953246,
+  "generatedAt": 1794953491,
   "totalViewers": 1208,
-  "totalShinies": 4853548,
+  "totalShinies": 4853882,
   "pageSize": 100,
   "entries": [
     {
@@ -401,23 +401,23 @@
     },
     {
       "rank": 80,
+      "name": "luxa3t3rna",
+      "shinies": 11826
+    },
+    {
+      "rank": 81,
       "name": "nightfalldeceit",
       "shinies": 11760
     },
     {
-      "rank": 81,
+      "rank": 82,
       "name": "iyc2",
       "shinies": 11596
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "pauperbanaan",
       "shinies": 11574
-    },
-    {
-      "rank": 83,
-      "name": "luxa3t3rna",
-      "shinies": 11492
     },
     {
       "rank": 84,
