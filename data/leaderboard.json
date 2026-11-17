@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794917541,
+  "generatedAt": 1794917658,
   "totalViewers": 1205,
-  "totalShinies": 4713462,
+  "totalShinies": 4713612,
   "pageSize": 100,
   "entries": [
     {
@@ -671,18 +671,18 @@
     },
     {
       "rank": 134,
+      "name": "sugar_emre",
+      "shinies": 7088
+    },
+    {
+      "rank": 135,
       "name": "maratus0612",
       "shinies": 6972
     },
     {
-      "rank": 135,
+      "rank": 136,
       "name": "xflame",
       "shinies": 6940
-    },
-    {
-      "rank": 136,
-      "name": "sugar_emre",
-      "shinies": 6938
     },
     {
       "rank": 137,
