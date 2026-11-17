@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794913528,
+  "generatedAt": 1794913617,
   "totalViewers": 1197,
-  "totalShinies": 4680858,
+  "totalShinies": 4681358,
   "pageSize": 100,
   "entries": [
     {
@@ -291,18 +291,18 @@
     },
     {
       "rank": 58,
+      "name": "watchthefort",
+      "shinies": 16008
+    },
+    {
+      "rank": 59,
       "name": "hellzi3",
       "shinies": 15980
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "sashkorin",
       "shinies": 15976
-    },
-    {
-      "rank": 60,
-      "name": "watchthefort",
-      "shinies": 15508
     },
     {
       "rank": 61,
