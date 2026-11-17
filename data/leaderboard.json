@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794911747,
+  "generatedAt": 1794911971,
   "totalViewers": 1196,
-  "totalShinies": 4674068,
+  "totalShinies": 4674402,
   "pageSize": 100,
   "entries": [
     {
@@ -176,18 +176,18 @@
     },
     {
       "rank": 35,
+      "name": "axolotl_eu",
+      "shinies": 23636
+    },
+    {
+      "rank": 36,
       "name": "our_lord_and_savior_gonk",
       "shinies": 23366
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "axoim_",
       "shinies": 23348
-    },
-    {
-      "rank": 37,
-      "name": "axolotl_eu",
-      "shinies": 23302
     },
     {
       "rank": 38,
