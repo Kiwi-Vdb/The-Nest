@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794922715,
+  "generatedAt": 1794922802,
   "totalViewers": 1205,
-  "totalShinies": 4757436,
+  "totalShinies": 4758436,
   "pageSize": 100,
   "entries": [
     {
@@ -146,18 +146,18 @@
     },
     {
       "rank": 29,
+      "name": "axolotl_eu",
+      "shinies": 26786
+    },
+    {
+      "rank": 30,
       "name": "ibonbe",
       "shinies": 26342
     },
     {
-      "rank": 30,
+      "rank": 31,
       "name": "tallerofin",
       "shinies": 25892
-    },
-    {
-      "rank": 31,
-      "name": "axolotl_eu",
-      "shinies": 25786
     },
     {
       "rank": 32,
