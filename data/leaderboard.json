@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794923043,
+  "generatedAt": 1794923242,
   "totalViewers": 1205,
-  "totalShinies": 4758586,
+  "totalShinies": 4759586,
   "pageSize": 100,
   "entries": [
     {
@@ -316,13 +316,13 @@
     },
     {
       "rank": 63,
-      "name": "westcanada",
-      "shinies": 14342
+      "name": "ruwetuin",
+      "shinies": 15010
     },
     {
       "rank": 64,
-      "name": "ruwetuin",
-      "shinies": 14010
+      "name": "westcanada",
+      "shinies": 14342
     },
     {
       "rank": 65,
