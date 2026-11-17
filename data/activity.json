@@ -1,7 +1,17 @@
 {
-  "generatedAt": 1794915234,
+  "generatedAt": 1794915265,
   "count": 50,
   "activities": [
+    {
+      "id": "ad771d4112894114",
+      "type": "unlock",
+      "who": "hunbleeone",
+      "text": "unlocked Chef Hat",
+      "timestamp": 1794915252,
+      "rarity": "common",
+      "category": "Kiwi Hat",
+      "rewardType": "cosmetic"
+    },
     {
       "id": "d17123a376ddcd46",
       "type": "unlock",
@@ -490,16 +500,6 @@
       "timestamp": 1788358506,
       "rarity": "rare",
       "category": "Kiwi Beak",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "934b92cf097533f4",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Blue Beanie",
-      "timestamp": 1788358323,
-      "rarity": "common",
-      "category": "Kiwi Hat",
       "rewardType": "cosmetic"
     }
   ]

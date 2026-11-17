@@ -1,5 +1,5 @@
 {
-  "generated_at": 1794915234,
+  "generated_at": 1794915265,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -12444,7 +12444,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 115027,
+        "balance": 113027,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
@@ -12462,6 +12462,12 @@
         {
           "id": "kiwi:hat:pixel-blue-beanie",
           "name": "Blue Beanie",
+          "category": "Kiwi Hat",
+          "rarity": "common"
+        },
+        {
+          "id": "kiwi:hat:pixel-chef",
+          "name": "Chef Hat",
           "category": "Kiwi Hat",
           "rarity": "common"
         },
@@ -12545,8 +12551,16 @@
         "rarity": "legendary",
         "class_name": "text-supernova"
       },
-      "loot_boxes_opened": 4,
+      "loot_boxes_opened": 5,
       "recent_unlocks": [
+        {
+          "name": "Chef Hat",
+          "category": "Kiwi Hat",
+          "rarity": "common",
+          "type": "cosmetic",
+          "text_effect": "",
+          "timestamp": 1794915252
+        },
         {
           "name": "Wooden Shield",
           "category": "Kiwi Wings / Held Objects",
@@ -12562,18 +12576,10 @@
           "type": "cosmetic",
           "text_effect": "",
           "timestamp": 1788358590
-        },
-        {
-          "name": "Hiking Boots",
-          "category": "Kiwi Boots / Shoes",
-          "rarity": "uncommon",
-          "type": "cosmetic",
-          "text_effect": "",
-          "timestamp": 1788358574
         }
       ],
       "totals": {
-        "cosmetics_unlocked": 8,
+        "cosmetics_unlocked": 9,
         "cosmetics_available": 47,
         "text_effects_unlocked": 5,
         "text_effects_available": 25,
