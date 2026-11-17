@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794917961,
+  "generatedAt": 1794918187,
   "totalViewers": 1205,
-  "totalShinies": 4716946,
+  "totalShinies": 4716446,
   "pageSize": 100,
   "entries": [
     {
@@ -276,23 +276,23 @@
     },
     {
       "rank": 55,
-      "name": "goliathmaroof",
-      "shinies": 16914
-    },
-    {
-      "rank": 56,
       "name": "tdostalker",
       "shinies": 16690
     },
     {
-      "rank": 57,
+      "rank": 56,
       "name": "zeeburgapm",
       "shinies": 16662
     },
     {
-      "rank": 58,
+      "rank": 57,
       "name": "franzdk_",
       "shinies": 16556
+    },
+    {
+      "rank": 58,
+      "name": "goliathmaroof",
+      "shinies": 16414
     },
     {
       "rank": 59,
