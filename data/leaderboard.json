@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794955177,
+  "generatedAt": 1794955561,
   "totalViewers": 1209,
-  "totalShinies": 4858554,
+  "totalShinies": 4858888,
   "pageSize": 100,
   "entries": [
     {
@@ -366,18 +366,18 @@
     },
     {
       "rank": 73,
+      "name": "steffa92",
+      "shinies": 13008
+    },
+    {
+      "rank": 74,
       "name": "globe2deag",
       "shinies": 12980
     },
     {
-      "rank": 74,
+      "rank": 75,
       "name": "toszii",
       "shinies": 12974
-    },
-    {
-      "rank": 75,
-      "name": "steffa92",
-      "shinies": 12674
     },
     {
       "rank": 76,
