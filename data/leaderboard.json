@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794909414,
+  "generatedAt": 1794909799,
   "totalViewers": 1196,
-  "totalShinies": 4663092,
+  "totalShinies": 4663576,
   "pageSize": 100,
   "entries": [
     {
@@ -266,23 +266,23 @@
     },
     {
       "rank": 53,
+      "name": "wholooksform3",
+      "shinies": 16996
+    },
+    {
+      "rank": 54,
       "name": "tdostalker",
       "shinies": 16690
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "zeeburgapm",
       "shinies": 16662
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "franzdk_",
       "shinies": 16556
-    },
-    {
-      "rank": 56,
-      "name": "wholooksform3",
-      "shinies": 16512
     },
     {
       "rank": 57,
