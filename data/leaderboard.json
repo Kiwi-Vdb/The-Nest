@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794924066,
+  "generatedAt": 1794924186,
   "totalViewers": 1205,
-  "totalShinies": 4764224,
+  "totalShinies": 4764558,
   "pageSize": 100,
   "entries": [
     {
@@ -326,28 +326,28 @@
     },
     {
       "rank": 65,
+      "name": "kirinokirino",
+      "shinies": 13892
+    },
+    {
+      "rank": 66,
       "name": "freakofnature122",
       "shinies": 13822
     },
     {
-      "rank": 66,
+      "rank": 67,
       "name": "esebian_",
       "shinies": 13682
     },
     {
-      "rank": 67,
+      "rank": 68,
       "name": "kingjaos",
       "shinies": 13658
     },
     {
-      "rank": 68,
+      "rank": 69,
       "name": "professor_bar",
       "shinies": 13634
-    },
-    {
-      "rank": 69,
-      "name": "kirinokirino",
-      "shinies": 13558
     },
     {
       "rank": 70,
