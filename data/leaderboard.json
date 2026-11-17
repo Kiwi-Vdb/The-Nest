@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794915113,
+  "generatedAt": 1794915200,
   "totalViewers": 1199,
-  "totalShinies": 4691298,
+  "totalShinies": 4692298,
   "pageSize": 100,
   "entries": [
     {
@@ -156,23 +156,23 @@
     },
     {
       "rank": 31,
+      "name": "hells_hound_",
+      "shinies": 25428
+    },
+    {
+      "rank": 32,
       "name": "dog1isopen",
       "shinies": 24914
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "imth3apollo",
       "shinies": 24708
     },
     {
-      "rank": 33,
+      "rank": 34,
       "name": "halfyourlife",
       "shinies": 24560
-    },
-    {
-      "rank": 34,
-      "name": "hells_hound_",
-      "shinies": 24428
     },
     {
       "rank": 35,
