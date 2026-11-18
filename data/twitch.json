@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1795001394,
-  "clipsUpdatedAt": 1795001119,
+  "statusUpdatedAt": 1795001424,
+  "clipsUpdatedAt": 1795001422,
   "clips": [
     {
       "id": "AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
@@ -46,7 +46,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "embedUrl": "https://clips.twitch.tv/embed?clip=DoubtfulLuckyDragonfruitSMOrc-vP8dCWH8OsRl1x9D",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0ba78c94-b0bb-4e9a-a12d-09b1358a39d3/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 6,
+      "views": 7,
       "duration": 35.8,
       "createdAt": "2026-11-12T15:16:13Z"
     },
