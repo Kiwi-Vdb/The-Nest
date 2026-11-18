@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795013106,
+  "generatedAt": 1795013108,
   "totalViewers": 1220,
-  "totalShinies": 4934508,
+  "totalShinies": 4934658,
   "pageSize": 100,
   "entries": [
     {
@@ -2811,27 +2811,27 @@
     },
     {
       "rank": 562,
+      "name": "violetania",
+      "shinies": 1302
+    },
+    {
+      "rank": 563,
       "name": "allreasonnologic",
       "shinies": 1152
     },
     {
-      "rank": 563,
+      "rank": 564,
       "name": "laskdfe",
       "shinies": 1152
     },
     {
-      "rank": 564,
+      "rank": 565,
       "name": "leyline_leila",
       "shinies": 1152
     },
     {
-      "rank": 565,
-      "name": "tyronfba",
-      "shinies": 1152
-    },
-    {
       "rank": 566,
-      "name": "violetania",
+      "name": "tyronfba",
       "shinies": 1152
     },
     {
