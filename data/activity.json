@@ -1,7 +1,15 @@
 {
-  "generatedAt": 1795013751,
+  "generatedAt": 1795013778,
   "count": 50,
   "activities": [
+    {
+      "id": "37d7c74c30dd5470",
+      "type": "gamba",
+      "who": "our_lord_and_savior_gonk",
+      "text": "won 3,400 Shinies playing Gamba",
+      "timestamp": 1795013770,
+      "amount": 3400
+    },
     {
       "id": "383545d8ee990cef",
       "type": "unlock",
@@ -489,16 +497,6 @@
       "text": "unlocked Hiking Boots",
       "timestamp": 1788358574,
       "rarity": "uncommon",
-      "category": "Kiwi Boots / Shoes",
-      "rewardType": "cosmetic"
-    },
-    {
-      "id": "b3e96f55f86d6f6e",
-      "type": "unlock",
-      "who": "hunbleeone",
-      "text": "unlocked Blue Sneakers",
-      "timestamp": 1788358545,
-      "rarity": "common",
       "category": "Kiwi Boots / Shoes",
       "rewardType": "cosmetic"
     }
