@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795018793,
+  "generatedAt": 1795018891,
   "totalViewers": 1254,
-  "totalShinies": 5018840,
+  "totalShinies": 5018990,
   "pageSize": 100,
   "entries": [
     {
@@ -1426,23 +1426,23 @@
     },
     {
       "rank": 285,
-      "name": "xixfr",
+      "name": "totally_original_name2",
       "shinies": 3302
     },
     {
       "rank": 286,
+      "name": "xixfr",
+      "shinies": 3302
+    },
+    {
+      "rank": 287,
       "name": "tempest9867",
       "shinies": 3270
     },
     {
-      "rank": 287,
+      "rank": 288,
       "name": "random_dutchgamer",
       "shinies": 3154
-    },
-    {
-      "rank": 288,
-      "name": "totally_original_name2",
-      "shinies": 3152
     },
     {
       "rank": 289,
