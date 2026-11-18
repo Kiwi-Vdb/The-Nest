@@ -1,5 +1,5 @@
 {
-  "generated_at": 1795020895,
+  "generated_at": 1795020984,
   "viewers": {
     "000daddyy": {
       "username": "000daddyy",
@@ -2690,7 +2690,7 @@
       "shinies": {
         "available": true,
         "label": "Shinies",
-        "balance": 87184,
+        "balance": 87668,
         "message": "Kiwi Birb-owned viewer currency."
       },
       "metal": {
