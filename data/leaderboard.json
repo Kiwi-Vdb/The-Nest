@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795008610,
+  "generatedAt": 1795009130,
   "totalViewers": 1217,
-  "totalShinies": 4913380,
+  "totalShinies": 4914380,
   "pageSize": 100,
   "entries": [
     {
@@ -316,18 +316,18 @@
     },
     {
       "rank": 63,
+      "name": "steffa92",
+      "shinies": 15342
+    },
+    {
+      "rank": 64,
       "name": "dhisame",
       "shinies": 15096
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "kirinokirino",
       "shinies": 15042
-    },
-    {
-      "rank": 65,
-      "name": "steffa92",
-      "shinies": 14342
     },
     {
       "rank": 66,
