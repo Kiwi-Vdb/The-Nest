@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795006370,
+  "generatedAt": 1795006550,
   "totalViewers": 1215,
-  "totalShinies": 4899040,
+  "totalShinies": 4900040,
   "pageSize": 100,
   "entries": [
     {
@@ -141,13 +141,13 @@
     },
     {
       "rank": 28,
-      "name": "ilotusuk",
-      "shinies": 29454
+      "name": "axolotl_eu",
+      "shinies": 30270
     },
     {
       "rank": 29,
-      "name": "axolotl_eu",
-      "shinies": 29270
+      "name": "ilotusuk",
+      "shinies": 29454
     },
     {
       "rank": 30,
