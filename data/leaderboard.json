@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795009243,
+  "generatedAt": 1795009550,
   "totalViewers": 1218,
-  "totalShinies": 4915198,
+  "totalShinies": 4916198,
   "pageSize": 100,
   "entries": [
     {
@@ -296,23 +296,23 @@
     },
     {
       "rank": 59,
+      "name": "goobmilk",
+      "shinies": 16428
+    },
+    {
+      "rank": 60,
       "name": "ruwetuin",
       "shinies": 16344
     },
     {
-      "rank": 60,
+      "rank": 61,
       "name": "elronoce",
       "shinies": 16304
     },
     {
-      "rank": 61,
+      "rank": 62,
       "name": "hellzi3",
       "shinies": 15980
-    },
-    {
-      "rank": 62,
-      "name": "goobmilk",
-      "shinies": 15428
     },
     {
       "rank": 63,
