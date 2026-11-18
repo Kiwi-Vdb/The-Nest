@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795018703,
+  "generatedAt": 1795018793,
   "totalViewers": 1254,
-  "totalShinies": 5018506,
+  "totalShinies": 5018840,
   "pageSize": 100,
   "entries": [
     {
@@ -381,23 +381,23 @@
     },
     {
       "rank": 76,
+      "name": "heltoff",
+      "shinies": 12728
+    },
+    {
+      "rank": 77,
       "name": "finstas",
       "shinies": 12638
     },
     {
-      "rank": 77,
+      "rank": 78,
       "name": "bizzyrex",
       "shinies": 12607
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "mlem86",
       "shinies": 12488
-    },
-    {
-      "rank": 79,
-      "name": "heltoff",
-      "shinies": 12394
     },
     {
       "rank": 80,
