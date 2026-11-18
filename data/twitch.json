@@ -27,8 +27,8 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1795001091,
-  "clipsUpdatedAt": 1794927089,
+  "statusUpdatedAt": 1795001121,
+  "clipsUpdatedAt": 1795001119,
   "clips": [
     {
       "id": "AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
@@ -66,7 +66,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "embedUrl": "https://clips.twitch.tv/embed?clip=JoyousPlacidRuffTheRinger-ZRAhmKkv6Zjp0xMt",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0e150aad-db03-4545-a31e-82f7e3773db8/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 30,
+      "views": 31,
       "duration": 33.9,
       "createdAt": "2026-09-22T21:21:49Z"
     },
@@ -76,7 +76,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
       "embedUrl": "https://clips.twitch.tv/embed?clip=OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/402bdad5-caea-4896-aea1-e31377471b61/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 29,
+      "views": 30,
       "duration": 30.0,
       "createdAt": "2026-09-20T14:12:14Z"
     }
