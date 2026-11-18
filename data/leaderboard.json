@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794998294,
+  "generatedAt": 1794998469,
   "totalViewers": 1211,
-  "totalShinies": 4868852,
+  "totalShinies": 4869336,
   "pageSize": 100,
   "entries": [
     {
@@ -406,18 +406,18 @@
     },
     {
       "rank": 81,
+      "name": "iyc2",
+      "shinies": 12080
+    },
+    {
+      "rank": 82,
       "name": "luxa3t3rna",
       "shinies": 11826
     },
     {
-      "rank": 82,
+      "rank": 83,
       "name": "nightfalldeceit",
       "shinies": 11760
-    },
-    {
-      "rank": 83,
-      "name": "iyc2",
-      "shinies": 11596
     },
     {
       "rank": 84,
