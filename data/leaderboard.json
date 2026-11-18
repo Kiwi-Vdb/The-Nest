@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1794997754,
+  "generatedAt": 1794997933,
   "totalViewers": 1211,
-  "totalShinies": 4867032,
+  "totalShinies": 4867366,
   "pageSize": 100,
   "entries": [
     {
@@ -306,23 +306,23 @@
     },
     {
       "rank": 61,
+      "name": "ruwetuin",
+      "shinies": 15344
+    },
+    {
+      "rank": 62,
       "name": "dhisame",
       "shinies": 15096
     },
     {
-      "rank": 62,
+      "rank": 63,
       "name": "goobmilk",
       "shinies": 15094
     },
     {
-      "rank": 63,
+      "rank": 64,
       "name": "kirinokirino",
       "shinies": 15042
-    },
-    {
-      "rank": 64,
-      "name": "ruwetuin",
-      "shinies": 15010
     },
     {
       "rank": 65,
