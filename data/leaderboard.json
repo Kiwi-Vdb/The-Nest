@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795019656,
+  "generatedAt": 1795019708,
   "totalViewers": 1254,
-  "totalShinies": 5024660,
+  "totalShinies": 5024994,
   "pageSize": 100,
   "entries": [
     {
@@ -461,28 +461,28 @@
     },
     {
       "rank": 92,
+      "name": "florio_bar",
+      "shinies": 10604
+    },
+    {
+      "rank": 93,
       "name": "skvonchboyz",
       "shinies": 10338
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "kazmazel",
       "shinies": 10336
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "ruphin",
       "shinies": 10306
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "aidannaut",
       "shinies": 10302
-    },
-    {
-      "rank": 96,
-      "name": "florio_bar",
-      "shinies": 10270
     },
     {
       "rank": 97,
