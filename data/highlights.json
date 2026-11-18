@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795011203,
+  "generatedAt": 1795011216,
   "rotationGeneratedAt": 1794999883,
   "nextRotationAt": 1795086283,
   "rotationHours": 24,
@@ -17,14 +17,14 @@
       "group": "event",
       "icon": "✧",
       "title": "Fresh Unlock",
-      "copy": "gue88who unlocked Teal Text (Common)."
+      "copy": "rosiescarlet unlocked Cat Ears (Common)."
     },
     {
       "category": "community_unlocks",
       "group": "community",
       "icon": "♛",
       "title": "Unlock Collection",
-      "copy": "Viewers have collected 157 cosmetics and text effects."
+      "copy": "Viewers have collected 158 cosmetics and text effects."
     }
   ]
 }
