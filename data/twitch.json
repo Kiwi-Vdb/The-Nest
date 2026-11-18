@@ -27,9 +27,19 @@
   "thumbnailUrl": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itsvdb-{width}x{height}.jpg",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1795018295,
-  "clipsUpdatedAt": 1795001422,
+  "statusUpdatedAt": 1795018326,
+  "clipsUpdatedAt": 1795018322,
   "clips": [
+    {
+      "id": "AcceptableHungryYamOhMyDog-Qf6M_B1mHeJ84zkD",
+      "title": "It doesn't fit :(",
+      "url": "https://www.twitch.tv/itsvdb/clip/AcceptableHungryYamOhMyDog-Qf6M_B1mHeJ84zkD",
+      "embedUrl": "https://clips.twitch.tv/embed?clip=AcceptableHungryYamOhMyDog-Qf6M_B1mHeJ84zkD",
+      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3b7e0ef9-5b6d-47df-8e2b-6add5c85a95b/landscape/thumb/thumb-0000000000-480x272.jpg",
+      "views": 1,
+      "duration": 9.8,
+      "createdAt": "2026-11-18T16:07:45Z"
+    },
     {
       "id": "AttractiveFunnyDotterelHoneyBadger-rZ_4c2JhCHJuGXo4",
       "title": "nice titan still got out",
@@ -69,16 +79,6 @@
       "views": 31,
       "duration": 33.9,
       "createdAt": "2026-09-22T21:21:49Z"
-    },
-    {
-      "id": "OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
-      "title": "Building",
-      "url": "https://www.twitch.tv/itsvdb/clip/OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
-      "embedUrl": "https://clips.twitch.tv/embed?clip=OriginalSecretiveQuailCharlieBitMe-h3LKg-QBXZE4Cqo6",
-      "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/402bdad5-caea-4896-aea1-e31377471b61/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 30,
-      "duration": 30.0,
-      "createdAt": "2026-09-20T14:12:14Z"
     }
   ]
 }
