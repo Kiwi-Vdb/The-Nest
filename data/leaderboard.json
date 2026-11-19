@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795111078,
+  "generatedAt": 1795111191,
   "totalViewers": 1259,
-  "totalShinies": 5087414,
+  "totalShinies": 5087748,
   "pageSize": 100,
   "entries": [
     {
@@ -536,23 +536,23 @@
     },
     {
       "rank": 107,
+      "name": "chronicsonic",
+      "shinies": 9338
+    },
+    {
+      "rank": 108,
       "name": "cmdr_zod",
       "shinies": 9242
     },
     {
-      "rank": 108,
+      "rank": 109,
       "name": "01shimbo",
       "shinies": 9008
     },
     {
-      "rank": 109,
+      "rank": 110,
       "name": "heavywater00",
       "shinies": 9008
-    },
-    {
-      "rank": 110,
-      "name": "chronicsonic",
-      "shinies": 9004
     },
     {
       "rank": 111,
