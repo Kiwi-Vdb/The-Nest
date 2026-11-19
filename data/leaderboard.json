@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795111191,
+  "generatedAt": 1795111194,
   "totalViewers": 1259,
-  "totalShinies": 5087748,
+  "totalShinies": 5087898,
   "pageSize": 100,
   "entries": [
     {
@@ -521,23 +521,23 @@
     },
     {
       "rank": 104,
-      "name": "dzikimg",
+      "name": "chronicsonic",
       "shinies": 9488
     },
     {
       "rank": 105,
+      "name": "dzikimg",
+      "shinies": 9488
+    },
+    {
+      "rank": 106,
       "name": "bm_caspian",
       "shinies": 9486
     },
     {
-      "rank": 106,
+      "rank": 107,
       "name": "randy_uk",
       "shinies": 9424
-    },
-    {
-      "rank": 107,
-      "name": "chronicsonic",
-      "shinies": 9338
     },
     {
       "rank": 108,
