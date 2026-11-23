@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795447829,
+  "generatedAt": 1795448085,
   "totalViewers": 1259,
-  "totalShinies": 5103904,
+  "totalShinies": 5104388,
   "pageSize": 100,
   "entries": [
     {
@@ -201,18 +201,18 @@
     },
     {
       "rank": 40,
+      "name": "wholooksform3",
+      "shinies": 22980
+    },
+    {
+      "rank": 41,
       "name": "laggyaskittens",
       "shinies": 22754
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "pownage227",
       "shinies": 22616
-    },
-    {
-      "rank": 42,
-      "name": "wholooksform3",
-      "shinies": 22496
     },
     {
       "rank": 43,
