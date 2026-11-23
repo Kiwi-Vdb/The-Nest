@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795450474,
+  "generatedAt": 1795450924,
   "totalViewers": 1259,
-  "totalShinies": 5110366,
+  "totalShinies": 5110516,
   "pageSize": 100,
   "entries": [
     {
@@ -801,18 +801,18 @@
     },
     {
       "rank": 160,
+      "name": "evohunz",
+      "shinies": 6156
+    },
+    {
+      "rank": 161,
       "name": "primalgamingnexus",
       "shinies": 6154
     },
     {
-      "rank": 161,
+      "rank": 162,
       "name": "kotaotake",
       "shinies": 6104
-    },
-    {
-      "rank": 162,
-      "name": "evohunz",
-      "shinies": 6006
     },
     {
       "rank": 163,
