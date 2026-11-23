@@ -1,16 +1,16 @@
 {
-  "generatedAt": 1795116779,
-  "rotationGeneratedAt": 1795094813,
-  "nextRotationAt": 1795181213,
+  "generatedAt": 1795446521,
+  "rotationGeneratedAt": 1795446521,
+  "nextRotationAt": 1795532921,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "largest_balance",
+      "category": "prediction_champion",
       "group": "viewer",
-      "icon": "✦",
-      "title": "Shiny Hoarder",
-      "copy": "bot_kiwi_birb leads the flock with 347,988 Shinies."
+      "icon": "✓",
+      "title": "Prediction Champion",
+      "copy": "sharpishdog has won 10 predictions."
     },
     {
       "category": "busiest_prediction",
