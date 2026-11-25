@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795619376,
+  "generatedAt": 1795619506,
   "totalViewers": 1259,
-  "totalShinies": 5119578,
+  "totalShinies": 5120246,
   "pageSize": 100,
   "entries": [
     {
@@ -52,7 +52,7 @@
     {
       "rank": 10,
       "name": "iamdibi",
-      "shinies": 72868
+      "shinies": 73202
     },
     {
       "rank": 11,
@@ -431,28 +431,28 @@
     },
     {
       "rank": 86,
+      "name": "chronicsonic",
+      "shinies": 11306
+    },
+    {
+      "rank": 87,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "hexu0x",
       "shinies": 11008
     },
     {
-      "rank": 88,
+      "rank": 89,
       "name": "sewer_strutt",
       "shinies": 11008
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "liarturil",
       "shinies": 10976
-    },
-    {
-      "rank": 90,
-      "name": "chronicsonic",
-      "shinies": 10972
     },
     {
       "rank": 91,
