@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795622463,
+  "generatedAt": 1795622490,
   "totalViewers": 1261,
-  "totalShinies": 5131674,
+  "totalShinies": 5132674,
   "pageSize": 100,
   "entries": [
     {
@@ -166,23 +166,23 @@
     },
     {
       "rank": 33,
+      "name": "imth3apollo",
+      "shinies": 26192
+    },
+    {
+      "rank": 34,
       "name": "tallerofin",
       "shinies": 25892
     },
     {
-      "rank": 34,
+      "rank": 35,
       "name": "siven12",
       "shinies": 25846
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "dog1isopen",
       "shinies": 25248
-    },
-    {
-      "rank": 36,
-      "name": "imth3apollo",
-      "shinies": 25192
     },
     {
       "rank": 37,
