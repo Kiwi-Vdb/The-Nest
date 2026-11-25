@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795627732,
+  "generatedAt": 1795628017,
   "totalViewers": 1274,
-  "totalShinies": 5179290,
+  "totalShinies": 5180290,
   "pageSize": 100,
   "entries": [
     {
@@ -236,18 +236,18 @@
     },
     {
       "rank": 47,
+      "name": "goliathmaroof",
+      "shinies": 20898
+    },
+    {
+      "rank": 48,
       "name": "beginna_",
       "shinies": 20676
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "sashkorin",
       "shinies": 20644
-    },
-    {
-      "rank": 49,
-      "name": "goliathmaroof",
-      "shinies": 19898
     },
     {
       "rank": 50,
