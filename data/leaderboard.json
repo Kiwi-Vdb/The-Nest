@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795630760,
+  "generatedAt": 1795630779,
   "totalViewers": 1274,
-  "totalShinies": 5203776,
+  "totalShinies": 5204776,
   "pageSize": 100,
   "entries": [
     {
@@ -256,18 +256,18 @@
     },
     {
       "rank": 51,
+      "name": "jermeis7er",
+      "shinies": 20010
+    },
+    {
+      "rank": 52,
       "name": "streamelements",
       "shinies": 19336
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "lordjammacus",
       "shinies": 19174
-    },
-    {
-      "rank": 53,
-      "name": "jermeis7er",
-      "shinies": 19010
     },
     {
       "rank": 54,
