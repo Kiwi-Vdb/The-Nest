@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795629219,
+  "generatedAt": 1795629459,
   "totalViewers": 1274,
-  "totalShinies": 5187958,
+  "totalShinies": 5188958,
   "pageSize": 100,
   "entries": [
     {
@@ -226,23 +226,23 @@
     },
     {
       "rank": 45,
+      "name": "beginna_",
+      "shinies": 21676
+    },
+    {
+      "rank": 46,
       "name": "snoopa_aoe",
       "shinies": 21344
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "sasadal",
       "shinies": 21128
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "goliathmaroof",
       "shinies": 20898
-    },
-    {
-      "rank": 48,
-      "name": "beginna_",
-      "shinies": 20676
     },
     {
       "rank": 49,
