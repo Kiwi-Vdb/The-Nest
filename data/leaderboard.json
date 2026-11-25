@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795622825,
+  "generatedAt": 1795622886,
   "totalViewers": 1272,
-  "totalShinies": 5142656,
+  "totalShinies": 5142990,
   "pageSize": 100,
   "entries": [
     {
@@ -601,32 +601,32 @@
     },
     {
       "rank": 120,
+      "name": "d_roi_d",
+      "shinies": 8338
+    },
+    {
+      "rank": 121,
       "name": "itsfuntolose",
       "shinies": 8304
     },
     {
-      "rank": 121,
+      "rank": 122,
       "name": "jjones666",
       "shinies": 8156
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "sugar_emre",
       "shinies": 8088
     },
     {
-      "rank": 123,
+      "rank": 124,
       "name": "tarsanon",
       "shinies": 8006
     },
     {
-      "rank": 124,
-      "name": "akkaiiie",
-      "shinies": 8004
-    },
-    {
       "rank": 125,
-      "name": "d_roi_d",
+      "name": "akkaiiie",
       "shinies": 8004
     },
     {
