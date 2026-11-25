@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795619506,
+  "generatedAt": 1795619628,
   "totalViewers": 1259,
-  "totalShinies": 5120246,
+  "totalShinies": 5120580,
   "pageSize": 100,
   "entries": [
     {
@@ -431,22 +431,22 @@
     },
     {
       "rank": 86,
+      "name": "sewer_strutt",
+      "shinies": 11342
+    },
+    {
+      "rank": 87,
       "name": "chronicsonic",
       "shinies": 11306
     },
     {
-      "rank": 87,
+      "rank": 88,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 88,
-      "name": "hexu0x",
-      "shinies": 11008
-    },
-    {
       "rank": 89,
-      "name": "sewer_strutt",
+      "name": "hexu0x",
       "shinies": 11008
     },
     {
