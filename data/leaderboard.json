@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795625846,
+  "generatedAt": 1795625977,
   "totalViewers": 1273,
-  "totalShinies": 5159954,
+  "totalShinies": 5160954,
   "pageSize": 100,
   "entries": [
     {
@@ -171,23 +171,23 @@
     },
     {
       "rank": 34,
+      "name": "1shadowcreature",
+      "shinies": 25972
+    },
+    {
+      "rank": 35,
       "name": "tallerofin",
       "shinies": 25892
     },
     {
-      "rank": 35,
+      "rank": 36,
       "name": "siven12",
       "shinies": 25846
     },
     {
-      "rank": 36,
+      "rank": 37,
       "name": "dog1isopen",
       "shinies": 25248
-    },
-    {
-      "rank": 37,
-      "name": "1shadowcreature",
-      "shinies": 24972
     },
     {
       "rank": 38,
