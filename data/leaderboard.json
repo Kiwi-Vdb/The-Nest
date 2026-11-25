@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795625319,
+  "generatedAt": 1795625598,
   "totalViewers": 1273,
-  "totalShinies": 5158468,
+  "totalShinies": 5158802,
   "pageSize": 100,
   "entries": [
     {
@@ -526,18 +526,18 @@
     },
     {
       "rank": 105,
+      "name": "randy_uk",
+      "shinies": 9758
+    },
+    {
+      "rank": 106,
       "name": "rikkler",
       "shinies": 9670
     },
     {
-      "rank": 106,
+      "rank": 107,
       "name": "dzikimg",
       "shinies": 9488
-    },
-    {
-      "rank": 107,
-      "name": "randy_uk",
-      "shinies": 9424
     },
     {
       "rank": 108,
