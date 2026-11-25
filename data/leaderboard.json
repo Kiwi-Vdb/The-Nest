@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795624833,
+  "generatedAt": 1795624837,
   "totalViewers": 1273,
-  "totalShinies": 5151132,
+  "totalShinies": 5152132,
   "pageSize": 100,
   "entries": [
     {
@@ -316,23 +316,23 @@
     },
     {
       "rank": 63,
+      "name": "zoowieke",
+      "shinies": 15836
+    },
+    {
+      "rank": 64,
       "name": "dhisame",
       "shinies": 15430
     },
     {
-      "rank": 64,
+      "rank": 65,
       "name": "kirinokirino",
       "shinies": 15376
     },
     {
-      "rank": 65,
+      "rank": 66,
       "name": "steffa92",
       "shinies": 15342
-    },
-    {
-      "rank": 66,
-      "name": "zoowieke",
-      "shinies": 14836
     },
     {
       "rank": 67,
