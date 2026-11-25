@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795622038,
+  "generatedAt": 1795622129,
   "totalViewers": 1260,
-  "totalShinies": 5127370,
+  "totalShinies": 5128370,
   "pageSize": 100,
   "entries": [
     {
@@ -131,18 +131,18 @@
     },
     {
       "rank": 26,
+      "name": "alishhk",
+      "shinies": 34868
+    },
+    {
+      "rank": 27,
       "name": "akiletia",
       "shinies": 34096
     },
     {
-      "rank": 27,
+      "rank": 28,
       "name": "axolotl_eu",
       "shinies": 34088
-    },
-    {
-      "rank": 28,
-      "name": "alishhk",
-      "shinies": 33868
     },
     {
       "rank": 29,
