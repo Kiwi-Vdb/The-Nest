@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795626877,
+  "generatedAt": 1795626937,
   "totalViewers": 1274,
-  "totalShinies": 5177288,
+  "totalShinies": 5178288,
   "pageSize": 100,
   "entries": [
     {
@@ -201,18 +201,18 @@
     },
     {
       "rank": 40,
+      "name": "watchthefort",
+      "shinies": 23676
+    },
+    {
+      "rank": 41,
       "name": "axoim_",
       "shinies": 23348
     },
     {
-      "rank": 41,
+      "rank": 42,
       "name": "laggyaskittens",
       "shinies": 22754
-    },
-    {
-      "rank": 42,
-      "name": "watchthefort",
-      "shinies": 22676
     },
     {
       "rank": 43,
