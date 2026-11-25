@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795624393,
+  "generatedAt": 1795624474,
   "totalViewers": 1273,
-  "totalShinies": 5149798,
+  "totalShinies": 5150798,
   "pageSize": 100,
   "entries": [
     {
@@ -286,23 +286,23 @@
     },
     {
       "rank": 57,
+      "name": "hellzi3",
+      "shinies": 17464
+    },
+    {
+      "rank": 58,
       "name": "tdostalker",
       "shinies": 17024
     },
     {
-      "rank": 58,
+      "rank": 59,
       "name": "zeeburgapm",
       "shinies": 16662
     },
     {
-      "rank": 59,
+      "rank": 60,
       "name": "franzdk_",
       "shinies": 16556
-    },
-    {
-      "rank": 60,
-      "name": "hellzi3",
-      "shinies": 16464
     },
     {
       "rank": 61,
