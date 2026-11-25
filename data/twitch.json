@@ -27,8 +27,8 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1795451872,
-  "clipsUpdatedAt": 1795446524,
+  "statusUpdatedAt": 1795617290,
+  "clipsUpdatedAt": 1795617292,
   "clips": [
     {
       "id": "AcceptableHungryYamOhMyDog-Qf6M_B1mHeJ84zkD",
@@ -36,7 +36,7 @@
       "url": "https://www.twitch.tv/itsvdb/clip/AcceptableHungryYamOhMyDog-Qf6M_B1mHeJ84zkD",
       "embedUrl": "https://clips.twitch.tv/embed?clip=AcceptableHungryYamOhMyDog-Qf6M_B1mHeJ84zkD",
       "thumbnailUrl": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3b7e0ef9-5b6d-47df-8e2b-6add5c85a95b/landscape/thumb/thumb-0000000000-480x272.jpg",
-      "views": 4,
+      "views": 8,
       "duration": 9.8,
       "createdAt": "2026-11-18T16:07:45Z"
     },
