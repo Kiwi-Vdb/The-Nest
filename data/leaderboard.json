@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795788862,
+  "generatedAt": 1795791442,
   "totalViewers": 1275,
-  "totalShinies": 5210114,
+  "totalShinies": 5211114,
   "pageSize": 100,
   "entries": [
     {
@@ -441,43 +441,43 @@
     },
     {
       "rank": 88,
+      "name": "rgricus",
+      "shinies": 11342
+    },
+    {
+      "rank": 89,
       "name": "chronicsonic",
       "shinies": 11306
     },
     {
-      "rank": 89,
+      "rank": 90,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 90,
+      "rank": 91,
       "name": "liarturil",
       "shinies": 10976
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "oumuamua_i1",
       "shinies": 10940
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "bartender_11",
       "shinies": 10828
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "swallowbug11",
       "shinies": 10672
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "florio_bar",
       "shinies": 10604
-    },
-    {
-      "rank": 95,
-      "name": "rgricus",
-      "shinies": 10342
     },
     {
       "rank": 96,
