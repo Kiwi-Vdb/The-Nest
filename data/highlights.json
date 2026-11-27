@@ -1,30 +1,30 @@
 {
-  "generatedAt": 1795630874,
-  "rotationGeneratedAt": 1795617290,
-  "nextRotationAt": 1795703690,
+  "generatedAt": 1795781076,
+  "rotationGeneratedAt": 1795781076,
+  "nextRotationAt": 1795867476,
   "rotationHours": 24,
   "cooldownHours": 48,
   "highlights": [
     {
-      "category": "largest_balance",
+      "category": "collection_champion",
       "group": "viewer",
-      "icon": "✦",
-      "title": "Shiny Hoarder",
-      "copy": "bot_kiwi_birb leads the flock with 352,990 Shinies."
-    },
-    {
-      "category": "latest_unlock",
-      "group": "event",
-      "icon": "✧",
-      "title": "Fresh Unlock",
-      "copy": "rosiescarlet unlocked Cat Ears (Common)."
-    },
-    {
-      "category": "community_unlocks",
-      "group": "community",
       "icon": "♛",
-      "title": "Unlock Collection",
-      "copy": "Viewers have collected 158 cosmetics and text effects."
+      "title": "Nest Collector",
+      "copy": "itsvdb owns 68 cosmetics and text effects."
+    },
+    {
+      "category": "highest_gamba_win",
+      "group": "event",
+      "icon": "◆",
+      "title": "Biggest Gamba Win",
+      "copy": "our_lord_and_savior_gonk won 3,400 Shinies in one spin."
+    },
+    {
+      "category": "community_shiny_total",
+      "group": "community",
+      "icon": "✦",
+      "title": "Community Fortune",
+      "copy": "The flock currently holds 5,205,110 Shinies."
     }
   ]
 }
