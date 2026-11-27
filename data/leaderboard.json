@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795818219,
+  "generatedAt": 1795818475,
   "totalViewers": 1281,
-  "totalShinies": 5236226,
+  "totalShinies": 5236560,
   "pageSize": 100,
   "entries": [
     {
@@ -566,18 +566,18 @@
     },
     {
       "rank": 113,
+      "name": "justus541",
+      "shinies": 9008
+    },
+    {
+      "rank": 114,
       "name": "tjallex",
       "shinies": 9004
     },
     {
-      "rank": 114,
+      "rank": 115,
       "name": "evil_potato__",
       "shinies": 8842
-    },
-    {
-      "rank": 115,
-      "name": "justus541",
-      "shinies": 8674
     },
     {
       "rank": 116,
