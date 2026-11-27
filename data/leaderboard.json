@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795784178,
+  "generatedAt": 1795784203,
   "totalViewers": 1274,
-  "totalShinies": 5205778,
+  "totalShinies": 5206112,
   "pageSize": 100,
   "entries": [
     {
@@ -541,22 +541,22 @@
     },
     {
       "rank": 108,
+      "name": "rgricus",
+      "shinies": 9342
+    },
+    {
+      "rank": 109,
       "name": "cmdr_zod",
       "shinies": 9242
     },
     {
-      "rank": 109,
+      "rank": 110,
       "name": "01shimbo",
       "shinies": 9008
     },
     {
-      "rank": 110,
-      "name": "heavywater00",
-      "shinies": 9008
-    },
-    {
       "rank": 111,
-      "name": "rgricus",
+      "name": "heavywater00",
       "shinies": 9008
     },
     {
