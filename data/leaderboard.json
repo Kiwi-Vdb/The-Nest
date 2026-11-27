@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795802234,
+  "generatedAt": 1795802547,
   "totalViewers": 1278,
-  "totalShinies": 5223794,
+  "totalShinies": 5223944,
   "pageSize": 100,
   "entries": [
     {
@@ -476,18 +476,18 @@
     },
     {
       "rank": 95,
+      "name": "lelalolul",
+      "shinies": 10654
+    },
+    {
+      "rank": 96,
       "name": "dinduriot12",
       "shinies": 10620
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "florio_bar",
       "shinies": 10604
-    },
-    {
-      "rank": 97,
-      "name": "lelalolul",
-      "shinies": 10504
     },
     {
       "rank": 98,
