@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795820610,
-  "totalViewers": 1283,
-  "totalShinies": 5240232,
+  "generatedAt": 1795820863,
+  "totalViewers": 1284,
+  "totalShinies": 5241900,
   "pageSize": 100,
   "entries": [
     {
@@ -167,7 +167,7 @@
     {
       "rank": 33,
       "name": "1shadowcreature",
-      "shinies": 28306
+      "shinies": 29306
     },
     {
       "rank": 34,
@@ -516,23 +516,23 @@
     },
     {
       "rank": 103,
+      "name": "randy_uk",
+      "shinies": 10092
+    },
+    {
+      "rank": 104,
       "name": "7voodoodragon",
       "shinies": 10004
     },
     {
-      "rank": 104,
+      "rank": 105,
       "name": "bm_caspian",
       "shinies": 9820
     },
     {
-      "rank": 105,
+      "rank": 106,
       "name": "colonp",
       "shinies": 9820
-    },
-    {
-      "rank": 106,
-      "name": "randy_uk",
-      "shinies": 9758
     },
     {
       "rank": 107,
@@ -6161,261 +6161,266 @@
     },
     {
       "rank": 1232,
-      "name": "unfastenmeet",
+      "name": "unbound82",
       "shinies": 334
     },
     {
       "rank": 1233,
-      "name": "unluckyyggs",
+      "name": "unfastenmeet",
       "shinies": 334
     },
     {
       "rank": 1234,
-      "name": "unm0le",
+      "name": "unluckyyggs",
       "shinies": 334
     },
     {
       "rank": 1235,
-      "name": "unnoobvable",
+      "name": "unm0le",
       "shinies": 334
     },
     {
       "rank": 1236,
-      "name": "uocco87",
+      "name": "unnoobvable",
       "shinies": 334
     },
     {
       "rank": 1237,
-      "name": "utriv",
+      "name": "uocco87",
       "shinies": 334
     },
     {
       "rank": 1238,
-      "name": "veruna_blackwater",
+      "name": "utriv",
       "shinies": 334
     },
     {
       "rank": 1239,
-      "name": "victorgypsy",
+      "name": "veruna_blackwater",
       "shinies": 334
     },
     {
       "rank": 1240,
-      "name": "vighito_28",
+      "name": "victorgypsy",
       "shinies": 334
     },
     {
       "rank": 1241,
-      "name": "vighthart",
+      "name": "vighito_28",
       "shinies": 334
     },
     {
       "rank": 1242,
-      "name": "visiblesighs",
+      "name": "vighthart",
       "shinies": 334
     },
     {
       "rank": 1243,
-      "name": "volkvoltny",
+      "name": "visiblesighs",
       "shinies": 334
     },
     {
       "rank": 1244,
-      "name": "volshok",
+      "name": "volkvoltny",
       "shinies": 334
     },
     {
       "rank": 1245,
-      "name": "voncomet",
+      "name": "volshok",
       "shinies": 334
     },
     {
       "rank": 1246,
-      "name": "vspdm68",
+      "name": "voncomet",
       "shinies": 334
     },
     {
       "rank": 1247,
-      "name": "wagadraws",
+      "name": "vspdm68",
       "shinies": 334
     },
     {
       "rank": 1248,
-      "name": "warrwolf1",
+      "name": "wagadraws",
       "shinies": 334
     },
     {
       "rank": 1249,
-      "name": "watchout",
+      "name": "warrwolf1",
       "shinies": 334
     },
     {
       "rank": 1250,
-      "name": "wcsnd35",
+      "name": "watchout",
       "shinies": 334
     },
     {
       "rank": 1251,
-      "name": "weeeethebestmusic",
+      "name": "wcsnd35",
       "shinies": 334
     },
     {
       "rank": 1252,
-      "name": "whatthenaninl",
+      "name": "weeeethebestmusic",
       "shinies": 334
     },
     {
       "rank": 1253,
-      "name": "whyte_l",
+      "name": "whatthenaninl",
       "shinies": 334
     },
     {
       "rank": 1254,
-      "name": "wildwayne",
+      "name": "whyte_l",
       "shinies": 334
     },
     {
       "rank": 1255,
-      "name": "wlafu77",
+      "name": "wildwayne",
       "shinies": 334
     },
     {
       "rank": 1256,
-      "name": "wonkyjon",
+      "name": "wlafu77",
       "shinies": 334
     },
     {
       "rank": 1257,
-      "name": "workingwith_solidware",
+      "name": "wonkyjon",
       "shinies": 334
     },
     {
       "rank": 1258,
-      "name": "world_by_heli",
+      "name": "workingwith_solidware",
       "shinies": 334
     },
     {
       "rank": 1259,
-      "name": "wreckedskim",
+      "name": "world_by_heli",
       "shinies": 334
     },
     {
       "rank": 1260,
-      "name": "wurzius",
+      "name": "wreckedskim",
       "shinies": 334
     },
     {
       "rank": 1261,
-      "name": "wuzz0ck",
+      "name": "wurzius",
       "shinies": 334
     },
     {
       "rank": 1262,
-      "name": "xamkoz",
+      "name": "wuzz0ck",
       "shinies": 334
     },
     {
       "rank": 1263,
-      "name": "xcalibur005",
+      "name": "xamkoz",
       "shinies": 334
     },
     {
       "rank": 1264,
-      "name": "xcintas",
+      "name": "xcalibur005",
       "shinies": 334
     },
     {
       "rank": 1265,
-      "name": "xelitexjeffo",
+      "name": "xcintas",
       "shinies": 334
     },
     {
       "rank": 1266,
-      "name": "xero2kool",
+      "name": "xelitexjeffo",
       "shinies": 334
     },
     {
       "rank": 1267,
-      "name": "xmrnightfuryx",
+      "name": "xero2kool",
       "shinies": 334
     },
     {
       "rank": 1268,
-      "name": "xntrv60",
+      "name": "xmrnightfuryx",
       "shinies": 334
     },
     {
       "rank": 1269,
-      "name": "xtzmx04",
+      "name": "xntrv60",
       "shinies": 334
     },
     {
       "rank": 1270,
-      "name": "yamchiiir",
+      "name": "xtzmx04",
       "shinies": 334
     },
     {
       "rank": 1271,
-      "name": "yhlfm83",
+      "name": "yamchiiir",
       "shinies": 334
     },
     {
       "rank": 1272,
-      "name": "ykcqh83",
+      "name": "yhlfm83",
       "shinies": 334
     },
     {
       "rank": 1273,
-      "name": "youngpanda95",
+      "name": "ykcqh83",
       "shinies": 334
     },
     {
       "rank": 1274,
-      "name": "yume_cast",
+      "name": "youngpanda95",
       "shinies": 334
     },
     {
       "rank": 1275,
-      "name": "yvqnl04",
+      "name": "yume_cast",
       "shinies": 334
     },
     {
       "rank": 1276,
-      "name": "zeflinggaming",
+      "name": "yvqnl04",
       "shinies": 334
     },
     {
       "rank": 1277,
-      "name": "ziiggzag",
+      "name": "zeflinggaming",
       "shinies": 334
     },
     {
       "rank": 1278,
-      "name": "zmnfilippo",
+      "name": "ziiggzag",
       "shinies": 334
     },
     {
       "rank": 1279,
-      "name": "zongtg",
+      "name": "zmnfilippo",
       "shinies": 334
     },
     {
       "rank": 1280,
-      "name": "zowdie",
+      "name": "zongtg",
       "shinies": 334
     },
     {
       "rank": 1281,
+      "name": "zowdie",
+      "shinies": 334
+    },
+    {
+      "rank": 1282,
       "name": "smokey_foo",
       "shinies": 318
     },
     {
-      "rank": 1282,
+      "rank": 1283,
       "name": "ed8571",
       "shinies": 168
     },
     {
-      "rank": 1283,
+      "rank": 1284,
       "name": "mvpeteno",
       "shinies": 168
     }
