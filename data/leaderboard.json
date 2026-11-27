@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795801213,
+  "generatedAt": 1795801786,
   "totalViewers": 1278,
-  "totalShinies": 5223126,
+  "totalShinies": 5223460,
   "pageSize": 100,
   "entries": [
     {
@@ -276,18 +276,18 @@
     },
     {
       "rank": 55,
+      "name": "hellzi3",
+      "shinies": 17798
+    },
+    {
+      "rank": 56,
       "name": "bonghits4cthulhu",
       "shinies": 17728
     },
     {
-      "rank": 56,
+      "rank": 57,
       "name": "12f5b0a",
       "shinies": 17670
-    },
-    {
-      "rank": 57,
-      "name": "hellzi3",
-      "shinies": 17464
     },
     {
       "rank": 58,
