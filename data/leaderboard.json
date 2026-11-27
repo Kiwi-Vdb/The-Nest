@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795817489,
+  "generatedAt": 1795817637,
   "totalViewers": 1279,
-  "totalShinies": 5231886,
+  "totalShinies": 5232220,
   "pageSize": 100,
   "entries": [
     {
@@ -746,28 +746,28 @@
     },
     {
       "rank": 149,
+      "name": "greekobratko1",
+      "shinies": 7004
+    },
+    {
+      "rank": 150,
       "name": "maratus0612",
       "shinies": 6972
     },
     {
-      "rank": 150,
+      "rank": 151,
       "name": "xflame",
       "shinies": 6940
     },
     {
-      "rank": 151,
+      "rank": 152,
       "name": "thechronographer",
       "shinies": 6788
     },
     {
-      "rank": 152,
+      "rank": 153,
       "name": "victorxii",
       "shinies": 6788
-    },
-    {
-      "rank": 153,
-      "name": "greekobratko1",
-      "shinies": 6670
     },
     {
       "rank": 154,
