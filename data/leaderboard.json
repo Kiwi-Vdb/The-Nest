@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795797229,
+  "generatedAt": 1795797276,
   "totalViewers": 1275,
-  "totalShinies": 5213614,
+  "totalShinies": 5214150,
   "pageSize": 100,
   "entries": [
     {
@@ -17,7 +17,7 @@
     {
       "rank": 3,
       "name": "hunbleeone",
-      "shinies": 118479
+      "shinies": 118813
     },
     {
       "rank": 4,
@@ -381,28 +381,28 @@
     },
     {
       "rank": 76,
+      "name": "mlem86",
+      "shinies": 12822
+    },
+    {
+      "rank": 77,
       "name": "heltoff",
       "shinies": 12728
     },
     {
-      "rank": 77,
+      "rank": 78,
       "name": "finstas",
       "shinies": 12638
     },
     {
-      "rank": 78,
+      "rank": 79,
       "name": "bizzyrex",
       "shinies": 12607
     },
     {
-      "rank": 79,
+      "rank": 80,
       "name": "blopson",
       "shinies": 12510
-    },
-    {
-      "rank": 80,
-      "name": "mlem86",
-      "shinies": 12488
     },
     {
       "rank": 81,
@@ -516,33 +516,33 @@
     },
     {
       "rank": 103,
-      "name": "dinduriot12",
-      "shinies": 9936
-    },
-    {
-      "rank": 104,
       "name": "bm_caspian",
       "shinies": 9820
     },
     {
-      "rank": 105,
+      "rank": 104,
       "name": "colonp",
       "shinies": 9820
     },
     {
-      "rank": 106,
+      "rank": 105,
       "name": "randy_uk",
       "shinies": 9758
     },
     {
-      "rank": 107,
+      "rank": 106,
       "name": "rikkler",
       "shinies": 9670
     },
     {
-      "rank": 108,
+      "rank": 107,
       "name": "dzikimg",
       "shinies": 9488
+    },
+    {
+      "rank": 108,
+      "name": "dinduriot12",
+      "shinies": 9470
     },
     {
       "rank": 109,
@@ -581,48 +581,48 @@
     },
     {
       "rank": 116,
+      "name": "rowanmorseyt",
+      "shinies": 8636
+    },
+    {
+      "rank": 117,
       "name": "simplygraceful_",
       "shinies": 8588
     },
     {
-      "rank": 117,
+      "rank": 118,
       "name": "jadedkross",
       "shinies": 8574
     },
     {
-      "rank": 118,
+      "rank": 119,
       "name": "breeefty83",
       "shinies": 8484
     },
     {
-      "rank": 119,
+      "rank": 120,
       "name": "sterling_victor5",
       "shinies": 8484
     },
     {
-      "rank": 120,
+      "rank": 121,
       "name": "sugar_emre",
       "shinies": 8422
     },
     {
-      "rank": 121,
+      "rank": 122,
       "name": "d_roi_d",
       "shinies": 8338
     },
     {
-      "rank": 122,
+      "rank": 123,
       "name": "autopilot1337",
       "shinies": 8312
     },
     {
-      "rank": 123,
+      "rank": 124,
       "name": "itsfuntolose",
       "shinies": 8304
-    },
-    {
-      "rank": 124,
-      "name": "rowanmorseyt",
-      "shinies": 8302
     },
     {
       "rank": 125,
