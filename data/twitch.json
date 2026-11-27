@@ -1,21 +1,21 @@
 {
   "game": {
     "provider": "bar",
-    "available": false,
+    "available": true,
     "active": false,
-    "status": "unavailable",
-    "statusLabel": "BAR UNAVAILABLE",
-    "lobbyName": "BAR status unavailable",
+    "status": "not_in_lobby",
+    "statusLabel": "NOT IN LOBBY",
+    "lobbyName": "Not in a BAR lobby",
     "lobbyTitle": "",
     "mode": "",
-    "mapName": "Keeping the last known page data safe",
+    "mapName": "Waiting for a lobby",
     "mapFileName": "",
     "mapImage": "",
     "players": 0,
     "maxPlayers": 0,
     "spectators": 0,
     "gameTime": 0,
-    "updatedAt": "2026-11-27T12:11:58Z"
+    "updatedAt": "2026-11-27T12:12:13Z"
   },
   "live": false,
   "viewers": 0,
@@ -27,7 +27,7 @@
   "thumbnailUrl": "",
   "channel": "itsvdb",
   "twitchUrl": "https://www.twitch.tv/itsVDB",
-  "statusUpdatedAt": 1795781443,
+  "statusUpdatedAt": 1795781533,
   "clipsUpdatedAt": 1795617292,
   "clips": [
     {
