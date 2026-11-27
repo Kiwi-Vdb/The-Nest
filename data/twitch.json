@@ -1,21 +1,21 @@
 {
   "game": {
     "provider": "bar",
-    "available": true,
+    "available": false,
     "active": false,
-    "status": "not_in_lobby",
-    "statusLabel": "NOT IN LOBBY",
-    "lobbyName": "Not in a BAR lobby",
+    "status": "unavailable",
+    "statusLabel": "BAR UNAVAILABLE",
+    "lobbyName": "BAR status unavailable",
     "lobbyTitle": "",
     "mode": "",
-    "mapName": "Waiting for a lobby",
+    "mapName": "Keeping the last known page data safe",
     "mapFileName": "",
     "mapImage": "",
     "players": 0,
     "maxPlayers": 0,
     "spectators": 0,
     "gameTime": 0,
-    "updatedAt": "2026-08-16T09:24:20Z"
+    "updatedAt": "2026-11-27T12:11:58Z"
   },
   "live": false,
   "viewers": 0,
