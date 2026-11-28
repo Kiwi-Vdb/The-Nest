@@ -1,7 +1,7 @@
 {
-  "generatedAt": 1795824297,
+  "generatedAt": 1795824468,
   "totalViewers": 1288,
-  "totalShinies": 5255180,
+  "totalShinies": 5257180,
   "pageSize": 100,
   "entries": [
     {
@@ -156,18 +156,18 @@
     },
     {
       "rank": 31,
+      "name": "1shadowcreature",
+      "shinies": 30306
+    },
+    {
+      "rank": 32,
       "name": "ilotusuk",
       "shinies": 29454
     },
     {
-      "rank": 32,
+      "rank": 33,
       "name": "hells_hound_",
       "shinies": 29430
-    },
-    {
-      "rank": 33,
-      "name": "1shadowcreature",
-      "shinies": 29306
     },
     {
       "rank": 34,
@@ -451,68 +451,68 @@
     },
     {
       "rank": 90,
+      "name": "randy_uk",
+      "shinies": 11242
+    },
+    {
+      "rank": 91,
       "name": "literallylilacc",
       "shinies": 11020
     },
     {
-      "rank": 91,
+      "rank": 92,
       "name": "liarturil",
       "shinies": 10976
     },
     {
-      "rank": 92,
+      "rank": 93,
       "name": "oumuamua_i1",
       "shinies": 10940
     },
     {
-      "rank": 93,
+      "rank": 94,
       "name": "bartender_11",
       "shinies": 10828
     },
     {
-      "rank": 94,
+      "rank": 95,
       "name": "swallowbug11",
       "shinies": 10672
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "lelalolul",
       "shinies": 10654
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "dinduriot12",
       "shinies": 10620
     },
     {
-      "rank": 97,
+      "rank": 98,
       "name": "florio_bar",
       "shinies": 10604
     },
     {
-      "rank": 98,
+      "rank": 99,
       "name": "skvonchboyz",
       "shinies": 10338
     },
     {
-      "rank": 99,
+      "rank": 100,
       "name": "kazmazel",
       "shinies": 10336
     },
     {
-      "rank": 100,
+      "rank": 101,
       "name": "ruphin",
       "shinies": 10306
     },
     {
-      "rank": 101,
+      "rank": 102,
       "name": "aidannaut",
       "shinies": 10302
-    },
-    {
-      "rank": 102,
-      "name": "randy_uk",
-      "shinies": 10242
     },
     {
       "rank": 103,
